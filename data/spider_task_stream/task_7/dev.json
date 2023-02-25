@@ -1,0 +1,5016 @@
+[
+    {
+        "db_id": "store_product",
+        "query": "SELECT sum(city_population) FROM district WHERE city_area  >  (SELECT avg(city_area) FROM district)",
+        "query_toks": [
+            "SELECT",
+            "sum",
+            "(",
+            "city_population",
+            ")",
+            "FROM",
+            "district",
+            "WHERE",
+            "city_area",
+            ">",
+            "(",
+            "SELECT",
+            "avg",
+            "(",
+            "city_area",
+            ")",
+            "FROM",
+            "district",
+            ")"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "sum",
+            "(",
+            "city_population",
+            ")",
+            "from",
+            "district",
+            "where",
+            "city_area",
+            ">",
+            "(",
+            "select",
+            "avg",
+            "(",
+            "city_area",
+            ")",
+            "from",
+            "district",
+            ")"
+        ],
+        "question": "Find the total population of the districts where the area is bigger than the average city area.",
+        "question_toks": [
+            "Find",
+            "the",
+            "total",
+            "population",
+            "of",
+            "the",
+            "districts",
+            "where",
+            "the",
+            "area",
+            "is",
+            "bigger",
+            "than",
+            "the",
+            "average",
+            "city",
+            "area",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        4,
+                        [
+                            0,
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            18,
+                            false
+                        ],
+                        null
+                    ],
+                    {
+                        "from": {
+                            "table_units": [
+                                [
+                                    "table_unit",
+                                    2
+                                ]
+                            ],
+                            "conds": []
+                        },
+                        "select": [
+                            false,
+                            [
+                                [
+                                    5,
+                                    [
+                                        0,
+                                        [
+                                            0,
+                                            18,
+                                            false
+                                        ],
+                                        null
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "where": [],
+                        "groupBy": [],
+                        "having": [],
+                        "orderBy": [],
+                        "limit": null,
+                        "intersect": null,
+                        "union": null,
+                        "except": null
+                    },
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "car_1",
+        "query": "SELECT DISTINCT T1.Maker FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id  =  T2.Maker JOIN CAR_NAMES AS T3 ON T2.model  =  T3.model JOIN CARS_DATA AS T4 ON T3.MakeId  =  T4.id WHERE T4.year  =  '1970';",
+        "query_toks": [
+            "SELECT",
+            "DISTINCT",
+            "T1.Maker",
+            "FROM",
+            "CAR_MAKERS",
+            "AS",
+            "T1",
+            "JOIN",
+            "MODEL_LIST",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Id",
+            "=",
+            "T2.Maker",
+            "JOIN",
+            "CAR_NAMES",
+            "AS",
+            "T3",
+            "ON",
+            "T2.model",
+            "=",
+            "T3.model",
+            "JOIN",
+            "CARS_DATA",
+            "AS",
+            "T4",
+            "ON",
+            "T3.MakeId",
+            "=",
+            "T4.id",
+            "WHERE",
+            "T4.year",
+            "=",
+            "'1970",
+            "'",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "distinct",
+            "t1",
+            ".",
+            "maker",
+            "from",
+            "car_makers",
+            "as",
+            "t1",
+            "join",
+            "model_list",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "id",
+            "=",
+            "t2",
+            ".",
+            "maker",
+            "join",
+            "car_names",
+            "as",
+            "t3",
+            "on",
+            "t2",
+            ".",
+            "model",
+            "=",
+            "t3",
+            ".",
+            "model",
+            "join",
+            "cars_data",
+            "as",
+            "t4",
+            "on",
+            "t3",
+            ".",
+            "makeid",
+            "=",
+            "t4",
+            ".",
+            "id",
+            "where",
+            "t4",
+            ".",
+            "year",
+            "=",
+            "value"
+        ],
+        "question": "Find the name of the makers that produced some cars in the year of 1970?",
+        "question_toks": [
+            "Find",
+            "the",
+            "name",
+            "of",
+            "the",
+            "makers",
+            "that",
+            "produced",
+            "some",
+            "cars",
+            "in",
+            "the",
+            "year",
+            "of",
+            "1970",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ],
+                    [
+                        "table_unit",
+                        3
+                    ],
+                    [
+                        "table_unit",
+                        4
+                    ],
+                    [
+                        "table_unit",
+                        5
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                6,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            11,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            14,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                13,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            16,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                true,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                7,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            23,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"1970\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "car_1",
+        "query": "SELECT COUNT(*) FROM CARS_DATA WHERE Cylinders  >  6;",
+        "query_toks": [
+            "SELECT",
+            "COUNT",
+            "(",
+            "*",
+            ")",
+            "FROM",
+            "CARS_DATA",
+            "WHERE",
+            "Cylinders",
+            ">",
+            "6",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "*",
+            ")",
+            "from",
+            "cars_data",
+            "where",
+            "cylinders",
+            ">",
+            "value"
+        ],
+        "question": "How many cars has over 6 cylinders?",
+        "question_toks": [
+            "How",
+            "many",
+            "cars",
+            "has",
+            "over",
+            "6",
+            "cylinders",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        5
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                0,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            18,
+                            false
+                        ],
+                        null
+                    ],
+                    6.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "epinions_1",
+        "query": "SELECT min(rank) FROM review",
+        "query_toks": [
+            "SELECT",
+            "min",
+            "(",
+            "rank",
+            ")",
+            "FROM",
+            "review"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "min",
+            "(",
+            "rank",
+            ")",
+            "from",
+            "review"
+        ],
+        "question": "Find the highest rank of all reviews.",
+        "question_toks": [
+            "Find",
+            "the",
+            "highest",
+            "rank",
+            "of",
+            "all",
+            "reviews",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                7,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "product_catalog",
+        "query": "SELECT attribute_data_type FROM Attribute_Definitions WHERE attribute_name  =  \"Green\"",
+        "query_toks": [
+            "SELECT",
+            "attribute_data_type",
+            "FROM",
+            "Attribute_Definitions",
+            "WHERE",
+            "attribute_name",
+            "=",
+            "``",
+            "Green",
+            "''"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "attribute_data_type",
+            "from",
+            "attribute_definitions",
+            "where",
+            "attribute_name",
+            "=",
+            "value"
+        ],
+        "question": "Find the attribute data type for the attribute named \"Green\".",
+        "question_toks": [
+            "Find",
+            "the",
+            "attribute",
+            "data",
+            "type",
+            "for",
+            "the",
+            "attribute",
+            "named",
+            "``",
+            "Green",
+            "''",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                3,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            2,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Green\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "academic",
+        "query": "SELECT t2.name FROM writes AS t4 JOIN author AS t2 ON t4.aid  =  t2.aid JOIN publication AS t7 ON t4.pid  =  t7.pid JOIN writes AS t5 ON t5.pid  =  t7.pid JOIN writes AS t6 ON t6.pid  =  t7.pid JOIN author AS t1 ON t5.aid  =  t1.aid JOIN author AS t3 ON t6.aid  =  t3.aid WHERE t1.name  =  \"H. V. Jagadish\" AND t3.name  =  \"Divesh Srivastava\";",
+        "query_toks": [
+            "SELECT",
+            "t2.name",
+            "FROM",
+            "writes",
+            "AS",
+            "t4",
+            "JOIN",
+            "author",
+            "AS",
+            "t2",
+            "ON",
+            "t4.aid",
+            "=",
+            "t2.aid",
+            "JOIN",
+            "publication",
+            "AS",
+            "t7",
+            "ON",
+            "t4.pid",
+            "=",
+            "t7.pid",
+            "JOIN",
+            "writes",
+            "AS",
+            "t5",
+            "ON",
+            "t5.pid",
+            "=",
+            "t7.pid",
+            "JOIN",
+            "writes",
+            "AS",
+            "t6",
+            "ON",
+            "t6.pid",
+            "=",
+            "t7.pid",
+            "JOIN",
+            "author",
+            "AS",
+            "t1",
+            "ON",
+            "t5.aid",
+            "=",
+            "t1.aid",
+            "JOIN",
+            "author",
+            "AS",
+            "t3",
+            "ON",
+            "t6.aid",
+            "=",
+            "t3.aid",
+            "WHERE",
+            "t1.name",
+            "=",
+            "``",
+            "H.",
+            "V.",
+            "Jagadish",
+            "''",
+            "AND",
+            "t3.name",
+            "=",
+            "``",
+            "Divesh",
+            "Srivastava",
+            "''",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t2",
+            ".",
+            "name",
+            "from",
+            "writes",
+            "as",
+            "t4",
+            "join",
+            "author",
+            "as",
+            "t2",
+            "on",
+            "t4",
+            ".",
+            "aid",
+            "=",
+            "t2",
+            ".",
+            "aid",
+            "join",
+            "publication",
+            "as",
+            "t7",
+            "on",
+            "t4",
+            ".",
+            "pid",
+            "=",
+            "t7",
+            ".",
+            "pid",
+            "join",
+            "writes",
+            "as",
+            "t5",
+            "on",
+            "t5",
+            ".",
+            "pid",
+            "=",
+            "t7",
+            ".",
+            "pid",
+            "join",
+            "writes",
+            "as",
+            "t6",
+            "on",
+            "t6",
+            ".",
+            "pid",
+            "=",
+            "t7",
+            ".",
+            "pid",
+            "join",
+            "author",
+            "as",
+            "t1",
+            "on",
+            "t5",
+            ".",
+            "aid",
+            "=",
+            "t1",
+            ".",
+            "aid",
+            "join",
+            "author",
+            "as",
+            "t3",
+            "on",
+            "t6",
+            ".",
+            "aid",
+            "=",
+            "t3",
+            ".",
+            "aid",
+            "where",
+            "t1",
+            ".",
+            "name",
+            "=",
+            "value",
+            "and",
+            "t3",
+            ".",
+            "name",
+            "=",
+            "value"
+        ],
+        "question": "return me the authors who have cooperated both with \" H. V. Jagadish \" and \" Divesh Srivastava \" .",
+        "question_toks": [
+            "return",
+            "me",
+            "the",
+            "authors",
+            "who",
+            "have",
+            "cooperated",
+            "both",
+            "with",
+            "``",
+            "H.",
+            "V.",
+            "Jagadish",
+            "``",
+            "and",
+            "``",
+            "Divesh",
+            "Srivastava",
+            "``",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        13
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ],
+                    [
+                        "table_unit",
+                        9
+                    ],
+                    [
+                        "table_unit",
+                        13
+                    ],
+                    [
+                        "table_unit",
+                        13
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                39,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            1,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                40,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                40,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                40,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                39,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            1,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                39,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            1,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                3,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"H. V. Jagadish\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Divesh Srivastava\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "aircraft",
+        "query": "SELECT T1.Aircraft FROM aircraft AS T1 JOIN airport_aircraft AS T2 ON T1.Aircraft_ID  =  T2.Aircraft_ID JOIN airport AS T3 ON T2.Airport_ID  =  T3.Airport_ID WHERE T3.Airport_Name  =  \"London Heathrow\" INTERSECT SELECT T1.Aircraft FROM aircraft AS T1 JOIN airport_aircraft AS T2 ON T1.Aircraft_ID  =  T2.Aircraft_ID JOIN airport AS T3 ON T2.Airport_ID  =  T3.Airport_ID WHERE T3.Airport_Name  =  \"London Gatwick\"",
+        "query_toks": [
+            "SELECT",
+            "T1.Aircraft",
+            "FROM",
+            "aircraft",
+            "AS",
+            "T1",
+            "JOIN",
+            "airport_aircraft",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Aircraft_ID",
+            "=",
+            "T2.Aircraft_ID",
+            "JOIN",
+            "airport",
+            "AS",
+            "T3",
+            "ON",
+            "T2.Airport_ID",
+            "=",
+            "T3.Airport_ID",
+            "WHERE",
+            "T3.Airport_Name",
+            "=",
+            "``",
+            "London",
+            "Heathrow",
+            "''",
+            "INTERSECT",
+            "SELECT",
+            "T1.Aircraft",
+            "FROM",
+            "aircraft",
+            "AS",
+            "T1",
+            "JOIN",
+            "airport_aircraft",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Aircraft_ID",
+            "=",
+            "T2.Aircraft_ID",
+            "JOIN",
+            "airport",
+            "AS",
+            "T3",
+            "ON",
+            "T2.Airport_ID",
+            "=",
+            "T3.Airport_ID",
+            "WHERE",
+            "T3.Airport_Name",
+            "=",
+            "``",
+            "London",
+            "Gatwick",
+            "''"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "aircraft",
+            "from",
+            "aircraft",
+            "as",
+            "t1",
+            "join",
+            "airport_aircraft",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "aircraft_id",
+            "=",
+            "t2",
+            ".",
+            "aircraft_id",
+            "join",
+            "airport",
+            "as",
+            "t3",
+            "on",
+            "t2",
+            ".",
+            "airport_id",
+            "=",
+            "t3",
+            ".",
+            "airport_id",
+            "where",
+            "t3",
+            ".",
+            "airport_name",
+            "=",
+            "value",
+            "intersect",
+            "select",
+            "t1",
+            ".",
+            "aircraft",
+            "from",
+            "aircraft",
+            "as",
+            "t1",
+            "join",
+            "airport_aircraft",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "aircraft_id",
+            "=",
+            "t2",
+            ".",
+            "aircraft_id",
+            "join",
+            "airport",
+            "as",
+            "t3",
+            "on",
+            "t2",
+            ".",
+            "airport_id",
+            "=",
+            "t3",
+            ".",
+            "airport_id",
+            "where",
+            "t3",
+            ".",
+            "airport_name",
+            "=",
+            "value"
+        ],
+        "question": "What are the names of all aircrafts that are associated with both London Heathrow and Gatwick airports?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "names",
+            "of",
+            "all",
+            "aircrafts",
+            "that",
+            "are",
+            "associated",
+            "with",
+            "both",
+            "London",
+            "Heathrow",
+            "and",
+            "Gatwick",
+            "airports",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ],
+                    [
+                        "table_unit",
+                        4
+                    ],
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                4,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            28,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                27,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            17,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                5,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            18,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"London Heathrow\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": {
+                "from": {
+                    "table_units": [
+                        [
+                            "table_unit",
+                            1
+                        ],
+                        [
+                            "table_unit",
+                            4
+                        ],
+                        [
+                            "table_unit",
+                            3
+                        ]
+                    ],
+                    "conds": [
+                        [
+                            false,
+                            2,
+                            [
+                                0,
+                                [
+                                    0,
+                                    4,
+                                    false
+                                ],
+                                null
+                            ],
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ],
+                        "and",
+                        [
+                            false,
+                            2,
+                            [
+                                0,
+                                [
+                                    0,
+                                    27,
+                                    false
+                                ],
+                                null
+                            ],
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                },
+                "select": [
+                    false,
+                    [
+                        [
+                            0,
+                            [
+                                0,
+                                [
+                                    0,
+                                    5,
+                                    false
+                                ],
+                                null
+                            ]
+                        ]
+                    ]
+                ],
+                "where": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                18,
+                                false
+                            ],
+                            null
+                        ],
+                        "\"London Gatwick\"",
+                        null
+                    ]
+                ],
+                "groupBy": [],
+                "having": [],
+                "orderBy": [],
+                "limit": null,
+                "intersect": null,
+                "union": null,
+                "except": null
+            },
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "product_catalog",
+        "query": "SELECT t1.catalog_entry_name FROM Catalog_Contents AS t1 JOIN Catalog_Contents_Additional_Attributes AS t2 ON t1.catalog_entry_id  =  t2.catalog_entry_id WHERE t2.attribute_value  =  (SELECT attribute_value FROM Catalog_Contents_Additional_Attributes GROUP BY attribute_value ORDER BY count(*) DESC LIMIT 1)",
+        "query_toks": [
+            "SELECT",
+            "t1.catalog_entry_name",
+            "FROM",
+            "Catalog_Contents",
+            "AS",
+            "t1",
+            "JOIN",
+            "Catalog_Contents_Additional_Attributes",
+            "AS",
+            "t2",
+            "ON",
+            "t1.catalog_entry_id",
+            "=",
+            "t2.catalog_entry_id",
+            "WHERE",
+            "t2.attribute_value",
+            "=",
+            "(",
+            "SELECT",
+            "attribute_value",
+            "FROM",
+            "Catalog_Contents_Additional_Attributes",
+            "GROUP",
+            "BY",
+            "attribute_value",
+            "ORDER",
+            "BY",
+            "count",
+            "(",
+            "*",
+            ")",
+            "DESC",
+            "LIMIT",
+            "1",
+            ")"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "catalog_entry_name",
+            "from",
+            "catalog_contents",
+            "as",
+            "t1",
+            "join",
+            "catalog_contents_additional_attributes",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "catalog_entry_id",
+            "=",
+            "t2",
+            ".",
+            "catalog_entry_id",
+            "where",
+            "t2",
+            ".",
+            "attribute_value",
+            "=",
+            "(",
+            "select",
+            "attribute_value",
+            "from",
+            "catalog_contents_additional_attributes",
+            "group",
+            "by",
+            "attribute_value",
+            "order",
+            "by",
+            "count",
+            "(",
+            "*",
+            ")",
+            "desc",
+            "limit",
+            "value",
+            ")"
+        ],
+        "question": "Find the entry names of the catalog with the attribute that have the most entries.",
+        "question_toks": [
+            "Find",
+            "the",
+            "entry",
+            "names",
+            "of",
+            "the",
+            "catalog",
+            "with",
+            "the",
+            "attribute",
+            "that",
+            "have",
+            "the",
+            "most",
+            "entries",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ],
+                    [
+                        "table_unit",
+                        4
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            26,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            29,
+                            false
+                        ],
+                        null
+                    ],
+                    {
+                        "from": {
+                            "table_units": [
+                                [
+                                    "table_unit",
+                                    4
+                                ]
+                            ],
+                            "conds": []
+                        },
+                        "select": [
+                            false,
+                            [
+                                [
+                                    0,
+                                    [
+                                        0,
+                                        [
+                                            0,
+                                            29,
+                                            false
+                                        ],
+                                        null
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "where": [],
+                        "groupBy": [
+                            [
+                                0,
+                                29,
+                                false
+                            ]
+                        ],
+                        "having": [],
+                        "orderBy": [
+                            "desc",
+                            [
+                                [
+                                    0,
+                                    [
+                                        3,
+                                        0,
+                                        false
+                                    ],
+                                    null
+                                ]
+                            ]
+                        ],
+                        "limit": 1,
+                        "intersect": null,
+                        "union": null,
+                        "except": null
+                    },
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "academic",
+        "query": "SELECT t2.name FROM domain_conference AS t3 JOIN conference AS t1 ON t3.cid  =  t1.cid JOIN DOMAIN AS t2 ON t2.did  =  t3.did WHERE t1.name  =  \"VLDB\";",
+        "query_toks": [
+            "SELECT",
+            "t2.name",
+            "FROM",
+            "domain_conference",
+            "AS",
+            "t3",
+            "JOIN",
+            "conference",
+            "AS",
+            "t1",
+            "ON",
+            "t3.cid",
+            "=",
+            "t1.cid",
+            "JOIN",
+            "DOMAIN",
+            "AS",
+            "t2",
+            "ON",
+            "t2.did",
+            "=",
+            "t3.did",
+            "WHERE",
+            "t1.name",
+            "=",
+            "``",
+            "VLDB",
+            "''",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t2",
+            ".",
+            "name",
+            "from",
+            "domain_conference",
+            "as",
+            "t3",
+            "join",
+            "conference",
+            "as",
+            "t1",
+            "on",
+            "t3",
+            ".",
+            "cid",
+            "=",
+            "t1",
+            ".",
+            "cid",
+            "join",
+            "domain",
+            "as",
+            "t2",
+            "on",
+            "t2",
+            ".",
+            "did",
+            "=",
+            "t3",
+            ".",
+            "did",
+            "where",
+            "t1",
+            ".",
+            "name",
+            "=",
+            "value"
+        ],
+        "question": "return me the area of the VLDB conference .",
+        "question_toks": [
+            "return",
+            "me",
+            "the",
+            "area",
+            "of",
+            "the",
+            "VLDB",
+            "conference",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        4
+                    ],
+                    [
+                        "table_unit",
+                        1
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            5,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                8,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            13,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                9,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            7,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"VLDB\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "swimming",
+        "query": "SELECT * FROM swimmer",
+        "query_toks": [
+            "SELECT",
+            "*",
+            "FROM",
+            "swimmer"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "*",
+            "from",
+            "swimmer"
+        ],
+        "question": "Find all details for each swimmer.",
+        "question_toks": [
+            "Find",
+            "all",
+            "details",
+            "for",
+            "each",
+            "swimmer",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                0,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "aircraft",
+        "query": "SELECT T1.Aircraft ,  COUNT(*) FROM aircraft AS T1 JOIN MATCH AS T2 ON T1.Aircraft_ID  =  T2.Winning_Aircraft GROUP BY T2.Winning_Aircraft",
+        "query_toks": [
+            "SELECT",
+            "T1.Aircraft",
+            ",",
+            "COUNT",
+            "(",
+            "*",
+            ")",
+            "FROM",
+            "aircraft",
+            "AS",
+            "T1",
+            "JOIN",
+            "MATCH",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Aircraft_ID",
+            "=",
+            "T2.Winning_Aircraft",
+            "GROUP",
+            "BY",
+            "T2.Winning_Aircraft"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "aircraft",
+            ",",
+            "count",
+            "(",
+            "*",
+            ")",
+            "from",
+            "aircraft",
+            "as",
+            "t1",
+            "join",
+            "match",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "aircraft_id",
+            "=",
+            "t2",
+            ".",
+            "winning_aircraft",
+            "group",
+            "by",
+            "t2",
+            ".",
+            "winning_aircraft"
+        ],
+        "question": "For each aircraft that has won an award, what is its name and how many time has it won?",
+        "question_toks": [
+            "For",
+            "each",
+            "aircraft",
+            "that",
+            "has",
+            "won",
+            "an",
+            "award",
+            ",",
+            "what",
+            "is",
+            "its",
+            "name",
+            "and",
+            "how",
+            "many",
+            "time",
+            "has",
+            "it",
+            "won",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                4,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            16,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                5,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                0,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [
+                [
+                    0,
+                    16,
+                    false
+                ]
+            ],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "store_product",
+        "query": "SELECT product FROM product WHERE max_page_size  =  \"A4\" OR pages_per_minute_color  <  5",
+        "query_toks": [
+            "SELECT",
+            "product",
+            "FROM",
+            "product",
+            "WHERE",
+            "max_page_size",
+            "=",
+            "``",
+            "A4",
+            "''",
+            "OR",
+            "pages_per_minute_color",
+            "<",
+            "5"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "product",
+            "from",
+            "product",
+            "where",
+            "max_page_size",
+            "=",
+            "value",
+            "or",
+            "pages_per_minute_color",
+            "<",
+            "value"
+        ],
+        "question": "Find products with max page size as \"A4\" or pages per minute color smaller than 5.",
+        "question_toks": [
+            "Find",
+            "products",
+            "with",
+            "max",
+            "page",
+            "size",
+            "as",
+            "``",
+            "A4",
+            "''",
+            "or",
+            "pages",
+            "per",
+            "minute",
+            "color",
+            "smaller",
+            "than",
+            "5",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            6,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"A4\"",
+                    null
+                ],
+                "or",
+                [
+                    false,
+                    4,
+                    [
+                        0,
+                        [
+                            0,
+                            5,
+                            false
+                        ],
+                        null
+                    ],
+                    5.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "store_product",
+        "query": "SELECT district_name FROM district WHERE city_area  >  10 OR City_Population  >  100000",
+        "query_toks": [
+            "SELECT",
+            "district_name",
+            "FROM",
+            "district",
+            "WHERE",
+            "city_area",
+            ">",
+            "10",
+            "OR",
+            "City_Population",
+            ">",
+            "100000"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "district_name",
+            "from",
+            "district",
+            "where",
+            "city_area",
+            ">",
+            "value",
+            "or",
+            "city_population",
+            ">",
+            "value"
+        ],
+        "question": "What are the names of all districts with a city area greater than 10 or have more than 100000 people living there?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "names",
+            "of",
+            "all",
+            "districts",
+            "with",
+            "a",
+            "city",
+            "area",
+            "greater",
+            "than",
+            "10",
+            "or",
+            "have",
+            "more",
+            "than",
+            "100000",
+            "people",
+            "living",
+            "there",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                15,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            18,
+                            false
+                        ],
+                        null
+                    ],
+                    10.0,
+                    null
+                ],
+                "or",
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            17,
+                            false
+                        ],
+                        null
+                    ],
+                    100000.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "store_product",
+        "query": "SELECT t3.headquartered_city FROM store AS t1 JOIN store_district AS t2 ON t1.store_id  =  t2.store_id JOIN district AS t3 ON t2.district_id  =  t3.district_id GROUP BY t3.headquartered_city ORDER BY count(*) DESC LIMIT 1",
+        "query_toks": [
+            "SELECT",
+            "t3.headquartered_city",
+            "FROM",
+            "store",
+            "AS",
+            "t1",
+            "JOIN",
+            "store_district",
+            "AS",
+            "t2",
+            "ON",
+            "t1.store_id",
+            "=",
+            "t2.store_id",
+            "JOIN",
+            "district",
+            "AS",
+            "t3",
+            "ON",
+            "t2.district_id",
+            "=",
+            "t3.district_id",
+            "GROUP",
+            "BY",
+            "t3.headquartered_city",
+            "ORDER",
+            "BY",
+            "count",
+            "(",
+            "*",
+            ")",
+            "DESC",
+            "LIMIT",
+            "1"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t3",
+            ".",
+            "headquartered_city",
+            "from",
+            "store",
+            "as",
+            "t1",
+            "join",
+            "store_district",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "store_id",
+            "=",
+            "t2",
+            ".",
+            "store_id",
+            "join",
+            "district",
+            "as",
+            "t3",
+            "on",
+            "t2",
+            ".",
+            "district_id",
+            "=",
+            "t3",
+            ".",
+            "district_id",
+            "group",
+            "by",
+            "t3",
+            ".",
+            "headquartered_city",
+            "order",
+            "by",
+            "count",
+            "(",
+            "*",
+            ")",
+            "desc",
+            "limit",
+            "value"
+        ],
+        "question": "Find the city with the most number of stores.",
+        "question_toks": [
+            "Find",
+            "the",
+            "city",
+            "with",
+            "the",
+            "most",
+            "number",
+            "of",
+            "stores",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ],
+                    [
+                        "table_unit",
+                        4
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                8,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            21,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                22,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            14,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                16,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [
+                [
+                    0,
+                    16,
+                    false
+                ]
+            ],
+            "having": [],
+            "orderBy": [
+                "desc",
+                [
+                    [
+                        0,
+                        [
+                            3,
+                            0,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": 1,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "product_catalog",
+        "query": "SELECT t1.attribute_name ,  t1.attribute_id FROM Attribute_Definitions AS t1 JOIN Catalog_Contents_Additional_Attributes AS t2 ON t1.attribute_id  =  t2.attribute_id WHERE t2.attribute_value  =  0",
+        "query_toks": [
+            "SELECT",
+            "t1.attribute_name",
+            ",",
+            "t1.attribute_id",
+            "FROM",
+            "Attribute_Definitions",
+            "AS",
+            "t1",
+            "JOIN",
+            "Catalog_Contents_Additional_Attributes",
+            "AS",
+            "t2",
+            "ON",
+            "t1.attribute_id",
+            "=",
+            "t2.attribute_id",
+            "WHERE",
+            "t2.attribute_value",
+            "=",
+            "0"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "attribute_name",
+            ",",
+            "t1",
+            ".",
+            "attribute_id",
+            "from",
+            "attribute_definitions",
+            "as",
+            "t1",
+            "join",
+            "catalog_contents_additional_attributes",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "attribute_id",
+            "=",
+            "t2",
+            ".",
+            "attribute_id",
+            "where",
+            "t2",
+            ".",
+            "attribute_value",
+            "=",
+            "value"
+        ],
+        "question": "Find the name and attribute ID of the attribute definitions with attribute value 0.",
+        "question_toks": [
+            "Find",
+            "the",
+            "name",
+            "and",
+            "attribute",
+            "ID",
+            "of",
+            "the",
+            "attribute",
+            "definitions",
+            "with",
+            "attribute",
+            "value",
+            "0",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ],
+                    [
+                        "table_unit",
+                        4
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                1,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            28,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                1,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            29,
+                            false
+                        ],
+                        null
+                    ],
+                    0.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "academic",
+        "query": "SELECT t6.title FROM publication AS t6 JOIN journal AS t4 ON t6.jid  =  t4.jid JOIN writes AS t3 ON t3.pid  =  t6.pid JOIN writes AS t5 ON t5.pid  =  t6.pid JOIN author AS t1 ON t5.aid  =  t1.aid JOIN author AS t2 ON t3.aid  =  t2.aid WHERE t2.name  =  \"H. V. Jagadish\" AND t1.name  =  \"Yunyao Li\" AND t4.name  =  \"PVLDB\" AND t6.year  >  2005;",
+        "query_toks": [
+            "SELECT",
+            "t6.title",
+            "FROM",
+            "publication",
+            "AS",
+            "t6",
+            "JOIN",
+            "journal",
+            "AS",
+            "t4",
+            "ON",
+            "t6.jid",
+            "=",
+            "t4.jid",
+            "JOIN",
+            "writes",
+            "AS",
+            "t3",
+            "ON",
+            "t3.pid",
+            "=",
+            "t6.pid",
+            "JOIN",
+            "writes",
+            "AS",
+            "t5",
+            "ON",
+            "t5.pid",
+            "=",
+            "t6.pid",
+            "JOIN",
+            "author",
+            "AS",
+            "t1",
+            "ON",
+            "t5.aid",
+            "=",
+            "t1.aid",
+            "JOIN",
+            "author",
+            "AS",
+            "t2",
+            "ON",
+            "t3.aid",
+            "=",
+            "t2.aid",
+            "WHERE",
+            "t2.name",
+            "=",
+            "``",
+            "H.",
+            "V.",
+            "Jagadish",
+            "''",
+            "AND",
+            "t1.name",
+            "=",
+            "``",
+            "Yunyao",
+            "Li",
+            "''",
+            "AND",
+            "t4.name",
+            "=",
+            "``",
+            "PVLDB",
+            "''",
+            "AND",
+            "t6.year",
+            ">",
+            "2005",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t6",
+            ".",
+            "title",
+            "from",
+            "publication",
+            "as",
+            "t6",
+            "join",
+            "journal",
+            "as",
+            "t4",
+            "on",
+            "t6",
+            ".",
+            "jid",
+            "=",
+            "t4",
+            ".",
+            "jid",
+            "join",
+            "writes",
+            "as",
+            "t3",
+            "on",
+            "t3",
+            ".",
+            "pid",
+            "=",
+            "t6",
+            ".",
+            "pid",
+            "join",
+            "writes",
+            "as",
+            "t5",
+            "on",
+            "t5",
+            ".",
+            "pid",
+            "=",
+            "t6",
+            ".",
+            "pid",
+            "join",
+            "author",
+            "as",
+            "t1",
+            "on",
+            "t5",
+            ".",
+            "aid",
+            "=",
+            "t1",
+            ".",
+            "aid",
+            "join",
+            "author",
+            "as",
+            "t2",
+            "on",
+            "t3",
+            ".",
+            "aid",
+            "=",
+            "t2",
+            ".",
+            "aid",
+            "where",
+            "t2",
+            ".",
+            "name",
+            "=",
+            "value",
+            "and",
+            "t1",
+            ".",
+            "name",
+            "=",
+            "value",
+            "and",
+            "t4",
+            ".",
+            "name",
+            "=",
+            "value",
+            "and",
+            "t6",
+            ".",
+            "year",
+            ">",
+            "value"
+        ],
+        "question": "return me the papers written by \" H. V. Jagadish \" and \" Yunyao Li \" on PVLDB after 2005 .",
+        "question_toks": [
+            "return",
+            "me",
+            "the",
+            "papers",
+            "written",
+            "by",
+            "``",
+            "H.",
+            "V.",
+            "Jagadish",
+            "``",
+            "and",
+            "``",
+            "Yunyao",
+            "Li",
+            "``",
+            "on",
+            "PVLDB",
+            "after",
+            "2005",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        9
+                    ],
+                    [
+                        "table_unit",
+                        5
+                    ],
+                    [
+                        "table_unit",
+                        13
+                    ],
+                    [
+                        "table_unit",
+                        13
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                26,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            15,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                40,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                40,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                39,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            1,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                39,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            1,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                29,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"H. V. Jagadish\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Yunyao Li\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            16,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"PVLDB\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            30,
+                            false
+                        ],
+                        null
+                    ],
+                    2005.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "academic",
+        "query": "SELECT COUNT ( DISTINCT t2.title ) FROM publication AS t3 JOIN cite AS t1 ON t3.pid  =  t1.cited JOIN publication AS t2 ON t2.pid  =  t1.citing WHERE t3.title  =  \"Making database systems usable\" AND t2.year  <  2010;",
+        "query_toks": [
+            "SELECT",
+            "COUNT",
+            "(",
+            "DISTINCT",
+            "t2.title",
+            ")",
+            "FROM",
+            "publication",
+            "AS",
+            "t3",
+            "JOIN",
+            "cite",
+            "AS",
+            "t1",
+            "ON",
+            "t3.pid",
+            "=",
+            "t1.cited",
+            "JOIN",
+            "publication",
+            "AS",
+            "t2",
+            "ON",
+            "t2.pid",
+            "=",
+            "t1.citing",
+            "WHERE",
+            "t3.title",
+            "=",
+            "``",
+            "Making",
+            "database",
+            "systems",
+            "usable",
+            "''",
+            "AND",
+            "t2.year",
+            "<",
+            "2010",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "distinct",
+            "t2",
+            ".",
+            "title",
+            ")",
+            "from",
+            "publication",
+            "as",
+            "t3",
+            "join",
+            "cite",
+            "as",
+            "t1",
+            "on",
+            "t3",
+            ".",
+            "pid",
+            "=",
+            "t1",
+            ".",
+            "cited",
+            "join",
+            "publication",
+            "as",
+            "t2",
+            "on",
+            "t2",
+            ".",
+            "pid",
+            "=",
+            "t1",
+            ".",
+            "citing",
+            "where",
+            "t3",
+            ".",
+            "title",
+            "=",
+            "value",
+            "and",
+            "t2",
+            ".",
+            "year",
+            "<",
+            "value"
+        ],
+        "question": "return me the number of citations of \" Making database systems usable \" before 2010 .",
+        "question_toks": [
+            "return",
+            "me",
+            "the",
+            "number",
+            "of",
+            "citations",
+            "of",
+            "``",
+            "Making",
+            "database",
+            "systems",
+            "usable",
+            "``",
+            "before",
+            "2010",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        9
+                    ],
+                    [
+                        "table_unit",
+                        14
+                    ],
+                    [
+                        "table_unit",
+                        9
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                27,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            41,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                27,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            42,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                29,
+                                true
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            29,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Making database systems usable\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    4,
+                    [
+                        0,
+                        [
+                            0,
+                            30,
+                            false
+                        ],
+                        null
+                    ],
+                    2010.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "product_catalog",
+        "query": "SELECT avg(price_in_euros) ,  min(price_in_euros) FROM catalog_contents",
+        "query_toks": [
+            "SELECT",
+            "avg",
+            "(",
+            "price_in_euros",
+            ")",
+            ",",
+            "min",
+            "(",
+            "price_in_euros",
+            ")",
+            "FROM",
+            "catalog_contents"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "avg",
+            "(",
+            "price_in_euros",
+            ")",
+            ",",
+            "min",
+            "(",
+            "price_in_euros",
+            ")",
+            "from",
+            "catalog_contents"
+        ],
+        "question": "Give me the average and minimum price (in Euro) of the products.",
+        "question_toks": [
+            "Give",
+            "me",
+            "the",
+            "average",
+            "and",
+            "minimum",
+            "price",
+            "(",
+            "in",
+            "Euro",
+            ")",
+            "of",
+            "the",
+            "products",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        5,
+                        [
+                            0,
+                            [
+                                0,
+                                20,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                20,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "protein_institute",
+        "query": "SELECT count(*) FROM institution AS T1 JOIN protein AS T2 ON T1.institution_id  =  T2.institution_id JOIN building AS T3 ON T3.building_id  =  T1.building_id WHERE T3.floors  >=  20",
+        "query_toks": [
+            "SELECT",
+            "count",
+            "(",
+            "*",
+            ")",
+            "FROM",
+            "institution",
+            "AS",
+            "T1",
+            "JOIN",
+            "protein",
+            "AS",
+            "T2",
+            "ON",
+            "T1.institution_id",
+            "=",
+            "T2.institution_id",
+            "JOIN",
+            "building",
+            "AS",
+            "T3",
+            "ON",
+            "T3.building_id",
+            "=",
+            "T1.building_id",
+            "WHERE",
+            "T3.floors",
+            ">",
+            "=",
+            "20"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "*",
+            ")",
+            "from",
+            "institution",
+            "as",
+            "t1",
+            "join",
+            "protein",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "institution_id",
+            "=",
+            "t2",
+            ".",
+            "institution_id",
+            "join",
+            "building",
+            "as",
+            "t3",
+            "on",
+            "t3",
+            ".",
+            "building_id",
+            "=",
+            "t1",
+            ".",
+            "building_id",
+            "where",
+            "t3",
+            ".",
+            "floors",
+            ">",
+            "=",
+            "value"
+        ],
+        "question": "How many proteins are associated with an institution in a building with at least 20 floors?",
+        "question_toks": [
+            "How",
+            "many",
+            "proteins",
+            "are",
+            "associated",
+            "with",
+            "an",
+            "institution",
+            "in",
+            "a",
+            "building",
+            "with",
+            "at",
+            "least",
+            "20",
+            "floors",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                7,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            22,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                1,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            15,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                0,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    5,
+                    [
+                        0,
+                        [
+                            0,
+                            6,
+                            false
+                        ],
+                        null
+                    ],
+                    20.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "car_1",
+        "query": "SELECT T2.CountryName FROM CAR_MAKERS AS T1 JOIN COUNTRIES AS T2 ON T1.Country  =  T2.CountryId GROUP BY T1.Country ORDER BY Count(*) DESC LIMIT 1;",
+        "query_toks": [
+            "SELECT",
+            "T2.CountryName",
+            "FROM",
+            "CAR_MAKERS",
+            "AS",
+            "T1",
+            "JOIN",
+            "COUNTRIES",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Country",
+            "=",
+            "T2.CountryId",
+            "GROUP",
+            "BY",
+            "T1.Country",
+            "ORDER",
+            "BY",
+            "Count",
+            "(",
+            "*",
+            ")",
+            "DESC",
+            "LIMIT",
+            "1",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t2",
+            ".",
+            "countryname",
+            "from",
+            "car_makers",
+            "as",
+            "t1",
+            "join",
+            "countries",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "country",
+            "=",
+            "t2",
+            ".",
+            "countryid",
+            "group",
+            "by",
+            "t1",
+            ".",
+            "country",
+            "order",
+            "by",
+            "count",
+            "(",
+            "*",
+            ")",
+            "desc",
+            "limit",
+            "value"
+        ],
+        "question": "Which of the countries has the most car makers? List the country name.",
+        "question_toks": [
+            "Which",
+            "of",
+            "the",
+            "countries",
+            "has",
+            "the",
+            "most",
+            "car",
+            "makers",
+            "?",
+            "List",
+            "the",
+            "country",
+            "name",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ],
+                    [
+                        "table_unit",
+                        1
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                9,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                4,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [
+                [
+                    0,
+                    9,
+                    false
+                ]
+            ],
+            "having": [],
+            "orderBy": [
+                "desc",
+                [
+                    [
+                        0,
+                        [
+                            3,
+                            0,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": 1,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "protein_institute",
+        "query": "SELECT T2.protein_name ,  T1.institution FROM institution AS T1 JOIN protein AS T2 ON T1.institution_id  =  T2.institution_id",
+        "query_toks": [
+            "SELECT",
+            "T2.protein_name",
+            ",",
+            "T1.institution",
+            "FROM",
+            "institution",
+            "AS",
+            "T1",
+            "JOIN",
+            "protein",
+            "AS",
+            "T2",
+            "ON",
+            "T1.institution_id",
+            "=",
+            "T2.institution_id"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t2",
+            ".",
+            "protein_name",
+            ",",
+            "t1",
+            ".",
+            "institution",
+            "from",
+            "institution",
+            "as",
+            "t1",
+            "join",
+            "protein",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "institution_id",
+            "=",
+            "t2",
+            ".",
+            "institution_id"
+        ],
+        "question": "Show the protein name and the institution name.",
+        "question_toks": [
+            "Show",
+            "the",
+            "protein",
+            "name",
+            "and",
+            "the",
+            "institution",
+            "name",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                7,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            22,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                8,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "epinions_1",
+        "query": "SELECT T1.name ,  avg(trust) FROM useracct AS T1 JOIN trust AS T2 ON T1.u_id  =  T2.target_u_id GROUP BY T2.target_u_id",
+        "query_toks": [
+            "SELECT",
+            "T1.name",
+            ",",
+            "avg",
+            "(",
+            "trust",
+            ")",
+            "FROM",
+            "useracct",
+            "AS",
+            "T1",
+            "JOIN",
+            "trust",
+            "AS",
+            "T2",
+            "ON",
+            "T1.u_id",
+            "=",
+            "T2.target_u_id",
+            "GROUP",
+            "BY",
+            "T2.target_u_id"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "name",
+            ",",
+            "avg",
+            "(",
+            "trust",
+            ")",
+            "from",
+            "useracct",
+            "as",
+            "t1",
+            "join",
+            "trust",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "u_id",
+            "=",
+            "t2",
+            ".",
+            "target_u_id",
+            "group",
+            "by",
+            "t2",
+            ".",
+            "target_u_id"
+        ],
+        "question": "Find each target user's name and average trust score.",
+        "question_toks": [
+            "Find",
+            "each",
+            "target",
+            "user",
+            "'s",
+            "name",
+            "and",
+            "average",
+            "trust",
+            "score",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ],
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                8,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            11,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                9,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        5,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [
+                [
+                    0,
+                    11,
+                    false
+                ]
+            ],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "academic",
+        "query": "SELECT COUNT ( DISTINCT t1.name ) FROM writes AS t2 JOIN author AS t1 ON t2.aid  =  t1.aid JOIN publication AS t3 ON t2.pid  =  t3.pid WHERE t3.title  =  \"Making database systems usable\";",
+        "query_toks": [
+            "SELECT",
+            "COUNT",
+            "(",
+            "DISTINCT",
+            "t1.name",
+            ")",
+            "FROM",
+            "writes",
+            "AS",
+            "t2",
+            "JOIN",
+            "author",
+            "AS",
+            "t1",
+            "ON",
+            "t2.aid",
+            "=",
+            "t1.aid",
+            "JOIN",
+            "publication",
+            "AS",
+            "t3",
+            "ON",
+            "t2.pid",
+            "=",
+            "t3.pid",
+            "WHERE",
+            "t3.title",
+            "=",
+            "``",
+            "Making",
+            "database",
+            "systems",
+            "usable",
+            "''",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "distinct",
+            "t1",
+            ".",
+            "name",
+            ")",
+            "from",
+            "writes",
+            "as",
+            "t2",
+            "join",
+            "author",
+            "as",
+            "t1",
+            "on",
+            "t2",
+            ".",
+            "aid",
+            "=",
+            "t1",
+            ".",
+            "aid",
+            "join",
+            "publication",
+            "as",
+            "t3",
+            "on",
+            "t2",
+            ".",
+            "pid",
+            "=",
+            "t3",
+            ".",
+            "pid",
+            "where",
+            "t3",
+            ".",
+            "title",
+            "=",
+            "value"
+        ],
+        "question": "return me the number of authors of \" Making database systems usable \" .",
+        "question_toks": [
+            "return",
+            "me",
+            "the",
+            "number",
+            "of",
+            "authors",
+            "of",
+            "``",
+            "Making",
+            "database",
+            "systems",
+            "usable",
+            "``",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        13
+                    ],
+                    [
+                        "table_unit",
+                        0
+                    ],
+                    [
+                        "table_unit",
+                        9
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                39,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            1,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                40,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                3,
+                                true
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            29,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Making database systems usable\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "epinions_1",
+        "query": "SELECT count(*) FROM review",
+        "query_toks": [
+            "SELECT",
+            "count",
+            "(",
+            "*",
+            ")",
+            "FROM",
+            "review"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "*",
+            ")",
+            "from",
+            "review"
+        ],
+        "question": "Find the number of reviews.",
+        "question_toks": [
+            "Find",
+            "the",
+            "number",
+            "of",
+            "reviews",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                0,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "store_product",
+        "query": "SELECT avg(pages_per_minute_color) FROM product",
+        "query_toks": [
+            "SELECT",
+            "avg",
+            "(",
+            "pages_per_minute_color",
+            ")",
+            "FROM",
+            "product"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "avg",
+            "(",
+            "pages_per_minute_color",
+            ")",
+            "from",
+            "product"
+        ],
+        "question": "What is the average number of pages per minute color?",
+        "question_toks": [
+            "What",
+            "is",
+            "the",
+            "average",
+            "number",
+            "of",
+            "pages",
+            "per",
+            "minute",
+            "color",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        5,
+                        [
+                            0,
+                            [
+                                0,
+                                5,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "formula_1",
+        "query": "SELECT T1.surname ,  T1.driverid FROM drivers AS T1 JOIN pitstops AS T2 ON T1.driverid  =  T2.driverid GROUP BY T1.driverid HAVING count(*)  =  11 INTERSECT SELECT T1.surname ,  T1.driverid FROM drivers AS T1 JOIN results AS T2 ON T1.driverid  =  T2.driverid GROUP BY T1.driverid HAVING count(*)  >  5",
+        "query_toks": [
+            "SELECT",
+            "T1.surname",
+            ",",
+            "T1.driverid",
+            "FROM",
+            "drivers",
+            "AS",
+            "T1",
+            "JOIN",
+            "pitstops",
+            "AS",
+            "T2",
+            "ON",
+            "T1.driverid",
+            "=",
+            "T2.driverid",
+            "GROUP",
+            "BY",
+            "T1.driverid",
+            "HAVING",
+            "count",
+            "(",
+            "*",
+            ")",
+            "=",
+            "11",
+            "INTERSECT",
+            "SELECT",
+            "T1.surname",
+            ",",
+            "T1.driverid",
+            "FROM",
+            "drivers",
+            "AS",
+            "T1",
+            "JOIN",
+            "results",
+            "AS",
+            "T2",
+            "ON",
+            "T1.driverid",
+            "=",
+            "T2.driverid",
+            "GROUP",
+            "BY",
+            "T1.driverid",
+            "HAVING",
+            "count",
+            "(",
+            "*",
+            ")",
+            ">",
+            "5"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "surname",
+            ",",
+            "t1",
+            ".",
+            "driverid",
+            "from",
+            "drivers",
+            "as",
+            "t1",
+            "join",
+            "pitstops",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "driverid",
+            "=",
+            "t2",
+            ".",
+            "driverid",
+            "group",
+            "by",
+            "t1",
+            ".",
+            "driverid",
+            "having",
+            "count",
+            "(",
+            "*",
+            ")",
+            "=",
+            "value",
+            "intersect",
+            "select",
+            "t1",
+            ".",
+            "surname",
+            ",",
+            "t1",
+            ".",
+            "driverid",
+            "from",
+            "drivers",
+            "as",
+            "t1",
+            "join",
+            "results",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "driverid",
+            "=",
+            "t2",
+            ".",
+            "driverid",
+            "group",
+            "by",
+            "t1",
+            ".",
+            "driverid",
+            "having",
+            "count",
+            "(",
+            "*",
+            ")",
+            ">",
+            "value"
+        ],
+        "question": "What are the drivers' last names and id who had 11 pit stops and participated in more than 5 race results?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "drivers",
+            "'",
+            "last",
+            "names",
+            "and",
+            "id",
+            "who",
+            "had",
+            "11",
+            "pit",
+            "stops",
+            "and",
+            "participated",
+            "in",
+            "more",
+            "than",
+            "5",
+            "race",
+            "results",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ],
+                    [
+                        "table_unit",
+                        11
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                18,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            45,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                23,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                18,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [
+                [
+                    0,
+                    18,
+                    false
+                ]
+            ],
+            "having": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            3,
+                            0,
+                            false
+                        ],
+                        null
+                    ],
+                    11.0,
+                    null
+                ]
+            ],
+            "orderBy": [],
+            "limit": null,
+            "intersect": {
+                "from": {
+                    "table_units": [
+                        [
+                            "table_unit",
+                            2
+                        ],
+                        [
+                            "table_unit",
+                            7
+                        ]
+                    ],
+                    "conds": [
+                        [
+                            false,
+                            2,
+                            [
+                                0,
+                                [
+                                    0,
+                                    18,
+                                    false
+                                ],
+                                null
+                            ],
+                            [
+                                0,
+                                45,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                },
+                "select": [
+                    false,
+                    [
+                        [
+                            0,
+                            [
+                                0,
+                                [
+                                    0,
+                                    23,
+                                    false
+                                ],
+                                null
+                            ]
+                        ],
+                        [
+                            0,
+                            [
+                                0,
+                                [
+                                    0,
+                                    18,
+                                    false
+                                ],
+                                null
+                            ]
+                        ]
+                    ]
+                ],
+                "where": [],
+                "groupBy": [
+                    [
+                        0,
+                        18,
+                        false
+                    ]
+                ],
+                "having": [
+                    [
+                        false,
+                        3,
+                        [
+                            0,
+                            [
+                                3,
+                                0,
+                                false
+                            ],
+                            null
+                        ],
+                        5.0,
+                        null
+                    ]
+                ],
+                "orderBy": [],
+                "limit": null,
+                "intersect": null,
+                "union": null,
+                "except": null
+            },
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "store_product",
+        "query": "SELECT avg(pages_per_minute_color) FROM product",
+        "query_toks": [
+            "SELECT",
+            "avg",
+            "(",
+            "pages_per_minute_color",
+            ")",
+            "FROM",
+            "product"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "avg",
+            "(",
+            "pages_per_minute_color",
+            ")",
+            "from",
+            "product"
+        ],
+        "question": "What is the average pages per minute color?",
+        "question_toks": [
+            "What",
+            "is",
+            "the",
+            "average",
+            "pages",
+            "per",
+            "minute",
+            "color",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        5,
+                        [
+                            0,
+                            [
+                                0,
+                                5,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "epinions_1",
+        "query": "SELECT title FROM item ORDER BY title",
+        "query_toks": [
+            "SELECT",
+            "title",
+            "FROM",
+            "item",
+            "ORDER",
+            "BY",
+            "title"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "title",
+            "from",
+            "item",
+            "order",
+            "by",
+            "title"
+        ],
+        "question": "List the titles of all items in alphabetic order .",
+        "question_toks": [
+            "List",
+            "the",
+            "titles",
+            "of",
+            "all",
+            "items",
+            "in",
+            "alphabetic",
+            "order",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [
+                "asc",
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            2,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "product_catalog",
+        "query": "SELECT catalog_entry_name FROM catalog_contents ORDER BY height DESC LIMIT 1",
+        "query_toks": [
+            "SELECT",
+            "catalog_entry_name",
+            "FROM",
+            "catalog_contents",
+            "ORDER",
+            "BY",
+            "height",
+            "DESC",
+            "LIMIT",
+            "1"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "catalog_entry_name",
+            "from",
+            "catalog_contents",
+            "order",
+            "by",
+            "height",
+            "desc",
+            "limit",
+            "value"
+        ],
+        "question": "Which catalog content has the highest height? Give me the catalog entry name.",
+        "question_toks": [
+            "Which",
+            "catalog",
+            "content",
+            "has",
+            "the",
+            "highest",
+            "height",
+            "?",
+            "Give",
+            "me",
+            "the",
+            "catalog",
+            "entry",
+            "name",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [
+                "desc",
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            24,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": 1,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    }
+]

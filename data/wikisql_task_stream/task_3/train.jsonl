@@ -1,0 +1,498 @@
+{"phase": 1, "table_id": "1-29436007-1", "question": "How many dates did \"dick jokes\" originally air on?", "sql": {"sel": 5, "conds": [[2, 0, "\"Dick Jokes\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "How many different people directed the episode titled \"Born under a bad sign\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Born Under a Bad Sign\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-17641206-8", "question": "What are the movies that are written and dircted by  john sullivan  with the airdate of 15january2009.", "sql": {"sel": 2, "conds": [[3, 0, "John Sullivan"], [4, 0, "15January2009"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10718984-2", "question": "What is the number in the season that Marlene Meyer wrote and 20.49 million people watched?", "sql": {"sel": 1, "conds": [[4, 0, "Marlene Meyer"], [6, 0, "20.49"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12152327-4", "question": "What country did Jonas Geirnaert direct a film in?", "sql": {"sel": 3, "conds": [[2, 0, "jonas geirnaert"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792945-1", "question": "What is the release date of the mm series which has the title confederate honey?", "sql": {"sel": 4, "conds": [[1, 0, "mm"], [0, 0, "confederate honey"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18102421-2", "question": "How many millions of U.S. viewers watched the episode directed by Allison Liddi-Brown? ", "sql": {"sel": 6, "conds": [[3, 0, "Allison Liddi-Brown"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1893815-1", "question": "Name the release date for album # 2nd", "sql": {"sel": 4, "conds": [[0, 0, "2nd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886027-2", "question": "What is the Country of origin for the film directed by George Miller?", "sql": {"sel": 3, "conds": [[4, 0, "george miller"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23242958-1", "question": "What number episode in the series was written by David Zuckerman? ", "sql": {"sel": 0, "conds": [[4, 0, "David Zuckerman"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12226390-7", "question": "How many episodes had a title \"the great mayoralty campaign\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"The Great Mayoralty Campaign\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-16390576-3", "question": "what is the number of the episode titled \"magic jordan\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Magic Jordan\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-2409041-6", "question": "What is the title of season 2? ", "sql": {"sel": 2, "conds": [[1, 0, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-10942714-1", "question": "What was the finale for  \u6f6e\u7206\u5927\u72c0", "sql": {"sel": 6, "conds": [[2, 0, "\u6f6e\u7206\u5927\u72c0"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22265225-1", "question": "How many times was u.s. Viewers listed for episode 36 in the series?", "sql": {"sel": 7, "conds": [[0, 0, "36"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12379832-9", "question": "What role did John Wayne play with Verna Hillie as the leading lady?", "sql": {"sel": 2, "conds": [[3, 0, "verna hillie"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-5", "question": "How many writers were there for episode named \"embassy\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Embassy\""]], "agg": 3}}
+{"phase": 2, "table_id": "2-10910712-5", "question": "Who wrote the episode that was directed by Terry Ingram?", "sql": {"sel": 3, "conds": [[2, 0, "terry ingram"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25997153-1", "question": "What is the title of the episode with the production code 3x5362?", "sql": {"sel": 2, "conds": [[6, 0, "3X5362"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2618152-1", "question": "What is the season number of the episode written by Matt Witten , Richard Sweren?", "sql": {"sel": 1, "conds": [[4, 0, "Matt Witten , Richard Sweren"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12379832-11", "question": "In which title was Ann Rutherford the leading lady for Joseph Kane?", "sql": {"sel": 0, "conds": [[3, 0, "ann rutherford"], [4, 0, "joseph kane"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19210674-1", "question": "What is the finale number ranked at number 7?", "sql": {"sel": 6, "conds": [[0, 0, 7]], "agg": 0}}
+{"phase": 1, "table_id": "1-11222744-3", "question": "What is the catalog number of the title called \"super callanetics\"?", "sql": {"sel": 6, "conds": [[1, 0, "Super Callanetics"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886027-3", "question": "What's the Original Title of the English title A Judgement in Stone?", "sql": {"sel": 2, "conds": [[1, 0, "a judgement in stone"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1893815-1", "question": "Name the label for grown up overnight", "sql": {"sel": 5, "conds": [[1, 0, "Grown Up Overnight"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29273390-1", "question": "Who directed an episode with 1.19 million? ", "sql": {"sel": 3, "conds": [[7, 0, "1.19"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17861265-1", "question": "Who was the episode writer when the viewers reached 3.03 million in the US?", "sql": {"sel": 4, "conds": [[7, 0, "3.03"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21328899-1", "question": "When \"i feel good\" is the title and joe sachs is the writer how many series numbers are there?", "sql": {"sel": 0, "conds": [[4, 0, "Joe Sachs"], [2, 0, "\"I Feel Good\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-2226817-2", "question": "Who directed when the production code is 1.02?", "sql": {"sel": 2, "conds": [[5, 0, "1.02"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18217753-1", "question": "How many series had viewers totaling 23.93 million?", "sql": {"sel": 0, "conds": [[6, 0, "23.93"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10610087-6", "question": "Who are the writers for the episode \"solo\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Solo\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886027-1", "question": "What is the original title of Madame Rosa?", "sql": {"sel": 2, "conds": [[1, 0, "madame rosa"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18987377-1", "question": "Name the film title for andr\u00e9 t\u00e9chin\u00e9 category:articles with hcards", "sql": {"sel": 1, "conds": [[3, 0, "Andr\u00e9 T\u00e9chin\u00e9 Category:Articles with hCards"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24625467-1", "question": "Who directed \"hey now hey now perry'S girlfriend's back\"?", "sql": {"sel": 2, "conds": [[1, 0, "\"Hey Now Hey Now Perry's Girlfriend's Back\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-29219286-1", "question": "How many episodes in the season had the title, \"first blood\"?", "sql": {"sel": 1, "conds": [[2, 0, "\"First Blood\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-21726793-1", "question": "who directed the production code 2t5710?", "sql": {"sel": 2, "conds": [[5, 0, "2T5710"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25668962-1", "question": "What episode number in the series was viewed by 13.66 million people in the U.S.?", "sql": {"sel": 0, "conds": [[6, 0, "13.66"]], "agg": 1}}
+{"phase": 1, "table_id": "1-228973-5", "question": "Who directed the episode that originally aired on February 16, 1999?", "sql": {"sel": 3, "conds": [[5, 0, "February 16, 1999"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2818164-5", "question": "What episode number in the series is \"the drum major\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"The Drum Major\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-24961421-1", "question": "Who wrote the episode that had 12.15 million viewers?", "sql": {"sel": 4, "conds": [[6, 0, "12.15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28037619-2", "question": "How many people wrote the episode that had 7.26 million u.s. viewers?", "sql": {"sel": 3, "conds": [[6, 0, "7.26"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18792950-5", "question": "What is the Director of the Filmography The Iceman Ducketh?", "sql": {"sel": 2, "conds": [[0, 0, "the iceman ducketh"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18987377-1", "question": "Name the original title for the last metro", "sql": {"sel": 2, "conds": [[1, 0, "The Last Metro"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25996938-1", "question": "Which episode did 18.74 million people tune in?", "sql": {"sel": 1, "conds": [[6, 0, "18.74"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18217753-1", "question": "What is the original air date of season 9?", "sql": {"sel": 5, "conds": [[1, 0, 9]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-9", "question": "How many people directed \"odd man in\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Odd Man In\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-27720737-1", "question": "What is the highest series # directed by ken whittingham?", "sql": {"sel": 0, "conds": [[2, 0, "Ken Whittingham"]], "agg": 1}}
+{"phase": 1, "table_id": "1-25668962-1", "question": "Who directed episode number 18 in the series?", "sql": {"sel": 2, "conds": [[0, 0, 18]], "agg": 0}}
+{"phase": 1, "table_id": "1-27776266-1", "question": "What was the production code of the episode no. 55 in the series?", "sql": {"sel": 6, "conds": [[0, 0, 55]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886027-3", "question": "What's the English title listed that has an Original title of The Crying Game?", "sql": {"sel": 1, "conds": [[2, 0, "the crying game"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25997153-1", "question": "What is the title of the episode with the production code 3x5362?", "sql": {"sel": 2, "conds": [[6, 0, "3X5362"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18168296-1", "question": "What is \u4f60 \u670b\u53cb's English title?", "sql": {"sel": 1, "conds": [[3, 0, "\u4f60 \u670b\u53cb"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1876825-2", "question": "Name the total number of production code by david richardson and todd holland", "sql": {"sel": 5, "conds": [[3, 0, "David Richardson"], [2, 0, "Todd Holland"]], "agg": 3}}
+{"phase": 1, "table_id": "1-18217753-1", "question": "How many original air dates totaled 26.06 million viewers?", "sql": {"sel": 5, "conds": [[6, 0, "26.06"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12379832-10", "question": "Name the studio for john scott", "sql": {"sel": 1, "conds": [[2, 0, "john scott"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1476746-5", "question": "Director of christophe barratier had what highest year?", "sql": {"sel": 0, "conds": [[4, 0, "christophe barratier"]], "agg": 1}}
+{"phase": 1, "table_id": "1-28677723-10", "question": "How many music entries are there when tor floysvik is 3?", "sql": {"sel": 2, "conds": [[4, 0, 3]], "agg": 3}}
+{"phase": 1, "table_id": "1-228973-9", "question": "If the original air date is February 4, 2003, what is the episode title?", "sql": {"sel": 2, "conds": [[5, 0, "February 4, 2003"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17641206-4", "question": "What was the title of the episode with 5.04 million viewers?", "sql": {"sel": 1, "conds": [[6, 0, "5.04 million"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28677723-14", "question": "Name the style for 39 ", "sql": {"sel": 1, "conds": [[7, 0, 39]], "agg": 0}}
+{"phase": 1, "table_id": "1-21655290-1", "question": "Which film title used in nomination has vinterkyss as the original title?", "sql": {"sel": 1, "conds": [[2, 0, "Vinterkyss"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-6", "question": "How many directors are there for the episode that had 1.59 million U.S. viewers?", "sql": {"sel": 3, "conds": [[7, 0, "1.59"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10610087-3", "question": "what is the original air date of the episode no in season 9?", "sql": {"sel": 5, "conds": [[1, 0, 9]], "agg": 0}}
+{"phase": 1, "table_id": "1-26259391-1", "question": "how many series had 6.55 u.s. viewers (million) and were directed by pete michels", "sql": {"sel": 0, "conds": [[7, 0, "6.55"], [3, 0, "Pete Michels"]], "agg": 3}}
+{"phase": 1, "table_id": "1-17355743-1", "question": "Name who directed the episode by joe sachs and david zabel", "sql": {"sel": 3, "conds": [[4, 0, "Joe Sachs and David Zabel"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25277363-2", "question": "What date did \"fast friends\" originally air?", "sql": {"sel": 5, "conds": [[2, 0, "\"Fast Friends\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-3", "question": "Name the category for prix uip berlin", "sql": {"sel": 0, "conds": [[4, 0, "prix uip berlin"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10610087-3", "question": "How many episodes were titles \"voicemail\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Voicemail\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-26448179-3", "question": "How many millions of US viewers watched \"Helen Back Again\"?", "sql": {"sel": 7, "conds": [[2, 0, "\"Helen Back Again\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-17355820-1", "question": "On which dates did the episodes directed by TR Babu Subramaniam air?", "sql": {"sel": 5, "conds": [[3, 0, "TR Babu Subramaniam"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-11", "question": "The episode which originally aired on December 17, 2004  was written by whom?", "sql": {"sel": 4, "conds": [[5, 0, "December 17, 2004"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18168296-1", "question": "What is Another She's Label?", "sql": {"sel": 5, "conds": [[1, 0, "another she"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792950-1", "question": "What is the production number of From Hare to Heir?", "sql": {"sel": 3, "conds": [[0, 0, "from hare to heir"]], "agg": 4}}
+{"phase": 2, "table_id": "2-12152327-4", "question": "What is the category of the film made in Switzerland?", "sql": {"sel": 0, "conds": [[3, 0, "switzerland"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11222744-3", "question": "What is the catalog number named callanetics: 10 years younger in 10 hours", "sql": {"sel": 6, "conds": [[1, 0, "Callanetics: 10 Years Younger In 10 Hours"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-5", "question": "Who directed the episode that originally aired on February 16, 1999?", "sql": {"sel": 3, "conds": [[5, 0, "February 16, 1999"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2618142-1", "question": "name the title of the episode that ed sherin directed.", "sql": {"sel": 2, "conds": [[3, 0, "Ed Sherin"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24910737-1", "question": "What is the number in the series that was titled \"Past Tense\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Past Tense\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-2", "question": "What is the name of the episode that aired originally on October 18, 1991?", "sql": {"sel": 1, "conds": [[4, 0, "October 18, 1991"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25851971-1", "question": "Who directed the episode with 4.82 million U.S. viewers?", "sql": {"sel": 2, "conds": [[6, 0, "4.82"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10910712-5", "question": "Which is the episode # of the episode titled \"The Man Behind the Curtain\"?", "sql": {"sel": 0, "conds": [[1, 0, "\"the man behind the curtain\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-5", "question": "How many writers were there for episode named \"embassy\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Embassy\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-10715317-2", "question": "What is the title of the episode directed by Peter Markle and written by Jerry Stahl?", "sql": {"sel": 2, "conds": [[3, 0, "Peter Markle"], [4, 0, "Jerry Stahl"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-6", "question": "What director has lt as the series, with 6982 as the production num.?", "sql": {"sel": 2, "conds": [[1, 0, "lt"], [3, 0, "6982"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-7", "question": "When 129 is the number in the series who is the writer?", "sql": {"sel": 4, "conds": [[0, 0, 129]], "agg": 0}}
+{"phase": 1, "table_id": "1-23114705-3", "question": "What is the name of the episode where the season number is 13?", "sql": {"sel": 2, "conds": [[1, 0, 13]], "agg": 0}}
+{"phase": 1, "table_id": "1-24132054-1", "question": "Who directed \"go your own way\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Go Your Own Way\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-11665016-2", "question": "What is the air date for the episode written by Wendy Battles and directed by Oz Scott", "sql": {"sel": 5, "conds": [[4, 0, "Wendy Battles"], [3, 0, "Oz Scott"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17355579-1", "question": "Name the series number directed by richard thorpe written by dee johnson", "sql": {"sel": 0, "conds": [[3, 0, "Richard Thorpe"], [4, 0, "Dee Johnson"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2156758-4", "question": "Who directed the episode titled \"Jack and the Zombies\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Jack and the Zombies\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-2618152-1", "question": "What is the title of the episode with the original air date October 21, 1998?", "sql": {"sel": 2, "conds": [[5, 0, "October 21, 1998"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29633639-1", "question": "what is the number of the average of the drama titled  \u9b5a\u8e8d\u5728\u82b1\u898b", "sql": {"sel": 3, "conds": [[2, 0, "\u9b5a\u8e8d\u5728\u82b1\u898b"]], "agg": 1}}
+{"phase": 2, "table_id": "2-10910712-3", "question": "What is the episode number of the episode titled \"Threshold of Pain\"?", "sql": {"sel": 0, "conds": [[1, 0, "\"threshold of pain\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-7", "question": "When 129 is the number in the series who is the writer?", "sql": {"sel": 4, "conds": [[0, 0, 129]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886027-3", "question": "Which Country has the Director Chen Kaige?", "sql": {"sel": 3, "conds": [[4, 0, "chen kaige"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23918997-1", "question": "How many episodes were viewed by 1.29 million people?", "sql": {"sel": 0, "conds": [[6, 0, "1.29"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16080300-1", "question": "What is Result, when Director is Veljko Bulaji\u0107 category:articles with hcards, and when Original title is Sarajevski Atentat?", "sql": {"sel": 4, "conds": [[3, 0, "veljko bulaji\u0107 category:articles with hcards"], [2, 0, "sarajevski atentat"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10942714-1", "question": "What was the finale for \u6f6e\u7206\u5927\u72c0", "sql": {"sel": 6, "conds": [[2, 0, "\u6f6e\u7206\u5927\u72c0"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27401228-1", "question": "Name who directed when the viewers is 5.86", "sql": {"sel": 2, "conds": [[6, 0, "5.86"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17156199-1", "question": "What was the nominated film title of \u09b6\u09cd\u09af\u09be\u09ae\u09b2 \u099b\u09be\u09af\u09bc\u09be (shyamol chhaya)?", "sql": {"sel": 1, "conds": [[2, 0, "\u09b6\u09cd\u09af\u09be\u09ae\u09b2 \u099b\u09be\u09af\u09bc\u09be (Shyamol Chhaya)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1876825-6", "question": "What was the original air for the 06-03-521 production code?", "sql": {"sel": 5, "conds": [[6, 0, "06-03-521"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10236830-6", "question": "What is the name of the actress that was nominated for best actress in a leading role in the film Chopin: Desire for love?", "sql": {"sel": 1, "conds": [[2, 0, "Chopin: Desire for Love"], [0, 0, "Best Actress in a Leading Role"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28140588-1", "question": "What is the title when the director is Maynard C. Virgil i ?", "sql": {"sel": 2, "conds": [[3, 0, "Maynard C. Virgil I"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22078691-2", "question": "How many number of series have the title \"call of silence\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Call of Silence\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-25604014-6", "question": "What are the titles of the pieces that are number 2 in season?", "sql": {"sel": 2, "conds": [[1, 0, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "What's the series number for the episode titled \"Hunted\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Hunted\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-11222744-2", "question": "where title is beginning callanetics , what is the total of format ?", "sql": {"sel": 2, "conds": [[1, 0, "Beginning Callanetics"]], "agg": 3}}
+{"phase": 1, "table_id": "1-17861265-1", "question": "Who wrote the last episode (episode 15) of season 3?", "sql": {"sel": 4, "conds": [[1, 0, 15]], "agg": 0}}
+{"phase": 1, "table_id": "1-26565917-2", "question": "what was the name of episode 5?", "sql": {"sel": 2, "conds": [[1, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792950-3", "question": "What date was Wet Hare, directed by Robert McKimson, released?", "sql": {"sel": 4, "conds": [[2, 0, "robert mckimson"], [0, 0, "wet hare"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "How many episodes by different writers were seen by 3.24 million people in the US?", "sql": {"sel": 4, "conds": [[7, 0, "3.24"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12886027-1", "question": "What original title has a year of 1978?", "sql": {"sel": 2, "conds": [[0, 0, "1978"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-3", "question": "which is the number of the season episode whose premiere was in january 3, 1997?", "sql": {"sel": 1, "conds": [[5, 0, "January 3, 1997"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2818164-7", "question": "Which title has 147 as no. in series?", "sql": {"sel": 2, "conds": [[0, 0, 147]], "agg": 0}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "How many episodes by different writers were seen by 3.24 million people in the US?", "sql": {"sel": 4, "conds": [[7, 0, "3.24"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18792938-5", "question": "Who was the director of the movie having a release date of 1934-09-15, an MM Series and a production number less than 6494?", "sql": {"sel": 2, "conds": [[1, 0, "mm"], [3, 2, 6494], [4, 0, "1934-09-15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21726793-1", "question": "what is the total number o production code where us viewers is 2.76?", "sql": {"sel": 5, "conds": [[6, 0, "2.76"]], "agg": 3}}
+{"phase": 1, "table_id": "1-13719788-1", "question": "How many films titled Gie have been nominated?", "sql": {"sel": 2, "conds": [[1, 0, "Gie"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24910737-1", "question": "What is the number in the series written by Steve Blackman and had a title of \"Worlds Apart\"?", "sql": {"sel": 0, "conds": [[4, 0, "Steve Blackman"], [2, 0, "\"Worlds Apart\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-29273115-1", "question": "Who are the writers of the episode with production code IP02009?", "sql": {"sel": 4, "conds": [[6, 0, "IP02009"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18428016-1", "question": "Name the total number in the series written by john banas and directed by pino amenta", "sql": {"sel": 0, "conds": [[4, 0, "John Banas"], [3, 0, "Pino Amenta"]], "agg": 3}}
+{"phase": 1, "table_id": "1-18569389-1", "question": "Name the title for production code 2t6908", "sql": {"sel": 1, "conds": [[5, 0, "2T6908"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-3", "question": "Name the director of alt i alt", "sql": {"sel": 2, "conds": [[1, 0, "alt i alt"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29273390-1", "question": "What is the least amount in each season? ", "sql": {"sel": 1, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-19210674-1", "question": "How was the episode seen by 2.26 million HK viewers ranked?", "sql": {"sel": 0, "conds": [[7, 0, "2.26 million"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1876825-8", "question": "what is the title no in season 2?", "sql": {"sel": 2, "conds": [[1, 0, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-28677723-5", "question": "How many entries arr there for christer tornell for the song \" you light up my life \"\u2014 whitney houston?", "sql": {"sel": 6, "conds": [[2, 0, "\" You Light Up My Life \"\u2014 Whitney Houston"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12886027-3", "question": "Who is the Director of the Original title of The Crying Game?", "sql": {"sel": 4, "conds": [[2, 0, "the crying game"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10935548-1", "question": "Which episode was directed by Jean de Segonzac?", "sql": {"sel": 2, "conds": [[3, 0, "Jean de Segonzac"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17758010-2", "question": "What is every \"directed by\" when the title is \"One To Go\" (part 2)?", "sql": {"sel": 3, "conds": [[2, 0, "\"One to Go\" (Part 2)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10842344-1", "question": "What episode number had production code e4423?", "sql": {"sel": 1, "conds": [[6, 0, "E4423"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22078972-2", "question": "What's the series number of the episode seen by 17.04 million people in the US?", "sql": {"sel": 0, "conds": [[6, 0, "17.04"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2409041-5", "question": "Who wrote the episode that originally aired on January 15, 1993?", "sql": {"sel": 4, "conds": [[5, 0, "January 15, 1993"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "The Prix UIP Vilo Do Conde festival nominated which film?", "sql": {"sel": 1, "conds": [[4, 0, "prix uip vilo do conde"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26561506-1", "question": "Who directed the episode with production code 177605?", "sql": {"sel": 3, "conds": [[7, 0, 177605]], "agg": 0}}
+{"phase": 1, "table_id": "1-24856090-1", "question": "What is the Chinese name of the episode with 1.97 million Hong Kong viewers?", "sql": {"sel": 2, "conds": [[7, 0, "1.97 million"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2156758-4", "question": "What is the title for episode number in series of 28?", "sql": {"sel": 2, "conds": [[0, 0, "28"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25277363-2", "question": "What date did \"fast friends\" originally air?", "sql": {"sel": 5, "conds": [[2, 0, "\"Fast Friends\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-11694832-1", "question": "When was the show first aired that was viewed by 3.57 million U.S. viewers?", "sql": {"sel": 5, "conds": [[7, 0, "3.57"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29527718-1", "question": "When did \"My Confessions\" first air?", "sql": {"sel": 5, "conds": [[2, 0, "\"My Confessions\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-26561506-1", "question": "How many episodes are numbered 4 in the season?", "sql": {"sel": 5, "conds": [[1, 0, 4]], "agg": 3}}
+{"phase": 1, "table_id": "1-29273115-1", "question": "Who are the writers of the episode with production code IP02009?", "sql": {"sel": 4, "conds": [[6, 0, "IP02009"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2453243-5", "question": "Who write episode number 48 in the series?", "sql": {"sel": 4, "conds": [[0, 0, "48"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1476746-5", "question": "Original title of \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 / vozvrashcheniye had what English title?", "sql": {"sel": 1, "conds": [[2, 0, "\u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 / vozvrashcheniye"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27833469-1", "question": "What is the air date of the episode titled \"boardroom and a parked place\"?", "sql": {"sel": 5, "conds": [[2, 0, "\"Boardroom and a Parked Place\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-9", "question": "How many people directed \"odd man in\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Odd Man In\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-24856090-1", "question": "What is the English title of the episode with 1.92 million Hong Kong viewers?", "sql": {"sel": 1, "conds": [[7, 0, "1.92 million"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27117365-1", "question": "What original air date has 5.85 u.s. viewers (million)?", "sql": {"sel": 5, "conds": [[7, 0, "5.85"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18428016-1", "question": "Name the total number in the series written by john banas and directed by pino amenta", "sql": {"sel": 0, "conds": [[4, 0, "John Banas"], [3, 0, "Pino Amenta"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11174272-1", "question": "What premiere has a finale of less than 41, peak less than 40, average above 31, and a Chinese title of \u5b78\u8b66\u96c4\u5fc3?", "sql": {"sel": 5, "conds": [[6, 2, 41], [4, 2, 40], [3, 1, 31], [2, 0, "\u5b78\u8b66\u96c4\u5fc3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27988559-1", "question": "What dat did episode 195 in the series originally air?", "sql": {"sel": 5, "conds": [[0, 0, 195]], "agg": 0}}
+{"phase": 1, "table_id": "1-2156758-4", "question": "What is the title for episode number in series of 28?", "sql": {"sel": 2, "conds": [[0, 0, "28"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16390576-3", "question": "what is the number of the episode titled \"magic jordan\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Magic Jordan\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-27332038-1", "question": "when was the episode with production code \"2arg24\" originally aired?", "sql": {"sel": 5, "conds": [[6, 0, "2ARG24"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-3", "question": "What was the original air date of \"The Boss\"?", "sql": {"sel": 5, "conds": [[2, 0, "\"The Boss\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-27892955-1", "question": "What is the name of episode 120 in the series that Mike Rohl directed?", "sql": {"sel": 2, "conds": [[3, 0, "Mike Rohl"], [0, 0, 120]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-4", "question": "Which Release date has a Production Num larger than 5888, and a Director of hugh harman and friz freleng?", "sql": {"sel": 4, "conds": [[3, 1, 5888], [2, 0, "hugh harman and friz freleng"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-2", "question": "How many number of series have the production code of 1.11?", "sql": {"sel": 0, "conds": [[5, 0, "1.11"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2409041-3", "question": "How many production codes were in series 39?", "sql": {"sel": 6, "conds": [[0, 0, 39]], "agg": 3}}
+{"phase": 1, "table_id": "1-27117365-1", "question": "What original air date has 5.85 u.s. viewers (million)?", "sql": {"sel": 5, "conds": [[7, 0, "5.85"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-6", "question": "How many directors are there for the episode that had 1.59 million U.S. viewers?", "sql": {"sel": 3, "conds": [[7, 0, "1.59"]], "agg": 3}}
+{"phase": 1, "table_id": "1-25604014-6", "question": "What are the titles of the pieces that are number 2 in season?", "sql": {"sel": 2, "conds": [[1, 0, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-3", "question": "What was the original air date of \"The Boss\"?", "sql": {"sel": 5, "conds": [[2, 0, "\"The Boss\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-25277262-2", "question": "What is the name of the episode # 11 in the season?", "sql": {"sel": 2, "conds": [[1, 0, 11]], "agg": 0}}
+{"phase": 1, "table_id": "1-19925114-1", "question": "How many episodes had the series number of 38?", "sql": {"sel": 3, "conds": [[0, 0, 38]], "agg": 3}}
+{"phase": 1, "table_id": "1-228973-7", "question": "When \"past tense\" is the title who is the writer?", "sql": {"sel": 4, "conds": [[2, 0, "\"Past Tense\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-4", "question": "What is the category of the film made in Switzerland?", "sql": {"sel": 0, "conds": [[3, 0, "switzerland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "Julio Robledo represents which country?", "sql": {"sel": 3, "conds": [[2, 0, "julio robledo"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-11", "question": "The episode which originally aired on December 17, 2004  was written by whom?", "sql": {"sel": 4, "conds": [[5, 0, "December 17, 2004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16951593-1", "question": "Namee the title for production code for 4014", "sql": {"sel": 2, "conds": [[6, 0, "4014"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23916272-6", "question": "Who directed the \"Out with the Old, in with the new\" episode?", "sql": {"sel": 3, "conds": [[2, 0, "\"Out with the Old, in with the New\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-10610087-6", "question": "Who wrote the episode titled \"black\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Black\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-19401346-1", "question": "What's the title of the episode originally aired on September 23, 2008?", "sql": {"sel": 2, "conds": [[5, 0, "September 23, 2008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "Who directed the episode seen by 3.93 million people in the US?", "sql": {"sel": 3, "conds": [[7, 0, "3.93"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20538157-2", "question": "Who were the writers of episode 20?", "sql": {"sel": 4, "conds": [[1, 0, 20]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-4", "question": "Name the production code for november 27, 1988", "sql": {"sel": 6, "conds": [[5, 0, "November 27, 1988"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27988281-1", "question": "What is the production code of the episode titled \"Halloween\"? ", "sql": {"sel": 6, "conds": [[2, 0, "\"Halloween\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-23242950-1", "question": "What's the production code of the episode seen by 7.49 million people in the US?", "sql": {"sel": 6, "conds": [[7, 0, "7.49"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2453243-5", "question": "Who write episode number 48 in the series?", "sql": {"sel": 4, "conds": [[0, 0, "48"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2818164-2", "question": "What's the title of the episode with production code 104?", "sql": {"sel": 1, "conds": [[5, 0, 104]], "agg": 0}}
+{"phase": 1, "table_id": "1-26448179-4", "question": "How many air dates had 3.2 million viewers?", "sql": {"sel": 5, "conds": [[7, 0, "3.2"]], "agg": 3}}
+{"phase": 1, "table_id": "1-23289934-1", "question": "Name the most number in season for production code 3abc12", "sql": {"sel": 1, "conds": [[6, 0, "3ABC12"]], "agg": 1}}
+{"phase": 1, "table_id": "1-16432167-1", "question": "What was the original air date of the episode titled \"Beaver's Pigeons\"", "sql": {"sel": 5, "conds": [[2, 0, "\"Beaver's Pigeons\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-27250813-1", "question": "How many times did an episode with a production code of 12003 was aired?", "sql": {"sel": 5, "conds": [[6, 0, 12003]], "agg": 3}}
+{"phase": 1, "table_id": "1-26561509-1", "question": "Who is the patient portrayer of the episode with the production code 3T5004?", "sql": {"sel": 5, "conds": [[7, 0, "3T5004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17758010-2", "question": "What is the lowest no. in series?", "sql": {"sel": 0, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-23114705-3", "question": "What is the name of the episode where the season number is 13?", "sql": {"sel": 2, "conds": [[1, 0, 13]], "agg": 0}}
+{"phase": 1, "table_id": "1-17356042-1", "question": "Name who wrote the episode directed by arthur albert", "sql": {"sel": 4, "conds": [[3, 0, "Arthur Albert"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21313327-1", "question": "who were the directors of the episode called \"someone to witch over me\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Someone to Witch Over Me\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-17350255-1", "question": "What was the title used in nomination in the original B\u0101b\u01cei Zhu\u00e0ngsh\u00ec (\u516b\u767e\u58ef\u58eb)?", "sql": {"sel": 1, "conds": [[2, 0, "B\u0101b\u01cei zhu\u00e0ngsh\u00ec (\u516b\u767e\u58ef\u58eb)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16617025-1", "question": "What episode titles have 17.93 million U.S. viewers?", "sql": {"sel": 2, "conds": [[6, 0, "17.93"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-3", "question": "What series number had an original airdate of March 1, 1991?", "sql": {"sel": 0, "conds": [[5, 0, "March 1, 1991"]], "agg": 2}}
+{"phase": 1, "table_id": "1-18217741-1", "question": "What is the title when 18.58 u.s. viewers  (millions) watched?", "sql": {"sel": 2, "conds": [[6, 0, "18.58"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18428024-3", "question": "How many series did John Banas direct?", "sql": {"sel": 0, "conds": [[3, 0, "John Banas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-5", "question": "Name the viewers for production code being 3x6706", "sql": {"sel": 7, "conds": [[6, 0, "3X6706"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10935548-1", "question": "What is the production code of the episode written by Jos\u00e9 Molina that aired on October 12, 2004?", "sql": {"sel": 6, "conds": [[4, 0, "Jos\u00e9 Molina"], [5, 0, "October 12, 2004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29583441-1", "question": "What date did the episode that was directed by Christian i. nyby ii originally air on?", "sql": {"sel": 4, "conds": [[2, 0, "Christian I. Nyby II"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12226390-4", "question": "What episode was written by Bobby Bell and Bill Lee?", "sql": {"sel": 1, "conds": [[4, 0, "Bobby Bell and Bill Lee"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "Which nominating festival nominated Iao Lethem's film?", "sql": {"sel": 4, "conds": [[2, 0, "iao lethem"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-2", "question": "What is the original air date for the production code of 1.12?", "sql": {"sel": 4, "conds": [[5, 0, "1.12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25276528-2", "question": "\"It's not my job\" is the minimum title in no. in season.", "sql": {"sel": 1, "conds": [[2, 0, "\"It's Not My Job\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-28019988-2", "question": "Who wrote the episode that 2.93 million viewers?", "sql": {"sel": 3, "conds": [[6, 0, "2.93"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-7", "question": "What is the release date of Milk and Money?", "sql": {"sel": 4, "conds": [[0, 0, "milk and money"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27491610-2", "question": "What number in season is number 141 in series?", "sql": {"sel": 1, "conds": [[0, 0, 141]], "agg": 1}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "What's the series number for the episode titled \"Hunted\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Hunted\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-14724369-1", "question": "Which series numbers were directed by Monte Young?", "sql": {"sel": 0, "conds": [[2, 0, "Monte Young"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792950-5", "question": "What is the Release date of the Filmography directed by Robert McKimson in MM Series with Production Number 1665?", "sql": {"sel": 4, "conds": [[2, 0, "robert mckimson"], [1, 0, "mm"], [3, 0, "1665"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-7", "question": "When \"the kissing game\" is the title who is the director?", "sql": {"sel": 3, "conds": [[2, 0, "\"The Kissing Game\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-10718192-2", "question": "What's the highest season number of an episode in the series?", "sql": {"sel": 1, "conds": [], "agg": 1}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "How many different people directed the episode titled \"Born under a bad sign\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Born Under a Bad Sign\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-23289934-1", "question": "Name the most number in season for production code 3abc12", "sql": {"sel": 1, "conds": [[6, 0, "3ABC12"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1876825-7", "question": "Name the number of number in series for production code of 06-04-621", "sql": {"sel": 0, "conds": [[6, 0, "06-04-621"]], "agg": 3}}
+{"phase": 1, "table_id": "1-20046379-3", "question": "How many millions of people in the US saw the episode with production code 214?", "sql": {"sel": 7, "conds": [[6, 0, "214"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26448179-4", "question": "What is the title of the episode with production code 305?", "sql": {"sel": 2, "conds": [[6, 0, 305]], "agg": 0}}
+{"phase": 2, "table_id": "2-10910712-3", "question": "Who directed the episode titled \"Hand to Hand\"?", "sql": {"sel": 2, "conds": [[1, 0, "\"hand to hand\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-11173827-1", "question": "What is the english title that has finale as 33 and peak as 42?", "sql": {"sel": 1, "conds": [[6, 0, 33], [4, 0, 42]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "(A) Torzija was nominated in which category?", "sql": {"sel": 0, "conds": [[1, 0, "(a) torzija"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23916272-6", "question": "What is the highest series number of the episode \"Til Death do us part-and make it soon\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Til Death Do Us Part-And Make It Soon\""]], "agg": 1}}
+{"phase": 1, "table_id": "1-12226390-3", "question": "what's the total number of\u00a0title\u00a0for production code\u00a039", "sql": {"sel": 2, "conds": [[6, 0, 39]], "agg": 3}}
+{"phase": 1, "table_id": "1-228973-7", "question": "When \"past tense\" is the title who is the writer?", "sql": {"sel": 4, "conds": [[2, 0, "\"Past Tense\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-25277262-2", "question": "What is the name of the episode # 11 in the season?", "sql": {"sel": 2, "conds": [[1, 0, 11]], "agg": 0}}
+{"phase": 1, "table_id": "1-25668962-1", "question": "How many million U.S. viewers watched the epiode with a production code of 1arc12?", "sql": {"sel": 6, "conds": [[5, 0, "1ARC12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18424435-5", "question": "Who directed the episode that aired on July 29, 2011?", "sql": {"sel": 3, "conds": [[6, 0, "July 29, 2011"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26736342-1", "question": "What is the series number of the episode \"Fly\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"Fly\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-2818164-5", "question": "What episode number in the series is \"the drum major\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"The Drum Major\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-23235679-1", "question": "Name who wrote number 88", "sql": {"sel": 4, "conds": [[0, 0, 88]], "agg": 0}}
+{"phase": 1, "table_id": "1-24961421-1", "question": "When was \"Rewind\" originally aired?", "sql": {"sel": 5, "conds": [[2, 0, "\"Rewind\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "Russia has films in which category?", "sql": {"sel": 0, "conds": [[3, 0, "russia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23289934-1", "question": "Name the least number for production code for 3abc21", "sql": {"sel": 0, "conds": [[6, 0, "3ABC21"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18792948-10", "question": "What was the series of the episode directed by Abe Levitow released on 1959-06-27?", "sql": {"sel": 1, "conds": [[2, 0, "abe levitow"], [4, 0, "1959-06-27"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27988281-1", "question": "What is the production code of the episode titled \"Halloween\"? ", "sql": {"sel": 6, "conds": [[2, 0, "\"Halloween\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-23528223-2", "question": "Who directed the episode titled \"Redemptio\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Redemptio\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-29527718-1", "question": "When did \"My Confessions\" first air?", "sql": {"sel": 5, "conds": [[2, 0, "\"My Confessions\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-10236830-4", "question": "Which actor from Serbia was nominated for best actor in a supporting role?", "sql": {"sel": 1, "conds": [[0, 0, "Best Actor in a Supporting Role"], [4, 0, "Serbia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27776266-1", "question": "What was the production code of the episode with an audience of 14.79 million in the US?", "sql": {"sel": 6, "conds": [[7, 0, "14.79"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17025328-1", "question": "Name the year for les portes tournantes", "sql": {"sel": 0, "conds": [[2, 0, "Les portes tournantes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19401346-1", "question": "What's the season number of the episode originally aired on October 14, 2008?", "sql": {"sel": 1, "conds": [[5, 0, "October 14, 2008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17641206-6", "question": "Name the original title for 6.05 million viewership", "sql": {"sel": 1, "conds": [[6, 0, "6.05 million"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-9", "question": "If the original air date is February 4, 2003, what is the episode title?", "sql": {"sel": 2, "conds": [[5, 0, "February 4, 2003"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-6", "question": "What is the production code for the episode that had 1.32 million U.S. viewers?", "sql": {"sel": 6, "conds": [[7, 0, "1.32"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11222744-2", "question": "The Catalog number is 80809 what is the title?", "sql": {"sel": 1, "conds": [[6, 0, "80809"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1876825-8", "question": "what is the title no in season 2?", "sql": {"sel": 2, "conds": [[1, 0, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-2618061-1", "question": "How many episodes were directed by james quinn?", "sql": {"sel": 3, "conds": [[2, 0, "James Quinn"]], "agg": 3}}
+{"phase": 1, "table_id": "1-14889988-1", "question": "What is the title for the episode written by Robert Carlock & Dana Klein Borkow?", "sql": {"sel": 2, "conds": [[4, 0, "Robert Carlock & Dana Klein Borkow"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12379832-10", "question": "Name the role for mono studio and title of paradise canyon", "sql": {"sel": 2, "conds": [[1, 0, "mono"], [0, 0, "paradise canyon"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10236830-1", "question": "What was the number of nominations for natalia raskokoha?", "sql": {"sel": 0, "conds": [[1, 0, "Natalia Raskokoha"]], "agg": 3}}
+{"phase": 1, "table_id": "1-27303975-3", "question": "How many times was the catalog number cal04 / 0091037553546?", "sql": {"sel": 1, "conds": [[6, 0, "CAL04 / 0091037553546"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1876825-3", "question": "What is the production code for episode \"surgery\"?", "sql": {"sel": 6, "conds": [[2, 0, "\"Surgery\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-13719788-1", "question": "Who is the director of the fimm Biola Tak Berdawai?", "sql": {"sel": 3, "conds": [[2, 0, "Biola tak berdawai"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18987377-1", "question": "Name the film titled for marcel camus category:articles with hcards", "sql": {"sel": 1, "conds": [[3, 0, "Marcel Camus Category:Articles with hCards"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27713721-1", "question": "How many episodes had an audience of exactly 25.3 million viewers in the U.S.A.?", "sql": {"sel": 6, "conds": [[7, 0, "25.3"]], "agg": 3}}
+{"phase": 1, "table_id": "1-27892955-1", "question": "What is the name of episode 120 in the series that Mike Rohl directed?", "sql": {"sel": 2, "conds": [[3, 0, "Mike Rohl"], [0, 0, 120]], "agg": 0}}
+{"phase": 2, "table_id": "2-12379832-11", "question": "Which title had Muriel Evans as leading lady?", "sql": {"sel": 0, "conds": [[3, 0, "muriel evans"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24961421-1", "question": "Who wrote \"Voir Dire\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Voir Dire\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-5", "question": "What is the name of episode number 77 in the series?", "sql": {"sel": 2, "conds": [[0, 0, 77]], "agg": 0}}
+{"phase": 1, "table_id": "1-2182654-3", "question": "What is the name of the episode directed by Miguel Arteta?", "sql": {"sel": 2, "conds": [[3, 0, "Miguel Arteta"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28140588-1", "question": "Who is the director when the production code is 60034?", "sql": {"sel": 3, "conds": [[6, 0, 60034]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-2", "question": "What is the name of the episode written by Ross Brown?", "sql": {"sel": 1, "conds": [[3, 0, "Ross Brown"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26409328-1", "question": "what title was given to the episode with production code 6ajn08?", "sql": {"sel": 2, "conds": [[6, 0, "6AJN08"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18428024-3", "question": "What is the original air date in series 360?", "sql": {"sel": 5, "conds": [[0, 0, 360]], "agg": 3}}
+{"phase": 1, "table_id": "1-10718631-2", "question": "Who wrote episode 94?", "sql": {"sel": 4, "conds": [[0, 0, 94]], "agg": 0}}
+{"phase": 1, "table_id": "1-19995378-1", "question": "How many episodes with different series numbers were seen by 8.69 people in the US?", "sql": {"sel": 1, "conds": [[7, 0, "8.69"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2182654-3", "question": "How many episodes in the season were directed by Jeremy Podeswa?", "sql": {"sel": 1, "conds": [[3, 0, "Jeremy Podeswa"]], "agg": 3}}
+{"phase": 1, "table_id": "1-17861265-1", "question": "Who wrote the last episode (episode 15) of season 3?", "sql": {"sel": 4, "conds": [[1, 0, 15]], "agg": 0}}
+{"phase": 1, "table_id": "1-27303975-2", "question": "Name the studio for catalog number 81063", "sql": {"sel": 3, "conds": [[6, 0, "81063"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "Who's the writer of the episode seen by 3.25 million people in the US?", "sql": {"sel": 4, "conds": [[7, 0, "3.25"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26259391-1", "question": "Which production code had original air dated february20,2011", "sql": {"sel": 6, "conds": [[5, 0, "February20,2011"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-8", "question": "How many seasons have the production code 7.01 for an episode? ", "sql": {"sel": 1, "conds": [[6, 0, "7.01"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12152327-1", "question": "Which nominating festival did Bosnia and Herzegovina enter?", "sql": {"sel": 4, "conds": [[3, 0, "bosnia and herzegovina"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2618152-1", "question": "What is the season number of the episode written by Matt Witten , Richard Sweren?", "sql": {"sel": 1, "conds": [[4, 0, "Matt Witten , Richard Sweren"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27115960-1", "question": "Phil Klemmer wrote all titles and production code is 3t6455. ", "sql": {"sel": 1, "conds": [[3, 0, "Phil Klemmer"], [5, 0, "3T6455"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-6", "question": "How many series numbers do the episodes originally aired on October 28, 1990?", "sql": {"sel": 0, "conds": [[5, 0, "October 28, 1990"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2818164-8", "question": "the episode directed by art dielhenn was what number in the series? ", "sql": {"sel": 0, "conds": [[3, 0, "Art Dielhenn"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "Julio Robledo represents which country?", "sql": {"sel": 3, "conds": [[2, 0, "julio robledo"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28677723-16", "question": "What is the greatest total score received by aylar & egor when karianne Gulliksen gave an 8?", "sql": {"sel": 7, "conds": [[0, 0, "Aylar & Egor"], [5, 0, 8]], "agg": 1}}
+{"phase": 1, "table_id": "1-29273390-1", "question": "What is the least amount in each season? ", "sql": {"sel": 1, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-2182654-3", "question": "What is the name of the episode directed by Miguel Arteta?", "sql": {"sel": 2, "conds": [[3, 0, "Miguel Arteta"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-3", "question": "What series number had an original airdate of March 1, 1991?", "sql": {"sel": 0, "conds": [[5, 0, "March 1, 1991"]], "agg": 2}}
+{"phase": 1, "table_id": "1-10610087-3", "question": "How many episodes were titles \"voicemail\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Voicemail\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-10236830-6", "question": "What is the name of the actress that was nominated for best actress in a leading role in the film Chopin: Desire for love?", "sql": {"sel": 1, "conds": [[2, 0, "Chopin: Desire for Love"], [0, 0, "Best Actress in a Leading Role"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26259391-1", "question": "Which production code had original air dated february20,2011", "sql": {"sel": 6, "conds": [[5, 0, "February20,2011"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29747178-2", "question": "Who is the director when the title is \"believers\"?", "sql": {"sel": 2, "conds": [[1, 0, "\"Believers\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-10321805-1", "question": "What year was a movie with the original title La Leggenda del Santo Bevitore submitted?", "sql": {"sel": 0, "conds": [[2, 0, "La leggenda del santo bevitore"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-4", "question": "Name the production code for november 27, 1988", "sql": {"sel": 6, "conds": [[5, 0, "November 27, 1988"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27115960-1", "question": "Title is the total number where u.s. viewers (million) is 7.56.", "sql": {"sel": 1, "conds": [[6, 0, "7.56"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2409041-3", "question": "How many production codes were in series 39?", "sql": {"sel": 6, "conds": [[0, 0, 39]], "agg": 3}}
+{"phase": 1, "table_id": "1-2409041-5", "question": "Who wrote the episode that originally aired on January 15, 1993?", "sql": {"sel": 4, "conds": [[5, 0, "January 15, 1993"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27116696-1", "question": "What is the total number of production code listings of episodes written by Matthew Lau?", "sql": {"sel": 6, "conds": [[4, 0, "Matthew Lau"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2226817-2", "question": "How many number of series have a production code of 1.11?", "sql": {"sel": 0, "conds": [[5, 0, "1.11"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29436238-1", "question": "What date did \"the big giant head returns again (part 1)\" originally air?", "sql": {"sel": 5, "conds": [[2, 0, "\"The Big Giant Head Returns Again (Part 1)\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-21312845-1", "question": "Who directed the episode with a production code greater than 4301103.585233785 that was written by Curtis Kheel?", "sql": {"sel": 3, "conds": [[6, 1, 4301103.585233785], [4, 0, "Curtis Kheel"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17919342-1", "question": "How many years was the film The Blossoming of Maximo Oliveros entered?", "sql": {"sel": 0, "conds": [[1, 0, "The Blossoming of Maximo Oliveros"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11230937-2", "question": "How many millions of viewers watched the \"Throwing Heat\" episode?", "sql": {"sel": 6, "conds": [[2, 0, "\"Throwing Heat\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-26448179-3", "question": "What title was watched by 3.8 million US viewers?", "sql": {"sel": 2, "conds": [[7, 0, "3.8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17350255-1", "question": "What is Result, when Original Title is \"Ti\u0101nm\u01ce Ch\u00e1f\u00e1ng (\u5929\u99ac\u8336\u623f)\"?", "sql": {"sel": 4, "conds": [[2, 0, "ti\u0101nm\u01ce ch\u00e1f\u00e1ng (\u5929\u99ac\u8336\u623f)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11058032-1", "question": "How many episodes had 16.03 million viewers?", "sql": {"sel": 0, "conds": [[6, 0, "16.03"]], "agg": 3}}
+{"phase": 1, "table_id": "1-12369913-1", "question": "How many results are there with the original title of ani ohev otach roza (\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da \u05e8\u05d5\u05d6\u05d4)?", "sql": {"sel": 4, "conds": [[2, 0, "Ani Ohev Otach Roza (\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da \u05e8\u05d5\u05d6\u05d4)"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11222744-2", "question": "How many years have a Catalog Number of 80429 / bta80429?", "sql": {"sel": 0, "conds": [[6, 0, "80429 / bta80429"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22347090-5", "question": "Name the viewers for production code being 3x6706", "sql": {"sel": 7, "conds": [[6, 0, "3X6706"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-5", "question": "Who's the director of Buddy of the Apes?", "sql": {"sel": 2, "conds": [[0, 0, "buddy of the apes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-6", "question": "How many series numbers do the episodes originally aired on October 28, 1990?", "sql": {"sel": 0, "conds": [[5, 0, "October 28, 1990"]], "agg": 3}}
+{"phase": 1, "table_id": "1-27776266-1", "question": "What was the title of the episode with a production code of 3x6404?", "sql": {"sel": 2, "conds": [[6, 0, "3X6404"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2226817-8", "question": "How many seasons have the production code 7.01 for an episode? ", "sql": {"sel": 1, "conds": [[6, 0, "7.01"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "(A) Torzija was nominated in which category?", "sql": {"sel": 0, "conds": [[1, 0, "(a) torzija"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228973-3", "question": "which is the number of the season episode whose premiere was in january 3, 1997?", "sql": {"sel": 1, "conds": [[5, 0, "January 3, 1997"]], "agg": 3}}
+{"phase": 1, "table_id": "1-25740548-2", "question": "How many episodes with the production code CA106 are there?", "sql": {"sel": 3, "conds": [[5, 0, "CA106"]], "agg": 3}}
+{"phase": 1, "table_id": "1-12030612-3", "question": "Who were the authors of series episode #25?", "sql": {"sel": 4, "conds": [[0, 0, 25]], "agg": 0}}
+{"phase": 1, "table_id": "1-16471432-4", "question": "What season was the episode titled \"Harlequin\" in?", "sql": {"sel": 1, "conds": [[2, 0, "\"Harlequin\""]], "agg": 1}}
+{"phase": 1, "table_id": "1-27776266-1", "question": "What was the title of the episode with a production code of 3x6404?", "sql": {"sel": 2, "conds": [[6, 0, "3X6404"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29273390-1", "question": "Who directed an episode with 1.19 million? ", "sql": {"sel": 3, "conds": [[7, 0, "1.19"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23918997-1", "question": "What was the title of the episode directed by Rowan Woods?", "sql": {"sel": 1, "conds": [[2, 0, "Rowan Woods"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29583441-1", "question": "Who wrote the episode with production code 57376?", "sql": {"sel": 3, "conds": [[5, 0, 57376]], "agg": 0}}
+{"phase": 2, "table_id": "2-17894703-1", "question": "WHAT IS THE RESULT WITH FILM LAKE OF TEARS?", "sql": {"sel": 4, "conds": [[1, 0, "lake of tears"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17355933-1", "question": "Which season titles were directed by Laura Innes?", "sql": {"sel": 2, "conds": [[3, 0, "Laura Innes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23235679-1", "question": "Name the original air date for \" don't look a smith horse in the mouth \"", "sql": {"sel": 5, "conds": [[2, 0, "\" Don't Look a Smith Horse in the Mouth \""]], "agg": 0}}
+{"phase": 2, "table_id": "2-17894703-1", "question": "WHAT IS THE DIRECTOR WITH FILM hope and pain?", "sql": {"sel": 3, "conds": [[1, 0, "hope and pain"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-2", "question": "How many episodes were written by Ross brown?", "sql": {"sel": 0, "conds": [[3, 0, "Ross Brown"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2156758-4", "question": "Who directed the episode titled \"Jack and the Zombies\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Jack and the Zombies\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-11926114-1", "question": "How many premier episodes were there with the title survivor's law ii?", "sql": {"sel": 5, "conds": [[1, 0, "Survivor's Law II"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2409041-6", "question": "Who wrote the episode \"car wars\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Car Wars\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-18569389-1", "question": "Name the air date that chris long directed", "sql": {"sel": 4, "conds": [[2, 0, "Chris Long"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2701851-2", "question": "Who directed the episode named \"Don't just do it\"?", "sql": {"sel": 2, "conds": [[1, 0, "\"Don't Just Do It\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-10910712-4", "question": "What was the original air date when ed horowitz wrote it?", "sql": {"sel": 4, "conds": [[3, 0, "ed horowitz"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23242968-1", "question": "Who directed the episode that had 6.76 million U.S. viewers?", "sql": {"sel": 3, "conds": [[7, 0, "6.76"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27303975-2", "question": "Name the format for super callanetics", "sql": {"sel": 2, "conds": [[1, 0, "Super Callanetics"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10715317-2", "question": "How many episodes were titled \"identity crisis\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"Identity Crisis\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-1876825-3", "question": "What is the production code for episode \"surgery\"?", "sql": {"sel": 6, "conds": [[2, 0, "\"Surgery\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-17641206-6", "question": "Name the total number of original titles written by john sullivan and keith lindsay", "sql": {"sel": 1, "conds": [[3, 0, "John Sullivan and Keith Lindsay"]], "agg": 3}}
+{"phase": 1, "table_id": "1-12226390-3", "question": "what's the total number of\u00a0title\u00a0for production code\u00a039", "sql": {"sel": 2, "conds": [[6, 0, 39]], "agg": 3}}
+{"phase": 1, "table_id": "1-28677723-10", "question": "What is listed under chister tornell when karianne gulliksen is 7?", "sql": {"sel": 6, "conds": [[5, 0, 7]], "agg": 2}}
+{"phase": 1, "table_id": "1-25740548-2", "question": "How many episode were written by Brett Conrad?", "sql": {"sel": 1, "conds": [[3, 0, "Brett Conrad"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22078972-2", "question": "How many millions of people in the US saw the episode with series number 103?", "sql": {"sel": 6, "conds": [[0, 0, 103]], "agg": 0}}
+{"phase": 1, "table_id": "1-26561509-1", "question": "How many are directed by episodes with the production code 3T5009?", "sql": {"sel": 3, "conds": [[7, 0, "3T5009"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12152327-1", "question": "Which nominating festival did Bosnia and Herzegovina enter?", "sql": {"sel": 4, "conds": [[3, 0, "bosnia and herzegovina"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-9", "question": "what is the title when the release date is 1938-12-17 and the production number is 8610?", "sql": {"sel": 0, "conds": [[4, 0, "1938-12-17"], [3, 0, "8610"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1893815-1", "question": "Name the label for traditional chinese  \u60c5\u6b4c\u6c92\u6709\u544a\u8a34\u4f60", "sql": {"sel": 5, "conds": [[2, 0, "\u60c5\u6b4c\u6c92\u6709\u544a\u8a34\u4f60"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23289934-1", "question": "Name the least number for production code for 3abc21", "sql": {"sel": 0, "conds": [[6, 0, "3ABC21"]], "agg": 2}}
+{"phase": 1, "table_id": "1-21165255-1", "question": "Name the number in season for 4300062", "sql": {"sel": 1, "conds": [[6, 0, 4300062]], "agg": 1}}
+{"phase": 2, "table_id": "2-18792938-10", "question": "Who directed hamateur night?", "sql": {"sel": 2, "conds": [[0, 0, "hamateur night"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17356205-1", "question": "What season episode is directed by Skipp Sudduth?", "sql": {"sel": 1, "conds": [[3, 0, "Skipp Sudduth"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12226390-2", "question": "Who wrote the episode titled \"the wedding anniversary\"?", "sql": {"sel": 3, "conds": [[1, 0, "\"The Wedding Anniversary\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-26736040-1", "question": "What is the highest number in series with director as Phil Abraham?", "sql": {"sel": 0, "conds": [[3, 0, "Phil Abraham"]], "agg": 1}}
+{"phase": 1, "table_id": "1-25277262-2", "question": "How many people directed episode 3 in the season?", "sql": {"sel": 3, "conds": [[1, 0, 3]], "agg": 3}}
+{"phase": 2, "table_id": "2-18792938-7", "question": "What is the release date of The Blow Out?", "sql": {"sel": 4, "conds": [[0, 0, "the blow out"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27720737-1", "question": "What is the original air date when the u.s. viewers in millions was 5.39?", "sql": {"sel": 4, "conds": [[6, 0, "5.39"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12379832-9", "question": "Who directed the movie The Star Packer?", "sql": {"sel": 4, "conds": [[0, 0, "the star packer"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11926114-1", "question": "what is the Chinese name for Forensic heroes ii?", "sql": {"sel": 2, "conds": [[1, 0, "Forensic Heroes II"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10718192-2", "question": "When did the episode titled \"Lucky Strike\" air for the first time?", "sql": {"sel": 5, "conds": [[2, 0, "\"Lucky Strike\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-23492454-1", "question": "How many episodes in the series are also episode 18 in the season?", "sql": {"sel": 0, "conds": [[1, 0, 18]], "agg": 3}}
+{"phase": 1, "table_id": "1-17356106-1", "question": "For series number 256, what was the original air date?", "sql": {"sel": 5, "conds": [[0, 0, 256]], "agg": 0}}
+{"phase": 1, "table_id": "1-28768925-1", "question": "What date did the episode that had 8.84 million u.s. viewers originally air?", "sql": {"sel": 5, "conds": [[7, 0, "8.84"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11222744-3", "question": "what is the format of \"callanetics: 10 years younger in 10 hours\"?", "sql": {"sel": 2, "conds": [[1, 0, "Callanetics: 10 Years Younger In 10 Hours"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-7", "question": "Who is the director of Little Beau Porky?", "sql": {"sel": 2, "conds": [[0, 0, "little beau porky"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10718631-2", "question": "Which episode was the number in the season where the number in the season is 10?", "sql": {"sel": 0, "conds": [[1, 0, 10]], "agg": 0}}
+{"phase": 1, "table_id": "1-29633639-1", "question": "what is the number of the premiere for the 34 peak", "sql": {"sel": 5, "conds": [[4, 0, 34]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792945-7", "question": "What is the Series of the Filmography with a Production Number of M-4-15?", "sql": {"sel": 1, "conds": [[3, 0, "m-4-15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17355933-1", "question": "Which seasons were directed by Nelson McCormick?", "sql": {"sel": 2, "conds": [[3, 0, "Nelson McCormick"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13336122-3", "question": "How many episodes have been directed by David Duchovny?", "sql": {"sel": 2, "conds": [[3, 0, "David Duchovny"]], "agg": 3}}
+{"phase": 1, "table_id": "1-23235679-1", "question": "Name who wrote 5ajn11", "sql": {"sel": 4, "conds": [[6, 0, "5AJN11"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-5", "question": "What is the name of episode number 77 in the series?", "sql": {"sel": 2, "conds": [[0, 0, 77]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-6", "question": "Who wrote the episode \"car wars\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Car Wars\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-16081644-1", "question": "What is the Result of the 2010 (83rd) Ceremony?", "sql": {"sel": 4, "conds": [[0, 0, "2010 (83rd)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10236830-1", "question": "What was the actors name for fuchzhou and nomination was best non-professional actor?", "sql": {"sel": 1, "conds": [[2, 0, "Fuchzhou"], [0, 0, "Best Non-Professional Actor"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28677723-16", "question": "What is the total score received by the couple that danced to \" ymca \"\u2014 village people?", "sql": {"sel": 7, "conds": [[2, 0, "\" YMCA \"\u2014 Village People"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2701851-2", "question": "What is the episode number for \"Old Monster\"?", "sql": {"sel": 0, "conds": [[1, 0, "\"Old Monster\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-18424435-5", "question": "What is the smallest number?", "sql": {"sel": 1, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-24132083-1", "question": "What's the series number of the episode written by Tim Schlattmann?", "sql": {"sel": 0, "conds": [[4, 0, "Tim Schlattmann"]], "agg": 2}}
+{"phase": 1, "table_id": "1-10236830-6", "question": "Which films does the actor Alla Sergiyko star in?", "sql": {"sel": 2, "conds": [[1, 0, "Alla Sergiyko"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-10", "question": "Which series had a release on 1939-07-15 with the 8863 production number?", "sql": {"sel": 1, "conds": [[4, 0, "1939-07-15"], [3, 0, "8863"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28677723-10", "question": "What is listed under tor floysvik when couple is maria & asmund?", "sql": {"sel": 4, "conds": [[0, 0, "Maria & Asmund"]], "agg": 2}}
+{"phase": 1, "table_id": "1-29436007-1", "question": "How many dates did \"dick jokes\" originally air on?", "sql": {"sel": 5, "conds": [[2, 0, "\"Dick Jokes\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-17641206-8", "question": "What is the total viewership where the title is \" your cheating art \".", "sql": {"sel": 6, "conds": [[1, 0, "\" Your Cheating Art \""]], "agg": 0}}
+{"phase": 1, "table_id": "1-23528223-2", "question": "What's the series number of the episode directed by Skipp Sudduth?", "sql": {"sel": 0, "conds": [[3, 0, "Skipp Sudduth"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10910712-5", "question": "Who directed episode # 92 (4)?", "sql": {"sel": 2, "conds": [[0, 0, "92 (4)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12030612-3", "question": "What season features writer Michael Poryes?", "sql": {"sel": 1, "conds": [[4, 0, "Michael Poryes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14889988-1", "question": "What is the title for the episode written by Robert Carlock & Dana Klein Borkow?", "sql": {"sel": 2, "conds": [[4, 0, "Robert Carlock & Dana Klein Borkow"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10610087-3", "question": "what is the original air date of the episode no in season 9?", "sql": {"sel": 5, "conds": [[1, 0, 9]], "agg": 0}}
+{"phase": 1, "table_id": "1-29219286-1", "question": "Who wrote the episode that was directed by Milan Cheylov?", "sql": {"sel": 4, "conds": [[3, 0, "Milan Cheylov"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24856090-1", "question": "What is the English name of the episode with 1.92 million HK viewers?", "sql": {"sel": 1, "conds": [[7, 0, "1.92 million"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27988559-1", "question": "What dat did episode 195 in the series originally air?", "sql": {"sel": 5, "conds": [[0, 0, 195]], "agg": 0}}
+{"phase": 1, "table_id": "1-28140588-1", "question": "Who is the director when the production code is 60034?", "sql": {"sel": 3, "conds": [[6, 0, 60034]], "agg": 0}}
+{"phase": 2, "table_id": "2-10910712-2", "question": "Who is the author of Episode 38 (16)?", "sql": {"sel": 3, "conds": [[0, 0, "38 (16)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17919342-1", "question": "Which director had not nominated as a result, and had Bayan Ko: Kapit Sa Patalim as an original title?", "sql": {"sel": 3, "conds": [[4, 0, "not nominated"], [2, 0, "bayan ko: kapit sa patalim"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17861265-1", "question": "Who was the episode writer when the viewers reached 3.03 million in the US?", "sql": {"sel": 4, "conds": [[7, 0, "3.03"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22265225-1", "question": "How many episodes were listed as number 29 in the series?", "sql": {"sel": 1, "conds": [[0, 0, "29"]], "agg": 3}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "Who directed the episode seen by 3.93 million people in the US?", "sql": {"sel": 3, "conds": [[7, 0, "3.93"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1476746-5", "question": "Original title of das leben der anderen had what director?", "sql": {"sel": 4, "conds": [[2, 0, "das leben der anderen"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26259391-1", "question": "how many series had 6.55 u.s. viewers (million) and were directed by pete michels", "sql": {"sel": 0, "conds": [[7, 0, "6.55"], [3, 0, "Pete Michels"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12152327-3", "question": "Name the category for prix uip berlin", "sql": {"sel": 0, "conds": [[4, 0, "prix uip berlin"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24132083-1", "question": "On how many different dates did the episode directed by Marcos Siega and written by Scott Buck air for the first time?", "sql": {"sel": 5, "conds": [[3, 0, "Marcos Siega"], [4, 0, "Scott Buck"]], "agg": 3}}
+{"phase": 1, "table_id": "1-26736342-1", "question": "What is the latest episode written by  John Shiban & Thomas Schnauz?", "sql": {"sel": 0, "conds": [[4, 0, "John Shiban & Thomas Schnauz"]], "agg": 1}}
+{"phase": 1, "table_id": "1-29436238-1", "question": "What date did \"the big giant head returns again (part 1)\" originally air?", "sql": {"sel": 5, "conds": [[2, 0, "\"The Big Giant Head Returns Again (Part 1)\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792948-9", "question": "What was the production number of the episode titel of pre-hysterical hare?", "sql": {"sel": 3, "conds": [[0, 0, "pre-hysterical hare"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18792948-6", "question": "What is the release date of production number 1327?", "sql": {"sel": 4, "conds": [[3, 0, 1327]], "agg": 0}}
+{"phase": 1, "table_id": "1-12226390-7", "question": "How many episodes had a title \"the great mayoralty campaign\"?", "sql": {"sel": 3, "conds": [[2, 0, "\"The Great Mayoralty Campaign\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-27491610-2", "question": "What number in season had 10.18 million US viewers?", "sql": {"sel": 1, "conds": [[6, 0, "10.18"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27776266-1", "question": "What was the production code of the episode no. 55 in the series?", "sql": {"sel": 6, "conds": [[0, 0, 55]], "agg": 0}}
+{"phase": 1, "table_id": "1-2791668-1", "question": "what is the name of the episode whose director is Michael Pressman and the number of that episode in that season is less than 10.0? ", "sql": {"sel": 2, "conds": [[3, 0, "Michael Pressman"], [1, 2, 10.0]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "Russia has films in which category?", "sql": {"sel": 0, "conds": [[3, 0, "russia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10321805-1", "question": "How many original titles did Marriage Italian-Style have? ", "sql": {"sel": 2, "conds": [[1, 0, "Marriage Italian-Style"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2182654-3", "question": "How many episodes in the series were directed by Alan Taylor?", "sql": {"sel": 0, "conds": [[3, 0, "Alan Taylor"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1876825-7", "question": "Name the number of number in series for production code of 06-04-621", "sql": {"sel": 0, "conds": [[6, 0, "06-04-621"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17350255-1", "question": "What is the Original Title, when Director is \"Ting Shan-Si\", and when Film Title Used In Nomination is \"The 800 Heroes\"?", "sql": {"sel": 2, "conds": [[3, 0, "ting shan-si"], [1, 0, "the 800 heroes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-6", "question": "What episode number in the series had a production code of 3x7554?", "sql": {"sel": 0, "conds": [[6, 0, "3X7554"]], "agg": 2}}
+{"phase": 1, "table_id": "1-27116696-1", "question": "What is the total number of production code listings of episodes written by Matthew Lau?", "sql": {"sel": 6, "conds": [[4, 0, "Matthew Lau"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24625467-1", "question": "What date did the episode with a production code of 2j5356 originally air?", "sql": {"sel": 4, "conds": [[5, 0, "2J5356"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14724369-1", "question": "Which title did Neil Affleck direct?", "sql": {"sel": 1, "conds": [[2, 0, "Neil Affleck"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17641206-8", "question": "How many episodes aired on 22january2009", "sql": {"sel": 0, "conds": [[4, 0, "22January2009"]], "agg": 3}}
+{"phase": 1, "table_id": "1-18162883-1", "question": "What was the original title of Run for Money?", "sql": {"sel": 2, "conds": [[1, 0, "Run for Money"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-4", "question": "What country did Jonas Geirnaert direct a film in?", "sql": {"sel": 3, "conds": [[2, 0, "jonas geirnaert"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14830632-1", "question": "What is the Original title with a Country that is canada?", "sql": {"sel": 2, "conds": [[3, 0, "canada"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-7", "question": "What was released on 1936-08-29?", "sql": {"sel": 0, "conds": [[4, 0, "1936-08-29"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18428024-3", "question": "What is the original air date in series 360?", "sql": {"sel": 5, "conds": [[0, 0, 360]], "agg": 3}}
+{"phase": 2, "table_id": "2-18792948-9", "question": "Which title was directed by chuck jones and released on 1958-04-12?", "sql": {"sel": 0, "conds": [[2, 0, "chuck jones"], [4, 0, "1958-04-12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1876825-6", "question": "What was the original air for the 06-03-521 production code?", "sql": {"sel": 5, "conds": [[6, 0, "06-03-521"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14724369-1", "question": "Which title had the production code 1ACX04?", "sql": {"sel": 1, "conds": [[5, 0, "1ACX04"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15717093-1", "question": "What was the title when there were 14.39 million viewers?", "sql": {"sel": 2, "conds": [[6, 0, "14.39"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13336122-3", "question": "How many episodes have been directed by David Duchovny?", "sql": {"sel": 2, "conds": [[3, 0, "David Duchovny"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2818164-2", "question": "When did the episode titled \"Bad dreams\" air for the first time?", "sql": {"sel": 4, "conds": [[1, 0, "\"Bad Dreams\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-10942714-1", "question": "What is the lowest Premiere peaking at more than 35 with a Rank of 10 and Finale greater than 33?", "sql": {"sel": 5, "conds": [[4, 1, 35], [0, 0, 10], [6, 1, 33]], "agg": 2}}
+{"phase": 1, "table_id": "1-2618152-1", "question": "What is the title of the episode with the original air date October 21, 1998?", "sql": {"sel": 2, "conds": [[5, 0, "October 21, 1998"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1893815-1", "question": "What is the simplified Chinese name for the 9th album?", "sql": {"sel": 3, "conds": [[0, 0, "9th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2182654-3", "question": "How many episodes in the season were directed by Jeremy Podeswa?", "sql": {"sel": 1, "conds": [[3, 0, "Jeremy Podeswa"]], "agg": 3}}
+{"phase": 1, "table_id": "1-16951593-1", "question": "Name the title for number in season 9", "sql": {"sel": 2, "conds": [[1, 0, "9"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18428024-3", "question": "How many series did John Banas direct?", "sql": {"sel": 0, "conds": [[3, 0, "John Banas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28760804-1", "question": "Who wrote the episode that got 5.95 million U.S. viewers?", "sql": {"sel": 3, "conds": [[6, 0, "5.95"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16951593-1", "question": "Name who wrote the episode that had 7.56 million viewers", "sql": {"sel": 4, "conds": [[7, 0, "7.56"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-6", "question": "What is the production code for the episode that had 1.32 million U.S. viewers?", "sql": {"sel": 6, "conds": [[7, 0, "1.32"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2409041-6", "question": "What is the title of season 2? ", "sql": {"sel": 2, "conds": [[1, 0, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-24625467-1", "question": "How many dates did \"Rebecca's one night stand\" originally air on?", "sql": {"sel": 4, "conds": [[1, 0, "\"Rebecca's One Night Stand\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-12564633-1", "question": "What is the name of the episode that Richard Thorpe directed?", "sql": {"sel": 2, "conds": [[3, 0, "Richard Thorpe"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29085880-1", "question": "How many million U.S. viewers saw \"Fake Me Home Tonight\"?", "sql": {"sel": 6, "conds": [[1, 0, "\"Fake Me Home Tonight\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-18569389-1", "question": "Name who directed the episode that was viewed by 4.22 million", "sql": {"sel": 2, "conds": [[6, 0, "4.22"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25276528-2", "question": "\"It's not my job\" is the minimum title in no. in season.", "sql": {"sel": 1, "conds": [[2, 0, "\"It's Not My Job\""]], "agg": 2}}
+{"phase": 2, "table_id": "2-18792948-6", "question": "What is the highest production number released on 1955-04-02 with i. freleng as the director?", "sql": {"sel": 3, "conds": [[2, 0, "i. freleng"], [4, 0, "1955-04-02"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22347090-6", "question": "What episode number in the series had a production code of 3x7554?", "sql": {"sel": 0, "conds": [[6, 0, "3X7554"]], "agg": 2}}
+{"phase": 1, "table_id": "1-22347090-5", "question": "Name the viewers for production code for 3x6704", "sql": {"sel": 7, "conds": [[6, 0, "3X6704"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18268826-1", "question": "Who's the writer of the episode seen by 3.25 million people in the US?", "sql": {"sel": 4, "conds": [[7, 0, "3.25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16471432-5", "question": "Which Directed by has an Original air date of april 29, 2000?", "sql": {"sel": 3, "conds": [[5, 0, "april 29, 2000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886027-1", "question": "Who is the director of the best foreign film?", "sql": {"sel": 4, "conds": [[2, 0, "best foreign film"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11820086-1", "question": "What was the series number for the episode \"I Forgot to Remember to Forget\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"I Forgot to Remember to Forget\""]], "agg": 2}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "Which nominating festival nominated Iao Lethem's film?", "sql": {"sel": 4, "conds": [[2, 0, "iao lethem"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27450976-1", "question": "How many people wrote the episode with a production code of 2j5507?", "sql": {"sel": 3, "conds": [[5, 0, "2J5507"]], "agg": 3}}
+{"phase": 1, "table_id": "1-18424435-3", "question": "Who directed the episode aired on February 27, 2009?", "sql": {"sel": 3, "conds": [[6, 0, "February 27, 2009"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17919342-1", "question": "Who was the director of Small Voices, a film title used in nomination?", "sql": {"sel": 3, "conds": [[1, 0, "small voices"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2468961-7", "question": "When \"the kissing game\" is the title who is the director?", "sql": {"sel": 3, "conds": [[2, 0, "\"The Kissing Game\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-12152327-2", "question": "The Prix UIP Vilo Do Conde festival nominated which film?", "sql": {"sel": 1, "conds": [[4, 0, "prix uip vilo do conde"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27303975-3", "question": "What is the title when the catalog number is cal01 / 0091037137319?", "sql": {"sel": 1, "conds": [[6, 0, "CAL01 / 0091037137319"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20046379-3", "question": "What's the title of the episode seen by 3.8 million people in the US?", "sql": {"sel": 2, "conds": [[7, 0, "3.8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2818164-8", "question": "the episode directed by art dielhenn was what number in the series? ", "sql": {"sel": 0, "conds": [[3, 0, "Art Dielhenn"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23916272-6", "question": "Who was the writer for the episode originally airing on March 1, 2004?", "sql": {"sel": 4, "conds": [[5, 0, "March 1, 2004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2818164-7", "question": "Which title has 147 as no. in series?", "sql": {"sel": 2, "conds": [[0, 0, 147]], "agg": 0}}
+{"phase": 2, "table_id": "2-16081644-1", "question": "In the 2012 (85th) Ceremony, what was the Original title of the film not nominated?", "sql": {"sel": 2, "conds": [[4, 0, "not nominated"], [0, 0, "2012 (85th)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17355743-1", "question": "Who wrote season 10", "sql": {"sel": 4, "conds": [[1, 0, 10]], "agg": 0}}
+{"phase": 1, "table_id": "1-1876825-2", "question": "Name the total number of series for march 19, 2000", "sql": {"sel": 0, "conds": [[4, 0, "March 19, 2000"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2182654-3", "question": "How many episodes in the series were directed by Alan Taylor?", "sql": {"sel": 0, "conds": [[3, 0, "Alan Taylor"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12152327-3", "question": "Name the director of alt i alt", "sql": {"sel": 2, "conds": [[1, 0, "alt i alt"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28466323-2", "question": "How many writers wrote the episode \"Woke Up Dead\"?", "sql": {"sel": 3, "conds": [[1, 0, "\"Woke Up Dead\""]], "agg": 3}}
+{"phase": 1, "table_id": "1-26409328-1", "question": "what number is the episode \"there will be bad blood\" in the series?", "sql": {"sel": 0, "conds": [[2, 0, "\"There Will Be Bad Blood\""]], "agg": 2}}
+{"phase": 1, "table_id": "1-19501664-1", "question": "Name the original air date for 15.74 viewers", "sql": {"sel": 5, "conds": [[6, 0, "15.74"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23918997-1", "question": "Who were all the writers whose episodes had 0.97 million viewers?", "sql": {"sel": 3, "conds": [[6, 0, "0.97"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27823359-1", "question": "Who wrote episode 23 in the season?", "sql": {"sel": 4, "conds": [[1, 0, "23"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25277262-2", "question": "How many people directed episode 3 in the season?", "sql": {"sel": 3, "conds": [[1, 0, 3]], "agg": 3}}
+{"phase": 1, "table_id": "1-27833469-1", "question": "What is the title of the episode number 11 of the season?", "sql": {"sel": 2, "conds": [[1, 0, "11"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29747178-2", "question": "How many millions of U.S viewers are there when the director is andy wolk?", "sql": {"sel": 6, "conds": [[2, 0, "Andy Wolk"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10942714-1", "question": "How many viewers were there for the premier with 34", "sql": {"sel": 7, "conds": [[5, 0, 34]], "agg": 0}}
+{"phase": 2, "table_id": "2-17350255-1", "question": "What is Result, when Film Title Used In Nomination is \"Kuei-Mei, A Woman\"?", "sql": {"sel": 4, "conds": [[1, 0, "kuei-mei, a woman"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10610087-6", "question": "Who wrote the episode titled \"black\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Black\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-28677723-14", "question": "Name the style for 27", "sql": {"sel": 1, "conds": [[7, 0, 27]], "agg": 0}}
+{"phase": 1, "table_id": "1-10610087-6", "question": "Who are the writers for the episode \"solo\"?", "sql": {"sel": 4, "conds": [[2, 0, "\"Solo\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-11411026-2", "question": "How many millions of U.S. viewers whatched episodes written by Krystal Houghton?", "sql": {"sel": 6, "conds": [[4, 0, "Krystal Houghton"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28768925-1", "question": "What date did the episode that had 8.84 million u.s. viewers originally air?", "sql": {"sel": 5, "conds": [[7, 0, "8.84"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28140588-1", "question": "What is the title when the director is Maynard C. Virgil i ?", "sql": {"sel": 2, "conds": [[3, 0, "Maynard C. Virgil I"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24910737-1", "question": "What is the episode title that had a US viewership of 8.16?", "sql": {"sel": 2, "conds": [[6, 0, "8.16"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24910742-1", "question": "What was the title of the episode having exactly 9.64 million US viewers?", "sql": {"sel": 2, "conds": [[6, 0, "9.64"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20538157-2", "question": "Who were the writers of episode 20?", "sql": {"sel": 4, "conds": [[1, 0, 20]], "agg": 0}}
+{"phase": 1, "table_id": "1-16432167-1", "question": "What was the original air date of the episode titled \"Beaver's Pigeons\"", "sql": {"sel": 5, "conds": [[2, 0, "\"Beaver's Pigeons\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-17350255-1", "question": "What is Year (Ceremony), when Director is \"Wang Siu-Di\"?", "sql": {"sel": 0, "conds": [[3, 0, "wang siu-di"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14562722-1", "question": "What was the airdate of the episode that was directed by giancarlo volpe and written by is john o'bryan?", "sql": {"sel": 4, "conds": [[2, 0, "Giancarlo Volpe"], [3, 0, "John O'Bryan"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12226390-2", "question": "Who directed the episode with production code 28?", "sql": {"sel": 2, "conds": [[5, 0, 28]], "agg": 0}}
+{"phase": 1, "table_id": "1-10798928-1", "question": "Who directed Dulcinea?", "sql": {"sel": 3, "conds": [[2, 0, "Dulcinea"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27250813-1", "question": "What is the title of the episode no. 16 by season?", "sql": {"sel": 2, "conds": [[1, 0, 16]], "agg": 0}}
+{"phase": 1, "table_id": "1-22347090-5", "question": "Name the viewers for production code for 3x6704", "sql": {"sel": 7, "conds": [[6, 0, "3X6704"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10910712-2", "question": "What is the episode # of the episode that aired on April 5, 1998?", "sql": {"sel": 0, "conds": [[4, 0, "april 5, 1998"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18102421-2", "question": "What number episode in the season was titled \"Dead on Arrival\"?", "sql": {"sel": 1, "conds": [[2, 0, "\"Dead on Arrival\""]], "agg": 1}}
+{"phase": 1, "table_id": "1-11665016-2", "question": "Which episode was written by anthony e. zuiker & ken solarz", "sql": {"sel": 2, "conds": [[4, 0, "Anthony E. Zuiker & Ken Solarz"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18424435-5", "question": "Which air dates have 1.229 canadian viewers (millions)?", "sql": {"sel": 6, "conds": [[8, 0, "1.229"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27776266-1", "question": "What was the production code of the episode with an audience of 14.79 million in the US?", "sql": {"sel": 6, "conds": [[7, 0, "14.79"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792945-7", "question": "What is the Series of the Filmography with a Release date of 1946-03-16?", "sql": {"sel": 1, "conds": [[4, 0, "1946-03-16"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26429658-1", "question": "What is the episode number in the season titled \"65 million years off\"?", "sql": {"sel": 1, "conds": [[2, 0, "\"65 Million Years Off\""]], "agg": 0}}
+{"phase": 1, "table_id": "1-17919342-1", "question": "How many directors were there for the film with the original title of The Moises Padilla Story?", "sql": {"sel": 3, "conds": [[2, 0, "The Moises Padilla Story"]], "agg": 3}}
+{"phase": 1, "table_id": "1-28019988-2", "question": "What series number is the episode entitled \"Booty\"?", "sql": {"sel": 0, "conds": [[1, 0, "\"Booty\""]], "agg": 1}}
+{"phase": 1, "table_id": "1-20963074-1", "question": "Name the original title for not nominated result with report on death", "sql": {"sel": 2, "conds": [[4, 0, "Not Nominated"], [1, 0, "Report on Death"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12226390-4", "question": "What episode was written by Bobby Bell and Bill Lee?", "sql": {"sel": 1, "conds": [[4, 0, "Bobby Bell and Bill Lee"]], "agg": 1}}
+{"phase": 1, "table_id": "1-21313498-1", "question": "when was the premiere when a 3.3 millions of North American watched the episode whose writer was Rob Wright?", "sql": {"sel": 5, "conds": [[7, 0, "3.3"], [4, 0, "Rob Wright"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11174272-1", "question": "What is the high average that has a Finale larger than 35, a HK viewers of 2.12 million, and a Peak larger than 40?", "sql": {"sel": 3, "conds": [[6, 1, 35], [7, 0, "2.12 million"], [4, 1, 40]], "agg": 1}}
+{"phase": 1, "table_id": "1-2618142-1", "question": "name the title of the episode that ed sherin directed.", "sql": {"sel": 2, "conds": [[3, 0, "Ed Sherin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18792938-6", "question": "What series has 1935-07-13 as the release date?", "sql": {"sel": 1, "conds": [[4, 0, "1935-07-13"]], "agg": 0}}

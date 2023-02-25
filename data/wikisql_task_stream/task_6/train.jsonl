@@ -1,0 +1,574 @@
+{"phase": 2, "table_id": "2-12779865-2", "question": "Which label has a date of 1987?", "sql": {"sel": 2, "conds": [[1, 0, "1987"]], "agg": 0}}
+{"phase": 1, "table_id": "1-171236-1", "question": "If the census ranking is 231 of 5,008, what was the population?", "sql": {"sel": 3, "conds": [[4, 0, "231 of 5,008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18624683-3", "question": "What was Christian Kubusch's lane when the heat was more than 2 and time was DNS?", "sql": {"sel": 1, "conds": [[4, 0, "dns"], [2, 0, "christian kubusch"], [0, 1, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-1304976-1", "question": "What is the county when the value for Others% is 1.1%, and the value for Kerry# is greater than 19,177, and the value for Bush% is 52.1%?", "sql": {"sel": 0, "conds": [[5, 0, "1.1%"], [2, 1, "19,177"], [3, 0, "52.1%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-10", "question": "What is the geo ID for the township with 0.771 square miles of water?", "sql": {"sel": 7, "conds": [[4, 0, "0.771"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15322952-2", "question": "What is the total number of Dates during which the Catalog nebbc003 was given?", "sql": {"sel": 1, "conds": [[4, 0, "nebbc003"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17278190-1", "question": "what's the listing date for the verdigris creek bridge in royal of antelope county?", "sql": {"sel": 2, "conds": [[4, 0, "antelope"], [3, 0, "royal"], [0, 0, "verdigris creek bridge"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10696974-4", "question": "Which city is the University of Montana located in?", "sql": {"sel": 3, "conds": [[1, 0, "university of montana"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12256602-8", "question": "What years does the school have with a roll of 33?", "sql": {"sel": 1, "conds": [[6, 0, 33]], "agg": 0}}
+{"phase": 2, "table_id": "2-12888640-1", "question": "What was the format in September 1990 for Catalog 887 847-1?", "sql": {"sel": 3, "conds": [[4, 0, "887 847-1"], [0, 0, "september 1990"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17237920-1", "question": "When was the oakachoy covered bridge listed?", "sql": {"sel": 2, "conds": [[0, 0, "oakachoy covered bridge"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-46", "question": "What was the largest ethnic group in 2002 of the settlement with the cyrillic name of \u0432\u0430\u0442\u0438\u043d?", "sql": {"sel": 4, "conds": [[1, 0, "\u0412\u0430\u0442\u0438\u043d"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25200461-9", "question": "If the city is Santa Clara, what is the population total number?", "sql": {"sel": 1, "conds": [[0, 0, "Santa Clara"]], "agg": 3}}
+{"phase": 1, "table_id": "1-16799784-12", "question": "What is the highest year named for the name Tie Fluctus?", "sql": {"sel": 4, "conds": [[0, 0, "Tie Fluctus"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11160779-2", "question": "Which city has an ICAO of TBA?", "sql": {"sel": 0, "conds": [[3, 0, "tba"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11492579-2", "question": "Which city has the ICAO of LIRF?", "sql": {"sel": 0, "conds": [[3, 0, "lirf"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15322952-2", "question": "What is the total number of Dates during which the Catalog nebbc003 was given?", "sql": {"sel": 1, "conds": [[4, 0, "nebbc003"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1511373-1", "question": "What is the Median family income when the Median household income is $38,137?", "sql": {"sel": 3, "conds": [[2, 0, "$38,137"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17237920-1", "question": "In which county is the swann covered bridge located?", "sql": {"sel": 4, "conds": [[0, 0, "swann covered bridge"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703978-2", "question": "What was the region of the release from May 27, 2009?", "sql": {"sel": 0, "conds": [[1, 0, "may 27, 2009"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1200886-2", "question": "Which ICAO's IATA is ath?", "sql": {"sel": 3, "conds": [[2, 0, "ath"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1580963-13", "question": "Who has the title of marquis?", "sql": {"sel": 2, "conds": [[3, 0, "marquis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097545-4", "question": "Which Catalog has a Region of Canada and a Format of cd/dvd?", "sql": {"sel": 4, "conds": [[0, 0, "canada"], [3, 0, "cd/dvd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18918776-9", "question": "How much Col (m) has a Prominence (m) of 2,344?", "sql": {"sel": 4, "conds": [[3, 0, "2,344"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12002754-1", "question": "Name the state with an evening gown more than 8.86 and interview less than 8.7 and swimsuit less than 8.96", "sql": {"sel": 0, "conds": [[3, 1, 8.86], [2, 2, 8.96], [1, 2, 8.7]], "agg": 0}}
+{"phase": 2, "table_id": "2-12146269-11", "question": "What is the Whakamaru school's authority?", "sql": {"sel": 4, "conds": [[0, 0, "whakamaru school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17938457-8", "question": "Which name has a state of Yan?", "sql": {"sel": 2, "conds": [[0, 0, "yan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1840562-1", "question": "What county has a Median family income of $37,667?", "sql": {"sel": 0, "conds": [[3, 0, "$37,667"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1752650-2", "question": "What is the city in India with an airport named Sardar Vallabhbhai Patel International Airport?", "sql": {"sel": 0, "conds": [[1, 0, "india"], [4, 0, "sardar vallabhbhai patel international airport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18624885-3", "question": "How many Heats have a Name of miguel molina?", "sql": {"sel": 0, "conds": [[2, 0, "miguel molina"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22815568-7", "question": "What is the unemployment rate in those places in Alexander county whose status is transitional?", "sql": {"sel": 2, "conds": [[5, 0, "Transitional"], [0, 0, "Alexander"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-15", "question": "What is the diameter in km of t'ien hu colles?", "sql": {"sel": 3, "conds": [[0, 0, "t'ien hu colles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12386570-2", "question": "Which lane did the athlete from Zambia swim in?", "sql": {"sel": 1, "conds": [[3, 0, "zambia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14553504-2", "question": "Which city has an ICAO of VCCJ?", "sql": {"sel": 0, "conds": [[3, 0, "vccj"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16243048-1", "question": "Which mountain range contains Sierra Blanca Peak?", "sql": {"sel": 3, "conds": [[1, 0, "sierra blanca peak"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25200461-9", "question": "What is the other is the city is Los Gatos?", "sql": {"sel": 6, "conds": [[0, 0, "Los Gatos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1591085-1", "question": "Which airport has SEB as its IATA code?", "sql": {"sel": 4, "conds": [[2, 0, "seb"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11976313-5", "question": "What is the mountain range at 37.3934\u00b0n 104.9201\u00b0w?", "sql": {"sel": 3, "conds": [[4, 0, "37.3934\u00b0n 104.9201\u00b0w"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12937564-3", "question": "Which region had a label of Central Station?", "sql": {"sel": 0, "conds": [[2, 0, "central station"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14773149-1", "question": "What shows as the format for catalog 11 135?", "sql": {"sel": 3, "conds": [[4, 0, "11 135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12779865-2", "question": "Which catalogue has a formate of \"CD Remastered with 3 bonus tracks\"?", "sql": {"sel": 4, "conds": [[3, 0, "cd remastered with 3 bonus tracks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12045304-2", "question": "Which is the smallest evening gown score when the interview score was more than 9.164, the swimsuit stat was less than 9.35, and the average is less than 9.233?", "sql": {"sel": 3, "conds": [[1, 1, 9.164], [2, 2, 9.35], [4, 2, 9.233]], "agg": 2}}
+{"phase": 1, "table_id": "1-16799784-7", "question": "what is the diameter (km) of feature of latitude 40.5s", "sql": {"sel": 3, "conds": [[1, 0, "40.5S"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703978-2", "question": "What was the region of the release from May 27, 2009?", "sql": {"sel": 0, "conds": [[1, 0, "may 27, 2009"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18946749-1", "question": "When 44 is the col in meters what is the country?", "sql": {"sel": 2, "conds": [[6, 0, 44]], "agg": 0}}
+{"phase": 2, "table_id": "2-1809191-2", "question": "What is the date for the catalog CDZAP22 in the United Kingdom?", "sql": {"sel": 1, "conds": [[0, 0, "united kingdom"], [4, 0, "cdzap22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10647532-1", "question": "What label has RTRADLP 346 as catalogue?", "sql": {"sel": 2, "conds": [[4, 0, "rtradlp 346"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1148083-5", "question": "What format is catalogue 148615 in?", "sql": {"sel": 3, "conds": [[4, 0, "148615"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18947170-8", "question": "Which Elevation (m) has a Prominence (m) larger than 2,120, and a Peak of mount karisimbi, and a Col (m) larger than 1195?", "sql": {"sel": 2, "conds": [[3, 1, "2,120"], [0, 0, "mount karisimbi"], [4, 1, 1195]], "agg": 2}}
+{"phase": 2, "table_id": "2-12045304-2", "question": "Which mean interview number had an average of more than 9.233, a swimsuit stat of more than 9.473, and an evening gown score of more than 9.671?", "sql": {"sel": 1, "conds": [[4, 1, 9.233], [2, 0, 9.473], [3, 1, 9.671]], "agg": 5}}
+{"phase": 2, "table_id": "2-18600760-3", "question": "What is the highest latitude when there are more than 0.518 square miles of water, a longitude less than -99.830606, and a population of 18?", "sql": {"sel": 5, "conds": [[4, 1, 0.518], [6, 2, -99.830606], [2, 0, 18]], "agg": 1}}
+{"phase": 1, "table_id": "1-16799784-8", "question": "What is the origin of the name of Keller Patera? ", "sql": {"sel": 5, "conds": [[0, 0, "Keller Patera"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12888640-1", "question": "What was the catalog of the 7\" single in France?", "sql": {"sel": 4, "conds": [[3, 0, "7\" single"], [2, 0, "france"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12146269-4", "question": "Name the authority for morrinsville college", "sql": {"sel": 4, "conds": [[0, 0, "morrinsville college"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15322962-2", "question": "What is the date for the Nebula Label, and a nebdjx029 catalog?", "sql": {"sel": 1, "conds": [[2, 0, "nebula"], [4, 0, "nebdjx029"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-24", "question": "Which Water (sqmi) has a Township of yorktown, and a GEO ID smaller than 3802187940?", "sql": {"sel": 4, "conds": [[0, 0, "yorktown"], [7, 2, 3802187940]], "agg": 2}}
+{"phase": 2, "table_id": "2-159162-4", "question": "What is the release Date of Catalog RR 8655-2?", "sql": {"sel": 1, "conds": [[4, 0, "rr 8655-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12303251-1", "question": "What is the total roll with a decile less than 7, and an authority of state, in the Macraes Flat area?", "sql": {"sel": 6, "conds": [[5, 0, 7], [4, 0, "state"], [3, 0, "macraes flat"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10689762-4", "question": "Which university hosted in Long Beach?", "sql": {"sel": 1, "conds": [[3, 0, "long beach"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-13", "question": "How long is the diameter that has a longitude of 8.0e?", "sql": {"sel": 3, "conds": [[2, 0, "8.0e"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17287870-1", "question": "What bridge in Sheridan county was built in 1915?", "sql": {"sel": 0, "conds": [[4, 0, "sheridan"], [1, 0, "1915"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14871719-1", "question": "Which Format has a Catalog of 561 445-1?", "sql": {"sel": 3, "conds": [[4, 0, "561 445-1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-2", "question": "Name the diameter for  likho , east slavic deity of bad fate.", "sql": {"sel": 3, "conds": [[5, 0, "Likho , East Slavic deity of bad fate."]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-11", "question": "What is the name origin of Nike Fossae? ", "sql": {"sel": 5, "conds": [[0, 0, "Nike Fossae"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1281247-2", "question": "Which city has an IATA of AUH?", "sql": {"sel": 0, "conds": [[2, 0, "auh"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-33", "question": "What is the largest ethnic group in \u043c\u0430\u043b\u0435 \u043f\u0438\u0458\u0430\u0446\u0435 (hungarian: kispiac)?", "sql": {"sel": 4, "conds": [[1, 0, "\u041c\u0430\u043b\u0435 \u041f\u0438\u0458\u0430\u0446\u0435 (Hungarian: Kispiac)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-176524-2", "question": "What is the minimum population of the parish with a 750.51 km area?", "sql": {"sel": 3, "conds": [[2, 0, "750.51"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1679864-2", "question": "What is the City in the Maldives?", "sql": {"sel": 0, "conds": [[1, 0, "maldives"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176529-1", "question": "What is the name of the place that has a census ranking of 1,229 of 5,008?", "sql": {"sel": 0, "conds": [[4, 0, "1,229 of 5,008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-8", "question": "Name the latitude for 3809935740", "sql": {"sel": 5, "conds": [[7, 0, 3809935740]], "agg": 0}}
+{"phase": 2, "table_id": "2-17237920-1", "question": "When was the oakachoy covered bridge listed?", "sql": {"sel": 2, "conds": [[0, 0, "oakachoy covered bridge"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12261926-2", "question": "What is the stage of Fabiano Fontanelli, who had a Trofeo Fast Team of Gewiss Playbus and a point classification of Fabrizio Guidi?", "sql": {"sel": 0, "conds": [[6, 0, "gewiss playbus"], [3, 0, "fabrizio guidi"], [1, 0, "fabiano fontanelli"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12937564-3", "question": "Which label released the album on 12\" EP in Germany?", "sql": {"sel": 2, "conds": [[3, 0, "12\" ep"], [0, 0, "germany"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-39", "question": "What kind of type is  \u0431\u043e\u043a\u0430?", "sql": {"sel": 2, "conds": [[1, 0, "\u0411\u043e\u043a\u0430"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1597410-1", "question": "What is the name of the airport located in Russia with an IATA of KRR?", "sql": {"sel": 4, "conds": [[1, 0, "russia"], [2, 0, "krr"]], "agg": 0}}
+{"phase": 1, "table_id": "1-170961-2", "question": "At census ranking 1,184 of 5,008, what was the minimum population?", "sql": {"sel": 3, "conds": [[4, 0, "1,184 of 5,008"]], "agg": 2}}
+{"phase": 2, "table_id": "2-12703558-2", "question": "What date is associated with the label Village Records?", "sql": {"sel": 1, "conds": [[2, 0, "village records"]], "agg": 0}}
+{"phase": 2, "table_id": "2-159162-4", "question": "What is the release Date of Catalog RR 8655-2?", "sql": {"sel": 1, "conds": [[4, 0, "rr 8655-2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-9", "question": "What is the name origin of Morrigan Linea?", "sql": {"sel": 5, "conds": [[0, 0, "Morrigan Linea"]], "agg": 0}}
+{"phase": 1, "table_id": "1-171361-2", "question": "Name the area km 2 for balmoral", "sql": {"sel": 2, "conds": [[0, 0, "Balmoral"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11976313-5", "question": "What is the highest rank Mount Elbert has?", "sql": {"sel": 0, "conds": [[1, 0, "mount elbert"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1752650-2", "question": "What airport is in Toronto?", "sql": {"sel": 4, "conds": [[0, 0, "toronto"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30121096-1", "question": "How many poor law unions have an area of 262 acres and is in drinagh civil parish?", "sql": {"sel": 4, "conds": [[1, 0, 262], [3, 0, "Drinagh"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18625252-3", "question": "Who has more than 4 heat for Germany and 7 lanes?", "sql": {"sel": 2, "conds": [[0, 1, 4], [3, 0, "germany"], [1, 0, 7]], "agg": 0}}
+{"phase": 1, "table_id": "1-1733457-1", "question": "Name the kerry # for others# is 44", "sql": {"sel": 2, "conds": [[6, 0, 44]], "agg": 0}}
+{"phase": 2, "table_id": "2-1373826-1", "question": "What is the largest number of households with median family income of $52,106 with less than 21,403 in population?", "sql": {"sel": 5, "conds": [[3, 0, "$52,106"], [4, 2, "21,403"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2562572-11", "question": "What is the second way of writting \u043f\u043b\u0430\u0432\u043d\u0430.", "sql": {"sel": 0, "conds": [[1, 0, "\u041f\u043b\u0430\u0432\u043d\u0430"]], "agg": 0}}
+{"phase": 1, "table_id": "1-171236-2", "question": "What is the Area KM 2 of the place that has a Census ranking of 1,016 of 5,008?", "sql": {"sel": 2, "conds": [[4, 0, "1,016 of 5,008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-8", "question": "In what year was the feature at a 33.3S latitude named? ", "sql": {"sel": 4, "conds": [[1, 0, "33.3S"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14449593-1", "question": "What is the ICAO when the IATA shows mfm?", "sql": {"sel": 3, "conds": [[2, 0, "mfm"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12261926-2", "question": "What is the general classification with the winner being evgeni berzin?", "sql": {"sel": 2, "conds": [[1, 0, "Evgeni Berzin"]], "agg": 3}}
+{"phase": 2, "table_id": "2-176524-1", "question": "What is the area of drummond village?", "sql": {"sel": 2, "conds": [[1, 0, "village"], [0, 0, "drummond"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2562572-43", "question": "How many entries are there for type for the cyrillic name other names is \u043f\u0430\u0434\u0438\u043d\u0430 (slovak: padina)?", "sql": {"sel": 2, "conds": [[1, 0, "\u041f\u0430\u0434\u0438\u043d\u0430 (Slovak: Padina)"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15480222-4", "question": "What is the venue at Stanford University?", "sql": {"sel": 2, "conds": [[1, 0, "stanford university"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1449587-4", "question": "What is the format for the United States dated July 23, 2002?", "sql": {"sel": 3, "conds": [[0, 0, "united states"], [1, 0, "july 23, 2002"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1419115-1", "question": "When the county is Carroll what is the lowest population?", "sql": {"sel": 4, "conds": [[0, 0, "carroll"]], "agg": 2}}
+{"phase": 1, "table_id": "1-2847477-2", "question": "What is the pinyin name for the english name xin county?", "sql": {"sel": 3, "conds": [[0, 0, "Xin County"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10721054-4", "question": "What was the host of the round at Hammons Student Center?", "sql": {"sel": 1, "conds": [[2, 0, "hammons student center"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1777876-1", "question": "How many households have a Median household income of $43,889?", "sql": {"sel": 5, "conds": [[2, 0, "$43,889"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17287870-1", "question": "What is the county of the bridge in Boulder?", "sql": {"sel": 4, "conds": [[3, 0, "boulder"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12146269-4", "question": "Name the total number of roll for state authority and stanley avenue school with decile more than 5", "sql": {"sel": 6, "conds": [[4, 0, "state"], [0, 0, "stanley avenue school"], [5, 1, 5]], "agg": 3}}
+{"phase": 2, "table_id": "2-12017602-21", "question": "What is the Decile with a State Authority and a roll of 120?", "sql": {"sel": 5, "conds": [[4, 0, "state"], [6, 0, 120]], "agg": 4}}
+{"phase": 2, "table_id": "2-12262008-2", "question": "Who was the winner in stage 7 with a general classification of Pavel Tonkov?", "sql": {"sel": 1, "conds": [[2, 0, "pavel tonkov"], [0, 0, "7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1772272-1", "question": "What is the highest Population, when Per Capita Income is \"$17,168\", and when Number of Households is greater than 3,287?", "sql": {"sel": 4, "conds": [[1, 0, "$17,168"], [5, 1, "3,287"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18600760-19", "question": "What is the average ANSI code for the town of Sherman and the smaller of the water area in square miles than 0.005?", "sql": {"sel": 8, "conds": [[0, 0, "sherman"], [4, 2, 0.005]], "agg": 5}}
+{"phase": 2, "table_id": "2-18600760-22", "question": "What was the latitude for van meter who had a land(sqmi) larger than 35.747, Water(sqmi) of 0 and a GEO ID smaller than 3809981860?", "sql": {"sel": 5, "conds": [[3, 1, 35.747], [4, 0, 0], [7, 2, 3809981860], [0, 0, "van meter"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16799784-1", "question": "What is the Latitude of the Alajen Vallis named after 1997?", "sql": {"sel": 1, "conds": [[4, 1, 1997], [0, 0, "alajen vallis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15755111-2", "question": "What is the Region with a Catalog of alca-487?", "sql": {"sel": 0, "conds": [[4, 0, "alca-487"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625437-3", "question": "What is the lowest heat that had a time of 1:02.85 in a lane larger than 7?", "sql": {"sel": 0, "conds": [[4, 0, "1:02.85"], [1, 1, 7]], "agg": 2}}
+{"phase": 2, "table_id": "2-18624683-3", "question": "What's the heat in the lane less than 3 with a time of 14:48.39?", "sql": {"sel": 0, "conds": [[1, 2, 3], [4, 0, "14:48.39"]], "agg": 5}}
+{"phase": 2, "table_id": "2-15204733-1", "question": "What is the release Date of the 7\" single in Catalog 87184?", "sql": {"sel": 0, "conds": [[3, 0, "7\" single"], [4, 0, "87184"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1597693-1", "question": "Which Country has a IATA of vie?", "sql": {"sel": 1, "conds": [[2, 0, "vie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16248783-2", "question": "When did the United Kingdom format a stereo LP?", "sql": {"sel": 1, "conds": [[0, 0, "united kingdom"], [3, 0, "stereo lp"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17093870-5", "question": "What Label has the Region of Australia?", "sql": {"sel": 2, "conds": [[0, 0, "australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12261926-2", "question": "What is the Trofeo Fast Team with a point classification of Silvio Martinello and stage 6?", "sql": {"sel": 6, "conds": [[3, 0, "silvio martinello"], [0, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12017602-20", "question": "What were the years for Redhill school, authority of state?", "sql": {"sel": 1, "conds": [[4, 0, "state"], [0, 0, "redhill school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17310478-8", "question": "What year is Zhong from?", "sql": {"sel": 5, "conds": [[2, 0, "zhong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15143976-2", "question": "Which Region has a Format of cd album, and a Label of kemado records, and a Catalog of kem 071?", "sql": {"sel": 0, "conds": [[3, 0, "cd album"], [2, 0, "kemado records"], [4, 0, "kem 071"]], "agg": 0}}
+{"phase": 2, "table_id": "2-170969-2", "question": "What is the Area of the Parish with a Population of 2,113?", "sql": {"sel": 2, "conds": [[3, 0, "2,113"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22815568-2", "question": "What is the unemployment rate for the county with a market income per capita of $20,958?", "sql": {"sel": 2, "conds": [[3, 0, "$20,958"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2562572-35", "question": "Name the dominant religion 2002 for village  banatski despotovac", "sql": {"sel": 5, "conds": [[2, 0, "village"], [0, 0, "Banatski Despotovac"]], "agg": 0}}
+{"phase": 2, "table_id": "2-170961-1", "question": "What is the sum of the areas for populations of 542?", "sql": {"sel": 2, "conds": [[3, 0, 542]], "agg": 4}}
+{"phase": 2, "table_id": "2-16752996-2", "question": "What is Date, when Catalog is EPC 81436?", "sql": {"sel": 1, "conds": [[4, 0, "epc 81436"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15480222-4", "question": "Peterson Gym is in what city?", "sql": {"sel": 3, "conds": [[2, 0, "peterson gym"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703558-2", "question": "What was the date for the catalog 32xa-112?", "sql": {"sel": 1, "conds": [[4, 0, "32xa-112"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-25", "question": "When ratkovo is the settlement what is the cyrllic name other names?", "sql": {"sel": 1, "conds": [[0, 0, "Ratkovo"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16245045-2", "question": "What label is from the Region of Spain?", "sql": {"sel": 2, "conds": [[0, 0, "spain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-171361-1", "question": "When the status is rural community what's the lowest area in kilometers squared?", "sql": {"sel": 2, "conds": [[1, 0, "rural community"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18600760-2", "question": "what is the highest ANSI code with a latitude more than 47.623288 and a geo id more than 3805508060 with land (sqmi) more than 35.66 and a longitude less than -102.054248", "sql": {"sel": 8, "conds": [[5, 1, 47.623288], [7, 1, 3805508060], [3, 1, 35.66], [6, 2, -102.054248]], "agg": 1}}
+{"phase": 2, "table_id": "2-12017602-5", "question": "What is the name of the school in Hillcrest?", "sql": {"sel": 0, "conds": [[3, 0, "hillcrest"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12017602-17", "question": "Which gender had a decile of more than 1 and featured the South Auckland Seventh-Day Adventist School?", "sql": {"sel": 2, "conds": [[5, 1, 1], [0, 0, "south auckland seventh-day adventist school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-23", "question": "what is the county when the latitude is more than 48.581299, ansi code is more than 1037103 and the geo id is 3801985060?", "sql": {"sel": 1, "conds": [[5, 1, 48.581299], [8, 1, 1037103], [7, 0, 3801985060]], "agg": 0}}
+{"phase": 1, "table_id": "1-22815568-6", "question": "What is the status if the poverty rate is 11.4%?", "sql": {"sel": 5, "conds": [[4, 0, "11.4%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10777895-2", "question": "What is the IATA code for SHahjalal International Airport?", "sql": {"sel": 2, "conds": [[4, 0, "shahjalal international airport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12214488-3", "question": "Who is the authority for the coed Eastbourne school?", "sql": {"sel": 4, "conds": [[3, 0, "eastbourne"], [2, 0, "coed"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-25", "question": "When  \u0440\u0430\u0442\u043a\u043e\u0432\u043e is cyrillic name other names and village is the type and orthodox Christianity is the dominant religion of  2002 what is the settlement? ", "sql": {"sel": 0, "conds": [[5, 0, "Orthodox Christianity"], [2, 0, "village"], [1, 0, "\u0420\u0430\u0442\u043a\u043e\u0432\u043e"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097180-5", "question": "Which region had a catalogue number of 9362482872?", "sql": {"sel": 0, "conds": [[4, 0, "9362482872"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11492579-2", "question": "What is the IATA of Madrid-Barajas Airport?", "sql": {"sel": 2, "conds": [[4, 0, "madrid-barajas airport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1772272-1", "question": "What is Median Family Income, when Median Household Income is \"$50,717\"?", "sql": {"sel": 3, "conds": [[2, 0, "$50,717"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12017602-20", "question": "Which authority had a role of 651?", "sql": {"sel": 4, "conds": [[6, 0, 651]], "agg": 0}}
+{"phase": 2, "table_id": "2-12446715-3", "question": "What is the average of all Heats of competitors with a Time of 59.11 and a lane higher than 3?", "sql": {"sel": 0, "conds": [[4, 0, "59.11"], [1, 1, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-14825299-1", "question": "Which region had a catalog number of 570 734-2?", "sql": {"sel": 2, "conds": [[4, 0, "570 734-2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30121046-1", "question": "What is the poor law union of the Ardacrow townland?", "sql": {"sel": 4, "conds": [[0, 0, "Ardacrow"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12386507-3", "question": "How many lanes have a Nationality of united states, and a Name of aaron peirsol?", "sql": {"sel": 1, "conds": [[3, 0, "united states"], [2, 0, "aaron peirsol"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11115240-4", "question": "What region is the host university of southern california located?", "sql": {"sel": 0, "conds": [[1, 0, "university of southern california"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1525232-3", "question": "Name the country for johannesburg", "sql": {"sel": 1, "conds": [[0, 0, "johannesburg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097158-4", "question": "Name the october 15, 2004 catalogue", "sql": {"sel": 4, "conds": [[1, 0, "october 15, 2004"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16245045-2", "question": "What label is from the Region of Spain?", "sql": {"sel": 2, "conds": [[0, 0, "spain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17278336-2", "question": "What is Country, when City is \"Zamboanga\"?", "sql": {"sel": 1, "conds": [[0, 0, "zamboanga"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-19", "question": "how is called the township where the latitude is 47.377790", "sql": {"sel": 0, "conds": [[5, 0, "47.377790"]], "agg": 0}}
+{"phase": 1, "table_id": "1-170958-2", "question": "What is the land area of Hopewell parish in km2?", "sql": {"sel": 2, "conds": [[0, 0, "Hopewell"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1733513-1", "question": "What is the percentage of others when the number for Bush is 1329? ", "sql": {"sel": 5, "conds": [[4, 0, 1329]], "agg": 0}}
+{"phase": 2, "table_id": "2-1861948-2", "question": "What is the format for the catalogue number GAD 2014 CD on July 6, 1998?", "sql": {"sel": 3, "conds": [[4, 0, "gad 2014 cd"], [1, 0, "july 6, 1998"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1530019-1", "question": "How much is per capita income when median household income is $42,845?", "sql": {"sel": 1, "conds": [[2, 0, "$42,845"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745717-2", "question": "What airport has an ICAO of Birk?", "sql": {"sel": 4, "conds": [[3, 0, "birk"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12303251-4", "question": "Which school has a roll larger than 26 and is located in Fairfield?", "sql": {"sel": 0, "conds": [[6, 1, 26], [3, 0, "fairfield"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-1", "question": "In what county is the latitude less than 46.935364 and GEO ID is 3801700500?", "sql": {"sel": 1, "conds": [[5, 2, 46.935364], [7, 0, 3801700500]], "agg": 0}}
+{"phase": 2, "table_id": "2-11332611-2", "question": "What is the label on the United States?", "sql": {"sel": 2, "conds": [[0, 0, "united states"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1200886-2", "question": "Which country's city is Sendai?", "sql": {"sel": 1, "conds": [[0, 0, "sendai"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1583515-9", "question": "What is the title for YI?", "sql": {"sel": 3, "conds": [[2, 0, "yi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097158-4", "question": "Name the label for january 24, 2005", "sql": {"sel": 2, "conds": [[1, 0, "january 24, 2005"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15480222-4", "question": "The University of Colorado hosted what region?", "sql": {"sel": 0, "conds": [[1, 0, "university of colorado"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12303251-5", "question": "What's the school name in Balclutha that has a Decile of 7 and a roll larger than 186?", "sql": {"sel": 0, "conds": [[3, 0, "balclutha"], [5, 2, 7], [6, 1, 186]], "agg": 0}}
+{"phase": 2, "table_id": "2-17287021-1", "question": "What year was the bridge in Kent built?", "sql": {"sel": 1, "conds": [[4, 0, "kent"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12197750-6", "question": "Name the least decile for state authority and area of eketahuna with roll more than 44", "sql": {"sel": 5, "conds": [[4, 0, "state"], [3, 0, "eketahuna"], [6, 1, 44]], "agg": 2}}
+{"phase": 2, "table_id": "2-12063332-2", "question": "Which smallest interview number had a swimsuit stat of less than 9.322, an evening gown score of more than 9.259, and an average number of 9.321?", "sql": {"sel": 1, "conds": [[2, 2, 9.322], [3, 1, 9.259], [4, 0, 9.321]], "agg": 2}}
+{"phase": 2, "table_id": "2-16243048-1", "question": "Which location has a rank of 147?", "sql": {"sel": 4, "conds": [[0, 0, 147]], "agg": 0}}
+{"phase": 2, "table_id": "2-14553504-2", "question": "For an ICAO of VCCT, what is the IATA?", "sql": {"sel": 2, "conds": [[3, 0, "vcct"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17237920-1", "question": "Which bridge is located in Nectar, in Blount County?", "sql": {"sel": 0, "conds": [[4, 0, "blount"], [3, 0, "nectar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-16", "question": "What is the highest 2010 population having GEO ID of 3802763220 and longitude over -98.936777?", "sql": {"sel": 2, "conds": [[7, 0, 3802763220], [6, 1, -98.936777]], "agg": 1}}
+{"phase": 1, "table_id": "1-170961-2", "question": "at area 191.43 what is the total number of census ranking?", "sql": {"sel": 4, "conds": [[2, 0, "191.43"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12146269-9", "question": "What Gender are the schools that have a Roll of 135?", "sql": {"sel": 2, "conds": [[6, 0, "135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18947170-6", "question": "Count the Prominence (m) of Col (m) smaller than 0?", "sql": {"sel": 3, "conds": [[4, 2, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-1840578-1", "question": "What was the population of Green County?", "sql": {"sel": 4, "conds": [[0, 0, "green"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18600760-22", "question": "What was the population fo the township with a Latitude of 48.853051, and a Water (sqmi) smaller than 0.9590000000000001?", "sql": {"sel": 2, "conds": [[5, 0, 48.853051], [4, 2, 0.9590000000000001]], "agg": 1}}
+{"phase": 2, "table_id": "2-1497794-2", "question": "what city is the toamasina airport in?", "sql": {"sel": 0, "conds": [[4, 0, "toamasina airport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1750185-2", "question": "Which Label has a Format of cd, a Country of Japan and a Catalog of vjcp-68403?", "sql": {"sel": 2, "conds": [[3, 0, "cd"], [0, 0, "japan"], [4, 0, "vjcp-68403"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12383012-2", "question": "What is the lowest lane with a time of 2:05.90, and a Heat larger than 3?", "sql": {"sel": 1, "conds": [[4, 0, "2:05.90"], [0, 1, 3]], "agg": 2}}
+{"phase": 1, "table_id": "1-2562572-37", "question": "Name the settlement for \u0430\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e", "sql": {"sel": 0, "conds": [[1, 0, "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176521-2", "question": "What is the population of the parish that has an area of 304.06?", "sql": {"sel": 3, "conds": [[2, 0, 304.06]], "agg": 4}}
+{"phase": 2, "table_id": "2-10349289-5", "question": "What state is the University of Tennessee located in?", "sql": {"sel": 4, "conds": [[1, 0, "university of tennessee"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12937564-3", "question": "Which label released the album on 12\" EP in Germany?", "sql": {"sel": 2, "conds": [[3, 0, "12\" ep"], [0, 0, "germany"]], "agg": 0}}
+{"phase": 2, "table_id": "2-171354-3", "question": "What is the lowest population that has Big Hole Tract 8 (south) as the official name, with an area km 2 greater than 27.82?", "sql": {"sel": 3, "conds": [[0, 0, "big hole tract 8 (south)"], [2, 1, 27.82]], "agg": 2}}
+{"phase": 2, "table_id": "2-12015401-2", "question": "What is the highest interview for Louisiana with an average above 9.324?", "sql": {"sel": 1, "conds": [[4, 1, 9.324], [0, 0, "louisiana"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22815568-13", "question": "what is the county where the market income per capita is $25,006?", "sql": {"sel": 0, "conds": [[3, 0, "$25,006"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17093870-5", "question": "What Label has the Region of Australia?", "sql": {"sel": 2, "conds": [[0, 0, "australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12262008-2", "question": "Who was the winner from team Asics-c.g.a. and has a mountains classification of Mariano Piccoli?", "sql": {"sel": 1, "conds": [[6, 0, "asics-c.g.a."], [4, 0, "mariano piccoli"]], "agg": 0}}
+{"phase": 1, "table_id": "1-170969-2", "question": "How many areas of 375.06 km 2 have a census ranking? ", "sql": {"sel": 4, "conds": [[2, 0, "375.06"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12703558-2", "question": "What date is associated with the label Village Records?", "sql": {"sel": 1, "conds": [[2, 0, "village records"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30121096-1", "question": "Which civil parish is for the townland clooncugger?", "sql": {"sel": 3, "conds": [[0, 0, "Clooncugger"]], "agg": 0}}
+{"phase": 2, "table_id": "2-171354-3", "question": "What status has 10 as the population?", "sql": {"sel": 1, "conds": [[3, 0, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-15322962-2", "question": "What is the date for the Nebula Label, and a nebdjx029 catalog?", "sql": {"sel": 1, "conds": [[2, 0, "nebula"], [4, 0, "nebdjx029"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1828102-1", "question": "What is the population of Tioga county?", "sql": {"sel": 4, "conds": [[0, 0, "tioga"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120633-1", "question": "Which townland has a 213 acre area?", "sql": {"sel": 0, "conds": [[1, 0, 213]], "agg": 0}}
+{"phase": 2, "table_id": "2-10721054-4", "question": "What city is University Gym (Gold Mine) in?", "sql": {"sel": 3, "conds": [[2, 0, "university gym (gold mine)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30121082-1", "question": "What are the Poor Law Unions when the area (in acres) is 142?", "sql": {"sel": 4, "conds": [[1, 0, 142]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-11", "question": "COunt the sum of Diameter (km) which has a Latitude of 62.7n?", "sql": {"sel": 3, "conds": [[1, 0, "62.7n"]], "agg": 4}}
+{"phase": 1, "table_id": "1-16799784-3", "question": "At a latitude of 71.1e, what is the feature's name origin?", "sql": {"sel": 5, "conds": [[2, 0, "71.1E"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12256602-7", "question": "What area is named Mackenzie college?", "sql": {"sel": 3, "conds": [[0, 0, "mackenzie college"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16234974-1", "question": "what is the rank when the state is colorado and the location is 37.7859\u00b0n 107.7039\u00b0w?", "sql": {"sel": 0, "conds": [[2, 0, "colorado"], [4, 0, "37.7859\u00b0n 107.7039\u00b0w"]], "agg": 4}}
+{"phase": 1, "table_id": "1-2562572-46", "question": "What was the largest ethnic group in so\u010dica?", "sql": {"sel": 4, "conds": [[0, 0, "So\u010dica"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15442855-1", "question": "Which Format has a Date of 1993, and a Catalog of cleo 2481-2?", "sql": {"sel": 3, "conds": [[1, 0, 1993], [4, 0, "cleo 2481-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12383012-2", "question": "What is the highest lane for nisha millet?", "sql": {"sel": 1, "conds": [[2, 0, "nisha millet"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2562572-54", "question": "What is the dominant religion in 2002 for the population of 2337 in 2011?", "sql": {"sel": 5, "conds": [[3, 0, 2337]], "agg": 0}}
+{"phase": 2, "table_id": "2-1597410-1", "question": "Which country has an IATA of EVN?", "sql": {"sel": 1, "conds": [[2, 0, "evn"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1300525-1", "question": "What is the capital of the district who's simplified name is  \u4fe1\u5dde\u533a?", "sql": {"sel": 3, "conds": [[1, 0, "\u4fe1\u5dde\u533a"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11976313-5", "question": "Which state is West Spanish Peak in?", "sql": {"sel": 2, "conds": [[1, 0, "west spanish peak"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-39", "question": "What is the ethnic group is \u043a\u043e\u043d\u0430\u043a?", "sql": {"sel": 4, "conds": [[1, 0, "\u041a\u043e\u043d\u0430\u043a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10696974-4", "question": "Which city is the host of the University of Texas?", "sql": {"sel": 3, "conds": [[1, 0, "university of texas"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-13", "question": "What is the latitude with a GEO ID larger than 3806352640, and a Land(sqmi) of 34.345?", "sql": {"sel": 5, "conds": [[7, 1, 3806352640], [3, 0, 34.345]], "agg": 5}}
+{"phase": 2, "table_id": "2-12146269-10", "question": "Which years have a Decile smaller than 6, an Area of te kuiti, and an Authority of state integrated?", "sql": {"sel": 1, "conds": [[5, 2, 6], [3, 0, "te kuiti"], [4, 0, "state integrated"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17239214-1", "question": "What is the list date of the historic place that was built 1896, 1914?", "sql": {"sel": 2, "conds": [[1, 0, "1896, 1914"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25200461-9", "question": "If the registered voters is 66.8%, what is the minimum population?", "sql": {"sel": 1, "conds": [[2, 0, "66.8%"]], "agg": 2}}
+{"phase": 2, "table_id": "2-171250-2", "question": "With an area km 2 of 343.95 what is the official name?", "sql": {"sel": 0, "conds": [[2, 0, 343.95]], "agg": 0}}
+{"phase": 2, "table_id": "2-12017602-6", "question": "What's the roll for summerland primary when decile is over 6?", "sql": {"sel": 6, "conds": [[5, 1, 6], [0, 0, "summerland primary"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18946749-4", "question": "What is the highest value for col(m) when prominence(m) is 3755?", "sql": {"sel": 6, "conds": [[5, 0, 3755]], "agg": 1}}
+{"phase": 2, "table_id": "2-171361-2", "question": "What's the population of durham parish?", "sql": {"sel": 3, "conds": [[0, 0, "durham"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1809191-2", "question": "Which country is dated October 20, 1976?", "sql": {"sel": 0, "conds": [[1, 0, "october 20, 1976"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1828018-1", "question": "What is the highest number of households with a median household income of $31,176, and a population of 25,607?", "sql": {"sel": 5, "conds": [[2, 0, "$31,176"], [4, 2, "25,607"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1733457-1", "question": "What is the lowest Bush#, when Bush% is \"65.4%\"?", "sql": {"sel": 4, "conds": [[3, 0, "65.4%"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1472053-1", "question": "How many households are in highlands county?", "sql": {"sel": 5, "conds": [[0, 0, "highlands"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17360908-2", "question": "What format has France as the region, with Universal Licensing Music (ulm) as the label?", "sql": {"sel": 3, "conds": [[0, 0, "france"], [2, 0, "universal licensing music (ulm)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12427181-3", "question": "What is the average lane with Netherlands Antilles Nationality?", "sql": {"sel": 1, "conds": [[3, 0, "netherlands antilles"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1097180-5", "question": "Which label had a CD format and a date of June 25, 2002?", "sql": {"sel": 2, "conds": [[3, 0, "cd"], [1, 0, "june 25, 2002"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14935943-2", "question": "Which Catalog has a Format of 7\" single (second cover)?", "sql": {"sel": 4, "conds": [[3, 0, "7\" single (second cover)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-20", "question": "What longitude is tatman township?", "sql": {"sel": 6, "conds": [[0, 0, "Tatman"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-19", "question": "What is the average longitude for the water area of 0.093 and has a GEO ID tag larger than 3808174460?", "sql": {"sel": 6, "conds": [[4, 0, 0.093], [7, 1, 3808174460]], "agg": 5}}
+{"phase": 2, "table_id": "2-17338174-13", "question": "Which state was Dai from?", "sql": {"sel": 0, "conds": [[2, 0, "dai"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097158-4", "question": "Name the date that is a cd", "sql": {"sel": 1, "conds": [[3, 0, "cd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-171236-2", "question": "What is the population of Cardwell?", "sql": {"sel": 3, "conds": [[0, 0, "Cardwell"]], "agg": 2}}
+{"phase": 1, "table_id": "1-2562572-33", "question": "What is the other name for martono\u0161?", "sql": {"sel": 1, "conds": [[0, 0, "Martono\u0161"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176529-2", "question": "What is the total area with the census ranking of 3,129 of 5,008, and a Population smaller than 460?", "sql": {"sel": 2, "conds": [[4, 0, "3,129 of 5,008"], [3, 2, 460]], "agg": 3}}
+{"phase": 2, "table_id": "2-1840453-1", "question": "How many households are in Ottawa?", "sql": {"sel": 5, "conds": [[0, 0, "ottawa"]], "agg": 4}}
+{"phase": 1, "table_id": "1-2401326-1", "question": "How many different counts of the votes for Bush are there in the county where he got 69.7% of the votes?", "sql": {"sel": 4, "conds": [[3, 0, "69.7%"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1097545-4", "question": "Which Catalog has a Region of Canada and a Format of cd/dvd?", "sql": {"sel": 4, "conds": [[0, 0, "canada"], [3, 0, "cd/dvd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18947170-7", "question": "What is the total prominence number in m of ethiopia, which has a col in m of 1728 and an elevation less than 3,358?", "sql": {"sel": 3, "conds": [[1, 0, "ethiopia"], [4, 0, 1728], [2, 2, "3,358"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1523673-2", "question": "What is the date for Hydra Head Records with a CD format?", "sql": {"sel": 1, "conds": [[2, 0, "hydra head records"], [3, 0, "cd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-20", "question": "Name the largest ethnic group for 24112", "sql": {"sel": 4, "conds": [[3, 0, 24112]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625252-3", "question": "Who has less than 3 lanes for France?", "sql": {"sel": 2, "conds": [[3, 0, "france"], [1, 2, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625598-3", "question": "What is the nationality of the athlete with a time of 2:12.56?", "sql": {"sel": 3, "conds": [[4, 0, "2:12.56"]], "agg": 0}}
+{"phase": 2, "table_id": "2-183366-4", "question": "What is the catalog number for the Grilled Cheese label?", "sql": {"sel": 4, "conds": [[2, 0, "grilled cheese"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-7", "question": "Which Year named has a Name of nuptadi planitia, and a Diameter (km) larger than 1,200.0?", "sql": {"sel": 4, "conds": [[0, 0, "nuptadi planitia"], [3, 1, "1,200.0"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15188879-1", "question": "Which Label has a Region of canada?", "sql": {"sel": 1, "conds": [[2, 0, "canada"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12197750-6", "question": "Name the years for dannevirke south school", "sql": {"sel": 1, "conds": [[0, 0, "dannevirke south school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15755111-2", "question": "What is the Region with a Catalog of alca-487?", "sql": {"sel": 0, "conds": [[4, 0, "alca-487"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-4", "question": "What is the longitude of Angerona Tholus?", "sql": {"sel": 2, "conds": [[0, 0, "angerona tholus"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15143976-2", "question": "Which Format has a Label of toy's factory records?", "sql": {"sel": 3, "conds": [[2, 0, "toy's factory records"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-54", "question": "How many items appear in the population 2011 column for the kr\u010dedin settlement?", "sql": {"sel": 3, "conds": [[0, 0, "Kr\u010dedin"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1733457-1", "question": "Name the bush% for where others # is 90", "sql": {"sel": 3, "conds": [[6, 0, 90]], "agg": 0}}
+{"phase": 2, "table_id": "2-10373048-5", "question": "Tell me the region for frank erwin center", "sql": {"sel": 0, "conds": [[2, 0, "frank erwin center"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120761-1", "question": "What are all the acreages of the townlands in the Macroom poor law union and Macroom civil parish?", "sql": {"sel": 1, "conds": [[4, 0, "Macroom"], [3, 0, "Macroom"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12303251-3", "question": "Makarora primary school has a roll less than 141 and what gender?", "sql": {"sel": 2, "conds": [[6, 2, 141], [0, 0, "makarora primary school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12197750-7", "question": "What gender is allowed at the school which has a roll of 338?", "sql": {"sel": 2, "conds": [[6, 0, 338]], "agg": 0}}
+{"phase": 2, "table_id": "2-12384714-2", "question": "What is the time in Romania that has a lane larger than 4?", "sql": {"sel": 4, "conds": [[1, 1, 4], [3, 0, "romania"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-15", "question": "How many square miles of water is in Ramsey County with a geo id larger than 3807159460.0?", "sql": {"sel": 4, "conds": [[1, 0, "Ramsey"], [7, 1, 3807159460.0]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-12", "question": "Which township has a longitude of -98.741656?", "sql": {"sel": 0, "conds": [[6, 0, "-98.741656"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18268852-4", "question": "Which format is in Japan?", "sql": {"sel": 3, "conds": [[0, 0, "japan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12044284-2", "question": "What is the highest evening gown with an average of 9.531 and swimsuit smaller than 9.449?", "sql": {"sel": 3, "conds": [[4, 0, 9.531], [2, 2, 9.449]], "agg": 1}}
+{"phase": 2, "table_id": "2-12694869-2", "question": "What label is the ALCA-9197 Catalog?", "sql": {"sel": 2, "conds": [[4, 0, "alca-9197"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1447085-1", "question": "What county has 2053 households? ", "sql": {"sel": 2, "conds": [[6, 0, 2053]], "agg": 0}}
+{"phase": 2, "table_id": "2-15682621-2", "question": "What is Catalog, when Format is CD, when Region is US, when Date is before 2004, and when Label is Taang! Records?", "sql": {"sel": 4, "conds": [[3, 0, "cd"], [0, 0, "us"], [1, 2, 2004], [2, 0, "taang! records"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120605-1", "question": "What is the area in acres of gortnaskehy?", "sql": {"sel": 1, "conds": [[0, 0, "Gortnaskehy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12064199-1", "question": "What is the lowest average of the contestant with an interview of 8.275 and an evening gown bigger than 8.7?", "sql": {"sel": 4, "conds": [[1, 0, 8.275], [3, 1, 8.7]], "agg": 2}}
+{"phase": 2, "table_id": "2-1405757-1", "question": "What county has $51,456 income per capita?", "sql": {"sel": 0, "conds": [[1, 0, "$51,456"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10660046-2", "question": "What is the IATA for Nanjing?", "sql": {"sel": 2, "conds": [[0, 0, "nanjing"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120547-1", "question": "What is the barony of the Gurraghy townland?", "sql": {"sel": 2, "conds": [[0, 0, "Gurraghy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14568768-2", "question": "What format was used for Mobil 1?", "sql": {"sel": 3, "conds": [[4, 0, "mobil 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17359093-2", "question": "What is IATA, when City is \"Alexandria\"?", "sql": {"sel": 2, "conds": [[0, 0, "alexandria"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17388337-3", "question": "What was the date for XLLP 369?", "sql": {"sel": 1, "conds": [[4, 0, "xllp 369"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-50", "question": "How many types of settlement if Neradin?", "sql": {"sel": 2, "conds": [[0, 0, "Neradin"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2562572-39", "question": "What town has the population of 777?", "sql": {"sel": 1, "conds": [[3, 0, "777"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1861948-2", "question": "What is the label for CAD 2014 CD?", "sql": {"sel": 2, "conds": [[4, 0, "cad 2014 cd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1369624-1", "question": "Median household income of $40,340, and a Number of households smaller than 64,767 is what average population?", "sql": {"sel": 4, "conds": [[2, 0, "$40,340"], [5, 2, "64,767"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17360908-2", "question": "What format has France as the region, with Universal Licensing Music (ulm) as the label?", "sql": {"sel": 3, "conds": [[0, 0, "france"], [2, 0, "universal licensing music (ulm)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1597410-1", "question": "What is the ICAO for the destination in Armenia?", "sql": {"sel": 3, "conds": [[1, 0, "armenia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097545-4", "question": "What is the date for a CD format with a Region of Europe?", "sql": {"sel": 1, "conds": [[0, 0, "europe"], [3, 0, "cd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1733513-1", "question": "What is the percentage of others when the number of others is 2286?", "sql": {"sel": 5, "conds": [[6, 0, 2286]], "agg": 0}}
+{"phase": 2, "table_id": "2-17572829-2", "question": "What is the ICAO for the Yangon International Airport?", "sql": {"sel": 3, "conds": [[4, 0, "yangon international airport"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1638437-2", "question": "Name the traditional for population 74779", "sql": {"sel": 2, "conds": [[5, 0, 74779]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625370-3", "question": "What is the Lane of the swimmer with a Time of 8:34.25?", "sql": {"sel": 1, "conds": [[4, 0, "8:34.25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18438650-3", "question": "What is the Format of the release with Catalog number 2508668?", "sql": {"sel": 3, "conds": [[4, 0, "2508668"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12375672-2", "question": "What is the gender for Otama?", "sql": {"sel": 2, "conds": [[3, 0, "otama"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1591085-1", "question": "What is the ICAO code for the airport with RBA as its IATA code?", "sql": {"sel": 3, "conds": [[2, 0, "rba"]], "agg": 0}}
+{"phase": 1, "table_id": "1-170969-2", "question": "What is the census ranking when the area is 78.67 ?", "sql": {"sel": 4, "conds": [[2, 0, "78.67"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17239214-1", "question": "Where is the historic place that was built in 1910?", "sql": {"sel": 3, "conds": [[1, 0, "1910"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1148083-5", "question": "What format is the Catalogue 9362486152 from the region of Australia in?", "sql": {"sel": 3, "conds": [[4, 0, "9362486152"], [0, 0, "australia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1447085-1", "question": "What is the median household income for Woodside?", "sql": {"sel": 4, "conds": [[1, 0, "Woodside"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17338174-13", "question": "What was Mu's title?", "sql": {"sel": 3, "conds": [[2, 0, "mu"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-9", "question": "How many years have a longitude measure of 20.0e?", "sql": {"sel": 4, "conds": [[2, 0, "20.0E"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16245045-2", "question": "The Catalog of ilps 9153 is from what region?", "sql": {"sel": 0, "conds": [[4, 0, "ilps 9153"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120761-1", "question": "How many acres in the townland of Coomroe?", "sql": {"sel": 1, "conds": [[0, 0, "Coomroe"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12888640-1", "question": "Which region had the CD maxi format?", "sql": {"sel": 2, "conds": [[3, 0, "cd maxi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14568768-2", "question": "What format was used for Mobil 1?", "sql": {"sel": 3, "conds": [[4, 0, "mobil 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17287021-1", "question": "What year was the bridge in Kent built?", "sql": {"sel": 1, "conds": [[4, 0, "kent"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22815568-7", "question": "What is the population of the country of McDowell?", "sql": {"sel": 1, "conds": [[0, 0, "McDowell"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18946749-2", "question": "What is the elevation (m) of the Mount Wilhelm peak? ", "sql": {"sel": 4, "conds": [[1, 0, "Mount Wilhelm"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17310478-8", "question": "Which Royal house has a name of ding?", "sql": {"sel": 4, "conds": [[2, 0, "ding"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-4", "question": "Where is longitude 202.9e?", "sql": {"sel": 0, "conds": [[2, 0, "202.9E"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2135222-2", "question": "What is the traditional with density of 820?", "sql": {"sel": 2, "conds": [[6, 0, 820]], "agg": 0}}
+{"phase": 2, "table_id": "2-15186554-1", "question": "What Label released a CD single in 1993?", "sql": {"sel": 1, "conds": [[3, 0, "cd single"], [0, 0, "1993"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18624168-2", "question": "What Airport's IATA is SEA?", "sql": {"sel": 4, "conds": [[2, 0, "sea"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1622736-2", "question": "what is the city when the country is libya and the iata is ben?", "sql": {"sel": 0, "conds": [[1, 0, "libya"], [2, 0, "ben"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12383012-2", "question": "What is the highest lane for heat 6 with a time of dns?", "sql": {"sel": 1, "conds": [[0, 0, 6], [4, 0, "dns"]], "agg": 1}}
+{"phase": 1, "table_id": "1-30120556-1", "question": "What civil paris appears when Ballynamona is the townland with 126 acres?", "sql": {"sel": 3, "conds": [[0, 0, "Ballynamona"], [1, 0, 126]], "agg": 0}}
+{"phase": 2, "table_id": "2-16679797-4", "question": "Which state includes the city of Storrs?", "sql": {"sel": 4, "conds": [[3, 0, "storrs"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-19", "question": "what is the name of the townships with 32.222 land", "sql": {"sel": 0, "conds": [[3, 0, "32.222"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-26", "question": "What are the cyrillic and other names of the settlement whose population is 6591?", "sql": {"sel": 1, "conds": [[3, 0, 6591]], "agg": 0}}
+{"phase": 2, "table_id": "2-1304316-1", "question": "What Kerry number does Taylor county have with more than 65 others#?", "sql": {"sel": 2, "conds": [[0, 0, "taylor"], [6, 1, 65]], "agg": 3}}
+{"phase": 1, "table_id": "1-18946749-4", "question": "What is the lowest elevation(m) for the peak Mount Taylor?", "sql": {"sel": 4, "conds": [[1, 0, "Mount Taylor"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1097545-4", "question": "What is the date for a CD format with a Region of Europe?", "sql": {"sel": 1, "conds": [[0, 0, "europe"], [3, 0, "cd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15146625-1", "question": "What label has 887 448-2 as the catalog?", "sql": {"sel": 1, "conds": [[4, 0, "887 448-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15471981-2", "question": "In what format was the release from the Nebt068 catalog on April 11, 2005 in?", "sql": {"sel": 3, "conds": [[1, 0, "april 11, 2005"], [4, 0, "nebt068"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17266403-1", "question": "What is the Location of the Bridge Built in 1869?", "sql": {"sel": 3, "conds": [[1, 0, "1869"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-20", "question": "How many ansi codes are there for longitude 46.415037?", "sql": {"sel": 8, "conds": [[5, 0, "46.415037"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12063332-2", "question": "What is the highest mean number for Texas when the swimsuit stat was more than 8.839?", "sql": {"sel": 4, "conds": [[0, 0, "texas"], [2, 1, 8.839]], "agg": 1}}
+{"phase": 1, "table_id": "1-18600760-3", "question": "What was the township with a geo ID of 3807116660?", "sql": {"sel": 0, "conds": [[7, 0, 3807116660]], "agg": 0}}
+{"phase": 1, "table_id": "1-171236-1", "question": "With the official name Quispamsis, what is the census ranking?", "sql": {"sel": 4, "conds": [[0, 0, "Quispamsis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-183362-1", "question": "What Label has a Format of cd, and a Catalog of crgd 86136?", "sql": {"sel": 2, "conds": [[3, 0, "cd"], [4, 0, "crgd 86136"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17388337-3", "question": "What was the date for XLLP 369?", "sql": {"sel": 1, "conds": [[4, 0, "xllp 369"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18624740-3", "question": "What is the Lane of the swimmer from Uzbekistan in Heat 1?", "sql": {"sel": 1, "conds": [[0, 0, 1], [3, 0, "uzbekistan"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1809191-2", "question": "What country has CD format and catalog RCD 10523?", "sql": {"sel": 0, "conds": [[3, 0, "cd"], [4, 0, "rcd 10523"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12214488-7", "question": "What school in Dalefield has a roll less than 81?", "sql": {"sel": 0, "conds": [[6, 2, 81], [3, 0, "dalefield"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-33", "question": "What type of settlement is \u043e\u0440\u043e\u043c (hungarian: orom)?", "sql": {"sel": 2, "conds": [[1, 0, "\u041e\u0440\u043e\u043c (Hungarian: Orom)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14825299-1", "question": "Which region had a release format of CD Maxi?", "sql": {"sel": 2, "conds": [[3, 0, "cd maxi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16247366-2", "question": "On what date was the catalog cy-24623 for New Zealand?", "sql": {"sel": 1, "conds": [[0, 0, "new zealand"], [4, 0, "cy-24623"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176533-1", "question": "What is the Area km 2 with a Census Ranking of 1,773 of 5,008?", "sql": {"sel": 2, "conds": [[4, 0, "1,773 of 5,008"]], "agg": 4}}
+{"phase": 1, "table_id": "1-170961-2", "question": "when the population was 1599, what was the census ranking?", "sql": {"sel": 4, "conds": [[3, 0, 1599]], "agg": 0}}
+{"phase": 2, "table_id": "2-15188879-1", "question": "Which Date has a Catalog of 887 195-2, and a Format of cd maxi?", "sql": {"sel": 0, "conds": [[4, 0, "887 195-2"], [3, 0, "cd maxi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1580963-13", "question": "Which state has a king named xiang?", "sql": {"sel": 0, "conds": [[3, 0, "king"], [2, 0, "xiang"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10349289-5", "question": "What venue is in Long Beach?", "sql": {"sel": 2, "conds": [[3, 0, "long beach"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12382948-3", "question": "what heat number had a time of 58.44?", "sql": {"sel": 0, "conds": [[4, 0, "58.44"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17287021-1", "question": "In which county is East Providence?", "sql": {"sel": 4, "conds": [[3, 0, "east providence"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12044284-2", "question": "What is the total interviews of Iowa, and with an evening gown smaller than 9.625?", "sql": {"sel": 1, "conds": [[0, 0, "iowa"], [3, 2, 9.625]], "agg": 3}}
+{"phase": 1, "table_id": "1-2562572-44", "question": "What is the largest ethnic group in the settlement with a 2011 population of 5082?", "sql": {"sel": 4, "conds": [[3, 0, 5082]], "agg": 3}}
+{"phase": 2, "table_id": "2-12044284-2", "question": "What is the sum of swimsuit with an evening gown of 9.773 and average larger than 9.674?", "sql": {"sel": 2, "conds": [[3, 0, 9.773], [4, 1, 9.674]], "agg": 4}}
+{"phase": 1, "table_id": "1-2562572-44", "question": "What was the dominant religion in 2002 in lokve?", "sql": {"sel": 5, "conds": [[0, 0, "Lokve"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-14", "question": "What's the latitude when the longitude is 152.0e later than 1997?", "sql": {"sel": 1, "conds": [[4, 1, 1997], [2, 0, "152.0e"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18268852-4", "question": "Which label is in a limited edition cd/dvd format?", "sql": {"sel": 2, "conds": [[3, 0, "limited edition cd/dvd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12303251-2", "question": "What is the area of Cromwell Primary school, which has a state authority?", "sql": {"sel": 3, "conds": [[4, 0, "state"], [0, 0, "cromwell primary school"]], "agg": 0}}
+{"phase": 1, "table_id": "1-176529-2", "question": "What is the name of the place with 582.20 square km area?", "sql": {"sel": 0, "conds": [[2, 0, "582.20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12382876-3", "question": "what is the name that saw 4 heats and a lane higher than 7?", "sql": {"sel": 2, "conds": [[0, 0, 4], [1, 1, 7]], "agg": 0}}
+{"phase": 1, "table_id": "1-22815568-2", "question": "How many status' are there with a population of 90565?", "sql": {"sel": 5, "conds": [[1, 0, 90565]], "agg": 3}}
+{"phase": 2, "table_id": "2-12174210-4", "question": "When a school has authority of state and a decile greater than 1, what is the roll number?", "sql": {"sel": 6, "conds": [[4, 0, "state"], [5, 1, 1]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-24", "question": "How much Latitude has a Water (sqmi) smaller than 0?", "sql": {"sel": 5, "conds": [[4, 2, 0]], "agg": 3}}
+{"phase": 2, "table_id": "2-10743839-4", "question": "What state has the University of California, Los Angeles?", "sql": {"sel": 4, "conds": [[1, 0, "university of california, los angeles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1373826-1", "question": "What is the least population with more than 78,748 households in Davis County?", "sql": {"sel": 4, "conds": [[5, 1, "78,748"], [0, 0, "davis"]], "agg": 2}}
+{"phase": 1, "table_id": "1-30121082-1", "question": "What are the areas (in acres) of the Kilnahera East townland?", "sql": {"sel": 1, "conds": [[0, 0, "Kilnahera East"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-35", "question": "Name the population 2011 for mihajlovo", "sql": {"sel": 3, "conds": [[0, 0, "Mihajlovo"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1827960-1", "question": "Which Number of households has a County of cook, and Population smaller than 5,176?", "sql": {"sel": 5, "conds": [[0, 0, "cook"], [4, 2, "5,176"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1749585-2", "question": "what is the iata when the city is leipzig?", "sql": {"sel": 2, "conds": [[0, 0, "leipzig"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-11", "question": "What is the ethnic majority in the only town?", "sql": {"sel": 4, "conds": [[2, 0, "town"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12694869-2", "question": "What label is the ALCA-9197 Catalog?", "sql": {"sel": 2, "conds": [[4, 0, "alca-9197"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625509-3", "question": "What is the lowest heat number for a swimmer with a time of 2:34.94?", "sql": {"sel": 0, "conds": [[4, 0, "2:34.94"]], "agg": 2}}
+{"phase": 1, "table_id": "1-22815568-3", "question": "How many statuses are listed for Wayne county? ", "sql": {"sel": 5, "conds": [[0, 0, "Wayne"]], "agg": 3}}
+{"phase": 1, "table_id": "1-30120664-1", "question": "Name  the townland for fermoy and ballynoe", "sql": {"sel": 0, "conds": [[4, 0, "Fermoy"], [3, 0, "Ballynoe"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-26", "question": "How many settlements are named \u0452\u0443\u0440\u0452\u0438\u043d (croatian: \u0111ur\u0111in)?", "sql": {"sel": 0, "conds": [[1, 0, "\u0402\u0443\u0440\u0452\u0438\u043d (Croatian: \u0110ur\u0111in)"]], "agg": 3}}
+{"phase": 2, "table_id": "2-171236-2", "question": "What is the area in square kilometers of Studholm?", "sql": {"sel": 2, "conds": [[0, 0, "studholm"]], "agg": 3}}
+{"phase": 1, "table_id": "1-16799784-9", "question": "At a longitude of 293.0e, what is the diameter, in km?", "sql": {"sel": 3, "conds": [[2, 0, "293.0E"]], "agg": 0}}
+{"phase": 1, "table_id": "1-171361-1", "question": "What is the population of each community with city status?", "sql": {"sel": 3, "conds": [[1, 0, "City"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17310478-8", "question": "What type of state is bo qin?", "sql": {"sel": 1, "conds": [[2, 0, "bo qin"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-46", "question": "Which settlement has a cyrillic and other name of \u0432\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0446\u0438 (romanian: voivodin\u0163)?", "sql": {"sel": 0, "conds": [[1, 0, "\u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0446\u0438 (Romanian: Voivodin\u0163)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15322952-2", "question": "What Catalog was released in Germany?", "sql": {"sel": 4, "conds": [[0, 0, "germany"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12382578-2", "question": "What is the lowest numbered Lane with a Time of 1:10.57 and Heat larger than 2?", "sql": {"sel": 1, "conds": [[0, 1, 2], [4, 0, "1:10.57"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1523673-2", "question": "Which country has Hydra Head Records with a 2lp format?", "sql": {"sel": 0, "conds": [[3, 0, "2lp"], [2, 0, "hydra head records"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1546629-3", "question": "What catalog has the United Kingdom as the country?", "sql": {"sel": 4, "conds": [[0, 0, "united kingdom"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-22", "question": "Name the dominant religion for \u0441\u0442\u0430\u043d\u0438\u0448\u0438\u045b", "sql": {"sel": 5, "conds": [[1, 0, "\u0421\u0442\u0430\u043d\u0438\u0448\u0438\u045b"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-14", "question": "What is the longitude with a latitude of 48.930222 with a Geo ID smaller than 3806755660?", "sql": {"sel": 6, "conds": [[5, 0, 48.930222], [7, 2, 3806755660]], "agg": 3}}
+{"phase": 1, "table_id": "1-22815568-3", "question": "What is the market income per capita in a county where the status is distressed and the unemployment rate is at 10.5%? ", "sql": {"sel": 3, "conds": [[5, 0, "Distressed"], [2, 0, "10.5%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625370-3", "question": "What is the Name of the swimmer with a Time of 9:04.86 in Heat 2?", "sql": {"sel": 2, "conds": [[0, 0, 2], [4, 0, "9:04.86"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-9", "question": "What is the cyrillic name for the settlement with the population of 2125?", "sql": {"sel": 1, "conds": [[3, 0, 2125]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-13", "question": "When was  the most recently named feature named?", "sql": {"sel": 4, "conds": [], "agg": 1}}
+{"phase": 1, "table_id": "1-30120556-1", "question": "How many items appear in the area column when Glasvaunta is the townland?", "sql": {"sel": 1, "conds": [[0, 0, "Glasvaunta"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12256602-5", "question": "Which name has Years of 1\u20138, a Decile of 9, and a Roll smaller than 141?", "sql": {"sel": 0, "conds": [[1, 0, "1\u20138"], [5, 0, 9], [6, 2, 141]], "agg": 0}}
+{"phase": 2, "table_id": "2-18918776-7", "question": "What is the average prominence in m of pietrosul rodnei peak, which has an elevation less than 2,303?", "sql": {"sel": 3, "conds": [[0, 0, "pietrosul rodnei"], [2, 2, "2,303"]], "agg": 5}}
+{"phase": 1, "table_id": "1-2847477-2", "question": "What is the density of the place with an area of 1512?", "sql": {"sel": 6, "conds": [[4, 0, 1512]], "agg": 1}}
+{"phase": 1, "table_id": "1-27003223-4", "question": "What is the percentage of registered voters in which the d-r spread is +14.3%?", "sql": {"sel": 2, "conds": [[5, 0, "+14.3%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12146269-9", "question": "What is the Name of a state Authority that has a Roll of 72?", "sql": {"sel": 0, "conds": [[4, 0, "state"], [6, 0, "72"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176533-2", "question": "How much Area km 2 have a Population of 1,215?", "sql": {"sel": 2, "conds": [[3, 0, "1,215"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1828044-1", "question": "What is the per capita income with more than 2,466 households and a median family income of $53,940?", "sql": {"sel": 1, "conds": [[5, 1, "2,466"], [3, 0, "$53,940"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1262363-2", "question": "What is the IATA for Ringway Airport in the United Kingdom?", "sql": {"sel": 2, "conds": [[1, 0, "united kingdom"], [4, 0, "ringway airport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12079804-1", "question": "What is the greatest interview that has a swimsuit less than 8.838?", "sql": {"sel": 1, "conds": [[2, 2, 8.838]], "agg": 1}}
+{"phase": 2, "table_id": "2-1827960-1", "question": "What Number of households have a Median family income of $58,491?", "sql": {"sel": 5, "conds": [[3, 0, "$58,491"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17938457-8", "question": "Which state has a royal house of Ying?", "sql": {"sel": 0, "conds": [[4, 0, "ying"]], "agg": 0}}
+{"phase": 2, "table_id": "2-171354-2", "question": "Can you tell me the sum of Area km 2 that has the Official Name of glenelg?", "sql": {"sel": 2, "conds": [[0, 0, "glenelg"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10696974-4", "question": "Who is the host in the city of Philadelphia?", "sql": {"sel": 1, "conds": [[3, 0, "philadelphia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12146269-3", "question": "Name the authority for te akau with roll less than 254 and decile of 8", "sql": {"sel": 4, "conds": [[6, 2, 254], [5, 0, "8"], [3, 0, "te akau"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12045304-2", "question": "What is the total number of interview scores that have an evening gown score of 9.543 and an average that is bigger than 9.521?", "sql": {"sel": 1, "conds": [[3, 0, 9.543], [4, 1, 9.521]], "agg": 4}}
+{"phase": 2, "table_id": "2-14825299-1", "question": "Which region had a release format of CD Maxi?", "sql": {"sel": 2, "conds": [[3, 0, "cd maxi"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1638437-2", "question": "Name the number of pinyin where simplified is \u6cb3\u897f\u533a", "sql": {"sel": 3, "conds": [[1, 0, "\u6cb3\u897f\u533a"]], "agg": 3}}
+{"phase": 1, "table_id": "1-171356-2", "question": "What is Petersville's census ranking?", "sql": {"sel": 4, "conds": [[0, 0, "Petersville"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15442855-1", "question": "Which Format has a Date of 1993, and a Catalog of cleo 2481-2?", "sql": {"sel": 3, "conds": [[1, 0, 1993], [4, 0, "cleo 2481-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1772230-1", "question": "Which County has a Number of households larger than 17,741, and a Median family income of $37,072?", "sql": {"sel": 0, "conds": [[5, 1, "17,741"], [3, 0, "$37,072"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27003223-4", "question": "what is the percentage of democratic voters in which the registered voters is 67.8%?", "sql": {"sel": 3, "conds": [[2, 0, "67.8%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17122961-4", "question": "What is the Catalog number of the CD Reissue Universal release?", "sql": {"sel": 4, "conds": [[3, 0, "cd reissue"], [2, 0, "universal"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120605-1", "question": "What is the barony of mountcotton?", "sql": {"sel": 2, "conds": [[0, 0, "Mountcotton"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-46", "question": "What was the dominant religion in 2002 of the settlement with the cyrillic and other name of \u0432\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0446\u0438 (romanian: voivodin\u0163)?", "sql": {"sel": 5, "conds": [[1, 0, "\u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0446\u0438 (Romanian: Voivodin\u0163)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-4", "question": "What is the smallest diameter for Eirene Tholus?", "sql": {"sel": 3, "conds": [[0, 0, "eirene tholus"]], "agg": 2}}
+{"phase": 1, "table_id": "1-1638437-2", "question": "Name the english name for  \u5d16\u57ce\u9547", "sql": {"sel": 0, "conds": [[1, 0, "\u5d16\u57ce\u9547"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17239214-1", "question": "Where is the historic place that was built in 1910?", "sql": {"sel": 3, "conds": [[1, 0, "1910"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1304976-1", "question": "What is the average value of Bush# when the value for Others# is greater than 57, and the value for Bush% is 49.2%?", "sql": {"sel": 4, "conds": [[6, 1, 57], [3, 0, "49.2%"]], "agg": 5}}
+{"phase": 1, "table_id": "1-18600760-10", "question": "What township is 28.597 square miles of land?", "sql": {"sel": 0, "conds": [[3, 0, "28.597"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22815568-1", "question": "What is the povery rate of the county with market income per capita of $20,518?", "sql": {"sel": 4, "conds": [[3, 0, "$20,518"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1523934-1", "question": "Which Population is the lowest one that has a Median family income of $74,905, and a Number of households smaller than 145,790?", "sql": {"sel": 4, "conds": [[3, 0, "$74,905"], [5, 2, "145,790"]], "agg": 2}}
+{"phase": 2, "table_id": "2-12063332-2", "question": "What is the sum number of evening gown stats for New Jersey when the interview was less than 9.344?", "sql": {"sel": 3, "conds": [[0, 0, "new jersey"], [1, 2, 9.344]], "agg": 3}}
+{"phase": 2, "table_id": "2-17287870-1", "question": "What is the county of the bridge in Boulder?", "sql": {"sel": 4, "conds": [[3, 0, "boulder"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-8", "question": "What is the diameter in km of the feature named Colette Patera? ", "sql": {"sel": 3, "conds": [[0, 0, "Colette Patera"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12375672-1", "question": "When is a Roll of 9?", "sql": {"sel": 1, "conds": [[6, 0, 9]], "agg": 0}}
+{"phase": 2, "table_id": "2-17237920-1", "question": "Which bridge is located in Nectar, in Blount County?", "sql": {"sel": 0, "conds": [[4, 0, "blount"], [3, 0, "nectar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17266403-1", "question": "What is the Location of the Bridge Built in 1869?", "sql": {"sel": 3, "conds": [[1, 0, "1869"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17388337-3", "question": "What date was the United States the region?", "sql": {"sel": 1, "conds": [[0, 0, "united states"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1733513-1", "question": "Which county had a Bush number of votes of 566?", "sql": {"sel": 0, "conds": [[4, 0, 566]], "agg": 0}}
+{"phase": 2, "table_id": "2-171356-2", "question": "what is the area when the census ranking is 2,290 of 5,008?", "sql": {"sel": 2, "conds": [[4, 0, "2,290 of 5,008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12383165-3", "question": "List a name that has a heat of at least 3 and a Lane of exactly 5.", "sql": {"sel": 2, "conds": [[0, 1, 3], [1, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-1523661-2", "question": "What Country is Catalogue # ASW 50248 (724385024825) from?", "sql": {"sel": 0, "conds": [[4, 0, "asw 50248 (724385024825)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-15", "question": "What is the year that nahete colles was named?", "sql": {"sel": 4, "conds": [[0, 0, "nahete colles"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12888640-1", "question": "Where was the 12\" maxi in September 1990?", "sql": {"sel": 2, "conds": [[3, 0, "12\" maxi"], [0, 0, "september 1990"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-7", "question": "Which Diameter (km) has a Name of alma-merghen planitia, and a Year named smaller than 1997?", "sql": {"sel": 3, "conds": [[0, 0, "alma-merghen planitia"], [4, 2, 1997]], "agg": 1}}
+{"phase": 2, "table_id": "2-12256602-5", "question": "What is the largest Decile with Years of 1\u20138, anAuthority of state, and a Roll of 141?", "sql": {"sel": 5, "conds": [[1, 0, "1\u20138"], [4, 0, "state"], [6, 0, 141]], "agg": 1}}
+{"phase": 2, "table_id": "2-18600760-22", "question": "Van Meter has a water(sqmi) of 0 and a longitude larger than -98.444062, what was their highest ANSI code?", "sql": {"sel": 8, "conds": [[4, 0, 0], [0, 0, "van meter"], [6, 1, -98.444062]], "agg": 1}}
+{"phase": 2, "table_id": "2-10722506-4", "question": "What venue is in the city of Durham?", "sql": {"sel": 2, "conds": [[3, 0, "durham"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18918776-1", "question": "Which Col (m) has an Elevation (m) smaller than 1,624?", "sql": {"sel": 4, "conds": [[2, 2, "1,624"]], "agg": 2}}
+{"phase": 1, "table_id": "1-18946749-4", "question": "What is the highest value for col(m) at North Island?", "sql": {"sel": 6, "conds": [[3, 0, "North Island"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18918776-1", "question": "Which Col (m) has a Prominence (m) larger than 1,519, and a Peak of jiehkkev\u00e1rri, and an Elevation (m) larger than 1,834?", "sql": {"sel": 4, "conds": [[3, 1, "1,519"], [0, 0, "jiehkkev\u00e1rri"], [2, 1, "1,834"]], "agg": 2}}
+{"phase": 1, "table_id": "1-30121075-1", "question": "What is the area when the poor law union is skibbereen and the townland is knockmore?", "sql": {"sel": 1, "conds": [[4, 0, "Skibbereen"], [0, 0, "Knockmore"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-13", "question": "What is the latitude that has a longitude larger than -101.819319 in Martin and a GEO ID of 3809951140?", "sql": {"sel": 5, "conds": [[6, 1, -101.819319], [0, 0, "martin"], [7, 0, 3809951140]], "agg": 4}}
+{"phase": 2, "table_id": "2-1840551-1", "question": "What's the population that has a median family income of $50,553?", "sql": {"sel": 4, "conds": [[3, 0, "$50,553"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16248783-2", "question": "When did the United Kingdom format a stereo LP?", "sql": {"sel": 1, "conds": [[0, 0, "united kingdom"], [3, 0, "stereo lp"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12017602-20", "question": "What was the sum roll of Karaka area?", "sql": {"sel": 6, "conds": [[3, 0, "karaka"]], "agg": 4}}
+{"phase": 2, "table_id": "2-12197750-2", "question": "What is the area of Mangamahu primary school?", "sql": {"sel": 3, "conds": [[0, 0, "mangamahu primary school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17278336-2", "question": "What is City, when IATA is \"LAO\"?", "sql": {"sel": 0, "conds": [[2, 0, "lao"]], "agg": 0}}
+{"phase": 2, "table_id": "2-183362-1", "question": "What Label has a Format of cd, and a Catalog of crgd 86136?", "sql": {"sel": 2, "conds": [[3, 0, "cd"], [4, 0, "crgd 86136"]], "agg": 0}}
+{"phase": 1, "table_id": "1-171356-2", "question": "What rank is the parish with 482.81 km^2?", "sql": {"sel": 4, "conds": [[2, 0, "482.81"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22815568-1", "question": "What is the status of the county that has a 14.7% poverty rate?", "sql": {"sel": 5, "conds": [[4, 0, "14.7%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12261926-2", "question": "What is the intergiro classification of alexander gontchenkov?", "sql": {"sel": 5, "conds": [[1, 0, "Alexander Gontchenkov"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15322952-2", "question": "What Catalog was released in Germany?", "sql": {"sel": 4, "conds": [[0, 0, "germany"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30121082-1", "question": "What is the greatest area when the Poor Law Union is Skibbereen and the Civil Parish is Tullagh?", "sql": {"sel": 1, "conds": [[4, 0, "Skibbereen"], [3, 0, "Tullagh"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15188879-1", "question": "Which Label has a Region of germany, and a Format of 12\" maxi?", "sql": {"sel": 1, "conds": [[2, 0, "germany"], [3, 0, "12\" maxi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12079804-1", "question": "What is the lowest average that has a swimsuit less than 8.966, for west virginia and an evening gown less than 8.711?", "sql": {"sel": 4, "conds": [[2, 2, 8.966], [0, 0, "west virginia"], [3, 2, 8.711]], "agg": 2}}
+{"phase": 2, "table_id": "2-18600760-12", "question": "What is latitude when 2010 population is 24 and water is more than 0.319?", "sql": {"sel": 5, "conds": [[2, 0, 24], [4, 1, 0.319]], "agg": 1}}
+{"phase": 2, "table_id": "2-17277228-1", "question": "On what date was the bridge located in McClain listed?", "sql": {"sel": 2, "conds": [[3, 0, "mcclain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12375672-2", "question": "What is the sum of the roll with an area of Waikaka?", "sql": {"sel": 6, "conds": [[3, 0, "waikaka"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18918776-12", "question": "With a Col (m) larger than 2012, what is Mount Kazbek's Prominence (m)?", "sql": {"sel": 3, "conds": [[4, 1, 2012], [0, 0, "mount kazbek"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1840453-1", "question": "What county has a population more than 603,403 and a mediuan family income of $61,694?", "sql": {"sel": 0, "conds": [[4, 1, "603,403"], [3, 0, "$61,694"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17122961-4", "question": "What is the Catalog number of the CD Reissue Universal release?", "sql": {"sel": 4, "conds": [[3, 0, "cd reissue"], [2, 0, "universal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10660046-2", "question": "Which airport has an ICAO of RCKH?", "sql": {"sel": 4, "conds": [[3, 0, "rckh"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1497794-2", "question": "What is the airport name that has nos listed as the IATA?", "sql": {"sel": 4, "conds": [[2, 0, "nos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703978-2", "question": "What is the region of the Alfa Records release with catalog ALCA-282?", "sql": {"sel": 0, "conds": [[2, 0, "alfa records"], [4, 0, "alca-282"]], "agg": 0}}
+{"phase": 2, "table_id": "2-183366-4", "question": "What is the catalog number for the Grilled Cheese label?", "sql": {"sel": 4, "conds": [[2, 0, "grilled cheese"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-3", "question": "What was the year when the diameter was 729 km?", "sql": {"sel": 4, "conds": [[3, 0, 729]], "agg": 0}}
+{"phase": 2, "table_id": "2-15471981-2", "question": "In what format was the release from the Nebt068 catalog on April 11, 2005 in?", "sql": {"sel": 3, "conds": [[1, 0, "april 11, 2005"], [4, 0, "nebt068"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12779865-2", "question": "Which region has a date of 1970?", "sql": {"sel": 0, "conds": [[1, 0, "1970"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18624662-2", "question": "What is the time of lane 3 in heat 5?", "sql": {"sel": 4, "conds": [[0, 0, 5], [1, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-10349289-5", "question": "What city is the Northeast Louisiana University located in?", "sql": {"sel": 3, "conds": [[1, 0, "northeast louisiana university"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120547-1", "question": "What are the civil parishes of the townlands with an area of 119 acres?", "sql": {"sel": 3, "conds": [[1, 0, 119]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703558-2", "question": "What was the date for the catalog 32xa-112?", "sql": {"sel": 1, "conds": [[4, 0, "32xa-112"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097158-4", "question": "Name the region for december 7, 2004", "sql": {"sel": 0, "conds": [[1, 0, "december 7, 2004"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15143976-2", "question": "Which Format has a Label of toy's factory records?", "sql": {"sel": 3, "conds": [[2, 0, "toy's factory records"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-4", "question": "What;s the total of Longitude with an ANSI code of 1036573 and has Water (sqmi) that is smaller than 0.404?", "sql": {"sel": 6, "conds": [[8, 0, 1036573], [4, 2, 0.404]], "agg": 3}}
+{"phase": 2, "table_id": "2-15154382-1", "question": "What Label has a Catalog number of 885 572-7 in 7\" single Format?", "sql": {"sel": 1, "conds": [[3, 0, "7\" single"], [4, 0, "885 572-7"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2847477-2", "question": "What is the area of \u7f57\u5c71\u53bf?", "sql": {"sel": 4, "conds": [[1, 0, "\u7f57\u5c71\u53bf"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097180-5", "question": "Which date had a Japan region?", "sql": {"sel": 1, "conds": [[0, 0, "japan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703182-2", "question": "What is the label for October 21, 1981?", "sql": {"sel": 2, "conds": [[1, 0, "october 21, 1981"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2401326-1", "question": "What percentage of the votes in Oneida did Kerry win?", "sql": {"sel": 1, "conds": [[0, 0, "Oneida"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17278190-1", "question": "what's the listing date for the verdigris creek bridge in royal of antelope county?", "sql": {"sel": 2, "conds": [[4, 0, "antelope"], [3, 0, "royal"], [0, 0, "verdigris creek bridge"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2847477-2", "question": "How many simplified names are there for xin county?", "sql": {"sel": 1, "conds": [[0, 0, "Xin County"]], "agg": 3}}
+{"phase": 1, "table_id": "1-30121096-1", "question": "How many townlands are there for caheragh and is larger than 270 acres?", "sql": {"sel": 0, "conds": [[3, 0, "Caheragh"], [1, 0, 270]], "agg": 3}}
+{"phase": 2, "table_id": "2-12427276-2", "question": "What nation started in lane 3 of heat 2?", "sql": {"sel": 3, "conds": [[0, 0, 2], [1, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-17239214-1", "question": "What is the list date of the historic place that was built 1896, 1914?", "sql": {"sel": 2, "conds": [[1, 0, "1896, 1914"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-3", "question": "What was the diameter of the feature found in 1997?", "sql": {"sel": 3, "conds": [[4, 0, 1997]], "agg": 0}}
+{"phase": 2, "table_id": "2-15322962-2", "question": "What is the label from the Netherlands?", "sql": {"sel": 2, "conds": [[0, 0, "netherlands"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16247366-2", "question": "On what date was the catalog cy-24623 for New Zealand?", "sql": {"sel": 1, "conds": [[0, 0, "new zealand"], [4, 0, "cy-24623"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1772230-1", "question": "Which County has a Median household income of $37,230?", "sql": {"sel": 0, "conds": [[2, 0, "$37,230"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-2", "question": "what is the average water sqmi with a population (2010) more than 47 in the Brenna Township with Longitude less than -97.171507", "sql": {"sel": 4, "conds": [[2, 1, 47], [0, 0, "brenna"], [6, 2, -97.171507]], "agg": 5}}
+{"phase": 2, "table_id": "2-1777876-1", "question": "Which Population has a Median family income of $53,946?", "sql": {"sel": 4, "conds": [[3, 0, "$53,946"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22815568-2", "question": "Which county had a 3.6% unemployment rate?", "sql": {"sel": 0, "conds": [[2, 0, "3.6%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18947170-7", "question": "What is the sum of the prominence in m of moussa ali terara peak?", "sql": {"sel": 3, "conds": [[0, 0, "moussa ali terara"]], "agg": 4}}
+{"phase": 2, "table_id": "2-12256602-2", "question": "Which area has Years of 1\u20138, and a Name of broomfield school?", "sql": {"sel": 3, "conds": [[1, 0, "1\u20138"], [0, 0, "broomfield school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-171250-1", "question": "What is saint-andr\u00e9's population?", "sql": {"sel": 3, "conds": [[0, 0, "saint-andr\u00e9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14553504-2", "question": "For an IATA of MLE, what is the ICAO?", "sql": {"sel": 3, "conds": [[2, 0, "mle"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18946749-4", "question": "How many values of prominence(m) occur at rank 5?", "sql": {"sel": 5, "conds": [[0, 0, 5]], "agg": 3}}
+{"phase": 1, "table_id": "1-2562572-22", "question": "Name the population for \u0431\u0430\u0447\u043a\u0438 \u043c\u043e\u043d\u043e\u0448\u0442\u043e\u0440 (croatian: mono\u0161tor)", "sql": {"sel": 3, "conds": [[1, 0, "\u0411\u0430\u0447\u043a\u0438 \u041c\u043e\u043d\u043e\u0448\u0442\u043e\u0440 (Croatian: Mono\u0161tor)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1254205-10", "question": "Which Format is listed that has a Region of China?", "sql": {"sel": 3, "conds": [[0, 0, "china"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176533-1", "question": "What is the Population of the Rural Community", "sql": {"sel": 3, "conds": [[1, 0, "rural community"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-10", "question": "What was the lattitude for the area with 4.243 square miles of water?", "sql": {"sel": 5, "conds": [[4, 0, "4.243"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1254205-10", "question": "Which Format is listed that has a Region of China?", "sql": {"sel": 3, "conds": [[0, 0, "china"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-12", "question": "What is the land (sqmi) at geo id 3801947380?", "sql": {"sel": 3, "conds": [[7, 0, 3801947380]], "agg": 0}}
+{"phase": 2, "table_id": "2-10647532-1", "question": "What label is in download format in the United States?", "sql": {"sel": 2, "conds": [[0, 0, "united states"], [3, 0, "download"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1525232-3", "question": "Name the ICAO for lilongwe international airport", "sql": {"sel": 3, "conds": [[4, 0, "lilongwe international airport"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120619-1", "question": "In which townlands is the civil parish Monkstown? ", "sql": {"sel": 0, "conds": [[3, 0, "Monkstown"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18175096-6", "question": "What is the country when the date shows October 24, 2008?", "sql": {"sel": 0, "conds": [[1, 0, "october 24, 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18624683-3", "question": "What's Spain's lane with a heat less than 4?", "sql": {"sel": 1, "conds": [[3, 0, "spain"], [0, 2, 4]], "agg": 5}}
+{"phase": 2, "table_id": "2-12444155-3", "question": "What is the average rank of a mountain range located in Maine?", "sql": {"sel": 0, "conds": [[2, 0, "maine"]], "agg": 5}}
+{"phase": 1, "table_id": "1-1302886-1", "question": "What is the county where kerry# is 59740?", "sql": {"sel": 0, "conds": [[2, 0, 59740]], "agg": 0}}
+{"phase": 1, "table_id": "1-171236-1", "question": "If the census ranking is 693 of 5,008, what is the status?", "sql": {"sel": 1, "conds": [[4, 0, "693 of 5,008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18946749-1", "question": "When mount gauttier is the peak what is the highest prominence in meters?", "sql": {"sel": 5, "conds": [[1, 0, "Mount Gauttier"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18946749-4", "question": "Which Rank has a Col (m) of 0, and a Peak of aoraki/mount cook, and a Prominence (m) larger than 3,755?", "sql": {"sel": 0, "conds": [[6, 0, 0], [1, 0, "aoraki/mount cook"], [5, 1, "3,755"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11976313-5", "question": "What is the location of Blanca Peak?", "sql": {"sel": 4, "conds": [[1, 0, "blanca peak"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-14", "question": "What is the name origin with a diameter of 220.0 kilometers?", "sql": {"sel": 5, "conds": [[3, 0, "220.0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11492579-2", "question": "Which city is Naples Airport located in?", "sql": {"sel": 0, "conds": [[4, 0, "naples airport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-8", "question": "What is Longitude, when Name is Raskova Paterae?", "sql": {"sel": 2, "conds": [[0, 0, "raskova paterae"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-37", "question": "Name the population for 2011 for \u0441\u0440\u043f\u0441\u043a\u0430 \u0446\u0440\u045a\u0430", "sql": {"sel": 3, "conds": [[1, 0, "\u0421\u0440\u043f\u0441\u043a\u0430 \u0426\u0440\u045a\u0430"]], "agg": 0}}
+{"phase": 1, "table_id": "1-170958-2", "question": "What is the total number of population in the land with an area of 149.32 km2?", "sql": {"sel": 3, "conds": [[2, 0, "149.32"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10743839-4", "question": "What Venue is in Colorado?", "sql": {"sel": 2, "conds": [[4, 0, "colorado"]], "agg": 0}}
+{"phase": 2, "table_id": "2-176524-1", "question": "What is the status of the community with a census ranking of 2,418 of 5,008?", "sql": {"sel": 1, "conds": [[4, 0, "2,418 of 5,008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-8", "question": "Name the number of county for 90 population", "sql": {"sel": 1, "conds": [[2, 0, 90]], "agg": 3}}
+{"phase": 2, "table_id": "2-18947170-6", "question": "COunt the sum of Prominence (m) of an Elevation (m) of 2,024?", "sql": {"sel": 3, "conds": [[2, 0, "2,024"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1834138-2", "question": "What shows for simplified when the density is 52?", "sql": {"sel": 1, "conds": [[6, 0, "52"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16679797-4", "question": "Which state includes the Harry A. Gampel Pavilion venue?", "sql": {"sel": 4, "conds": [[2, 0, "harry a. gampel pavilion"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1733457-1", "question": "Name the minimum kerry # for bush % for 50.9%", "sql": {"sel": 2, "conds": [[3, 0, "50.9%"]], "agg": 2}}
+{"phase": 1, "table_id": "1-22815568-7", "question": "What is the population in those place where the market income per capita is $17,362?", "sql": {"sel": 1, "conds": [[3, 0, "$17,362"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10696974-4", "question": "In which region is the Thompson-Boling arena located?", "sql": {"sel": 0, "conds": [[2, 0, "thompson-boling arena"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16245045-2", "question": "The Catalog of ilps 9153 is from what region?", "sql": {"sel": 0, "conds": [[4, 0, "ilps 9153"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14871719-1", "question": "Which Region has a Date of early september 1999?", "sql": {"sel": 2, "conds": [[0, 0, "early september 1999"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16752996-2", "question": "What is Date, when Catalog is EPC 81436?", "sql": {"sel": 1, "conds": [[4, 0, "epc 81436"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17277228-1", "question": "On what date was the bridge located in McClain listed?", "sql": {"sel": 2, "conds": [[3, 0, "mcclain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-2", "question": "what is the latitude for the berlin township with a geo id less than 3801706260", "sql": {"sel": 5, "conds": [[0, 0, "berlin"], [7, 2, 3801706260]], "agg": 3}}
+{"phase": 2, "table_id": "2-17093870-5", "question": "What's the Date with the Region of Europe and has a Catalog of 28765 22392 8?", "sql": {"sel": 1, "conds": [[0, 0, "europe"], [4, 0, "28765 22392 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18438650-3", "question": "What is the Format of the release with Catalog number RTRADLP491?", "sql": {"sel": 3, "conds": [[4, 0, "rtradlp491"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1546629-3", "question": "What date is the release when the label was Parlophone and the catalog was 582 2912?", "sql": {"sel": 1, "conds": [[2, 0, "parlophone"], [4, 0, "582 2912"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-50", "question": "What type of settlement is Jazak?", "sql": {"sel": 2, "conds": [[0, 0, "Jazak"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15143976-2", "question": "Which Region has a Format of cd album, and a Label of kemado records, and a Catalog of kem 071?", "sql": {"sel": 0, "conds": [[3, 0, "cd album"], [2, 0, "kemado records"], [4, 0, "kem 071"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1580963-13", "question": "Which royal house is in the state of chu?", "sql": {"sel": 4, "conds": [[0, 0, "chu"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18600760-15", "question": "What is the longitude for the Township that has a ANSI code less than 1036534, a water (sqmi) of 0, and a GEO ID greater than 3809959540?", "sql": {"sel": 6, "conds": [[8, 2, 1036534], [4, 0, 0], [7, 1, 3809959540]], "agg": 3}}
+{"phase": 2, "table_id": "2-18600760-9", "question": "How much Longitude has a County of nelson, and a Latitude larger than 47.980183?", "sql": {"sel": 6, "conds": [[1, 0, "nelson"], [5, 1, 47.980183]], "agg": 4}}
+{"phase": 1, "table_id": "1-2562572-26", "question": "What is the dominant religion in Gornji Tavankut?", "sql": {"sel": 5, "conds": [[0, 0, "Gornji Tavankut"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-3", "question": "What was the county with a latitude of 46.770977?", "sql": {"sel": 1, "conds": [[5, 0, "46.770977"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-1", "question": "Name the least ansi code for 609 population 2010", "sql": {"sel": 8, "conds": [[2, 0, 609]], "agg": 2}}
+{"phase": 2, "table_id": "2-12045304-2", "question": "Which biggest interview score had an evening gown stat of 9.286?", "sql": {"sel": 1, "conds": [[3, 0, 9.286]], "agg": 1}}
+{"phase": 2, "table_id": "2-12146269-4", "question": "Name the years when decile was less than 7 for waitoa school", "sql": {"sel": 1, "conds": [[5, 2, 7], [0, 0, "waitoa school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-171250-1", "question": "What is the status of the community that has an area larger than 5.2 sq km, and a Census Ranking of 2,531 of 5,008?", "sql": {"sel": 1, "conds": [[2, 1, 5.2], [4, 0, "2,531 of 5,008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1840537-1", "question": "What is the median family income when the per capita is $24,114?", "sql": {"sel": 3, "conds": [[1, 0, "$24,114"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-20", "question": "Name the largest ethnic group for kosan\u010di\u0107", "sql": {"sel": 4, "conds": [[0, 0, "Kosan\u010di\u0107"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120555-1", "question": "Which barony contains a townland with an area 24 acres?", "sql": {"sel": 2, "conds": [[1, 0, 24]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625234-3", "question": "What is the name for lane 1, from Mauritius?", "sql": {"sel": 2, "conds": [[1, 0, 1], [3, 0, "mauritius"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15682621-2", "question": "What is Catalog, when Format is CD, when Region is US, when Date is before 2004, and when Label is Taang! Records?", "sql": {"sel": 4, "conds": [[3, 0, "cd"], [0, 0, "us"], [1, 2, 2004], [2, 0, "taang! records"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12303251-2", "question": "What is the highest decile of Tarras school, which had a state authority?", "sql": {"sel": 5, "conds": [[4, 0, "state"], [0, 0, "tarras school"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18600760-4", "question": "What's the total of Water (sqmi) with a Land (sqmi) of 35.918 and has a Longitude that is smaller than -97.115459?", "sql": {"sel": 4, "conds": [[3, 0, 35.918], [6, 2, -97.115459]], "agg": 4}}
+{"phase": 2, "table_id": "2-17359093-2", "question": "What is Airport, when Country is \"Egypt\", and when ICAO is \"Heba\"?", "sql": {"sel": 4, "conds": [[1, 0, "egypt"], [3, 0, "heba"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703978-2", "question": "What is the region of the Alfa Records release with catalog ALCA-282?", "sql": {"sel": 0, "conds": [[2, 0, "alfa records"], [4, 0, "alca-282"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17093870-5", "question": "What's the Date with the Region of Europe and has a Catalog of 28765 22392 8?", "sql": {"sel": 1, "conds": [[0, 0, "europe"], [4, 0, "28765 22392 8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30121075-1", "question": "What is the poor law union when the townland is bohonagh?", "sql": {"sel": 4, "conds": [[0, 0, "Bohonagh"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22815568-6", "question": "If the poverty rate is 12.9%, what is the market income per capita?", "sql": {"sel": 3, "conds": [[4, 0, "12.9%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2401326-1", "question": "What's percentage voted for Busg in the county where Kerry got 37.6%?", "sql": {"sel": 3, "conds": [[1, 0, "37.6%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18175096-6", "question": "What is the country for Sony / Sony Bmg?", "sql": {"sel": 0, "conds": [[2, 0, "sony / sony bmg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18438650-3", "question": "What is the Format of the release with Catalog number RTRADLP491?", "sql": {"sel": 3, "conds": [[4, 0, "rtradlp491"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18438650-3", "question": "What is the Format of the release with Catalog number 2508668?", "sql": {"sel": 3, "conds": [[4, 0, "2508668"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562572-30", "question": "Which settlement has the cyrillic name \u0441\u0438\u0433\u0435\u0442? ", "sql": {"sel": 0, "conds": [[1, 0, "\u0421\u0438\u0433\u0435\u0442"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17287021-1", "question": "In which county is East Providence?", "sql": {"sel": 4, "conds": [[3, 0, "east providence"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12375672-2", "question": "What is the lowest decile with 1-6 years and area of Maitland?", "sql": {"sel": 5, "conds": [[1, 0, "1-6"], [3, 0, "maitland"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15322962-2", "question": "What is the label from the Netherlands?", "sql": {"sel": 2, "conds": [[0, 0, "netherlands"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2847477-2", "question": "What is the area of xin county?", "sql": {"sel": 4, "conds": [[0, 0, "Xin County"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12050358-2", "question": "What is the highest evening gown number in North Carolina with less than 9.214 interviews?", "sql": {"sel": 3, "conds": [[0, 0, "north carolina"], [1, 2, 9.214]], "agg": 1}}
+{"phase": 2, "table_id": "2-16799784-1", "question": "What is the Year named of the Ganga Valles?", "sql": {"sel": 4, "conds": [[0, 0, "ganga valles"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12017602-4", "question": "What is the highest decile value with a roll greater than 301 in Hauraki?", "sql": {"sel": 5, "conds": [[6, 1, 301], [3, 0, "hauraki"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22815568-3", "question": "What is the status for all the counties that have a poverty rate of 36.6%? ", "sql": {"sel": 5, "conds": [[4, 0, "36.6%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17388337-3", "question": "What date was the United States the region?", "sql": {"sel": 1, "conds": [[0, 0, "united states"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18625252-3", "question": "What is the heat for the time 57.97?", "sql": {"sel": 0, "conds": [[4, 0, "57.97"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12386605-3", "question": "What was the time for Jean Luc Razakarivony with less than 3 heat and more than 2 lanes?", "sql": {"sel": 4, "conds": [[0, 2, 3], [1, 1, 2], [2, 0, "jean luc razakarivony"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2847477-2", "question": "What is the English name of g\u00f9sh\u01d0 xi\u00e0n?", "sql": {"sel": 0, "conds": [[3, 0, "G\u00f9sh\u01d0 Xi\u00e0n"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17237920-1", "question": "In which county is the swann covered bridge located?", "sql": {"sel": 4, "conds": [[0, 0, "swann covered bridge"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16799784-4", "question": "What is the latitude of the 0 diameter?", "sql": {"sel": 1, "conds": [[3, 0, 0]], "agg": 0}}
+{"phase": 1, "table_id": "1-1840495-2", "question": "If the population is 2188, what was the median household income?", "sql": {"sel": 4, "conds": [[5, 0, 2188]], "agg": 0}}
+{"phase": 1, "table_id": "1-25200461-9", "question": "What is the population if the city is Gilroy?", "sql": {"sel": 1, "conds": [[0, 0, "Gilroy"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1840495-2", "question": "If the median income is $57,407, what is the per capita income?", "sql": {"sel": 3, "conds": [[4, 0, "$57,407"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12384714-2", "question": "At time 15:29.69 what was the heat?", "sql": {"sel": 0, "conds": [[4, 0, "15:29.69"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1097158-4", "question": "What is the catalogue on october 15, 2004?", "sql": {"sel": 4, "conds": [[1, 0, "october 15, 2004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16799784-11", "question": "At what latitude can the name origin of naijok fossae be found?", "sql": {"sel": 1, "conds": [[0, 0, "Naijok Fossae"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30120619-1", "question": "What is the barony for the Ballintaggart townland?", "sql": {"sel": 2, "conds": [[0, 0, "Ballintaggart"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12703182-2", "question": "What is the label for October 21, 1981?", "sql": {"sel": 2, "conds": [[1, 0, "october 21, 1981"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17338025-12", "question": "Xiong Yan the Younger of the house of Mi ruled from what year?", "sql": {"sel": 5, "conds": [[4, 0, "mi"], [2, 0, "xiong yan the younger"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17287870-1", "question": "What bridge in Sheridan county was built in 1915?", "sql": {"sel": 0, "conds": [[4, 0, "sheridan"], [1, 0, "1915"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18600760-7", "question": "If the water square milage is 1.701, what is the land square milage?", "sql": {"sel": 3, "conds": [[4, 0, "1.701"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1525232-3", "question": "Name the city for IATA of llw", "sql": {"sel": 0, "conds": [[2, 0, "llw"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12937564-3", "question": "Which region had a label of Central Station?", "sql": {"sel": 0, "conds": [[2, 0, "central station"]], "agg": 0}}

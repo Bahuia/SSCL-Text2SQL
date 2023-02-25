@@ -1,0 +1,3862 @@
+[
+    {
+        "db_id": "college_3",
+        "query": "SELECT count(*) FROM DEPARTMENT WHERE Division  =  \"AS\"",
+        "query_toks": [
+            "SELECT",
+            "count",
+            "(",
+            "*",
+            ")",
+            "FROM",
+            "DEPARTMENT",
+            "WHERE",
+            "Division",
+            "=",
+            "``",
+            "AS",
+            "''"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "*",
+            ")",
+            "from",
+            "department",
+            "where",
+            "division",
+            "=",
+            "value"
+        ],
+        "question": "How many departments are in the division AS?",
+        "question_toks": [
+            "How",
+            "many",
+            "departments",
+            "are",
+            "in",
+            "the",
+            "division",
+            "AS",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                0,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            18,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"AS\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_3",
+        "query": "SELECT DISTINCT Fname FROM STUDENT WHERE Fname LIKE '%a%'",
+        "query_toks": [
+            "SELECT",
+            "DISTINCT",
+            "Fname",
+            "FROM",
+            "STUDENT",
+            "WHERE",
+            "Fname",
+            "LIKE",
+            "'",
+            "%",
+            "a",
+            "%",
+            "'"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "distinct",
+            "fname",
+            "from",
+            "student",
+            "where",
+            "fname",
+            "like",
+            "value"
+        ],
+        "question": "Find the first names of students whose first names contain letter \"a\".",
+        "question_toks": [
+            "Find",
+            "the",
+            "first",
+            "names",
+            "of",
+            "students",
+            "whose",
+            "first",
+            "names",
+            "contain",
+            "letter",
+            "``",
+            "a",
+            "''",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                true,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                3,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    9,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"%a%\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT COUNT (DISTINCT ID) FROM teaches WHERE semester  =  'Spring' AND YEAR  =  2010",
+        "query_toks": [
+            "SELECT",
+            "COUNT",
+            "(",
+            "DISTINCT",
+            "ID",
+            ")",
+            "FROM",
+            "teaches",
+            "WHERE",
+            "semester",
+            "=",
+            "'Spring",
+            "'",
+            "AND",
+            "YEAR",
+            "=",
+            "2010"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "distinct",
+            "id",
+            ")",
+            "from",
+            "teaches",
+            "where",
+            "semester",
+            "=",
+            "value",
+            "and",
+            "year",
+            "=",
+            "value"
+        ],
+        "question": "How many instructors teach a course in the Spring of 2010?",
+        "question_toks": [
+            "How",
+            "many",
+            "instructors",
+            "teach",
+            "a",
+            "course",
+            "in",
+            "the",
+            "Spring",
+            "of",
+            "2010",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        5
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                22,
+                                true
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            25,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Spring\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            26,
+                            false
+                        ],
+                        null
+                    ],
+                    2010.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_1",
+        "query": "SELECT emp_fname FROM employee WHERE emp_jobcode  =  'PROF' ORDER BY emp_dob",
+        "query_toks": [
+            "SELECT",
+            "emp_fname",
+            "FROM",
+            "employee",
+            "WHERE",
+            "emp_jobcode",
+            "=",
+            "'PROF",
+            "'",
+            "ORDER",
+            "BY",
+            "emp_dob"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "emp_fname",
+            "from",
+            "employee",
+            "where",
+            "emp_jobcode",
+            "=",
+            "value",
+            "order",
+            "by",
+            "emp_dob"
+        ],
+        "question": "What are the first names of all employees that are professors ordered by date of birth?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "first",
+            "names",
+            "of",
+            "all",
+            "employees",
+            "that",
+            "are",
+            "professors",
+            "ordered",
+            "by",
+            "date",
+            "of",
+            "birth",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                19,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            21,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"PROF\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [
+                "asc",
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            23,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "imdb",
+        "query": "SELECT budget FROM movie WHERE title  =  \"Finding Nemo\";",
+        "query_toks": [
+            "SELECT",
+            "budget",
+            "FROM",
+            "movie",
+            "WHERE",
+            "title",
+            "=",
+            "``",
+            "Finding",
+            "Nemo",
+            "''",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "budget",
+            "from",
+            "movie",
+            "where",
+            "title",
+            "=",
+            "value"
+        ],
+        "question": "How much was the budget of \" Finding Nemo \"",
+        "question_toks": [
+            "How",
+            "much",
+            "was",
+            "the",
+            "budget",
+            "of",
+            "``",
+            "Finding",
+            "Nemo",
+            "``"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        11
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                46,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            43,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Finding Nemo\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_1",
+        "query": "SELECT count(DISTINCT school_code) FROM department",
+        "query_toks": [
+            "SELECT",
+            "count",
+            "(",
+            "DISTINCT",
+            "school_code",
+            ")",
+            "FROM",
+            "department"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "distinct",
+            "school_code",
+            ")",
+            "from",
+            "department"
+        ],
+        "question": "How many schools are there in the department?",
+        "question_toks": [
+            "How",
+            "many",
+            "schools",
+            "are",
+            "there",
+            "in",
+            "the",
+            "department",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                13,
+                                true
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT name FROM student WHERE dept_name  =  'History' ORDER BY tot_cred DESC LIMIT 1",
+        "query_toks": [
+            "SELECT",
+            "name",
+            "FROM",
+            "student",
+            "WHERE",
+            "dept_name",
+            "=",
+            "'History",
+            "'",
+            "ORDER",
+            "BY",
+            "tot_cred",
+            "DESC",
+            "LIMIT",
+            "1"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            "from",
+            "student",
+            "where",
+            "dept_name",
+            "=",
+            "value",
+            "order",
+            "by",
+            "tot_cred",
+            "desc",
+            "limit",
+            "value"
+        ],
+        "question": "What is the name of the student who has the highest total credits in the History department.",
+        "question_toks": [
+            "What",
+            "is",
+            "the",
+            "name",
+            "of",
+            "the",
+            "student",
+            "who",
+            "has",
+            "the",
+            "highest",
+            "total",
+            "credits",
+            "in",
+            "the",
+            "History",
+            "department",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        6
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            29,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"History\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [
+                "desc",
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            30,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": 1,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT building ,  room_number FROM classroom WHERE capacity BETWEEN 50 AND 100",
+        "query_toks": [
+            "SELECT",
+            "building",
+            ",",
+            "room_number",
+            "FROM",
+            "classroom",
+            "WHERE",
+            "capacity",
+            "BETWEEN",
+            "50",
+            "AND",
+            "100"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "building",
+            ",",
+            "room_number",
+            "from",
+            "classroom",
+            "where",
+            "capacity",
+            "between",
+            "value",
+            "and",
+            "value"
+        ],
+        "question": "Find the room number of the rooms which can sit 50 to 100 students and their buildings.",
+        "question_toks": [
+            "Find",
+            "the",
+            "room",
+            "number",
+            "of",
+            "the",
+            "rooms",
+            "which",
+            "can",
+            "sit",
+            "50",
+            "to",
+            "100",
+            "students",
+            "and",
+            "their",
+            "buildings",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                1,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    1,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    50.0,
+                    100.0
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT name ,  course_id FROM instructor AS T1 JOIN teaches AS T2 ON T1.ID  =  T2.ID WHERE T1.dept_name  =  'Art'",
+        "query_toks": [
+            "SELECT",
+            "name",
+            ",",
+            "course_id",
+            "FROM",
+            "instructor",
+            "AS",
+            "T1",
+            "JOIN",
+            "teaches",
+            "AS",
+            "T2",
+            "ON",
+            "T1.ID",
+            "=",
+            "T2.ID",
+            "WHERE",
+            "T1.dept_name",
+            "=",
+            "'Art",
+            "'"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            ",",
+            "course_id",
+            "from",
+            "instructor",
+            "as",
+            "t1",
+            "join",
+            "teaches",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "id",
+            "=",
+            "t2",
+            ".",
+            "id",
+            "where",
+            "t1",
+            ".",
+            "dept_name",
+            "=",
+            "value"
+        ],
+        "question": "Find the names of all instructors in the Art department who have taught some course and the course_id.",
+        "question_toks": [
+            "Find",
+            "the",
+            "names",
+            "of",
+            "all",
+            "instructors",
+            "in",
+            "the",
+            "Art",
+            "department",
+            "who",
+            "have",
+            "taught",
+            "some",
+            "course",
+            "and",
+            "the",
+            "course_id",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ],
+                    [
+                        "table_unit",
+                        5
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                11,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            22,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                23,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            13,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Art\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "hospital_1",
+        "query": "SELECT name FROM physician WHERE POSITION LIKE '%senior%'",
+        "query_toks": [
+            "SELECT",
+            "name",
+            "FROM",
+            "physician",
+            "WHERE",
+            "POSITION",
+            "LIKE",
+            "'",
+            "%",
+            "senior",
+            "%",
+            "'"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            "from",
+            "physician",
+            "where",
+            "position",
+            "like",
+            "value"
+        ],
+        "question": "Find the name of physicians whose position title contains the word 'senior'.",
+        "question_toks": [
+            "Find",
+            "the",
+            "name",
+            "of",
+            "physicians",
+            "whose",
+            "position",
+            "title",
+            "contains",
+            "the",
+            "word",
+            "'senior",
+            "'",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    9,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"%senior%\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "wine_1",
+        "query": "SELECT Area ,  County FROM APPELLATIONS",
+        "query_toks": [
+            "SELECT",
+            "Area",
+            ",",
+            "County",
+            "FROM",
+            "APPELLATIONS"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "area",
+            ",",
+            "county",
+            "from",
+            "appellations"
+        ],
+        "question": "List the area and county of all appelations.",
+        "question_toks": [
+            "List",
+            "the",
+            "area",
+            "and",
+            "county",
+            "of",
+            "all",
+            "appelations",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        1
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                8,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                6,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT title FROM course WHERE course_id NOT IN (SELECT course_id FROM prereq)",
+        "query_toks": [
+            "SELECT",
+            "title",
+            "FROM",
+            "course",
+            "WHERE",
+            "course_id",
+            "NOT",
+            "IN",
+            "(",
+            "SELECT",
+            "course_id",
+            "FROM",
+            "prereq",
+            ")"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "title",
+            "from",
+            "course",
+            "where",
+            "course_id",
+            "not",
+            "in",
+            "(",
+            "select",
+            "course_id",
+            "from",
+            "prereq",
+            ")"
+        ],
+        "question": "What are the titles of courses without prerequisites?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "titles",
+            "of",
+            "courses",
+            "without",
+            "prerequisites",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                8,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    true,
+                    8,
+                    [
+                        0,
+                        [
+                            0,
+                            7,
+                            false
+                        ],
+                        null
+                    ],
+                    {
+                        "from": {
+                            "table_units": [
+                                [
+                                    "table_unit",
+                                    10
+                                ]
+                            ],
+                            "conds": []
+                        },
+                        "select": [
+                            false,
+                            [
+                                [
+                                    0,
+                                    [
+                                        0,
+                                        [
+                                            0,
+                                            45,
+                                            false
+                                        ],
+                                        null
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "where": [],
+                        "groupBy": [],
+                        "having": [],
+                        "orderBy": [],
+                        "limit": null,
+                        "intersect": null,
+                        "union": null,
+                        "except": null
+                    },
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT name ,  dept_name FROM student ORDER BY tot_cred",
+        "query_toks": [
+            "SELECT",
+            "name",
+            ",",
+            "dept_name",
+            "FROM",
+            "student",
+            "ORDER",
+            "BY",
+            "tot_cred"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            ",",
+            "dept_name",
+            "from",
+            "student",
+            "order",
+            "by",
+            "tot_cred"
+        ],
+        "question": "What are the names of students and their respective departments, ordered by number of credits from least to greatest?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "names",
+            "of",
+            "students",
+            "and",
+            "their",
+            "respective",
+            "departments",
+            ",",
+            "ordered",
+            "by",
+            "number",
+            "of",
+            "credits",
+            "from",
+            "least",
+            "to",
+            "greatest",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        6
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                29,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [
+                "asc",
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            30,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "imdb",
+        "query": "SELECT name FROM actor WHERE birth_year  >  1980 AND nationality  =  \"Italy\";",
+        "query_toks": [
+            "SELECT",
+            "name",
+            "FROM",
+            "actor",
+            "WHERE",
+            "birth_year",
+            ">",
+            "1980",
+            "AND",
+            "nationality",
+            "=",
+            "``",
+            "Italy",
+            "''",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            "from",
+            "actor",
+            "where",
+            "birth_year",
+            ">",
+            "value",
+            "and",
+            "nationality",
+            "=",
+            "value"
+        ],
+        "question": "Find all actors from Italy born after 1980",
+        "question_toks": [
+            "Find",
+            "all",
+            "actors",
+            "from",
+            "Italy",
+            "born",
+            "after",
+            "1980"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                3,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            6,
+                            false
+                        ],
+                        null
+                    ],
+                    1980.0,
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            4,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Italy\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "hospital_1",
+        "query": "SELECT name FROM procedures WHERE cost  >  1000 EXCEPT SELECT T3.name FROM physician AS T1 JOIN trained_in AS T2 ON T1.employeeid  =  T2.physician JOIN procedures AS T3 ON T3.code  =  T2.treatment WHERE T1.name  =  \"John Wen\"",
+        "query_toks": [
+            "SELECT",
+            "name",
+            "FROM",
+            "procedures",
+            "WHERE",
+            "cost",
+            ">",
+            "1000",
+            "EXCEPT",
+            "SELECT",
+            "T3.name",
+            "FROM",
+            "physician",
+            "AS",
+            "T1",
+            "JOIN",
+            "trained_in",
+            "AS",
+            "T2",
+            "ON",
+            "T1.employeeid",
+            "=",
+            "T2.physician",
+            "JOIN",
+            "procedures",
+            "AS",
+            "T3",
+            "ON",
+            "T3.code",
+            "=",
+            "T2.treatment",
+            "WHERE",
+            "T1.name",
+            "=",
+            "``",
+            "John",
+            "Wen",
+            "''"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            "from",
+            "procedures",
+            "where",
+            "cost",
+            ">",
+            "value",
+            "except",
+            "select",
+            "t3",
+            ".",
+            "name",
+            "from",
+            "physician",
+            "as",
+            "t1",
+            "join",
+            "trained_in",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "employeeid",
+            "=",
+            "t2",
+            ".",
+            "physician",
+            "join",
+            "procedures",
+            "as",
+            "t3",
+            "on",
+            "t3",
+            ".",
+            "code",
+            "=",
+            "t2",
+            ".",
+            "treatment",
+            "where",
+            "t1",
+            ".",
+            "name",
+            "=",
+            "value"
+        ],
+        "question": "Among the procedures that cost more than 1000, which were not specialized in by physician John Wen?",
+        "question_toks": [
+            "Among",
+            "the",
+            "procedures",
+            "that",
+            "cost",
+            "more",
+            "than",
+            "1000",
+            ",",
+            "which",
+            "were",
+            "not",
+            "specialized",
+            "in",
+            "by",
+            "physician",
+            "John",
+            "Wen",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            13,
+                            false
+                        ],
+                        null
+                    ],
+                    1000.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": {
+                "from": {
+                    "table_units": [
+                        [
+                            "table_unit",
+                            0
+                        ],
+                        [
+                            "table_unit",
+                            4
+                        ],
+                        [
+                            "table_unit",
+                            3
+                        ]
+                    ],
+                    "conds": [
+                        [
+                            false,
+                            2,
+                            [
+                                0,
+                                [
+                                    0,
+                                    1,
+                                    false
+                                ],
+                                null
+                            ],
+                            [
+                                0,
+                                14,
+                                false
+                            ],
+                            null
+                        ],
+                        "and",
+                        [
+                            false,
+                            2,
+                            [
+                                0,
+                                [
+                                    0,
+                                    11,
+                                    false
+                                ],
+                                null
+                            ],
+                            [
+                                0,
+                                15,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                },
+                "select": [
+                    false,
+                    [
+                        [
+                            0,
+                            [
+                                0,
+                                [
+                                    0,
+                                    12,
+                                    false
+                                ],
+                                null
+                            ]
+                        ]
+                    ]
+                ],
+                "where": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ],
+                        "\"John Wen\"",
+                        null
+                    ]
+                ],
+                "groupBy": [],
+                "having": [],
+                "orderBy": [],
+                "limit": null,
+                "intersect": null,
+                "union": null,
+                "except": null
+            }
+        }
+    },
+    {
+        "db_id": "imdb",
+        "query": "SELECT COUNT ( DISTINCT t3.title  ) FROM director AS t2 JOIN directed_by AS t1 ON t2.did  =  t1.did JOIN movie AS t3 ON t3.mid  =  t1.msid WHERE t2.name  =  \"Quentin Tarantino\" AND t3.release_year  <  2010;",
+        "query_toks": [
+            "SELECT",
+            "COUNT",
+            "(",
+            "DISTINCT",
+            "t3.title",
+            ")",
+            "FROM",
+            "director",
+            "AS",
+            "t2",
+            "JOIN",
+            "directed_by",
+            "AS",
+            "t1",
+            "ON",
+            "t2.did",
+            "=",
+            "t1.did",
+            "JOIN",
+            "movie",
+            "AS",
+            "t3",
+            "ON",
+            "t3.mid",
+            "=",
+            "t1.msid",
+            "WHERE",
+            "t2.name",
+            "=",
+            "``",
+            "Quentin",
+            "Tarantino",
+            "''",
+            "AND",
+            "t3.release_year",
+            "<",
+            "2010",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "distinct",
+            "t3",
+            ".",
+            "title",
+            ")",
+            "from",
+            "director",
+            "as",
+            "t2",
+            "join",
+            "directed_by",
+            "as",
+            "t1",
+            "on",
+            "t2",
+            ".",
+            "did",
+            "=",
+            "t1",
+            ".",
+            "did",
+            "join",
+            "movie",
+            "as",
+            "t3",
+            "on",
+            "t3",
+            ".",
+            "mid",
+            "=",
+            "t1",
+            ".",
+            "msid",
+            "where",
+            "t2",
+            ".",
+            "name",
+            "=",
+            "value",
+            "and",
+            "t3",
+            ".",
+            "release_year",
+            "<",
+            "value"
+        ],
+        "question": "How many movies did \" Quentin Tarantino \" direct before 2010 ?",
+        "question_toks": [
+            "How",
+            "many",
+            "movies",
+            "did",
+            "``",
+            "Quentin",
+            "Tarantino",
+            "``",
+            "direct",
+            "before",
+            "2010",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        6
+                    ],
+                    [
+                        "table_unit",
+                        8
+                    ],
+                    [
+                        "table_unit",
+                        11
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                22,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            36,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                42,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            35,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                43,
+                                true
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            24,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Quentin Tarantino\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    4,
+                    [
+                        0,
+                        [
+                            0,
+                            44,
+                            false
+                        ],
+                        null
+                    ],
+                    2010.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT name ,  dept_name FROM student ORDER BY tot_cred",
+        "query_toks": [
+            "SELECT",
+            "name",
+            ",",
+            "dept_name",
+            "FROM",
+            "student",
+            "ORDER",
+            "BY",
+            "tot_cred"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            ",",
+            "dept_name",
+            "from",
+            "student",
+            "order",
+            "by",
+            "tot_cred"
+        ],
+        "question": "Find the name of the students and their department names sorted by their total credits in ascending order.",
+        "question_toks": [
+            "Find",
+            "the",
+            "name",
+            "of",
+            "the",
+            "students",
+            "and",
+            "their",
+            "department",
+            "names",
+            "sorted",
+            "by",
+            "their",
+            "total",
+            "credits",
+            "in",
+            "ascending",
+            "order",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        6
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                29,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [
+                "asc",
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            30,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "imdb",
+        "query": "SELECT COUNT ( DISTINCT t4.title  ) FROM director AS t3 JOIN directed_by AS t2 ON t3.did  =  t2.did JOIN movie AS t4 ON t4.mid  =  t2.msid JOIN made_by AS t5 ON t4.mid  =  t5.msid JOIN producer AS t1 ON t1.pid  =  t5.pid WHERE t3.name  =  \"Quentin Tarantino\" AND t4.release_year  <  2010 AND t4.release_year  >  2002;",
+        "query_toks": [
+            "SELECT",
+            "COUNT",
+            "(",
+            "DISTINCT",
+            "t4.title",
+            ")",
+            "FROM",
+            "director",
+            "AS",
+            "t3",
+            "JOIN",
+            "directed_by",
+            "AS",
+            "t2",
+            "ON",
+            "t3.did",
+            "=",
+            "t2.did",
+            "JOIN",
+            "movie",
+            "AS",
+            "t4",
+            "ON",
+            "t4.mid",
+            "=",
+            "t2.msid",
+            "JOIN",
+            "made_by",
+            "AS",
+            "t5",
+            "ON",
+            "t4.mid",
+            "=",
+            "t5.msid",
+            "JOIN",
+            "producer",
+            "AS",
+            "t1",
+            "ON",
+            "t1.pid",
+            "=",
+            "t5.pid",
+            "WHERE",
+            "t3.name",
+            "=",
+            "``",
+            "Quentin",
+            "Tarantino",
+            "''",
+            "AND",
+            "t4.release_year",
+            "<",
+            "2010",
+            "AND",
+            "t4.release_year",
+            ">",
+            "2002",
+            ";"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "count",
+            "(",
+            "distinct",
+            "t4",
+            ".",
+            "title",
+            ")",
+            "from",
+            "director",
+            "as",
+            "t3",
+            "join",
+            "directed_by",
+            "as",
+            "t2",
+            "on",
+            "t3",
+            ".",
+            "did",
+            "=",
+            "t2",
+            ".",
+            "did",
+            "join",
+            "movie",
+            "as",
+            "t4",
+            "on",
+            "t4",
+            ".",
+            "mid",
+            "=",
+            "t2",
+            ".",
+            "msid",
+            "join",
+            "made_by",
+            "as",
+            "t5",
+            "on",
+            "t4",
+            ".",
+            "mid",
+            "=",
+            "t5",
+            ".",
+            "msid",
+            "join",
+            "producer",
+            "as",
+            "t1",
+            "on",
+            "t1",
+            ".",
+            "pid",
+            "=",
+            "t5",
+            ".",
+            "pid",
+            "where",
+            "t3",
+            ".",
+            "name",
+            "=",
+            "value",
+            "and",
+            "t4",
+            ".",
+            "release_year",
+            "<",
+            "value",
+            "and",
+            "t4",
+            ".",
+            "release_year",
+            ">",
+            "value"
+        ],
+        "question": "How many movies did \" Quentin Tarantino \" direct before 2002 and after 2010 ?",
+        "question_toks": [
+            "How",
+            "many",
+            "movies",
+            "did",
+            "``",
+            "Quentin",
+            "Tarantino",
+            "``",
+            "direct",
+            "before",
+            "2002",
+            "and",
+            "after",
+            "2010",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        6
+                    ],
+                    [
+                        "table_unit",
+                        8
+                    ],
+                    [
+                        "table_unit",
+                        11
+                    ],
+                    [
+                        "table_unit",
+                        10
+                    ],
+                    [
+                        "table_unit",
+                        7
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                22,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            36,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                42,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            35,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                42,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            40,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            41,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        3,
+                        [
+                            0,
+                            [
+                                0,
+                                43,
+                                true
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            24,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Quentin Tarantino\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    4,
+                    [
+                        0,
+                        [
+                            0,
+                            44,
+                            false
+                        ],
+                        null
+                    ],
+                    2010.0,
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    3,
+                    [
+                        0,
+                        [
+                            0,
+                            44,
+                            false
+                        ],
+                        null
+                    ],
+                    2002.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "student_1",
+        "query": "SELECT firstname FROM list WHERE classroom  =  108",
+        "query_toks": [
+            "SELECT",
+            "firstname",
+            "FROM",
+            "list",
+            "WHERE",
+            "classroom",
+            "=",
+            "108"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "firstname",
+            "from",
+            "list",
+            "where",
+            "classroom",
+            "=",
+            "value"
+        ],
+        "question": "Find the first names of students studying in room 108.",
+        "question_toks": [
+            "Find",
+            "the",
+            "first",
+            "names",
+            "of",
+            "students",
+            "studying",
+            "in",
+            "room",
+            "108",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            4,
+                            false
+                        ],
+                        null
+                    ],
+                    108.0,
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_2",
+        "query": "SELECT name FROM instructor WHERE id NOT IN (SELECT id FROM teaches WHERE semester  =  'Spring')",
+        "query_toks": [
+            "SELECT",
+            "name",
+            "FROM",
+            "instructor",
+            "WHERE",
+            "id",
+            "NOT",
+            "IN",
+            "(",
+            "SELECT",
+            "id",
+            "FROM",
+            "teaches",
+            "WHERE",
+            "semester",
+            "=",
+            "'Spring",
+            "'",
+            ")"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            "from",
+            "instructor",
+            "where",
+            "id",
+            "not",
+            "in",
+            "(",
+            "select",
+            "id",
+            "from",
+            "teaches",
+            "where",
+            "semester",
+            "=",
+            "value",
+            ")"
+        ],
+        "question": "What are the names of instructors who didn't teach courses in the Spring?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "names",
+            "of",
+            "instructors",
+            "who",
+            "did",
+            "n't",
+            "teach",
+            "courses",
+            "in",
+            "the",
+            "Spring",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                12,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    true,
+                    8,
+                    [
+                        0,
+                        [
+                            0,
+                            11,
+                            false
+                        ],
+                        null
+                    ],
+                    {
+                        "from": {
+                            "table_units": [
+                                [
+                                    "table_unit",
+                                    5
+                                ]
+                            ],
+                            "conds": []
+                        },
+                        "select": [
+                            false,
+                            [
+                                [
+                                    0,
+                                    [
+                                        0,
+                                        [
+                                            0,
+                                            22,
+                                            false
+                                        ],
+                                        null
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "where": [
+                            [
+                                false,
+                                2,
+                                [
+                                    0,
+                                    [
+                                        0,
+                                        25,
+                                        false
+                                    ],
+                                    null
+                                ],
+                                "\"Spring\"",
+                                null
+                            ]
+                        ],
+                        "groupBy": [],
+                        "having": [],
+                        "orderBy": [],
+                        "limit": null,
+                        "intersect": null,
+                        "union": null,
+                        "except": null
+                    },
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_1",
+        "query": "SELECT T3.EMP_FNAME ,  T3.EMP_LNAME FROM professor AS T1 JOIN department AS T2 ON T1.dept_code  =  T2.dept_code JOIN employee AS T3 ON T1.EMP_NUM  =  T3.EMP_NUM WHERE DEPT_NAME  =  \"Biology\"",
+        "query_toks": [
+            "SELECT",
+            "T3.EMP_FNAME",
+            ",",
+            "T3.EMP_LNAME",
+            "FROM",
+            "professor",
+            "AS",
+            "T1",
+            "JOIN",
+            "department",
+            "AS",
+            "T2",
+            "ON",
+            "T1.dept_code",
+            "=",
+            "T2.dept_code",
+            "JOIN",
+            "employee",
+            "AS",
+            "T3",
+            "ON",
+            "T1.EMP_NUM",
+            "=",
+            "T3.EMP_NUM",
+            "WHERE",
+            "DEPT_NAME",
+            "=",
+            "``",
+            "Biology",
+            "''"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t3",
+            ".",
+            "emp_fname",
+            ",",
+            "t3",
+            ".",
+            "emp_lname",
+            "from",
+            "professor",
+            "as",
+            "t1",
+            "join",
+            "department",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "dept_code",
+            "=",
+            "t2",
+            ".",
+            "dept_code",
+            "join",
+            "employee",
+            "as",
+            "t3",
+            "on",
+            "t1",
+            ".",
+            "emp_num",
+            "=",
+            "t3",
+            ".",
+            "emp_num",
+            "where",
+            "dept_name",
+            "=",
+            "value"
+        ],
+        "question": "What is the first and last name of the professor in biology department?",
+        "question_toks": [
+            "What",
+            "is",
+            "the",
+            "first",
+            "and",
+            "last",
+            "name",
+            "of",
+            "the",
+            "professor",
+            "in",
+            "biology",
+            "department",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        5
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ],
+                    [
+                        "table_unit",
+                        3
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            11,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                27,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            17,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                19,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                18,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            12,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"Biology\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "college_1",
+        "query": "SELECT T1.emp_lname ,  T2.prof_office FROM employee AS T1 JOIN professor AS T2 ON T1.emp_num  =  T2.emp_num JOIN department AS T3 ON T2.dept_code  =  T3.dept_code WHERE T3.dept_name  =  'History'",
+        "query_toks": [
+            "SELECT",
+            "T1.emp_lname",
+            ",",
+            "T2.prof_office",
+            "FROM",
+            "employee",
+            "AS",
+            "T1",
+            "JOIN",
+            "professor",
+            "AS",
+            "T2",
+            "ON",
+            "T1.emp_num",
+            "=",
+            "T2.emp_num",
+            "JOIN",
+            "department",
+            "AS",
+            "T3",
+            "ON",
+            "T2.dept_code",
+            "=",
+            "T3.dept_code",
+            "WHERE",
+            "T3.dept_name",
+            "=",
+            "'History",
+            "'"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "t1",
+            ".",
+            "emp_lname",
+            ",",
+            "t2",
+            ".",
+            "prof_office",
+            "from",
+            "employee",
+            "as",
+            "t1",
+            "join",
+            "professor",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "emp_num",
+            "=",
+            "t2",
+            ".",
+            "emp_num",
+            "join",
+            "department",
+            "as",
+            "t3",
+            "on",
+            "t2",
+            ".",
+            "dept_code",
+            "=",
+            "t3",
+            ".",
+            "dept_code",
+            "where",
+            "t3",
+            ".",
+            "dept_name",
+            "=",
+            "value"
+        ],
+        "question": "What are the last name and office of all history professors?",
+        "question_toks": [
+            "What",
+            "are",
+            "the",
+            "last",
+            "name",
+            "and",
+            "office",
+            "of",
+            "all",
+            "history",
+            "professors",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        3
+                    ],
+                    [
+                        "table_unit",
+                        5
+                    ],
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            27,
+                            false
+                        ],
+                        null
+                    ],
+                    "and",
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                28,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            11,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                18,
+                                false
+                            ],
+                            null
+                        ]
+                    ],
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                29,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            12,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"History\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "student_1",
+        "query": "SELECT DISTINCT T1.lastname FROM list AS T1 JOIN teachers AS T2 ON T1.classroom  =  T2.classroom WHERE T1.grade  =  3 AND T2.firstname != \"COVIN\" AND T2.lastname != \"JEROME\"",
+        "query_toks": [
+            "SELECT",
+            "DISTINCT",
+            "T1.lastname",
+            "FROM",
+            "list",
+            "AS",
+            "T1",
+            "JOIN",
+            "teachers",
+            "AS",
+            "T2",
+            "ON",
+            "T1.classroom",
+            "=",
+            "T2.classroom",
+            "WHERE",
+            "T1.grade",
+            "=",
+            "3",
+            "AND",
+            "T2.firstname",
+            "!",
+            "=",
+            "``",
+            "COVIN",
+            "''",
+            "AND",
+            "T2.lastname",
+            "!",
+            "=",
+            "``",
+            "JEROME",
+            "''"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "distinct",
+            "t1",
+            ".",
+            "lastname",
+            "from",
+            "list",
+            "as",
+            "t1",
+            "join",
+            "teachers",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "classroom",
+            "=",
+            "t2",
+            ".",
+            "classroom",
+            "where",
+            "t1",
+            ".",
+            "grade",
+            "=",
+            "value",
+            "and",
+            "t2",
+            ".",
+            "firstname",
+            "!",
+            "=",
+            "value",
+            "and",
+            "t2",
+            ".",
+            "lastname",
+            "!",
+            "=",
+            "value"
+        ],
+        "question": "Which students in third grade are not taught by teacher COVIN JEROME? Give me the last names of the students.",
+        "question_toks": [
+            "Which",
+            "students",
+            "in",
+            "third",
+            "grade",
+            "are",
+            "not",
+            "taught",
+            "by",
+            "teacher",
+            "COVIN",
+            "JEROME",
+            "?",
+            "Give",
+            "me",
+            "the",
+            "last",
+            "names",
+            "of",
+            "the",
+            "students",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ],
+                    [
+                        "table_unit",
+                        1
+                    ]
+                ],
+                "conds": [
+                    [
+                        false,
+                        2,
+                        [
+                            0,
+                            [
+                                0,
+                                4,
+                                false
+                            ],
+                            null
+                        ],
+                        [
+                            0,
+                            7,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            },
+            "select": [
+                true,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                1,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    false,
+                    2,
+                    [
+                        0,
+                        [
+                            0,
+                            3,
+                            false
+                        ],
+                        null
+                    ],
+                    3.0,
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    7,
+                    [
+                        0,
+                        [
+                            0,
+                            6,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"COVIN\"",
+                    null
+                ],
+                "and",
+                [
+                    false,
+                    7,
+                    [
+                        0,
+                        [
+                            0,
+                            5,
+                            false
+                        ],
+                        null
+                    ],
+                    "\"JEROME\"",
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "hospital_1",
+        "query": "SELECT name FROM physician EXCEPT SELECT T2.name FROM appointment AS T1 JOIN physician AS T2 ON T1.Physician  =  T2.EmployeeID",
+        "query_toks": [
+            "SELECT",
+            "name",
+            "FROM",
+            "physician",
+            "EXCEPT",
+            "SELECT",
+            "T2.name",
+            "FROM",
+            "appointment",
+            "AS",
+            "T1",
+            "JOIN",
+            "physician",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Physician",
+            "=",
+            "T2.EmployeeID"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "name",
+            "from",
+            "physician",
+            "except",
+            "select",
+            "t2",
+            ".",
+            "name",
+            "from",
+            "appointment",
+            "as",
+            "t1",
+            "join",
+            "physician",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "physician",
+            "=",
+            "t2",
+            ".",
+            "employeeid"
+        ],
+        "question": "Which physicians have never taken any appointment? Find their names.",
+        "question_toks": [
+            "Which",
+            "physicians",
+            "have",
+            "never",
+            "taken",
+            "any",
+            "appointment",
+            "?",
+            "Find",
+            "their",
+            "names",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                2,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": {
+                "from": {
+                    "table_units": [
+                        [
+                            "table_unit",
+                            7
+                        ],
+                        [
+                            "table_unit",
+                            0
+                        ]
+                    ],
+                    "conds": [
+                        [
+                            false,
+                            2,
+                            [
+                                0,
+                                [
+                                    0,
+                                    32,
+                                    false
+                                ],
+                                null
+                            ],
+                            [
+                                0,
+                                1,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                },
+                "select": [
+                    false,
+                    [
+                        [
+                            0,
+                            [
+                                0,
+                                [
+                                    0,
+                                    2,
+                                    false
+                                ],
+                                null
+                            ]
+                        ]
+                    ]
+                ],
+                "where": [],
+                "groupBy": [],
+                "having": [],
+                "orderBy": [],
+                "limit": null,
+                "intersect": null,
+                "union": null,
+                "except": null
+            }
+        }
+    },
+    {
+        "db_id": "wine_1",
+        "query": "SELECT avg(price) FROM wine WHERE Appelation NOT IN (SELECT T1.Appelation FROM APPELLATIONS AS T1 JOIN WINE AS T2 ON T1.Appelation  =  T2.Appelation WHERE T1.County  =  'Sonoma')",
+        "query_toks": [
+            "SELECT",
+            "avg",
+            "(",
+            "price",
+            ")",
+            "FROM",
+            "wine",
+            "WHERE",
+            "Appelation",
+            "NOT",
+            "IN",
+            "(",
+            "SELECT",
+            "T1.Appelation",
+            "FROM",
+            "APPELLATIONS",
+            "AS",
+            "T1",
+            "JOIN",
+            "WINE",
+            "AS",
+            "T2",
+            "ON",
+            "T1.Appelation",
+            "=",
+            "T2.Appelation",
+            "WHERE",
+            "T1.County",
+            "=",
+            "'Sonoma",
+            "'",
+            ")"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "avg",
+            "(",
+            "price",
+            ")",
+            "from",
+            "wine",
+            "where",
+            "appelation",
+            "not",
+            "in",
+            "(",
+            "select",
+            "t1",
+            ".",
+            "appelation",
+            "from",
+            "appellations",
+            "as",
+            "t1",
+            "join",
+            "wine",
+            "as",
+            "t2",
+            "on",
+            "t1",
+            ".",
+            "appelation",
+            "=",
+            "t2",
+            ".",
+            "appelation",
+            "where",
+            "t1",
+            ".",
+            "county",
+            "=",
+            "value",
+            ")"
+        ],
+        "question": "What is the average price for wines not produced in Sonoma county?",
+        "question_toks": [
+            "What",
+            "is",
+            "the",
+            "average",
+            "price",
+            "for",
+            "wines",
+            "not",
+            "produced",
+            "in",
+            "Sonoma",
+            "county",
+            "?"
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        2
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        5,
+                        [
+                            0,
+                            [
+                                0,
+                                17,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [
+                [
+                    true,
+                    8,
+                    [
+                        0,
+                        [
+                            0,
+                            13,
+                            false
+                        ],
+                        null
+                    ],
+                    {
+                        "from": {
+                            "table_units": [
+                                [
+                                    "table_unit",
+                                    1
+                                ],
+                                [
+                                    "table_unit",
+                                    2
+                                ]
+                            ],
+                            "conds": [
+                                [
+                                    false,
+                                    2,
+                                    [
+                                        0,
+                                        [
+                                            0,
+                                            5,
+                                            false
+                                        ],
+                                        null
+                                    ],
+                                    [
+                                        0,
+                                        13,
+                                        false
+                                    ],
+                                    null
+                                ]
+                            ]
+                        },
+                        "select": [
+                            false,
+                            [
+                                [
+                                    0,
+                                    [
+                                        0,
+                                        [
+                                            0,
+                                            5,
+                                            false
+                                        ],
+                                        null
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "where": [
+                            [
+                                false,
+                                2,
+                                [
+                                    0,
+                                    [
+                                        0,
+                                        6,
+                                        false
+                                    ],
+                                    null
+                                ],
+                                "\"Sonoma\"",
+                                null
+                            ]
+                        ],
+                        "groupBy": [],
+                        "having": [],
+                        "orderBy": [],
+                        "limit": null,
+                        "intersect": null,
+                        "union": null,
+                        "except": null
+                    },
+                    null
+                ]
+            ],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    },
+    {
+        "db_id": "student_1",
+        "query": "SELECT classroom FROM list GROUP BY classroom ORDER BY count(*) DESC LIMIT 1",
+        "query_toks": [
+            "SELECT",
+            "classroom",
+            "FROM",
+            "list",
+            "GROUP",
+            "BY",
+            "classroom",
+            "ORDER",
+            "BY",
+            "count",
+            "(",
+            "*",
+            ")",
+            "DESC",
+            "LIMIT",
+            "1"
+        ],
+        "query_toks_no_value": [
+            "select",
+            "classroom",
+            "from",
+            "list",
+            "group",
+            "by",
+            "classroom",
+            "order",
+            "by",
+            "count",
+            "(",
+            "*",
+            ")",
+            "desc",
+            "limit",
+            "value"
+        ],
+        "question": "Find the classroom that the most students use.",
+        "question_toks": [
+            "Find",
+            "the",
+            "classroom",
+            "that",
+            "the",
+            "most",
+            "students",
+            "use",
+            "."
+        ],
+        "sql": {
+            "from": {
+                "table_units": [
+                    [
+                        "table_unit",
+                        0
+                    ]
+                ],
+                "conds": []
+            },
+            "select": [
+                false,
+                [
+                    [
+                        0,
+                        [
+                            0,
+                            [
+                                0,
+                                4,
+                                false
+                            ],
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "where": [],
+            "groupBy": [
+                [
+                    0,
+                    4,
+                    false
+                ]
+            ],
+            "having": [],
+            "orderBy": [
+                "desc",
+                [
+                    [
+                        0,
+                        [
+                            3,
+                            0,
+                            false
+                        ],
+                        null
+                    ]
+                ]
+            ],
+            "limit": 1,
+            "intersect": null,
+            "union": null,
+            "except": null
+        }
+    }
+]

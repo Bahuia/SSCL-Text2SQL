@@ -1,0 +1,3600 @@
+[
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "city id"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "hanzi"
+            ],
+            [
+                0,
+                "hanyu pinyin"
+            ],
+            [
+                0,
+                "regional population"
+            ],
+            [
+                0,
+                "gdp"
+            ],
+            [
+                1,
+                "match id"
+            ],
+            [
+                1,
+                "date"
+            ],
+            [
+                1,
+                "venue"
+            ],
+            [
+                1,
+                "score"
+            ],
+            [
+                1,
+                "result"
+            ],
+            [
+                1,
+                "competition"
+            ],
+            [
+                2,
+                "city id"
+            ],
+            [
+                2,
+                "jan"
+            ],
+            [
+                2,
+                "feb"
+            ],
+            [
+                2,
+                "mar"
+            ],
+            [
+                2,
+                "apr"
+            ],
+            [
+                2,
+                "jun"
+            ],
+            [
+                2,
+                "jul"
+            ],
+            [
+                2,
+                "aug"
+            ],
+            [
+                2,
+                "sep"
+            ],
+            [
+                2,
+                "oct"
+            ],
+            [
+                2,
+                "nov"
+            ],
+            [
+                2,
+                "dec"
+            ],
+            [
+                3,
+                "year"
+            ],
+            [
+                3,
+                "match id"
+            ],
+            [
+                3,
+                "host city"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "City_ID"
+            ],
+            [
+                0,
+                "City"
+            ],
+            [
+                0,
+                "Hanzi"
+            ],
+            [
+                0,
+                "Hanyu_Pinyin"
+            ],
+            [
+                0,
+                "Regional_Population"
+            ],
+            [
+                0,
+                "GDP"
+            ],
+            [
+                1,
+                "Match_ID"
+            ],
+            [
+                1,
+                "Date"
+            ],
+            [
+                1,
+                "Venue"
+            ],
+            [
+                1,
+                "Score"
+            ],
+            [
+                1,
+                "Result"
+            ],
+            [
+                1,
+                "Competition"
+            ],
+            [
+                2,
+                "City_ID"
+            ],
+            [
+                2,
+                "Jan"
+            ],
+            [
+                2,
+                "Feb"
+            ],
+            [
+                2,
+                "Mar"
+            ],
+            [
+                2,
+                "Apr"
+            ],
+            [
+                2,
+                "Jun"
+            ],
+            [
+                2,
+                "Jul"
+            ],
+            [
+                2,
+                "Aug"
+            ],
+            [
+                2,
+                "Sep"
+            ],
+            [
+                2,
+                "Oct"
+            ],
+            [
+                2,
+                "Nov"
+            ],
+            [
+                2,
+                "Dec"
+            ],
+            [
+                3,
+                "Year"
+            ],
+            [
+                3,
+                "Match_ID"
+            ],
+            [
+                3,
+                "Host_City"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text"
+        ],
+        "db_id": "city_record",
+        "foreign_keys": [
+            [
+                13,
+                1
+            ],
+            [
+                26,
+                7
+            ],
+            [
+                27,
+                1
+            ]
+        ],
+        "primary_keys": [
+            1,
+            7,
+            13,
+            25
+        ],
+        "table_names": [
+            "city",
+            "match",
+            "temperature",
+            "hosting city"
+        ],
+        "table_names_original": [
+            "city",
+            "match",
+            "temperature",
+            "hosting_city"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "coupon id"
+            ],
+            [
+                0,
+                "date issued"
+            ],
+            [
+                0,
+                "coupon amount"
+            ],
+            [
+                1,
+                "customer id"
+            ],
+            [
+                1,
+                "coupon id"
+            ],
+            [
+                1,
+                "good or bad customer"
+            ],
+            [
+                1,
+                "first name"
+            ],
+            [
+                1,
+                "last name"
+            ],
+            [
+                1,
+                "gender"
+            ],
+            [
+                1,
+                "date became customer"
+            ],
+            [
+                1,
+                "date last hire"
+            ],
+            [
+                2,
+                "booking id"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "booking status code"
+            ],
+            [
+                2,
+                "returned damaged yes or no"
+            ],
+            [
+                2,
+                "booking start date"
+            ],
+            [
+                2,
+                "booking end date"
+            ],
+            [
+                2,
+                "count hired"
+            ],
+            [
+                2,
+                "amount payable"
+            ],
+            [
+                2,
+                "amount of discount"
+            ],
+            [
+                2,
+                "amount outstanding"
+            ],
+            [
+                2,
+                "amount of refund"
+            ],
+            [
+                3,
+                "product id"
+            ],
+            [
+                3,
+                "product type code"
+            ],
+            [
+                3,
+                "daily hire cost"
+            ],
+            [
+                3,
+                "product name"
+            ],
+            [
+                3,
+                "product description"
+            ],
+            [
+                4,
+                "payment id"
+            ],
+            [
+                4,
+                "booking id"
+            ],
+            [
+                4,
+                "customer id"
+            ],
+            [
+                4,
+                "payment type code"
+            ],
+            [
+                4,
+                "amount paid in full yn"
+            ],
+            [
+                4,
+                "payment date"
+            ],
+            [
+                4,
+                "amount due"
+            ],
+            [
+                4,
+                "amount paid"
+            ],
+            [
+                5,
+                "booking id"
+            ],
+            [
+                5,
+                "product id"
+            ],
+            [
+                5,
+                "returned yes or no"
+            ],
+            [
+                5,
+                "returned late yes or no"
+            ],
+            [
+                5,
+                "booked count"
+            ],
+            [
+                5,
+                "booked amount"
+            ],
+            [
+                6,
+                "product id"
+            ],
+            [
+                6,
+                "booking id"
+            ],
+            [
+                6,
+                "status date"
+            ],
+            [
+                6,
+                "available yes or no"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "coupon_id"
+            ],
+            [
+                0,
+                "date_issued"
+            ],
+            [
+                0,
+                "coupon_amount"
+            ],
+            [
+                1,
+                "customer_id"
+            ],
+            [
+                1,
+                "coupon_id"
+            ],
+            [
+                1,
+                "good_or_bad_customer"
+            ],
+            [
+                1,
+                "first_name"
+            ],
+            [
+                1,
+                "last_name"
+            ],
+            [
+                1,
+                "gender_mf"
+            ],
+            [
+                1,
+                "date_became_customer"
+            ],
+            [
+                1,
+                "date_last_hire"
+            ],
+            [
+                2,
+                "booking_id"
+            ],
+            [
+                2,
+                "customer_id"
+            ],
+            [
+                2,
+                "booking_status_code"
+            ],
+            [
+                2,
+                "returned_damaged_yn"
+            ],
+            [
+                2,
+                "booking_start_date"
+            ],
+            [
+                2,
+                "booking_end_date"
+            ],
+            [
+                2,
+                "count_hired"
+            ],
+            [
+                2,
+                "amount_payable"
+            ],
+            [
+                2,
+                "amount_of_discount"
+            ],
+            [
+                2,
+                "amount_outstanding"
+            ],
+            [
+                2,
+                "amount_of_refund"
+            ],
+            [
+                3,
+                "product_id"
+            ],
+            [
+                3,
+                "product_type_code"
+            ],
+            [
+                3,
+                "daily_hire_cost"
+            ],
+            [
+                3,
+                "product_name"
+            ],
+            [
+                3,
+                "product_description"
+            ],
+            [
+                4,
+                "payment_id"
+            ],
+            [
+                4,
+                "booking_id"
+            ],
+            [
+                4,
+                "customer_id"
+            ],
+            [
+                4,
+                "payment_type_code"
+            ],
+            [
+                4,
+                "amount_paid_in_full_yn"
+            ],
+            [
+                4,
+                "payment_date"
+            ],
+            [
+                4,
+                "amount_due"
+            ],
+            [
+                4,
+                "amount_paid"
+            ],
+            [
+                5,
+                "booking_id"
+            ],
+            [
+                5,
+                "product_id"
+            ],
+            [
+                5,
+                "returned_yn"
+            ],
+            [
+                5,
+                "returned_late_yn"
+            ],
+            [
+                5,
+                "booked_count"
+            ],
+            [
+                5,
+                "booked_amount"
+            ],
+            [
+                6,
+                "product_id"
+            ],
+            [
+                6,
+                "booking_id"
+            ],
+            [
+                6,
+                "status_date"
+            ],
+            [
+                6,
+                "available_yn"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "time",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "time",
+            "time",
+            "number",
+            "number",
+            "text",
+            "text",
+            "time",
+            "time",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "time",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "time",
+            "text"
+        ],
+        "db_id": "products_for_hire",
+        "foreign_keys": [
+            [
+                5,
+                1
+            ],
+            [
+                13,
+                4
+            ],
+            [
+                30,
+                4
+            ],
+            [
+                29,
+                12
+            ],
+            [
+                37,
+                23
+            ],
+            [
+                36,
+                12
+            ],
+            [
+                42,
+                23
+            ],
+            [
+                43,
+                12
+            ]
+        ],
+        "primary_keys": [
+            1,
+            4,
+            12,
+            23,
+            28,
+            36,
+            44
+        ],
+        "table_names": [
+            "discount coupons",
+            "customers",
+            "bookings",
+            "products for hire",
+            "payments",
+            "products booked",
+            "view product availability"
+        ],
+        "table_names_original": [
+            "Discount_Coupons",
+            "Customers",
+            "Bookings",
+            "Products_for_Hire",
+            "Payments",
+            "Products_Booked",
+            "View_Product_Availability"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "customer id"
+            ],
+            [
+                0,
+                "customer details"
+            ],
+            [
+                1,
+                "policy id"
+            ],
+            [
+                1,
+                "customer id"
+            ],
+            [
+                1,
+                "policy type code"
+            ],
+            [
+                1,
+                "start date"
+            ],
+            [
+                1,
+                "end date"
+            ],
+            [
+                2,
+                "claim id"
+            ],
+            [
+                2,
+                "policy id"
+            ],
+            [
+                2,
+                "date claim made"
+            ],
+            [
+                2,
+                "date claim settled"
+            ],
+            [
+                2,
+                "amount claimed"
+            ],
+            [
+                2,
+                "amount settled"
+            ],
+            [
+                3,
+                "settlement id"
+            ],
+            [
+                3,
+                "claim id"
+            ],
+            [
+                3,
+                "date claim made"
+            ],
+            [
+                3,
+                "date claim settled"
+            ],
+            [
+                3,
+                "amount claimed"
+            ],
+            [
+                3,
+                "amount settled"
+            ],
+            [
+                3,
+                "customer policy id"
+            ],
+            [
+                4,
+                "payment id"
+            ],
+            [
+                4,
+                "settlement id"
+            ],
+            [
+                4,
+                "payment method code"
+            ],
+            [
+                4,
+                "date payment made"
+            ],
+            [
+                4,
+                "amount payment"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Customer_ID"
+            ],
+            [
+                0,
+                "Customer_Details"
+            ],
+            [
+                1,
+                "Policy_ID"
+            ],
+            [
+                1,
+                "Customer_ID"
+            ],
+            [
+                1,
+                "Policy_Type_Code"
+            ],
+            [
+                1,
+                "Start_Date"
+            ],
+            [
+                1,
+                "End_Date"
+            ],
+            [
+                2,
+                "Claim_ID"
+            ],
+            [
+                2,
+                "Policy_ID"
+            ],
+            [
+                2,
+                "Date_Claim_Made"
+            ],
+            [
+                2,
+                "Date_Claim_Settled"
+            ],
+            [
+                2,
+                "Amount_Claimed"
+            ],
+            [
+                2,
+                "Amount_Settled"
+            ],
+            [
+                3,
+                "Settlement_ID"
+            ],
+            [
+                3,
+                "Claim_ID"
+            ],
+            [
+                3,
+                "Date_Claim_Made"
+            ],
+            [
+                3,
+                "Date_Claim_Settled"
+            ],
+            [
+                3,
+                "Amount_Claimed"
+            ],
+            [
+                3,
+                "Amount_Settled"
+            ],
+            [
+                3,
+                "Customer_Policy_ID"
+            ],
+            [
+                4,
+                "Payment_ID"
+            ],
+            [
+                4,
+                "Settlement_ID"
+            ],
+            [
+                4,
+                "Payment_Method_Code"
+            ],
+            [
+                4,
+                "Date_Payment_Made"
+            ],
+            [
+                4,
+                "Amount_Payment"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "time",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "time",
+            "number"
+        ],
+        "db_id": "insurance_policies",
+        "foreign_keys": [
+            [
+                4,
+                1
+            ],
+            [
+                9,
+                3
+            ],
+            [
+                15,
+                8
+            ],
+            [
+                22,
+                14
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            8,
+            14,
+            21
+        ],
+        "table_names": [
+            "customers",
+            "customer policies",
+            "claims",
+            "settlements",
+            "payments"
+        ],
+        "table_names_original": [
+            "Customers",
+            "Customer_Policies",
+            "Claims",
+            "Settlements",
+            "Payments"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "gymnast id"
+            ],
+            [
+                0,
+                "floor exercise points"
+            ],
+            [
+                0,
+                "pommel horse points"
+            ],
+            [
+                0,
+                "rings points"
+            ],
+            [
+                0,
+                "vault points"
+            ],
+            [
+                0,
+                "parallel bars points"
+            ],
+            [
+                0,
+                "horizontal bar points"
+            ],
+            [
+                0,
+                "total points"
+            ],
+            [
+                1,
+                "people id"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                1,
+                "age"
+            ],
+            [
+                1,
+                "height"
+            ],
+            [
+                1,
+                "hometown"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Gymnast_ID"
+            ],
+            [
+                0,
+                "Floor_Exercise_Points"
+            ],
+            [
+                0,
+                "Pommel_Horse_Points"
+            ],
+            [
+                0,
+                "Rings_Points"
+            ],
+            [
+                0,
+                "Vault_Points"
+            ],
+            [
+                0,
+                "Parallel_Bars_Points"
+            ],
+            [
+                0,
+                "Horizontal_Bar_Points"
+            ],
+            [
+                0,
+                "Total_Points"
+            ],
+            [
+                1,
+                "People_ID"
+            ],
+            [
+                1,
+                "Name"
+            ],
+            [
+                1,
+                "Age"
+            ],
+            [
+                1,
+                "Height"
+            ],
+            [
+                1,
+                "Hometown"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text"
+        ],
+        "db_id": "gymnast",
+        "foreign_keys": [
+            [
+                1,
+                9
+            ]
+        ],
+        "primary_keys": [
+            1,
+            9
+        ],
+        "table_names": [
+            "gymnast",
+            "people"
+        ],
+        "table_names_original": [
+            "gymnast",
+            "people"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "problem category code"
+            ],
+            [
+                0,
+                "problem category description"
+            ],
+            [
+                1,
+                "problem log id"
+            ],
+            [
+                1,
+                "assigned to staff id"
+            ],
+            [
+                1,
+                "problem id"
+            ],
+            [
+                1,
+                "problem category code"
+            ],
+            [
+                1,
+                "problem status code"
+            ],
+            [
+                1,
+                "log entry date"
+            ],
+            [
+                1,
+                "log entry description"
+            ],
+            [
+                1,
+                "log entry fix"
+            ],
+            [
+                1,
+                "other log details"
+            ],
+            [
+                2,
+                "problem status code"
+            ],
+            [
+                2,
+                "problem status description"
+            ],
+            [
+                3,
+                "product id"
+            ],
+            [
+                3,
+                "product name"
+            ],
+            [
+                3,
+                "product details"
+            ],
+            [
+                4,
+                "staff id"
+            ],
+            [
+                4,
+                "staff first name"
+            ],
+            [
+                4,
+                "staff last name"
+            ],
+            [
+                4,
+                "other staff details"
+            ],
+            [
+                5,
+                "problem id"
+            ],
+            [
+                5,
+                "product id"
+            ],
+            [
+                5,
+                "closure authorised by staff id"
+            ],
+            [
+                5,
+                "reported by staff id"
+            ],
+            [
+                5,
+                "date problem reported"
+            ],
+            [
+                5,
+                "date problem closed"
+            ],
+            [
+                5,
+                "problem description"
+            ],
+            [
+                5,
+                "other problem details"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "problem_category_code"
+            ],
+            [
+                0,
+                "problem_category_description"
+            ],
+            [
+                1,
+                "problem_log_id"
+            ],
+            [
+                1,
+                "assigned_to_staff_id"
+            ],
+            [
+                1,
+                "problem_id"
+            ],
+            [
+                1,
+                "problem_category_code"
+            ],
+            [
+                1,
+                "problem_status_code"
+            ],
+            [
+                1,
+                "log_entry_date"
+            ],
+            [
+                1,
+                "log_entry_description"
+            ],
+            [
+                1,
+                "log_entry_fix"
+            ],
+            [
+                1,
+                "other_log_details"
+            ],
+            [
+                2,
+                "problem_status_code"
+            ],
+            [
+                2,
+                "problem_status_description"
+            ],
+            [
+                3,
+                "product_id"
+            ],
+            [
+                3,
+                "product_name"
+            ],
+            [
+                3,
+                "product_details"
+            ],
+            [
+                4,
+                "staff_id"
+            ],
+            [
+                4,
+                "staff_first_name"
+            ],
+            [
+                4,
+                "staff_last_name"
+            ],
+            [
+                4,
+                "other_staff_details"
+            ],
+            [
+                5,
+                "problem_id"
+            ],
+            [
+                5,
+                "product_id"
+            ],
+            [
+                5,
+                "closure_authorised_by_staff_id"
+            ],
+            [
+                5,
+                "reported_by_staff_id"
+            ],
+            [
+                5,
+                "date_problem_reported"
+            ],
+            [
+                5,
+                "date_problem_closed"
+            ],
+            [
+                5,
+                "problem_description"
+            ],
+            [
+                5,
+                "other_problem_details"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "time",
+            "time",
+            "text",
+            "text"
+        ],
+        "db_id": "tracking_software_problems",
+        "foreign_keys": [
+            [
+                7,
+                12
+            ],
+            [
+                5,
+                21
+            ],
+            [
+                4,
+                17
+            ],
+            [
+                6,
+                1
+            ],
+            [
+                24,
+                17
+            ],
+            [
+                22,
+                14
+            ],
+            [
+                23,
+                17
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            12,
+            14,
+            17,
+            21
+        ],
+        "table_names": [
+            "problem category codes",
+            "problem log",
+            "problem status codes",
+            "product",
+            "staff",
+            "problems"
+        ],
+        "table_names_original": [
+            "Problem_Category_Codes",
+            "Problem_Log",
+            "Problem_Status_Codes",
+            "Product",
+            "Staff",
+            "Problems"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "characteristic type code"
+            ],
+            [
+                0,
+                "characteristic type description"
+            ],
+            [
+                1,
+                "color code"
+            ],
+            [
+                1,
+                "color description"
+            ],
+            [
+                2,
+                "product category code"
+            ],
+            [
+                2,
+                "product category description"
+            ],
+            [
+                2,
+                "unit of measure"
+            ],
+            [
+                3,
+                "characteristic id"
+            ],
+            [
+                3,
+                "characteristic type code"
+            ],
+            [
+                3,
+                "characteristic data type"
+            ],
+            [
+                3,
+                "characteristic name"
+            ],
+            [
+                3,
+                "other characteristic details"
+            ],
+            [
+                4,
+                "product id"
+            ],
+            [
+                4,
+                "color code"
+            ],
+            [
+                4,
+                "product category code"
+            ],
+            [
+                4,
+                "product name"
+            ],
+            [
+                4,
+                "typical buying price"
+            ],
+            [
+                4,
+                "typical selling price"
+            ],
+            [
+                4,
+                "product description"
+            ],
+            [
+                4,
+                "other product details"
+            ],
+            [
+                5,
+                "product id"
+            ],
+            [
+                5,
+                "characteristic id"
+            ],
+            [
+                5,
+                "product characteristic value"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "characteristic_type_code"
+            ],
+            [
+                0,
+                "characteristic_type_description"
+            ],
+            [
+                1,
+                "color_code"
+            ],
+            [
+                1,
+                "color_description"
+            ],
+            [
+                2,
+                "product_category_code"
+            ],
+            [
+                2,
+                "product_category_description"
+            ],
+            [
+                2,
+                "unit_of_measure"
+            ],
+            [
+                3,
+                "characteristic_id"
+            ],
+            [
+                3,
+                "characteristic_type_code"
+            ],
+            [
+                3,
+                "characteristic_data_type"
+            ],
+            [
+                3,
+                "characteristic_name"
+            ],
+            [
+                3,
+                "other_characteristic_details"
+            ],
+            [
+                4,
+                "product_id"
+            ],
+            [
+                4,
+                "color_code"
+            ],
+            [
+                4,
+                "product_category_code"
+            ],
+            [
+                4,
+                "product_name"
+            ],
+            [
+                4,
+                "typical_buying_price"
+            ],
+            [
+                4,
+                "typical_selling_price"
+            ],
+            [
+                4,
+                "product_description"
+            ],
+            [
+                4,
+                "other_product_details"
+            ],
+            [
+                5,
+                "product_id"
+            ],
+            [
+                5,
+                "characteristic_id"
+            ],
+            [
+                5,
+                "product_characteristic_value"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text"
+        ],
+        "db_id": "products_gen_characteristics",
+        "foreign_keys": [
+            [
+                9,
+                1
+            ],
+            [
+                14,
+                3
+            ],
+            [
+                15,
+                5
+            ],
+            [
+                21,
+                13
+            ],
+            [
+                22,
+                8
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            5,
+            8,
+            13
+        ],
+        "table_names": [
+            "reference characteristic types",
+            "reference colors",
+            "reference product categories",
+            "characteristics",
+            "products",
+            "product characteristics"
+        ],
+        "table_names_original": [
+            "Ref_Characteristic_Types",
+            "Ref_Colors",
+            "Ref_Product_Categories",
+            "Characteristics",
+            "Products",
+            "Product_Characteristics"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "shop id"
+            ],
+            [
+                0,
+                "address"
+            ],
+            [
+                0,
+                "num of staff"
+            ],
+            [
+                0,
+                "score"
+            ],
+            [
+                0,
+                "open year"
+            ],
+            [
+                1,
+                "member id"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                1,
+                "membership card"
+            ],
+            [
+                1,
+                "age"
+            ],
+            [
+                1,
+                "time of purchase"
+            ],
+            [
+                1,
+                "level of membership"
+            ],
+            [
+                1,
+                "address"
+            ],
+            [
+                2,
+                "hh id"
+            ],
+            [
+                2,
+                "shop id"
+            ],
+            [
+                2,
+                "month"
+            ],
+            [
+                2,
+                "num of shaff in charge"
+            ],
+            [
+                3,
+                "hh id"
+            ],
+            [
+                3,
+                "member id"
+            ],
+            [
+                3,
+                "total amount"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Shop_ID"
+            ],
+            [
+                0,
+                "Address"
+            ],
+            [
+                0,
+                "Num_of_staff"
+            ],
+            [
+                0,
+                "Score"
+            ],
+            [
+                0,
+                "Open_Year"
+            ],
+            [
+                1,
+                "Member_ID"
+            ],
+            [
+                1,
+                "Name"
+            ],
+            [
+                1,
+                "Membership_card"
+            ],
+            [
+                1,
+                "Age"
+            ],
+            [
+                1,
+                "Time_of_purchase"
+            ],
+            [
+                1,
+                "Level_of_membership"
+            ],
+            [
+                1,
+                "Address"
+            ],
+            [
+                2,
+                "HH_ID"
+            ],
+            [
+                2,
+                "Shop_ID"
+            ],
+            [
+                2,
+                "Month"
+            ],
+            [
+                2,
+                "Num_of_shaff_in_charge"
+            ],
+            [
+                3,
+                "HH_ID"
+            ],
+            [
+                3,
+                "Member_ID"
+            ],
+            [
+                3,
+                "Total_amount"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number"
+        ],
+        "db_id": "coffee_shop",
+        "foreign_keys": [
+            [
+                14,
+                1
+            ],
+            [
+                18,
+                6
+            ]
+        ],
+        "primary_keys": [
+            1,
+            6,
+            13,
+            17
+        ],
+        "table_names": [
+            "shop",
+            "member",
+            "happy hour",
+            "happy hour member"
+        ],
+        "table_names_original": [
+            "shop",
+            "member",
+            "happy_hour",
+            "happy_hour_member"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "template type code"
+            ],
+            [
+                0,
+                "template type description"
+            ],
+            [
+                1,
+                "template id"
+            ],
+            [
+                1,
+                "version number"
+            ],
+            [
+                1,
+                "template type code"
+            ],
+            [
+                1,
+                "date effective from"
+            ],
+            [
+                1,
+                "date effective to"
+            ],
+            [
+                1,
+                "template details"
+            ],
+            [
+                2,
+                "document id"
+            ],
+            [
+                2,
+                "template id"
+            ],
+            [
+                2,
+                "document name"
+            ],
+            [
+                2,
+                "document description"
+            ],
+            [
+                2,
+                "other details"
+            ],
+            [
+                3,
+                "paragraph id"
+            ],
+            [
+                3,
+                "document id"
+            ],
+            [
+                3,
+                "paragraph text"
+            ],
+            [
+                3,
+                "other details"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Template_Type_Code"
+            ],
+            [
+                0,
+                "Template_Type_Description"
+            ],
+            [
+                1,
+                "Template_ID"
+            ],
+            [
+                1,
+                "Version_Number"
+            ],
+            [
+                1,
+                "Template_Type_Code"
+            ],
+            [
+                1,
+                "Date_Effective_From"
+            ],
+            [
+                1,
+                "Date_Effective_To"
+            ],
+            [
+                1,
+                "Template_Details"
+            ],
+            [
+                2,
+                "Document_ID"
+            ],
+            [
+                2,
+                "Template_ID"
+            ],
+            [
+                2,
+                "Document_Name"
+            ],
+            [
+                2,
+                "Document_Description"
+            ],
+            [
+                2,
+                "Other_Details"
+            ],
+            [
+                3,
+                "Paragraph_ID"
+            ],
+            [
+                3,
+                "Document_ID"
+            ],
+            [
+                3,
+                "Paragraph_Text"
+            ],
+            [
+                3,
+                "Other_Details"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "time",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text"
+        ],
+        "db_id": "cre_Doc_Template_Mgt",
+        "foreign_keys": [
+            [
+                5,
+                1
+            ],
+            [
+                10,
+                3
+            ],
+            [
+                15,
+                9
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            9,
+            14
+        ],
+        "table_names": [
+            "reference template types",
+            "templates",
+            "documents",
+            "paragraphs"
+        ],
+        "table_names_original": [
+            "Ref_Template_Types",
+            "Templates",
+            "Documents",
+            "Paragraphs"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "feature type code"
+            ],
+            [
+                0,
+                "feature type name"
+            ],
+            [
+                1,
+                "property type code"
+            ],
+            [
+                1,
+                "property type description"
+            ],
+            [
+                2,
+                "feature id"
+            ],
+            [
+                2,
+                "feature type code"
+            ],
+            [
+                2,
+                "feature name"
+            ],
+            [
+                2,
+                "feature description"
+            ],
+            [
+                3,
+                "property id"
+            ],
+            [
+                3,
+                "property type code"
+            ],
+            [
+                3,
+                "date on market"
+            ],
+            [
+                3,
+                "date sold"
+            ],
+            [
+                3,
+                "property name"
+            ],
+            [
+                3,
+                "property address"
+            ],
+            [
+                3,
+                "room count"
+            ],
+            [
+                3,
+                "vendor requested price"
+            ],
+            [
+                3,
+                "buyer offered price"
+            ],
+            [
+                3,
+                "agreed selling price"
+            ],
+            [
+                3,
+                "apt feature 1"
+            ],
+            [
+                3,
+                "apt feature 2"
+            ],
+            [
+                3,
+                "apt feature 3"
+            ],
+            [
+                3,
+                "fld feature 1"
+            ],
+            [
+                3,
+                "fld feature 2"
+            ],
+            [
+                3,
+                "fld feature 3"
+            ],
+            [
+                3,
+                "hse feature 1"
+            ],
+            [
+                3,
+                "hse feature 2"
+            ],
+            [
+                3,
+                "hse feature 3"
+            ],
+            [
+                3,
+                "oth feature 1"
+            ],
+            [
+                3,
+                "oth feature 2"
+            ],
+            [
+                3,
+                "oth feature 3"
+            ],
+            [
+                3,
+                "shp feature 1"
+            ],
+            [
+                3,
+                "shp feature 2"
+            ],
+            [
+                3,
+                "shp feature 3"
+            ],
+            [
+                3,
+                "other property details"
+            ],
+            [
+                4,
+                "property id"
+            ],
+            [
+                4,
+                "feature id"
+            ],
+            [
+                4,
+                "property feature description"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "feature_type_code"
+            ],
+            [
+                0,
+                "feature_type_name"
+            ],
+            [
+                1,
+                "property_type_code"
+            ],
+            [
+                1,
+                "property_type_description"
+            ],
+            [
+                2,
+                "feature_id"
+            ],
+            [
+                2,
+                "feature_type_code"
+            ],
+            [
+                2,
+                "feature_name"
+            ],
+            [
+                2,
+                "feature_description"
+            ],
+            [
+                3,
+                "property_id"
+            ],
+            [
+                3,
+                "property_type_code"
+            ],
+            [
+                3,
+                "date_on_market"
+            ],
+            [
+                3,
+                "date_sold"
+            ],
+            [
+                3,
+                "property_name"
+            ],
+            [
+                3,
+                "property_address"
+            ],
+            [
+                3,
+                "room_count"
+            ],
+            [
+                3,
+                "vendor_requested_price"
+            ],
+            [
+                3,
+                "buyer_offered_price"
+            ],
+            [
+                3,
+                "agreed_selling_price"
+            ],
+            [
+                3,
+                "apt_feature_1"
+            ],
+            [
+                3,
+                "apt_feature_2"
+            ],
+            [
+                3,
+                "apt_feature_3"
+            ],
+            [
+                3,
+                "fld_feature_1"
+            ],
+            [
+                3,
+                "fld_feature_2"
+            ],
+            [
+                3,
+                "fld_feature_3"
+            ],
+            [
+                3,
+                "hse_feature_1"
+            ],
+            [
+                3,
+                "hse_feature_2"
+            ],
+            [
+                3,
+                "hse_feature_3"
+            ],
+            [
+                3,
+                "oth_feature_1"
+            ],
+            [
+                3,
+                "oth_feature_2"
+            ],
+            [
+                3,
+                "oth_feature_3"
+            ],
+            [
+                3,
+                "shp_feature_1"
+            ],
+            [
+                3,
+                "shp_feature_2"
+            ],
+            [
+                3,
+                "shp_feature_3"
+            ],
+            [
+                3,
+                "other_property_details"
+            ],
+            [
+                4,
+                "property_id"
+            ],
+            [
+                4,
+                "feature_id"
+            ],
+            [
+                4,
+                "property_feature_description"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "time",
+            "time",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text"
+        ],
+        "db_id": "real_estate_properties",
+        "foreign_keys": [
+            [
+                6,
+                1
+            ],
+            [
+                10,
+                3
+            ],
+            [
+                35,
+                9
+            ],
+            [
+                36,
+                5
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            5,
+            9
+        ],
+        "table_names": [
+            "reference feature types",
+            "reference property types",
+            "other available features",
+            "properties",
+            "other property features"
+        ],
+        "table_names_original": [
+            "Ref_Feature_Types",
+            "Ref_Property_Types",
+            "Other_Available_Features",
+            "Properties",
+            "Other_Property_Features"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "document type code"
+            ],
+            [
+                0,
+                "document type name"
+            ],
+            [
+                0,
+                "document type description"
+            ],
+            [
+                1,
+                "calendar date"
+            ],
+            [
+                1,
+                "day number"
+            ],
+            [
+                2,
+                "location code"
+            ],
+            [
+                2,
+                "location name"
+            ],
+            [
+                2,
+                "location description"
+            ],
+            [
+                3,
+                "role code"
+            ],
+            [
+                3,
+                "role name"
+            ],
+            [
+                3,
+                "role description"
+            ],
+            [
+                4,
+                "document id"
+            ],
+            [
+                4,
+                "date stored"
+            ],
+            [
+                4,
+                "document type code"
+            ],
+            [
+                4,
+                "document name"
+            ],
+            [
+                4,
+                "document description"
+            ],
+            [
+                4,
+                "other details"
+            ],
+            [
+                5,
+                "employee id"
+            ],
+            [
+                5,
+                "role code"
+            ],
+            [
+                5,
+                "employee name"
+            ],
+            [
+                5,
+                "gender mfu"
+            ],
+            [
+                5,
+                "date of birth"
+            ],
+            [
+                5,
+                "other details"
+            ],
+            [
+                6,
+                "document id"
+            ],
+            [
+                6,
+                "location code"
+            ],
+            [
+                6,
+                "date in location from"
+            ],
+            [
+                6,
+                "date in locaton to"
+            ],
+            [
+                7,
+                "document id"
+            ],
+            [
+                7,
+                "destruction authorised by employee id"
+            ],
+            [
+                7,
+                "destroyed by employee id"
+            ],
+            [
+                7,
+                "planned destruction date"
+            ],
+            [
+                7,
+                "actual destruction date"
+            ],
+            [
+                7,
+                "other details"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Document_Type_Code"
+            ],
+            [
+                0,
+                "Document_Type_Name"
+            ],
+            [
+                0,
+                "Document_Type_Description"
+            ],
+            [
+                1,
+                "Calendar_Date"
+            ],
+            [
+                1,
+                "Day_Number"
+            ],
+            [
+                2,
+                "Location_Code"
+            ],
+            [
+                2,
+                "Location_Name"
+            ],
+            [
+                2,
+                "Location_Description"
+            ],
+            [
+                3,
+                "Role_Code"
+            ],
+            [
+                3,
+                "Role_Name"
+            ],
+            [
+                3,
+                "Role_Description"
+            ],
+            [
+                4,
+                "Document_ID"
+            ],
+            [
+                4,
+                "Date_Stored"
+            ],
+            [
+                4,
+                "Document_Type_Code"
+            ],
+            [
+                4,
+                "Document_Name"
+            ],
+            [
+                4,
+                "Document_Description"
+            ],
+            [
+                4,
+                "Other_Details"
+            ],
+            [
+                5,
+                "Employee_ID"
+            ],
+            [
+                5,
+                "Role_Code"
+            ],
+            [
+                5,
+                "Employee_Name"
+            ],
+            [
+                5,
+                "Gender_MFU"
+            ],
+            [
+                5,
+                "Date_of_Birth"
+            ],
+            [
+                5,
+                "Other_Details"
+            ],
+            [
+                6,
+                "Document_ID"
+            ],
+            [
+                6,
+                "Location_Code"
+            ],
+            [
+                6,
+                "Date_in_Location_From"
+            ],
+            [
+                6,
+                "Date_in_Locaton_To"
+            ],
+            [
+                7,
+                "Document_ID"
+            ],
+            [
+                7,
+                "Destruction_Authorised_by_Employee_ID"
+            ],
+            [
+                7,
+                "Destroyed_by_Employee_ID"
+            ],
+            [
+                7,
+                "Planned_Destruction_Date"
+            ],
+            [
+                7,
+                "Actual_Destruction_Date"
+            ],
+            [
+                7,
+                "Other_Details"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "text",
+            "text",
+            "text",
+            "time",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "time",
+            "text",
+            "number",
+            "text",
+            "time",
+            "time",
+            "number",
+            "number",
+            "number",
+            "time",
+            "time",
+            "text"
+        ],
+        "db_id": "cre_Doc_Tracking_DB",
+        "foreign_keys": [
+            [
+                13,
+                4
+            ],
+            [
+                14,
+                1
+            ],
+            [
+                19,
+                9
+            ],
+            [
+                24,
+                12
+            ],
+            [
+                27,
+                4
+            ],
+            [
+                26,
+                4
+            ],
+            [
+                25,
+                6
+            ],
+            [
+                28,
+                12
+            ],
+            [
+                32,
+                4
+            ],
+            [
+                31,
+                4
+            ],
+            [
+                29,
+                18
+            ],
+            [
+                30,
+                18
+            ]
+        ],
+        "primary_keys": [
+            1,
+            4,
+            6,
+            9,
+            12,
+            18,
+            24,
+            28
+        ],
+        "table_names": [
+            "reference document types",
+            "reference calendar",
+            "reference locations",
+            "roles",
+            "all documents",
+            "employees",
+            "document locations",
+            "documents to be destroyed"
+        ],
+        "table_names_original": [
+            "Ref_Document_Types",
+            "Ref_Calendar",
+            "Ref_Locations",
+            "Roles",
+            "All_Documents",
+            "Employees",
+            "Document_Locations",
+            "Documents_to_be_Destroyed"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "team id"
+            ],
+            [
+                0,
+                "school id"
+            ],
+            [
+                0,
+                "team name"
+            ],
+            [
+                0,
+                "acc regular season"
+            ],
+            [
+                0,
+                "acc percent"
+            ],
+            [
+                0,
+                "acc home"
+            ],
+            [
+                0,
+                "acc road"
+            ],
+            [
+                0,
+                "all games"
+            ],
+            [
+                0,
+                "all games percent"
+            ],
+            [
+                0,
+                "all home"
+            ],
+            [
+                0,
+                "all road"
+            ],
+            [
+                0,
+                "all neutral"
+            ],
+            [
+                1,
+                "school id"
+            ],
+            [
+                1,
+                "school"
+            ],
+            [
+                1,
+                "location"
+            ],
+            [
+                1,
+                "founded"
+            ],
+            [
+                1,
+                "affiliation"
+            ],
+            [
+                1,
+                "enrollment"
+            ],
+            [
+                1,
+                "nickname"
+            ],
+            [
+                1,
+                "primary conference"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Team_ID"
+            ],
+            [
+                0,
+                "School_ID"
+            ],
+            [
+                0,
+                "Team_Name"
+            ],
+            [
+                0,
+                "ACC_Regular_Season"
+            ],
+            [
+                0,
+                "ACC_Percent"
+            ],
+            [
+                0,
+                "ACC_Home"
+            ],
+            [
+                0,
+                "ACC_Road"
+            ],
+            [
+                0,
+                "All_Games"
+            ],
+            [
+                0,
+                "All_Games_Percent"
+            ],
+            [
+                0,
+                "All_Home"
+            ],
+            [
+                0,
+                "All_Road"
+            ],
+            [
+                0,
+                "All_Neutral"
+            ],
+            [
+                1,
+                "School_ID"
+            ],
+            [
+                1,
+                "School"
+            ],
+            [
+                1,
+                "Location"
+            ],
+            [
+                1,
+                "Founded"
+            ],
+            [
+                1,
+                "Affiliation"
+            ],
+            [
+                1,
+                "Enrollment"
+            ],
+            [
+                1,
+                "Nickname"
+            ],
+            [
+                1,
+                "Primary_conference"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text"
+        ],
+        "db_id": "university_basketball",
+        "foreign_keys": [
+            [
+                2,
+                13
+            ]
+        ],
+        "primary_keys": [
+            1,
+            13
+        ],
+        "table_names": [
+            "basketball match",
+            "university"
+        ],
+        "table_names_original": [
+            "basketball_match",
+            "university"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "student id"
+            ],
+            [
+                0,
+                "last name"
+            ],
+            [
+                0,
+                "first name"
+            ],
+            [
+                0,
+                "age"
+            ],
+            [
+                0,
+                "sex"
+            ],
+            [
+                0,
+                "major"
+            ],
+            [
+                0,
+                "advisor"
+            ],
+            [
+                0,
+                "city code"
+            ],
+            [
+                1,
+                "student id"
+            ],
+            [
+                1,
+                "registration date"
+            ],
+            [
+                1,
+                "election cycle"
+            ],
+            [
+                1,
+                "president vote"
+            ],
+            [
+                1,
+                "vice president vote"
+            ],
+            [
+                1,
+                "secretary vote"
+            ],
+            [
+                1,
+                "treasurer vote"
+            ],
+            [
+                1,
+                "class president vote"
+            ],
+            [
+                1,
+                "class senator vote"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "StuID"
+            ],
+            [
+                0,
+                "LName"
+            ],
+            [
+                0,
+                "Fname"
+            ],
+            [
+                0,
+                "Age"
+            ],
+            [
+                0,
+                "Sex"
+            ],
+            [
+                0,
+                "Major"
+            ],
+            [
+                0,
+                "Advisor"
+            ],
+            [
+                0,
+                "city_code"
+            ],
+            [
+                1,
+                "StuID"
+            ],
+            [
+                1,
+                "Registration_Date"
+            ],
+            [
+                1,
+                "Election_Cycle"
+            ],
+            [
+                1,
+                "President_Vote"
+            ],
+            [
+                1,
+                "Vice_President_Vote"
+            ],
+            [
+                1,
+                "Secretary_Vote"
+            ],
+            [
+                1,
+                "Treasurer_Vote"
+            ],
+            [
+                1,
+                "Class_President_Vote"
+            ],
+            [
+                1,
+                "Class_Senator_Vote"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number"
+        ],
+        "db_id": "voter_2",
+        "foreign_keys": [
+            [
+                17,
+                1
+            ],
+            [
+                16,
+                1
+            ],
+            [
+                15,
+                1
+            ],
+            [
+                14,
+                1
+            ],
+            [
+                13,
+                1
+            ],
+            [
+                12,
+                1
+            ],
+            [
+                9,
+                1
+            ]
+        ],
+        "primary_keys": [
+            1
+        ],
+        "table_names": [
+            "student",
+            "voting record"
+        ],
+        "table_names_original": [
+            "Student",
+            "Voting_record"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "party id"
+            ],
+            [
+                0,
+                "party theme"
+            ],
+            [
+                0,
+                "location"
+            ],
+            [
+                0,
+                "first year"
+            ],
+            [
+                0,
+                "last year"
+            ],
+            [
+                0,
+                "number of hosts"
+            ],
+            [
+                1,
+                "host id"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                1,
+                "nationality"
+            ],
+            [
+                1,
+                "age"
+            ],
+            [
+                2,
+                "party id"
+            ],
+            [
+                2,
+                "host id"
+            ],
+            [
+                2,
+                "is main in charge"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Party_ID"
+            ],
+            [
+                0,
+                "Party_Theme"
+            ],
+            [
+                0,
+                "Location"
+            ],
+            [
+                0,
+                "First_year"
+            ],
+            [
+                0,
+                "Last_year"
+            ],
+            [
+                0,
+                "Number_of_hosts"
+            ],
+            [
+                1,
+                "Host_ID"
+            ],
+            [
+                1,
+                "Name"
+            ],
+            [
+                1,
+                "Nationality"
+            ],
+            [
+                1,
+                "Age"
+            ],
+            [
+                2,
+                "Party_ID"
+            ],
+            [
+                2,
+                "Host_ID"
+            ],
+            [
+                2,
+                "Is_Main_in_Charge"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "others"
+        ],
+        "db_id": "party_host",
+        "foreign_keys": [
+            [
+                11,
+                1
+            ],
+            [
+                12,
+                7
+            ]
+        ],
+        "primary_keys": [
+            1,
+            7,
+            11
+        ],
+        "table_names": [
+            "party",
+            "host",
+            "party host"
+        ],
+        "table_names_original": [
+            "party",
+            "host",
+            "party_host"
+        ]
+    }
+]

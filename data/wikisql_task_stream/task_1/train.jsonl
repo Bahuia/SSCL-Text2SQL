@@ -1,0 +1,750 @@
+{"phase": 2, "table_id": "2-12807904-3", "question": "For the club that had tries of 50 and drawn of 0, what were the points?", "sql": {"sel": 5, "conds": [[2, 0, "0"], [6, 0, "50"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14871601-1", "question": "How many Wins has a Scored of 27 and Draws smaller than 5?", "sql": {"sel": 3, "conds": [[6, 0, 27], [4, 2, 5]], "agg": 3}}
+{"phase": 2, "table_id": "2-12792876-2", "question": "What is the number of tries for that has 30 tries against?", "sql": {"sel": 6, "conds": [[7, 0, "30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13955773-6", "question": "What was the score when the game has a loss of Lary (10-12)?", "sql": {"sel": 2, "conds": [[3, 0, "lary (10-12)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17619574-4", "question": "What is the points when played is less than 38?", "sql": {"sel": 3, "conds": [[2, 2, 38]], "agg": 4}}
+{"phase": 1, "table_id": "1-10015132-7", "question": "what school is rudy gay from", "sql": {"sel": 5, "conds": [[0, 0, "Rudy Gay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17369472-3", "question": "What is Points, when Played is \"20\", and when Club is \"Caldicot RFC\"?", "sql": {"sel": 10, "conds": [[1, 0, "20"], [0, 0, "caldicot rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18976447-11", "question": "Which Losses have an Against smaller than 1018, and Wins smaller than 14?", "sql": {"sel": 3, "conds": [[5, 2, 1018], [1, 2, 14]], "agg": 5}}
+{"phase": 2, "table_id": "2-17603447-1", "question": "What is the highest played when there was less than 74 goals against and points 1 of 36 2?", "sql": {"sel": 2, "conds": [[8, 0, "36 2"], [6, 2, 74]], "agg": 1}}
+{"phase": 1, "table_id": "1-11545282-7", "question": "How many years did number 25 play for the Jazz?", "sql": {"sel": 4, "conds": [[1, 0, 25]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "Who are all of the players on the Westchester High School club team?", "sql": {"sel": 0, "conds": [[5, 0, "Westchester High School"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-14", "question": "What are the most wins of Terang with the draws less than 0?", "sql": {"sel": 1, "conds": [[0, 0, "terang"], [3, 2, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-17416195-2", "question": "What is the lowest played for the entry with position of 2 and fewer than 9 losses?", "sql": {"sel": 1, "conds": [[0, 0, 2], [5, 2, 9]], "agg": 2}}
+{"phase": 2, "table_id": "2-12367921-6", "question": "What is the attendance for august 29?", "sql": {"sel": 4, "conds": [[0, 0, "august 29"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-17", "question": "What is the player that played in 2004-05?", "sql": {"sel": 0, "conds": [[4, 0, "2004-05"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207528-4", "question": "Who was the Blue Jays' opponent when their record was 33-15?", "sql": {"sel": 1, "conds": [[4, 0, "33-15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Wins is the lowest one that has a Season smaller than 1920, and Losses smaller than 14?", "sql": {"sel": 2, "conds": [[0, 2, 1920], [3, 2, 14]], "agg": 2}}
+{"phase": 2, "table_id": "2-12886178-3", "question": "What is the value for Drawn, when the value for Losing bonus is 6?", "sql": {"sel": 2, "conds": [[9, 0, "6"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14911550-5", "question": "In which position is the team Cerro Porte\u00f1o?", "sql": {"sel": 0, "conds": [[1, 0, "Cerro Porte\u00f1o"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13564637-4", "question": "How many tries for when the points against was 547?", "sql": {"sel": 7, "conds": [[6, 0, "547"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15331084-1", "question": "What is the lowest Points with an against of 20 and less than 1 lost?", "sql": {"sel": 2, "conds": [[6, 0, 20], [5, 2, 1]], "agg": 2}}
+{"phase": 2, "table_id": "2-14417906-6", "question": "What is the least amount of losses for the team that had more than 0 draws during the seasons earlier than 1926?", "sql": {"sel": 3, "conds": [[4, 1, 0], [0, 2, 1926]], "agg": 2}}
+{"phase": 2, "table_id": "2-14871601-1", "question": "Which Position has  Draws smaller than 7 and a Played larger than 22?", "sql": {"sel": 0, "conds": [[4, 2, 7], [2, 1, 22]], "agg": 5}}
+{"phase": 1, "table_id": "1-29565858-2", "question": "What is listed under W when the ends won is 22?", "sql": {"sel": 1, "conds": [[5, 0, 22]], "agg": 2}}
+{"phase": 2, "table_id": "2-14417906-6", "question": "What is the highest number of wins for the team, Central District, who had less than 0 draws and took place during a season before 1995?", "sql": {"sel": 2, "conds": [[0, 2, 1995], [1, 0, "central district"], [4, 2, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-12076689-3", "question": "What is the record of the game on May 30?", "sql": {"sel": 5, "conds": [[0, 0, "may 30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17056450-5", "question": "When the player gained below 1,405 yards and lost over 390 yards, what's the sum of the long yards?", "sql": {"sel": 3, "conds": [[2, 1, 390], [1, 2, "1,405"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11734041-12", "question": "Name the height for the center position from kansas", "sql": {"sel": 2, "conds": [[3, 0, "center"], [5, 0, "kansas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12792876-3", "question": "What was the tries against when the drawn was 2?", "sql": {"sel": 8, "conds": [[3, 0, "2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12828723-3", "question": "How many tries for were there while having 479 points against?", "sql": {"sel": 6, "conds": [[5, 0, "479"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18594107-2", "question": "How many wins have conceded as 18?", "sql": {"sel": 3, "conds": [[7, 0, 18]], "agg": 1}}
+{"phase": 2, "table_id": "2-16435990-19", "question": "How many losses did leon patton have with the longest gain higher than 45?", "sql": {"sel": 2, "conds": [[0, 0, "leon patton"], [3, 1, 45]], "agg": 3}}
+{"phase": 2, "table_id": "2-1552908-15", "question": "What is the sum of against in Ballarat FL of East Point and wins less than 16?", "sql": {"sel": 5, "conds": [[0, 0, "east point"], [1, 2, 16]], "agg": 4}}
+{"phase": 2, "table_id": "2-11545282-10", "question": "What is the nationality of the player on the Jazz from 1974-79?", "sql": {"sel": 1, "conds": [[3, 0, "1974-79"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12792876-4", "question": "How many points against did Carmarthen Athletic RFC have when they played 22 games ?", "sql": {"sel": 5, "conds": [[1, 0, "22"], [0, 0, "carmarthen athletic rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-16", "question": "What years does milt palacio play?", "sql": {"sel": 3, "conds": [[0, 0, "milt palacio"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17298923-2", "question": "What is the total number of played for the goals against over 44 and a goal difference of 11?", "sql": {"sel": 1, "conds": [[8, 0, 11], [7, 1, 44]], "agg": 3}}
+{"phase": 2, "table_id": "2-11652183-8", "question": "with a record of 63-76 what was the attendance?", "sql": {"sel": 4, "conds": [[5, 0, "63-76"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208857-4", "question": "Which Game has an Opponent of @ pittsburgh penguins?", "sql": {"sel": 0, "conds": [[2, 0, "@ pittsburgh penguins"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17710217-2", "question": "How many draws have goals for less than 56, 10 as the postion, with goals against less than 45?", "sql": {"sel": 5, "conds": [[7, 2, 56], [0, 0, 10], [8, 2, 45]], "agg": 3}}
+{"phase": 1, "table_id": "1-13564637-5", "question": "Who is the club that has 30 points?", "sql": {"sel": 0, "conds": [[11, 0, "30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17298923-4", "question": "What is the total number of Losses, when Position is greater than 8, when Goals For is greater than 34, when Points is \"25\", and when Draws is less than 5?", "sql": {"sel": 5, "conds": [[0, 1, 8], [6, 1, 34], [2, 0, 25], [4, 2, 5]], "agg": 3}}
+{"phase": 1, "table_id": "1-2840500-2", "question": "Which team drafted Travis Brigley?", "sql": {"sel": 4, "conds": [[1, 0, "Travis Brigley"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11512983-6", "question": "On what date was the record 59\u201359?", "sql": {"sel": 0, "conds": [[4, 0, "59\u201359"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12195635-7", "question": "What was the score when the opponent was the Orioles and the loss shows morehead (5\u20134)?", "sql": {"sel": 2, "conds": [[1, 0, "orioles"], [3, 0, "morehead (5\u20134)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-15", "question": "What's the against when there were more than 2 losses, more than 3 wins, and draws more than 0?", "sql": {"sel": 4, "conds": [[2, 1, 2], [1, 1, 3], [3, 1, 0]], "agg": 5}}
+{"phase": 1, "table_id": "1-12792876-4", "question": "Name the losing bonus for 27", "sql": {"sel": 10, "conds": [[7, 0, "27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208850-4", "question": "Which December has a Game of 37 and Points smaller than 47?", "sql": {"sel": 1, "conds": [[0, 0, 37], [5, 2, 47]], "agg": 5}}
+{"phase": 1, "table_id": "1-14871601-2", "question": "What is the value scored when there were 19 points for the team 3 de Febrero?", "sql": {"sel": 6, "conds": [[8, 0, 19], [1, 0, "3 de Febrero"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12076353-1", "question": "What is the average number of ties when goals against is less than 56 for Ottawa Hockey Club and the goals for is more than 47?", "sql": {"sel": 4, "conds": [[6, 2, 56], [0, 0, "ottawa hockey club"], [5, 1, 47]], "agg": 5}}
+{"phase": 1, "table_id": "1-11545282-6", "question": "For how many players from UTEP can one calculate how many years they've played for Jazz?", "sql": {"sel": 4, "conds": [[5, 0, "UTEP"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1552908-19", "question": "What is the total number of wins for Darley of Ballarat FL against larger than 1055?", "sql": {"sel": 1, "conds": [[0, 0, "darley"], [5, 1, 1055]], "agg": 3}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Losses is the lowest one that has a Season smaller than 1920, and Draws larger than 0?", "sql": {"sel": 3, "conds": [[0, 2, 1920], [4, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-13564637-4", "question": "Who was the player that had drawn 1 and tried for 20?", "sql": {"sel": 1, "conds": [[2, 0, "1"], [6, 0, "20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18522916-1", "question": "What is the fewest number of draws with more than 9 losts and more than 16 goals scored?", "sql": {"sel": 3, "conds": [[4, 1, 9], [5, 1, 16]], "agg": 2}}
+{"phase": 2, "table_id": "2-17675675-2", "question": "What is the draw when the tries against was 69?", "sql": {"sel": 2, "conds": [[7, 0, "69"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17421790-5", "question": "How many goals when more than 10 games played?", "sql": {"sel": 7, "conds": [[2, 1, 10]], "agg": 5}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Draws have Losses smaller than 16, and a Team of university, and Wins larger than 0?", "sql": {"sel": 4, "conds": [[3, 2, 16], [1, 0, "university"], [2, 1, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-11545282-3", "question": "What school does Dell Curry play for?", "sql": {"sel": 4, "conds": [[0, 0, "dell curry"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15303343-1", "question": "What position did the team finish in with a Difference of - 6, 3 losses, and over 4 draws?", "sql": {"sel": 0, "conds": [[7, 0, "- 6"], [5, 0, 3], [4, 1, 4]], "agg": 3}}
+{"phase": 2, "table_id": "2-18594107-1", "question": "Out of the teams that have scored lower than 25 points, have a total of points less than 20, and a position larger than 8, which has the lowest amount of draws?", "sql": {"sel": 4, "conds": [[6, 2, 25], [8, 0, 20], [0, 1, 8]], "agg": 2}}
+{"phase": 2, "table_id": "2-12886178-4", "question": "How many points against did the club with a losing bonus of 3 and 84 tries have?", "sql": {"sel": 5, "conds": [[9, 0, "3"], [6, 0, "84"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12792876-3", "question": "How many were won with the points against was 450?", "sql": {"sel": 2, "conds": [[6, 0, "450"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15128839-19", "question": "Which Avg/G is the lowest one that has a Long larger than 8, and a Loss smaller than 34, and a Gain larger than 16, and a Name of bullock, chris?", "sql": {"sel": 4, "conds": [[3, 1, 8], [2, 2, 34], [1, 1, 16], [0, 0, "bullock, chris"]], "agg": 2}}
+{"phase": 2, "table_id": "2-17775406-3", "question": "What is the goal difference number with a position of 15?", "sql": {"sel": 7, "conds": [[0, 0, 15]], "agg": 0}}
+{"phase": 1, "table_id": "1-2781227-7", "question": "How many different nationalities is pick number 179?", "sql": {"sel": 3, "conds": [[0, 0, 179]], "agg": 3}}
+{"phase": 2, "table_id": "2-15621965-14", "question": "Which Years in Orlando has a Player of bo outlaw?", "sql": {"sel": 3, "conds": [[0, 0, "bo outlaw"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11753791-1", "question": "What is the total number of ties a team with less than 3 losses have?", "sql": {"sel": 4, "conds": [[3, 2, 3]], "agg": 3}}
+{"phase": 2, "table_id": "2-13913673-4", "question": "How many losses have more than 45,036 attendance?", "sql": {"sel": 3, "conds": [[4, 1, "45,036"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13810690-10", "question": "Date of september 28 had what record?", "sql": {"sel": 5, "conds": [[0, 0, "september 28"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18771190-13", "question": "How much Drawn has a Name of erc lechbruck, and Points smaller than 17?", "sql": {"sel": 3, "conds": [[1, 0, "erc lechbruck"], [5, 2, 17]], "agg": 3}}
+{"phase": 2, "table_id": "2-15621965-3", "question": "Which Player has a School/Club Team of Illinois?", "sql": {"sel": 0, "conds": [[4, 0, "illinois"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-11", "question": "Which Points have a Position larger than 6, and a Lost smaller than 13?", "sql": {"sel": 5, "conds": [[0, 1, 6], [4, 2, 13]], "agg": 5}}
+{"phase": 2, "table_id": "2-15432872-2", "question": "What is the Match with Points that are 24?", "sql": {"sel": 1, "conds": [[2, 0, 24]], "agg": 0}}
+{"phase": 2, "table_id": "2-17161431-5", "question": "Which Avg/G has a Name of david allen, and a Gain larger than 371?", "sql": {"sel": 4, "conds": [[0, 0, "david allen"], [1, 1, 371]], "agg": 5}}
+{"phase": 2, "table_id": "2-14337005-2", "question": "what team lost on april 15", "sql": {"sel": 3, "conds": [[0, 0, "april 15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15434792-5", "question": "How many losses have a draw greater than 0?", "sql": {"sel": 4, "conds": [[3, 1, 0]], "agg": 4}}
+{"phase": 2, "table_id": "2-1013129-2", "question": "Tell me the nationality for rudolf vercik", "sql": {"sel": 3, "conds": [[1, 0, "rudolf vercik"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-17", "question": "Club warrnambool has less than 9 wins and what average of draws?", "sql": {"sel": 3, "conds": [[1, 2, 9], [0, 0, "warrnambool"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18976447-3", "question": "What is the sum of wins for teams with against under 1067?", "sql": {"sel": 1, "conds": [[5, 2, 1067]], "agg": 4}}
+{"phase": 2, "table_id": "2-17921347-4", "question": "Which club has 101 tries for?", "sql": {"sel": 0, "conds": [[6, 0, "101"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1552908-11", "question": "What is the lowest against that has bacchus marsh as a ballarat fl, with wins less than 1?", "sql": {"sel": 5, "conds": [[0, 0, "bacchus marsh"], [1, 2, 1]], "agg": 2}}
+{"phase": 2, "table_id": "2-17740819-2", "question": "WHAT ARE THE HIGHEST POINTS WITH GOALS LARGER THAN 48, WINS LESS THAN 19, GOALS AGAINST SMALLER THAN 44, DRAWS LARGER THAN 5?", "sql": {"sel": 3, "conds": [[7, 1, 48], [4, 2, 19], [8, 2, 44], [5, 1, 5]], "agg": 1}}
+{"phase": 2, "table_id": "2-16501954-20", "question": "Which Lost has a Position larger than 2, a Name of sg m\u00fcnchen (n), and a Drawn larger than 0?", "sql": {"sel": 4, "conds": [[0, 1, 2], [1, 0, "sg m\u00fcnchen (n)"], [3, 1, 0]], "agg": 3}}
+{"phase": 2, "table_id": "2-18771190-13", "question": "Which Drawn has a Lost larger than 8, and Points smaller than 7?", "sql": {"sel": 3, "conds": [[4, 1, 8], [5, 2, 7]], "agg": 4}}
+{"phase": 2, "table_id": "2-15621965-2", "question": "Which Years in Orlando has a School/Club Team of kentucky?", "sql": {"sel": 3, "conds": [[4, 0, "kentucky"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15434792-4", "question": "What team had a draw of 0?", "sql": {"sel": 0, "conds": [[3, 0, "0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13564637-1", "question": "How many tries against did the club with 48 tries for have?", "sql": {"sel": 7, "conds": [[6, 0, "48"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13955746-9", "question": "Record of 89-67 had what loss?", "sql": {"sel": 3, "conds": [[4, 0, "89-67"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207149-3", "question": "Who lost the game on May 26?", "sql": {"sel": 3, "conds": [[0, 0, "may 26"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12792876-4", "question": "Name the points against for 51 points", "sql": {"sel": 6, "conds": [[11, 0, "51"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16501954-22", "question": "What is the sum of the number played with more than 5 losses, more than 1 draw, and a position under 8?", "sql": {"sel": 2, "conds": [[4, 1, 5], [0, 2, 8], [3, 1, 1]], "agg": 4}}
+{"phase": 2, "table_id": "2-18628904-9", "question": "When South warrnambool has more than 8 wins, what is the least amount of losses?", "sql": {"sel": 2, "conds": [[0, 0, "south warrnambool"], [1, 1, 8]], "agg": 2}}
+{"phase": 2, "table_id": "2-1552908-21", "question": "How many Against has Byes smaller than 2?", "sql": {"sel": 5, "conds": [[2, 2, 2]], "agg": 5}}
+{"phase": 1, "table_id": "1-11545282-7", "question": "What position did Lamar Green play?", "sql": {"sel": 3, "conds": [[0, 0, "Lamar Green"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13940275-4", "question": "How many points against did the club with points have?", "sql": {"sel": 5, "conds": [[10, 0, "points"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13758945-2", "question": "Which points against has 17 as the lost?", "sql": {"sel": 5, "conds": [[3, 0, "17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15331868-1", "question": "Which Against has a Drawn smaller than 5, a Lost of 3, and a Position of 3?", "sql": {"sel": 6, "conds": [[4, 2, 5], [5, 0, 3], [0, 0, 3]], "agg": 2}}
+{"phase": 1, "table_id": "1-18607260-6", "question": "Name the maximum points for libertad", "sql": {"sel": 8, "conds": [[1, 0, "Libertad"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12207449-6", "question": "What was the score of the game played on August 5?", "sql": {"sel": 2, "conds": [[0, 0, "august 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13955773-7", "question": "Who was the opponent when Hoeft (19-14) took the loss?", "sql": {"sel": 1, "conds": [[3, 0, "hoeft (19-14)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-6", "question": "How many position does Jim Farmer play in?", "sql": {"sel": 3, "conds": [[0, 0, "Jim Farmer"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15222432-2", "question": "What is the smallest lost when position is larger than 6, drawn is 7, and the points stat is less than 15?", "sql": {"sel": 5, "conds": [[0, 1, 6], [4, 0, 7], [2, 2, 15]], "agg": 2}}
+{"phase": 2, "table_id": "2-16501954-23", "question": "what is the lowest played when the position is more than 9?", "sql": {"sel": 2, "conds": [[0, 1, 9]], "agg": 2}}
+{"phase": 2, "table_id": "2-16501954-22", "question": "What is the sum of points for a position over 5 with more than 2 draws?", "sql": {"sel": 5, "conds": [[3, 1, 2], [0, 1, 5]], "agg": 4}}
+{"phase": 2, "table_id": "2-17718005-1", "question": "What is the highest goals against that has 15 as position?", "sql": {"sel": 6, "conds": [[0, 0, 15]], "agg": 1}}
+{"phase": 2, "table_id": "2-17369472-3", "question": "What is Lost, when Losing Bonus is \"3\", and when Club is \"Bettws RFC\"?", "sql": {"sel": 3, "conds": [[9, 0, "3"], [0, 0, "bettws rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13955746-9", "question": "Opponent of @ blue jays, and a Loss of lyon (5-4) had what opponent?", "sql": {"sel": 4, "conds": [[1, 0, "@ blue jays"], [3, 0, "lyon (5-4)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13553506-4", "question": "The game with a loss of smith (2-4) ended with what score?", "sql": {"sel": 2, "conds": [[3, 0, "smith (2-4)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-7", "question": "For the years 1992-93, what position did he play for the Houston Rockets?", "sql": {"sel": 3, "conds": [[4, 0, "1992-93"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17056450-5", "question": "What's the sum of all average yards gained when the gained yards is under 1,276 and lost more than 3 yards?", "sql": {"sel": 4, "conds": [[1, 2, "1,276"], [2, 1, 3]], "agg": 4}}
+{"phase": 2, "table_id": "2-12886178-5", "question": "what is the club that as 100 tries?", "sql": {"sel": 0, "conds": [[6, 0, "100"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17747471-4", "question": "What is the goal difference for entries with more than 6 draws, a position lower than 12, and fewer than 9 wins?", "sql": {"sel": 9, "conds": [[5, 1, 6], [0, 1, 12], [4, 2, 9]], "agg": 0}}
+{"phase": 2, "table_id": "2-13552019-5", "question": "what date did reuschel (12-3) lose?", "sql": {"sel": 0, "conds": [[3, 0, "reuschel (12-3)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207717-6", "question": "What was the score of the game when the record was 59-65?", "sql": {"sel": 2, "conds": [[4, 0, "59-65"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13564637-4", "question": "How many points for when the points was 53?", "sql": {"sel": 5, "conds": [[11, 0, "53"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13758945-2", "question": "What is the drawn that has 22 for played, and 96 for points?", "sql": {"sel": 2, "conds": [[1, 0, "22"], [10, 0, "96"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17902603-2", "question": "Whate place has 18 points with lost less than 8?", "sql": {"sel": 0, "conds": [[7, 0, 18], [4, 2, 8]], "agg": 3}}
+{"phase": 1, "table_id": "1-13564637-4", "question": "How many total games drawn for club tylorstown rfc?", "sql": {"sel": 3, "conds": [[0, 0, "Tylorstown RFC"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11513685-3", "question": "Tell me who was the opponent on May 6", "sql": {"sel": 1, "conds": [[0, 0, "may 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18594107-1", "question": "How many points are in the scored category for the team that has 8 total points and a position that is less than 10?", "sql": {"sel": 6, "conds": [[8, 0, 8], [0, 2, 10]], "agg": 4}}
+{"phase": 2, "table_id": "2-11652183-8", "question": "with a record of 68-80 what was the loss?", "sql": {"sel": 3, "conds": [[5, 0, "68-80"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11195757-1", "question": "When was there a score of 5-1?", "sql": {"sel": 0, "conds": [[2, 0, "5-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-8", "question": "Which Years in Orlando has a Position of center, and a School/Club Team of louisiana state?", "sql": {"sel": 3, "conds": [[2, 0, "center"], [4, 0, "louisiana state"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18673152-1", "question": "What is the average number of goals for games played that total more than 8?", "sql": {"sel": 5, "conds": [[1, 1, 8]], "agg": 5}}
+{"phase": 2, "table_id": "2-11545282-10", "question": "What is the nationality of the guard who plays at Utah?", "sql": {"sel": 1, "conds": [[2, 0, "guard"], [4, 0, "utah"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2781227-7", "question": "What NHL team picked Ryan Meade for the draft?", "sql": {"sel": 4, "conds": [[1, 0, "Ryan Meade"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15388428-1", "question": "What is team ypiranga-sp's average position when they lost by less than 7?", "sql": {"sel": 0, "conds": [[1, 0, "ypiranga-sp"], [5, 2, 7]], "agg": 5}}
+{"phase": 2, "table_id": "2-14070062-2", "question": "Name the club for drawn of 0 and lost of 0", "sql": {"sel": 0, "conds": [[2, 0, "0"], [3, 0, "0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17298923-5", "question": "What is the lowest position with a -22 goal difference and more than 5 points?", "sql": {"sel": 0, "conds": [[8, 0, -22], [2, 1, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-11545282-8", "question": "What Nationality is the Colorado State team?", "sql": {"sel": 1, "conds": [[4, 0, "colorado"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12828723-5", "question": "With a club that has 400 Points against, what are the points?", "sql": {"sel": 4, "conds": [[5, 0, "400"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2781227-10", "question": "which part on the team does rick schuhwerk play", "sql": {"sel": 2, "conds": [[1, 0, "Rick Schuhwerk"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-1", "question": "What school did player number 6 come from?", "sql": {"sel": 5, "conds": [[1, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-8", "question": "What are the least losses of Mortlake having less than 970 against?", "sql": {"sel": 2, "conds": [[0, 0, "mortlake"], [4, 2, 970]], "agg": 2}}
+{"phase": 1, "table_id": "1-29565541-2", "question": "When jeff currie (port arthur) is the skip (club) what is the lowest amount of stolen ends?", "sql": {"sel": 8, "conds": [[0, 0, "Jeff Currie (Port Arthur)"]], "agg": 2}}
+{"phase": 2, "table_id": "2-12207900-7", "question": "On what date was the record 62\u201384?", "sql": {"sel": 0, "conds": [[4, 0, "62\u201384"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-17", "question": "What years was Lebanon the nationality?", "sql": {"sel": 3, "conds": [[1, 0, "lebanon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1552908-21", "question": "How many Against has a Ballarat FL of darley and Wins larger than 8?", "sql": {"sel": 5, "conds": [[0, 0, "darley"], [1, 1, 8]], "agg": 3}}
+{"phase": 2, "table_id": "2-15621965-8", "question": "Which Years in Orlando has a Nationality of united states, and a School/Club Team of illinois?", "sql": {"sel": 3, "conds": [[1, 0, "united states"], [4, 0, "illinois"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206431-5", "question": "Which loss has a Record of 67-51?", "sql": {"sel": 3, "conds": [[5, 0, "67-51"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-3", "question": "Which Player plays Guard-Forward Position for School/Club Team Pepperdine?", "sql": {"sel": 0, "conds": [[2, 0, "guard-forward"], [4, 0, "pepperdine"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18976447-7", "question": "What are the amount of wins when the draws are less than 0 and the against is 1348?", "sql": {"sel": 1, "conds": [[5, 0, 1348], [4, 2, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-14886214-2", "question": "What is the sum of againsts the team with less than 38 played had?", "sql": {"sel": 6, "conds": [[3, 2, 38]], "agg": 4}}
+{"phase": 2, "table_id": "2-14997324-5", "question": "Which Conceded is the highest one that has Points larger than 17, and a Team of guaran\u00ed, and Losses smaller than 6?", "sql": {"sel": 7, "conds": [[8, 1, 17], [1, 0, "guaran\u00ed"], [5, 2, 6]], "agg": 1}}
+{"phase": 2, "table_id": "2-13042949-1", "question": "Name the average goals conceded with draw bigger than 7 and goals scored more than 24", "sql": {"sel": 6, "conds": [[3, 1, 7], [5, 1, 24]], "agg": 5}}
+{"phase": 2, "table_id": "2-17921347-3", "question": "What is Played, when Tries Against is \"63\"?", "sql": {"sel": 1, "conds": [[7, 0, "63"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17775406-1", "question": "WHAT GOALS AGAINST HAD A GOAL FOR OF 46, AND PLAYED LESS THAN 38?", "sql": {"sel": 6, "conds": [[5, 0, 46], [2, 2, 38]], "agg": 4}}
+{"phase": 2, "table_id": "2-16059626-1", "question": "What school did draft pick before 125, will allen go to?", "sql": {"sel": 4, "conds": [[1, 2, 125], [2, 0, "will allen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15372465-2", "question": "What is the lowest drawn that has a played greater than 19, with a position less than 2?", "sql": {"sel": 4, "conds": [[3, 1, 19], [0, 2, 2]], "agg": 2}}
+{"phase": 2, "table_id": "2-16710829-1", "question": "What is the average pick number for Washington State?", "sql": {"sel": 1, "conds": [[4, 0, "washington state"]], "agg": 5}}
+{"phase": 2, "table_id": "2-13119037-1", "question": "What is the total value for Lost, when the value for Points is greater than 21, and when the value for Draw is 2?", "sql": {"sel": 4, "conds": [[7, 1, 21], [3, 0, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-11437560-1", "question": "In which round is pick number 242?", "sql": {"sel": 0, "conds": [[1, 0, "242"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14344570-4", "question": "Which Game is the highest one that has an Opponent of new york islanders, and a December larger than 10?", "sql": {"sel": 0, "conds": [[2, 0, "new york islanders"], [1, 1, 10]], "agg": 1}}
+{"phase": 2, "table_id": "2-15351508-1", "question": "What is the sum of Against when the drawn is less than 2, the position is more than 8, and the lost is more than 6.", "sql": {"sel": 6, "conds": [[4, 2, 2], [0, 1, 8], [5, 1, 6]], "agg": 4}}
+{"phase": 2, "table_id": "2-18908447-1", "question": "After pick number 158, what is the next round a USC player was picked?", "sql": {"sel": 0, "conds": [[4, 0, "usc"], [1, 1, 158]], "agg": 2}}
+{"phase": 2, "table_id": "2-12886178-3", "question": "That is the value for Try bonus when the value for Points is 418?", "sql": {"sel": 8, "conds": [[4, 0, "418"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-16", "question": "how many schools or teams had jalen rose", "sql": {"sel": 5, "conds": [[0, 0, "Jalen Rose"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12206234-3", "question": "When was the record 27-25?", "sql": {"sel": 0, "conds": [[5, 0, "27-25"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17941032-1", "question": "When 80 is the tries for what is the try bonus?", "sql": {"sel": 9, "conds": [[7, 0, "80"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1013129-2", "question": "Tell me the player for nationality of canada for pick of 43", "sql": {"sel": 1, "conds": [[3, 0, "canada"], [0, 0, "43"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13940275-5", "question": "what's the\u00a0losing bonus\u00a0with\u00a0played\u00a0being 22 and\u00a0tries against\u00a0being 38", "sql": {"sel": 10, "conds": [[1, 0, "22"], [8, 0, "38"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14887257-1", "question": "What round was john sutro, tackle, drafter with a pick lower than 79?", "sql": {"sel": 0, "conds": [[3, 0, "tackle"], [2, 0, "john sutro"], [1, 2, 79]], "agg": 4}}
+{"phase": 2, "table_id": "2-16501954-16", "question": "what is the average points when played is 9, name is ev pegnitz and position is larger than 1?", "sql": {"sel": 5, "conds": [[2, 0, 9], [1, 0, "ev pegnitz"], [0, 1, 1]], "agg": 5}}
+{"phase": 2, "table_id": "2-13990653-4", "question": "What is the date of the match with Brother Elephants as the opponent and a save of ||4,117?", "sql": {"sel": 0, "conds": [[1, 0, "brother elephants"], [4, 0, "||4,117"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-3", "question": "What player had numbers of 20", "sql": {"sel": 0, "conds": [[1, 0, "20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-3", "question": "Tell me the height in ft for 1999-2004", "sql": {"sel": 2, "conds": [[4, 0, "1999-2004"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17369472-2", "question": "What is the loss with 319 points?", "sql": {"sel": 3, "conds": [[4, 0, "319"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12091980-1", "question": "what is the least number of goals for when the goals against is 70 and the ties less than 0?", "sql": {"sel": 5, "conds": [[6, 0, 70], [4, 2, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-16501954-21", "question": "What is the total number of losses of the player that has drawn 1 and played smaller than 12?", "sql": {"sel": 4, "conds": [[3, 0, 1], [2, 2, 12]], "agg": 3}}
+{"phase": 2, "table_id": "2-14347256-5", "question": "Which Points have an Opponent of @ atlanta thrashers, and a Game smaller than 28?", "sql": {"sel": 5, "conds": [[2, 0, "@ atlanta thrashers"], [0, 2, 28]], "agg": 4}}
+{"phase": 1, "table_id": "1-18594107-1", "question": "How many draws does 12 de Octubre  have? ", "sql": {"sel": 4, "conds": [[1, 0, "12 de Octubre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-8", "question": "What Nationality is Jeff Hornacek?", "sql": {"sel": 1, "conds": [[0, 0, "jeff hornacek"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15266104-2", "question": "Which Points is the lowest one that has a Position larger than 5?", "sql": {"sel": 2, "conds": [[0, 1, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-14417906-6", "question": "What is the highest number of wins for the team, Central District, who had less than 0 draws and took place during a season before 1995?", "sql": {"sel": 2, "conds": [[0, 2, 1995], [1, 0, "central district"], [4, 2, 0]], "agg": 1}}
+{"phase": 1, "table_id": "1-29542147-2", "question": "What is the highest L of the tournament?", "sql": {"sel": 2, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-12367921-7", "question": "What was the date of the game attended by more than 24,383 with a score of 4-3?", "sql": {"sel": 0, "conds": [[4, 1, "24,383"], [2, 0, "4-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15420044-1", "question": "Which of the highest drawn has a played less than 10?", "sql": {"sel": 4, "conds": [[3, 2, 10]], "agg": 1}}
+{"phase": 2, "table_id": "2-1552908-21", "question": "How many Losses have a Ballarat FL of melton south, and an Against larger than 1468?", "sql": {"sel": 3, "conds": [[0, 0, "melton south"], [5, 1, 1468]], "agg": 3}}
+{"phase": 2, "table_id": "2-17421790-4", "question": "What is the position when wins are fewer than 14 and draws are fewer than 3?", "sql": {"sel": 0, "conds": [[4, 2, 14], [5, 2, 3]], "agg": 5}}
+{"phase": 1, "table_id": "1-17369472-2", "question": "How many were won when there were 49 points? ", "sql": {"sel": 2, "conds": [[11, 0, "49"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12195635-7", "question": "What is the record for the game when the loss was hargan (14\u201313)?", "sql": {"sel": 4, "conds": [[3, 0, "hargan (14\u201313)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2840500-6", "question": "Which pick did Michel Larocque receive?", "sql": {"sel": 0, "conds": [[1, 0, "Michel Larocque"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17776244-3", "question": "For entries with lost larger than 21 and goals for smaller than 36, what is the average drawn?", "sql": {"sel": 3, "conds": [[5, 2, 36], [4, 1, 21]], "agg": 5}}
+{"phase": 2, "table_id": "2-16501954-14", "question": "what is the lowest points when name is ehc m\u00fcnchen ii and position is less than 7?", "sql": {"sel": 5, "conds": [[1, 0, "ehc m\u00fcnchen ii"], [0, 2, 7]], "agg": 2}}
+{"phase": 2, "table_id": "2-18908447-1", "question": "Jim Obradovich, picked after round 2, but before pick 183, plays what position?", "sql": {"sel": 3, "conds": [[0, 1, 2], [1, 2, 183], [2, 0, "jim obradovich"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-11", "question": "How many wins happened with 8 draws?", "sql": {"sel": 2, "conds": [[4, 0, "8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14070062-3", "question": "How many clubs have a try bonus value of 5?", "sql": {"sel": 0, "conds": [[9, 0, "5"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11734041-9", "question": "What position does the player who is 6-10 play?", "sql": {"sel": 3, "conds": [[2, 0, "6-10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-15", "question": "Which player was the forward?", "sql": {"sel": 0, "conds": [[2, 0, "forward"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-5", "question": "How many players were names Howard Eisley?", "sql": {"sel": 1, "conds": [[0, 0, "Howard Eisley"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11756240-1", "question": "How many games did the team lose that played 7 games and has a GA of less than 27?", "sql": {"sel": 3, "conds": [[1, 0, 7], [6, 2, 27]], "agg": 3}}
+{"phase": 1, "table_id": "1-12828723-3", "question": " how many\u00a0drawn\u00a0with\u00a0tries against\u00a0being 24", "sql": {"sel": 3, "conds": [[8, 0, "24"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17619574-4", "question": "What is the number of draws when played is less than 38?", "sql": {"sel": 5, "conds": [[2, 2, 38]], "agg": 3}}
+{"phase": 2, "table_id": "2-17421790-2", "question": "What is the average goal difference of club cultural leonesa, which has more than 27 points and less than 9 losses?", "sql": {"sel": 9, "conds": [[3, 1, 27], [6, 2, 9], [1, 0, "cultural leonesa"]], "agg": 5}}
+{"phase": 2, "table_id": "2-14311305-4", "question": "Which Points have an Opponent of @ pittsburgh penguins?", "sql": {"sel": 5, "conds": [[2, 0, "@ pittsburgh penguins"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13119037-1", "question": "What is the total number of Goals Scored, when the Team is San Salvador F.C., and when the Points are less than 10?", "sql": {"sel": 5, "conds": [[1, 0, "san salvador f.c."], [7, 2, 10]], "agg": 1}}
+{"phase": 2, "table_id": "2-15621965-10", "question": "What nationality has steve kerr as the player?", "sql": {"sel": 1, "conds": [[0, 0, "steve kerr"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "What position does the player who played for butler cc (ks) play?", "sql": {"sel": 3, "conds": [[5, 0, "Butler CC (KS)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11513998-7", "question": "What was the losing score on September 1?", "sql": {"sel": 3, "conds": [[0, 0, "september 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17715861-4", "question": "How much Played has Goals against smaller than 34, and Wins smaller than 13?", "sql": {"sel": 2, "conds": [[8, 2, 34], [4, 2, 13]], "agg": 4}}
+{"phase": 1, "table_id": "1-17625749-3", "question": "How many were drawn when 13 were lost? ", "sql": {"sel": 3, "conds": [[4, 0, "13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206344-2", "question": "Which loss has a Date of april 26?", "sql": {"sel": 3, "conds": [[0, 0, "april 26"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13564702-2", "question": "What is listed for Points for that has a Club of Club?", "sql": {"sel": 4, "conds": [[0, 0, "club"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "What school/club team is Amir Johnson on?", "sql": {"sel": 5, "conds": [[0, 0, "Amir Johnson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Draws have Losses larger than 16, and a Season larger than 1966?", "sql": {"sel": 4, "conds": [[3, 1, 16], [0, 1, 1966]], "agg": 4}}
+{"phase": 2, "table_id": "2-15128839-19", "question": "Which Loss has a Name of bullock, chris, and a Long smaller than 36?", "sql": {"sel": 2, "conds": [[0, 0, "bullock, chris"], [3, 2, 36]], "agg": 4}}
+{"phase": 2, "table_id": "2-12792876-3", "question": "Name the drawn for tries for of 42", "sql": {"sel": 2, "conds": [[6, 0, "42"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14871601-2", "question": "What was the number of losses when the scored value was 25?", "sql": {"sel": 5, "conds": [[6, 0, 25]], "agg": 1}}
+{"phase": 2, "table_id": "2-14417906-4", "question": "What is the lowest Draws for a season later than 1919 with more than 0 wins?", "sql": {"sel": 4, "conds": [[0, 1, 1919], [2, 1, 0]], "agg": 2}}
+{"phase": 1, "table_id": "1-12807904-5", "question": "what amount played tried for 60? ", "sql": {"sel": 1, "conds": [[7, 0, "60"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15621965-18", "question": "What is the Position of the player from Vanderbilt?", "sql": {"sel": 2, "conds": [[4, 0, "vanderbilt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17695272-2", "question": "What is the lowest Goal Difference, when Position is \"7\", and when Played is greater than 30?", "sql": {"sel": 9, "conds": [[0, 0, 7], [2, 1, 30]], "agg": 2}}
+{"phase": 2, "table_id": "2-12777110-2", "question": "What were the goal conceded that had a lost greater than 8 and more than 17 points?", "sql": {"sel": 6, "conds": [[4, 1, 8], [7, 1, 17]], "agg": 1}}
+{"phase": 2, "table_id": "2-15621965-14", "question": "Which Years in Orlando has a School/Club Team of seattle?", "sql": {"sel": 3, "conds": [[4, 0, "seattle"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29542147-2", "question": "What is the highest W of the 0 L?", "sql": {"sel": 1, "conds": [[2, 0, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-12206491-3", "question": "What was the loss of the game when the record was 27-17?", "sql": {"sel": 3, "conds": [[5, 0, "27-17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12091980-1", "question": "what is the average losses when the wins is 9 and ties more than 0?", "sql": {"sel": 3, "conds": [[2, 0, 9], [4, 1, 0]], "agg": 5}}
+{"phase": 1, "table_id": "1-11734041-6", "question": "What years for the rockets did the player ford, phil phil ford play?", "sql": {"sel": 4, "conds": [[0, 0, "Ford, Phil Phil Ford"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15429123-2", "question": "Which team has 10 losses?", "sql": {"sel": 0, "conds": [[4, 0, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-16501954-16", "question": "what is the average points when drawn is 0, lost is 5 and played is more than 10?", "sql": {"sel": 5, "conds": [[3, 0, 0], [4, 0, 5], [2, 1, 10]], "agg": 5}}
+{"phase": 2, "table_id": "2-11514020-6", "question": "Who was the opponent on September 8?", "sql": {"sel": 1, "conds": [[0, 0, "september 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14346882-5", "question": "What record has @ ottawa senators as the opponent?", "sql": {"sel": 4, "conds": [[2, 0, "@ ottawa senators"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15447701-1", "question": "How few losses were the least number of losses and points higher than 23?", "sql": {"sel": 4, "conds": [[2, 1, 23]], "agg": 2}}
+{"phase": 2, "table_id": "2-11734041-7", "question": "What is the position for the Rockets years of 2004-05?", "sql": {"sel": 3, "conds": [[4, 0, "2004-05"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17367996-1", "question": "W hat was the lowest Goals For when they played Team Goole Town and had a position lower than 9?", "sql": {"sel": 5, "conds": [[1, 0, "goole town"], [0, 2, 9]], "agg": 2}}
+{"phase": 2, "table_id": "2-11734041-1", "question": "Who is the school, club, team or country that the Rockets played for 1967-68?", "sql": {"sel": 5, "conds": [[4, 0, "1967-68"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206491-2", "question": "What day did the record reach 15-4?", "sql": {"sel": 0, "conds": [[5, 0, "15-4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12076689-3", "question": "What is the score of the game on May 5?", "sql": {"sel": 2, "conds": [[0, 0, "may 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11512596-6", "question": "Name the score on august 1", "sql": {"sel": 2, "conds": [[0, 0, "august 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-28", "question": "what is the least drawn when the name is sv apfeldorf and the position is more than 8?", "sql": {"sel": 3, "conds": [[1, 0, "sv apfeldorf"], [0, 1, 8]], "agg": 2}}
+{"phase": 1, "table_id": "1-14871601-1", "question": "What is the highest win for the team Nacional?", "sql": {"sel": 3, "conds": [[1, 0, "Nacional"]], "agg": 1}}
+{"phase": 1, "table_id": "1-14871601-1", "question": "What is the largest loss for the Tacuary team?", "sql": {"sel": 5, "conds": [[1, 0, "Tacuary"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14269743-6", "question": "What was the date of the game with a loss of Bush (1\u20135)?", "sql": {"sel": 0, "conds": [[3, 0, "bush (1\u20135)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15128839-19", "question": "How much Long has a Loss larger than 2, and a Gain of 157, and an Avg/G smaller than 129?", "sql": {"sel": 3, "conds": [[2, 1, 2], [1, 0, 157], [4, 2, 129]], "agg": 4}}
+{"phase": 1, "table_id": "1-29565541-2", "question": "When 5 is the l what is the lowest amount of stolen ends?", "sql": {"sel": 8, "conds": [[2, 0, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-17775406-1", "question": "WHAT IS THE LOST WITH A DRAWN 11, FOR LEEK TOWN?", "sql": {"sel": 4, "conds": [[3, 0, 11], [1, 0, "leek town"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2886617-8", "question": "What position did the draft pick for Toronto Maple Leafs play?", "sql": {"sel": 2, "conds": [[4, 0, "Toronto Maple Leafs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14911550-5", "question": "What is the average number of points of the team with more than 18 played?", "sql": {"sel": 8, "conds": [[2, 1, 18]], "agg": 5}}
+{"phase": 1, "table_id": "1-12807904-3", "question": "HOW MANY PLAYERS PLAYED IN THE GAME THAT WON WITH 438 POINTS", "sql": {"sel": 1, "conds": [[5, 0, "438"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17832085-4", "question": "Which Points have a Club of cf calvo sotelo, and a Goal Difference larger than -3?", "sql": {"sel": 3, "conds": [[1, 0, "cf calvo sotelo"], [9, 1, -3]], "agg": 1}}
+{"phase": 1, "table_id": "1-11545282-6", "question": "What's Jim Farmer's nationality?", "sql": {"sel": 2, "conds": [[0, 0, "Jim Farmer"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206319-2", "question": "How many people went to the game with the record of 8-10?", "sql": {"sel": 4, "conds": [[5, 0, "8-10"]], "agg": 4}}
+{"phase": 2, "table_id": "2-15621965-14", "question": "Which Nationality has a School/Club Team of seattle?", "sql": {"sel": 1, "conds": [[4, 0, "seattle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12205689-7", "question": "What was the attendance for the game on August 16?", "sql": {"sel": 4, "conds": [[0, 0, "august 16"]], "agg": 4}}
+{"phase": 2, "table_id": "2-15206839-3", "question": "How many games against for team guarani with under 3 draws?", "sql": {"sel": 6, "conds": [[1, 0, "guarani"], [4, 2, 3]], "agg": 4}}
+{"phase": 2, "table_id": "2-18704095-8", "question": "What's the draw that's played less than 36 and has 42 points?", "sql": {"sel": 3, "conds": [[7, 0, 42], [2, 2, 36]], "agg": 5}}
+{"phase": 1, "table_id": "1-17941032-3", "question": "Name the try bonus for lost being 11 and losing bonus is 6", "sql": {"sel": 9, "conds": [[4, 0, "11"], [10, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17409365-2", "question": "Which Points against has a Lost of lost?", "sql": {"sel": 5, "conds": [[3, 0, "lost"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11437560-1", "question": "Which school has a quarterback?", "sql": {"sel": 4, "conds": [[3, 0, "quarterback"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17716055-3", "question": "Which Points 1 has a Team of atherton collieries, and a Position smaller than 8?", "sql": {"sel": 8, "conds": [[1, 0, "atherton collieries"], [0, 2, 8]], "agg": 1}}
+{"phase": 2, "table_id": "2-17695272-4", "question": "What is the average number of goals against with more than 12 wins, 12 losses, and a position greater than 3?", "sql": {"sel": 8, "conds": [[4, 1, 12], [6, 0, 12], [0, 1, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-14318601-4", "question": "What's the score for December of 30?", "sql": {"sel": 3, "conds": [[1, 0, 30]], "agg": 0}}
+{"phase": 2, "table_id": "2-17609068-1", "question": "What is listed under points 1 when the position was greater than 4, there were 54 goals for and more than 11 losses?", "sql": {"sel": 8, "conds": [[0, 1, 4], [5, 0, 54], [4, 1, 11]], "agg": 0}}
+{"phase": 2, "table_id": "2-17543955-1", "question": "What is the number of points when the draws are more than 1?", "sql": {"sel": 2, "conds": [[3, 1, 1]], "agg": 3}}
+{"phase": 2, "table_id": "2-12207430-6", "question": "What was the attendance when the record was 77-54?", "sql": {"sel": 4, "conds": [[5, 0, "77-54"]], "agg": 2}}
+{"phase": 2, "table_id": "2-17921347-3", "question": "What is Lost, when Points For is \"205\"?", "sql": {"sel": 3, "conds": [[4, 0, "205"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12195635-7", "question": "What team was the opponent when the score was 7\u20131?", "sql": {"sel": 1, "conds": [[2, 0, "7\u20131"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18976447-7", "question": "What are the draws when the losses are less than 1?", "sql": {"sel": 4, "conds": [[3, 2, 1]], "agg": 4}}
+{"phase": 2, "table_id": "2-12796193-30", "question": "What is the total number of losses of the player with an avg/g smaller than -3.3 and a gain larger than 126?", "sql": {"sel": 2, "conds": [[4, 2, -3.3], [1, 1, 126]], "agg": 3}}
+{"phase": 2, "table_id": "2-13041545-6", "question": "What was the loss of the Brewers game when the record was 46-48?", "sql": {"sel": 3, "conds": [[5, 0, "46-48"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Draws have Losses smaller than 16, and a Team of university, and Wins larger than 0?", "sql": {"sel": 4, "conds": [[3, 2, 16], [1, 0, "university"], [2, 1, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-12784856-5", "question": "What try bonus has a club of caerphilly rfc?", "sql": {"sel": 8, "conds": [[0, 0, "caerphilly rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12635188-2", "question": "What was the record after the game that ended in a 2-3 loss?", "sql": {"sel": 5, "conds": [[2, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13551983-5", "question": "Which opponent has a loss of trout (7-4)?", "sql": {"sel": 1, "conds": [[3, 0, "trout (7-4)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17625749-1", "question": "What is the losing bonus when drawn was 0, and there were 101 points?", "sql": {"sel": 9, "conds": [[2, 0, "0"], [10, 0, "101"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13564637-5", "question": "What were all the points for Tonyrefail RFC?", "sql": {"sel": 5, "conds": [[0, 0, "Tonyrefail RFC"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15352382-1", "question": "What is the greatest position when the points are less than 21, and the played greater than 14?", "sql": {"sel": 0, "conds": [[2, 2, 21], [3, 1, 14]], "agg": 1}}
+{"phase": 2, "table_id": "2-12886178-5", "question": "How many games played when the points for is 369?", "sql": {"sel": 1, "conds": [[4, 0, "369"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-7", "question": "How many years did Paul Griffin play for the Jazz?", "sql": {"sel": 4, "conds": [[0, 0, "Paul Griffin"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11734041-16", "question": "Which players were number 3?", "sql": {"sel": 0, "conds": [[1, 0, "3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-12", "question": "Name the position for numbers of 41", "sql": {"sel": 3, "conds": [[1, 0, "41"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29565541-2", "question": "When 52 is the ends won what is the skip(club)?", "sql": {"sel": 0, "conds": [[5, 0, 52]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-2", "question": "What is the nationality of the player from Duke?", "sql": {"sel": 1, "conds": [[4, 0, "duke"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207900-8", "question": "Which date has tigers as the opponent?", "sql": {"sel": 0, "conds": [[1, 0, "tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17298923-5", "question": "What is the average number of wins with less than 10 goals?", "sql": {"sel": 3, "conds": [[7, 2, 10]], "agg": 5}}
+{"phase": 2, "table_id": "2-1552908-7", "question": "What was the highest number of Draws scored by Sebastapol when the value for Against was less than 1802?", "sql": {"sel": 4, "conds": [[0, 0, "sebastapol"], [5, 2, 1802]], "agg": 1}}
+{"phase": 2, "table_id": "2-1552908-3", "question": "What is the average number of Byes for the team that had 15 Losses, and less than 1 Win?", "sql": {"sel": 2, "conds": [[3, 0, 15], [1, 2, 1]], "agg": 5}}
+{"phase": 2, "table_id": "2-17101196-5", "question": "What was the highest long with less than 7 losses and an Avg/G smaller than 25.1?", "sql": {"sel": 3, "conds": [[2, 2, 7], [4, 2, 25.1]], "agg": 1}}
+{"phase": 1, "table_id": "1-18597302-1", "question": "What was the position where the team scored 9 points?", "sql": {"sel": 0, "conds": [[8, 0, 9]], "agg": 3}}
+{"phase": 2, "table_id": "2-17747471-4", "question": "What is the total number of losses for entries with 15 wins and a position larger than 3?", "sql": {"sel": 6, "conds": [[4, 0, 15], [0, 1, 3]], "agg": 4}}
+{"phase": 2, "table_id": "2-17785973-2", "question": "What is the lowest Lost, when Goals For is greater than 52, when Points 1 is \"44\", and when Drawn is less than 8?", "sql": {"sel": 4, "conds": [[5, 1, 52], [8, 0, "44"], [3, 2, 8]], "agg": 2}}
+{"phase": 2, "table_id": "2-17941032-1", "question": "WHAT IS THE TRIES WITH POINTS 190?", "sql": {"sel": 6, "conds": [[4, 0, "190"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14337005-3", "question": "what team played on may 11", "sql": {"sel": 1, "conds": [[0, 0, "may 11"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-7", "question": "How many players only played for the Jazz in only 2010?", "sql": {"sel": 1, "conds": [[4, 0, "2010"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18594107-1", "question": "How many total games were played by the team which had a total of 16 points and less than 4 draws?", "sql": {"sel": 2, "conds": [[8, 0, 16], [4, 2, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-14347256-5", "question": "How many Points have a Game smaller than 37, and a Score of 2\u20133, and a December of 13?", "sql": {"sel": 5, "conds": [[0, 2, 37], [3, 0, "2\u20133"], [1, 0, 13]], "agg": 3}}
+{"phase": 2, "table_id": "2-13990653-2", "question": "What's the loss of who has a Save of Miguel Saladin and played against Chinatrust Whales?", "sql": {"sel": 3, "conds": [[1, 0, "chinatrust whales"], [4, 0, "miguel saladin"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18597302-1", "question": "What was the position of the Atl. Colegiales team?", "sql": {"sel": 0, "conds": [[1, 0, "Atl. Colegiales"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11545282-17", "question": "What is the nationality of the center?", "sql": {"sel": 1, "conds": [[2, 0, "center"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18594107-1", "question": "What is the least number of poins for San Lorenzo? ", "sql": {"sel": 8, "conds": [[1, 0, "San Lorenzo"]], "agg": 2}}
+{"phase": 1, "table_id": "1-2886617-8", "question": "Who did Edmonton Oilers get for their draft pick?", "sql": {"sel": 1, "conds": [[4, 0, "Edmonton Oilers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886178-3", "question": "What is the Club, when the value for Played is 22, and when the value for Tries is 41?", "sql": {"sel": 0, "conds": [[1, 0, "22"], [6, 0, "41"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11840017-1", "question": "What is the number of Goals For for Games Played more than 8?", "sql": {"sel": 5, "conds": [[1, 1, 8]], "agg": 4}}
+{"phase": 2, "table_id": "2-18976447-5", "question": "How much Against has Losses smaller than 7, and a Wimmera FL of horsham?", "sql": {"sel": 5, "conds": [[3, 2, 7], [0, 0, "horsham"]], "agg": 4}}
+{"phase": 2, "table_id": "2-13758945-3", "question": "tries against correct as of 2007-10-15 has what tries for?", "sql": {"sel": 6, "conds": [[7, 0, "correct as of 2007-10-15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-18", "question": "Which player played for years 2000-02", "sql": {"sel": 0, "conds": [[4, 0, "2000-02"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11734041-1", "question": "What was the player name who came from Australia?", "sql": {"sel": 0, "conds": [[5, 0, "Australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14889048-1", "question": "What is the lowest number conceded for the team that had less than 8 wins, scored 21, and had less than 23 points?", "sql": {"sel": 7, "conds": [[3, 2, 8], [6, 0, 21], [8, 2, 23]], "agg": 2}}
+{"phase": 2, "table_id": "2-17421790-4", "question": "What is the most draws when goals against are more than 33, losses are 13 and goals for is less than 51?", "sql": {"sel": 5, "conds": [[8, 1, 33], [6, 0, 13], [7, 2, 51]], "agg": 1}}
+{"phase": 2, "table_id": "2-15128839-19", "question": "Which Gain is the lowest one that has a Loss larger than 2, and an Avg/G larger than -6, and a Name of sheehan, tyler, and a Long larger than 11?", "sql": {"sel": 1, "conds": [[2, 1, 2], [4, 1, -6], [0, 0, "sheehan, tyler"], [3, 1, 11]], "agg": 2}}
+{"phase": 1, "table_id": "1-17369472-2", "question": "How many were played when there were 39 tries for? ", "sql": {"sel": 1, "conds": [[7, 0, "39"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17606959-1", "question": "What is the number of played when the position is less than 4, and the team is Witton Albion?", "sql": {"sel": 2, "conds": [[0, 2, 4], [1, 0, "witton albion"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14876228-2", "question": "What is the highest Played that's for the Team of Cerro Porte\u00f1o, with a Position that's larger than 1?", "sql": {"sel": 2, "conds": [[1, 0, "cerro porte\u00f1o"], [0, 1, 1]], "agg": 1}}
+{"phase": 1, "table_id": "1-2781227-1", "question": "What is the college/junior/club team name of player Mats Lindgren?", "sql": {"sel": 5, "conds": [[1, 0, "Mats Lindgren"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18976447-7", "question": "What's the total draws for Ararat when the byes are less than 2?", "sql": {"sel": 4, "conds": [[0, 0, "ararat"], [2, 2, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-16501954-18", "question": "What was the lowest postion of ehc straubing ii when they played less than 10 games?", "sql": {"sel": 0, "conds": [[1, 0, "ehc straubing ii"], [2, 2, 10]], "agg": 2}}
+{"phase": 2, "table_id": "2-17367788-1", "question": "What is the total number of Points 1, when Lost is less than 20, and when Goals For is greater than 92?", "sql": {"sel": 8, "conds": [[4, 2, 20], [5, 1, 92]], "agg": 3}}
+{"phase": 1, "table_id": "1-14058433-4", "question": "what's the\u00a0drawn\u00a0with\u00a0lost\u00a0being 4", "sql": {"sel": 3, "conds": [[4, 0, "4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12807904-3", "question": "How many points does Club have?", "sql": {"sel": 10, "conds": [[0, 0, "club"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-4", "question": "What is the sum of Wins when draws shows 0 in 1964?", "sql": {"sel": 2, "conds": [[4, 0, 0], [0, 0, 1964]], "agg": 4}}
+{"phase": 2, "table_id": "2-17718005-2", "question": "How many Goals Against have a Position of 4?", "sql": {"sel": 6, "conds": [[0, 0, 4]], "agg": 3}}
+{"phase": 2, "table_id": "2-16501954-14", "question": "what is the lowest position when points is more than 11, name is ea schongau and lost is less than 3?", "sql": {"sel": 0, "conds": [[5, 1, 11], [1, 0, "ea schongau"], [4, 2, 3]], "agg": 2}}
+{"phase": 2, "table_id": "2-15621965-15", "question": "Which years in Orlando are featured with the center position?", "sql": {"sel": 3, "conds": [[2, 0, "center"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15434792-1", "question": "Which average match has a lost greater than 0, points greater than 6, legia warszawa as the team, and a draw less than 0?", "sql": {"sel": 1, "conds": [[4, 1, 0], [2, 1, 6], [0, 0, "legia warszawa"], [3, 2, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-15434792-4", "question": "What was the match number for Start Gniezno?", "sql": {"sel": 1, "conds": [[0, 0, "start gniezno"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-14", "question": "What are the least losses of Warrnambool with more than 6 wins and less than 630 against?", "sql": {"sel": 2, "conds": [[4, 2, 630], [0, 0, "warrnambool"], [1, 1, 6]], "agg": 2}}
+{"phase": 2, "table_id": "2-18597302-6", "question": "What is the total number of positions having 1 loss and more than 9 conceded?", "sql": {"sel": 0, "conds": [[5, 0, 1], [7, 1, 9]], "agg": 3}}
+{"phase": 2, "table_id": "2-15432872-6", "question": "What is the highest number of draws with 6 losses and less than 15 points?", "sql": {"sel": 3, "conds": [[4, 0, 6], [2, 2, 15]], "agg": 1}}
+{"phase": 2, "table_id": "2-18597302-1", "question": "What is the highest number of losses for Presidente Hayes, when the draws were more than 4?", "sql": {"sel": 5, "conds": [[1, 0, "presidente hayes"], [4, 1, 4]], "agg": 1}}
+{"phase": 2, "table_id": "2-13552019-6", "question": "Name the date for loss of ruffin (3-5)", "sql": {"sel": 0, "conds": [[3, 0, "ruffin (3-5)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13553341-3", "question": "What is the attendance of the match with a record 20-11?", "sql": {"sel": 4, "conds": [[5, 0, "20-11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-12", "question": "What position is listed for the nebraska team?", "sql": {"sel": 2, "conds": [[4, 0, "nebraska"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-21", "question": "Which position does Loren Woods play?", "sql": {"sel": 3, "conds": [[0, 0, "Loren Woods"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-16", "question": "How tall is the player from Mississippi", "sql": {"sel": 2, "conds": [[5, 0, "mississippi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-6", "question": "What is the least amount of losses for the team that had more than 0 draws during the seasons earlier than 1926?", "sql": {"sel": 3, "conds": [[4, 1, 0], [0, 2, 1926]], "agg": 2}}
+{"phase": 2, "table_id": "2-12796193-30", "question": "What is the total number of long Dubose, E., who had 0 losses, a gain less than 17, and an avg/g bigger than 0, had?", "sql": {"sel": 3, "conds": [[2, 0, 0], [1, 2, 17], [4, 1, 0], [0, 0, "dubose, e."]], "agg": 3}}
+{"phase": 2, "table_id": "2-12828723-4", "question": "For teams with 22 matches played, a losing bonus of 3, and 45 tries against, what was the number of points against?", "sql": {"sel": 5, "conds": [[1, 0, "22"], [9, 0, "3"], [7, 0, "45"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1013129-1", "question": "The nhl team new york islanders is what nationality?", "sql": {"sel": 3, "conds": [[4, 0, "New York Islanders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11508001-9", "question": "What was the date when the record was 35-57?", "sql": {"sel": 0, "conds": [[4, 0, "35-57"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-8", "question": "What is the average number of losses for teams with fewer than 0 wins?", "sql": {"sel": 3, "conds": [[2, 2, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-14306821-4", "question": "Which Score has a Game larger than 32, and Points smaller than 42, and a December larger than 19, and a Record of 18\u201312\u20135?", "sql": {"sel": 3, "conds": [[0, 1, 32], [5, 2, 42], [1, 1, 19], [4, 0, "18\u201312\u20135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-12", "question": "What is the total number of draws when there is 1 Win, and less than 1728 against matches?", "sql": {"sel": 3, "conds": [[1, 0, 1], [4, 2, 1728]], "agg": 3}}
+{"phase": 2, "table_id": "2-14337005-4", "question": "Which Save is on June 15?", "sql": {"sel": 4, "conds": [[0, 0, "june 15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207900-7", "question": "What was the record on September 4?", "sql": {"sel": 4, "conds": [[0, 0, "september 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17695272-4", "question": "What is the sum of the goals with less than 30 points, a position less than 10, and more than 57 goals against?", "sql": {"sel": 7, "conds": [[3, 2, 30], [0, 2, 10], [8, 1, 57]], "agg": 4}}
+{"phase": 2, "table_id": "2-17832085-4", "question": "Which Losses have Draws larger than 6, and a Club of cd mestalla, and Goals against larger than 44?", "sql": {"sel": 6, "conds": [[5, 1, 6], [1, 0, "cd mestalla"], [8, 1, 44]], "agg": 2}}
+{"phase": 2, "table_id": "2-15621965-10", "question": "What years in Orlando have the United States as the nationality, with concord hs as the school/club team?", "sql": {"sel": 3, "conds": [[1, 0, "united states"], [4, 0, "concord hs"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25689740-2", "question": "What is the pa when skip (club) is jocelyn nix (glooscap)?", "sql": {"sel": 4, "conds": [[0, 0, "Jocelyn Nix (Glooscap)"]], "agg": 2}}
+{"phase": 2, "table_id": "2-12207528-4", "question": "Who did the Blue Jays lose to when their record was 36-20?", "sql": {"sel": 3, "conds": [[4, 0, "36-20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-10", "question": "What is the position of the player from Tampa?", "sql": {"sel": 2, "conds": [[4, 0, "tampa"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12807904-5", "question": "What was the amount of draws where a club had 51 tries for?", "sql": {"sel": 2, "conds": [[6, 0, "51"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-2", "question": "During what years did the Guard from Oklahoma with a height of 6-6 play for the Rockets?", "sql": {"sel": 4, "conds": [[2, 0, "6-6"], [3, 0, "guard"], [5, 0, "oklahoma"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17941032-1", "question": "When 17 is the tries for what is the points against?", "sql": {"sel": 6, "conds": [[7, 0, "17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17716055-2", "question": "Which Played has a Drawn of 4, and a Position of 9, and Goals Against larger than 59?", "sql": {"sel": 2, "conds": [[3, 0, 4], [0, 0, 9], [6, 1, 59]], "agg": 5}}
+{"phase": 2, "table_id": "2-14070062-3", "question": "When the try bonus was 10 what was the losing bonus?", "sql": {"sel": 9, "conds": [[8, 0, "10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14269540-8", "question": "Who's the opponent of the game with the record 64-51?", "sql": {"sel": 1, "conds": [[5, 0, "64-51"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12091337-2", "question": "what is the sum of goals for when the position is less than 8, the losses is less than 10 the goals against is less than 35 and played is less than 38?", "sql": {"sel": 7, "conds": [[0, 2, 8], [6, 2, 10], [8, 2, 35], [2, 2, 38]], "agg": 4}}
+{"phase": 2, "table_id": "2-14070062-4", "question": "What is the Points against for the ystradgynlais rfc club?", "sql": {"sel": 5, "conds": [[0, 0, "ystradgynlais rfc"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-11", "question": "Name the position of Turkey", "sql": {"sel": 3, "conds": [[2, 0, "Turkey"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-12", "question": "Mike Miller played for what school/club team?", "sql": {"sel": 4, "conds": [[0, 0, "mike miller"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14070062-1", "question": "Which Drawn has a Lost of 19?", "sql": {"sel": 2, "conds": [[3, 0, "19"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14058433-3", "question": "How many losing points does Llandudno RFC have?", "sql": {"sel": 10, "conds": [[0, 0, "Llandudno RFC"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17409365-3", "question": "What is the lost when the try bonus is 5, and points against is 298?", "sql": {"sel": 3, "conds": [[8, 0, "5"], [5, 0, "298"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17832085-2", "question": "What is the lowest position number when goals against was 59, and a goals for is smaller than 24?", "sql": {"sel": 0, "conds": [[8, 0, 59], [7, 2, 24]], "agg": 2}}
+{"phase": 2, "table_id": "2-17421790-2", "question": "What is the lowest amount of draws club ud l\u00e9rida, which has less than 41 goals, has?", "sql": {"sel": 5, "conds": [[1, 0, "ud l\u00e9rida"], [7, 2, 41]], "agg": 2}}
+{"phase": 2, "table_id": "2-15087697-3", "question": "What is the smallest amount of draws when the position is less than 7 and the against is 19?", "sql": {"sel": 4, "conds": [[0, 2, 7], [6, 0, 19]], "agg": 2}}
+{"phase": 2, "table_id": "2-16501954-23", "question": "what is the average points when played is less than 16?", "sql": {"sel": 5, "conds": [[2, 2, 16]], "agg": 5}}
+{"phase": 2, "table_id": "2-12317436-1", "question": "for goals less than 48 and 8 games played what is the count of losses?", "sql": {"sel": 3, "conds": [[1, 0, 8], [5, 2, 48]], "agg": 1}}
+{"phase": 2, "table_id": "2-17367132-1", "question": "Which Lost has Drawn larger than 12, and Goals Against of 54?", "sql": {"sel": 4, "conds": [[3, 1, 12], [6, 0, 54]], "agg": 1}}
+{"phase": 2, "table_id": "2-17298923-2", "question": "What is the fewest points for positions with under 12 losses, goals against under 50, goal difference over 11, and under 30 played?", "sql": {"sel": 2, "conds": [[5, 2, 12], [7, 2, 50], [8, 1, 11], [1, 2, 30]], "agg": 2}}
+{"phase": 1, "table_id": "1-1013129-11", "question": "What club team is Per Gustafsson play for?", "sql": {"sel": 5, "conds": [[1, 0, "Per Gustafsson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14889048-2", "question": "When a team wins 4, how much is the Maximum amount of points?", "sql": {"sel": 8, "conds": [[3, 0, 4]], "agg": 1}}
+{"phase": 2, "table_id": "2-12317166-1", "question": "What team has the most wins with at least 18 goals and less than 5 losses?", "sql": {"sel": 2, "conds": [[5, 0, 18], [3, 2, 5]], "agg": 1}}
+{"phase": 2, "table_id": "2-11545282-17", "question": "What nationality is Bill Robinzine?", "sql": {"sel": 1, "conds": [[0, 0, "bill robinzine"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2840500-6", "question": "How many college teams have a player with a nationality of Russia?", "sql": {"sel": 5, "conds": [[3, 0, "Russia"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11734041-16", "question": "What are the players that attented long beach state?", "sql": {"sel": 0, "conds": [[5, 0, "Long Beach State"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-8", "question": "What's the least against number for Cobden with draws more than 0?", "sql": {"sel": 4, "conds": [[0, 0, "cobden"], [3, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-17716320-4", "question": "How much Goal Difference has less than 9 Losses, and 8 Draws, and more than 40 points?", "sql": {"sel": 9, "conds": [[6, 2, 9], [5, 0, 8], [3, 1, 40]], "agg": 4}}
+{"phase": 2, "table_id": "2-15266104-2", "question": "How many Played have a Lost smaller than 3, and a Difference of 6, and Points larger than 6?", "sql": {"sel": 3, "conds": [[5, 2, 3], [7, 0, "6"], [2, 1, 6]], "agg": 3}}
+{"phase": 2, "table_id": "2-17718005-3", "question": "What is the total number of Goals For, when Points 1 is \"41\"?", "sql": {"sel": 5, "conds": [[8, 0, "41"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14173105-5", "question": "What are the average points that have december 27?", "sql": {"sel": 5, "conds": [[1, 0, 27]], "agg": 5}}
+{"phase": 2, "table_id": "2-13955746-9", "question": "Loss of finley (8-7) had what record?", "sql": {"sel": 4, "conds": [[3, 0, "finley (8-7)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17941032-1", "question": "When 60 is the tries against what is the tries for?", "sql": {"sel": 7, "conds": [[8, 0, "60"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208855-4", "question": "What team were the Opponent in Game 29?", "sql": {"sel": 2, "conds": [[0, 0, 29]], "agg": 0}}
+{"phase": 2, "table_id": "2-14306821-4", "question": "Which Score has a Record of 18\u201311\u20135?", "sql": {"sel": 3, "conds": [[4, 0, "18\u201311\u20135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-5", "question": "Who does jeremy evans play for?", "sql": {"sel": 4, "conds": [[0, 0, "jeremy evans"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1013129-11", "question": "What is the nationality of Shayne Wright?", "sql": {"sel": 3, "conds": [[1, 0, "Shayne Wright"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207717-7", "question": "Name the score for september 11", "sql": {"sel": 2, "conds": [[0, 0, "september 11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17608926-4", "question": "What is the highest goals for the position after 10, a goal difference less than -24, and played more than 30 times?", "sql": {"sel": 6, "conds": [[0, 1, 10], [8, 2, -24], [1, 1, 30]], "agg": 1}}
+{"phase": 2, "table_id": "2-16501954-15", "question": "How many average points did svg burgkirchen have with a loss smaller than 6?", "sql": {"sel": 5, "conds": [[1, 0, "svg burgkirchen"], [4, 2, 6]], "agg": 5}}
+{"phase": 1, "table_id": "1-11545282-19", "question": "Which player's position is the shooting guard?", "sql": {"sel": 0, "conds": [[3, 0, "Shooting guard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15421748-1", "question": "What is the highest Points in Position 2 with more than 3 Drawn games?", "sql": {"sel": 2, "conds": [[0, 0, 2], [4, 1, 3]], "agg": 1}}
+{"phase": 2, "table_id": "2-12241980-2", "question": "What is the average loss with a goal higher than 51 and wins higher than 14?", "sql": {"sel": 6, "conds": [[8, 1, 51], [4, 1, 14]], "agg": 5}}
+{"phase": 2, "table_id": "2-11545282-8", "question": "What years did Troy Hudson play for the Jazz?", "sql": {"sel": 3, "conds": [[0, 0, "troy hudson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-8", "question": "What is the average number of losses for teams with fewer than 0 wins?", "sql": {"sel": 3, "conds": [[2, 2, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-13758945-3", "question": "tries against correct as of 2007-10-15 has what tries for?", "sql": {"sel": 6, "conds": [[7, 0, "correct as of 2007-10-15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17837478-4", "question": "What is the number of losses when the goal difference was -8, and position is smaller than 10?", "sql": {"sel": 6, "conds": [[9, 0, -8], [0, 2, 10]], "agg": 3}}
+{"phase": 2, "table_id": "2-12195635-5", "question": "What was the record at the game that had a loss of Wyatt (4\u20134)?", "sql": {"sel": 4, "conds": [[3, 0, "wyatt (4\u20134)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12792876-4", "question": "How many games did the Club that has a try bonus of 4 and 391 points against play ?", "sql": {"sel": 1, "conds": [[8, 0, "4"], [5, 0, "391"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206491-2", "question": "How much did they lose by on April 26?", "sql": {"sel": 3, "conds": [[0, 0, "april 26"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13119037-1", "question": "What are the total amount of Goals Conceded when the Points are less than 26, and when the value for Played is less than 18?", "sql": {"sel": 6, "conds": [[7, 2, 26], [2, 2, 18]], "agg": 4}}
+{"phase": 2, "table_id": "2-17716055-2", "question": "How much Drawn has Goals Against of 81, and a Lost larger than 23?", "sql": {"sel": 3, "conds": [[6, 0, 81], [4, 1, 23]], "agg": 3}}
+{"phase": 2, "table_id": "2-12097215-2", "question": "What is the highest number of loss with a 7 position and more than 45 goals?", "sql": {"sel": 6, "conds": [[0, 0, 7], [7, 1, 45]], "agg": 1}}
+{"phase": 1, "table_id": "1-14871601-1", "question": "What is the smallest conceded value for the team 12 De Octubre?", "sql": {"sel": 7, "conds": [[1, 0, "12 de Octubre"]], "agg": 2}}
+{"phase": 1, "table_id": "1-2781227-10", "question": "what educational institute does wes swinson attend", "sql": {"sel": 5, "conds": [[1, 0, "Wes Swinson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16710917-1", "question": "How many picks had less than 11 rounds and a player of Charley Casey?", "sql": {"sel": 1, "conds": [[0, 2, 11], [2, 0, "charley casey"]], "agg": 4}}
+{"phase": 1, "table_id": "1-13758945-3", "question": "what's the\u00a0won\u00a0with\u00a0points against\u00a0being 597", "sql": {"sel": 2, "conds": [[6, 0, "597"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13551983-3", "question": "Who was the Opponent when the Save was || 36,388 ||15-7||?", "sql": {"sel": 1, "conds": [[4, 0, "|| 36,388 ||15-7||"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-12", "question": "Corey Maggette from the United States plays what position?", "sql": {"sel": 2, "conds": [[1, 0, "united states"], [0, 0, "corey maggette"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14656160-1", "question": "What is the lowest round for the player whose position is guard and had a pick number smaller than 144?", "sql": {"sel": 0, "conds": [[3, 0, "guard"], [1, 2, 144]], "agg": 2}}
+{"phase": 2, "table_id": "2-11545282-19", "question": "What is the nationality of all Utah Jazz Players, that played 1987-88?", "sql": {"sel": 1, "conds": [[3, 0, "1987-88"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15354254-1", "question": "What is the total number of points where there were 3 losses and a played number bigger than 12?", "sql": {"sel": 2, "conds": [[5, 0, 3], [3, 1, 12]], "agg": 4}}
+{"phase": 2, "table_id": "2-11756240-1", "question": "What has the lowest number of wins with GA smaller than 39, more than 2 losses, and ties greater than 0?", "sql": {"sel": 2, "conds": [[6, 2, 39], [3, 1, 2], [4, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-13564702-2", "question": "What is listed for the Tries against that has a Played of 22, along with a Club of Ystalyfera RFC?", "sql": {"sel": 7, "conds": [[1, 0, "22"], [0, 0, "ystalyfera rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18976447-11", "question": "Which Against has Losses smaller than 5, and a Wimmera FL of warrack eagles, and Draws smaller than 0?", "sql": {"sel": 5, "conds": [[3, 2, 5], [0, 0, "warrack eagles"], [4, 2, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-14337005-4", "question": "When has an Opponent of at Seattle mariners?", "sql": {"sel": 0, "conds": [[1, 0, "at seattle mariners"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12792876-1", "question": "How many points against does the club that has a try bonus of 6 and tries against of 54 have ?", "sql": {"sel": 5, "conds": [[8, 0, "6"], [7, 0, "54"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11750790-1", "question": "what is the sum of the losses when the goals against is less than 34 and the games played is less than 8?", "sql": {"sel": 3, "conds": [[6, 2, 34], [1, 2, 8]], "agg": 4}}
+{"phase": 2, "table_id": "2-17606959-1", "question": "What is the position when the points 1 is 61?", "sql": {"sel": 0, "conds": [[8, 0, "61"]], "agg": 4}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Wins is the lowest one that has a Season smaller than 1920, and Losses smaller than 14?", "sql": {"sel": 2, "conds": [[0, 2, 1920], [3, 2, 14]], "agg": 2}}
+{"phase": 2, "table_id": "2-14546539-3", "question": "which team has a record of 13-18?", "sql": {"sel": 1, "conds": [[5, 0, "13-18"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13552019-7", "question": "What is the score of the game on September 13 when the Expos were the opponent?", "sql": {"sel": 2, "conds": [[1, 0, "expos"], [0, 0, "september 13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15372465-2", "question": "What is the average against that has a drawn less than 7, points greater than 22, and 19 for the played?", "sql": {"sel": 6, "conds": [[4, 2, 7], [2, 1, 22], [3, 0, 19]], "agg": 5}}
+{"phase": 2, "table_id": "2-13042949-1", "question": "Name the least goals scored with place more than 8 and lost less than 8", "sql": {"sel": 5, "conds": [[0, 1, 8], [4, 2, 8]], "agg": 2}}
+{"phase": 2, "table_id": "2-17543955-4", "question": "What is the sum for the match with a draw less than 0?", "sql": {"sel": 1, "conds": [[3, 2, 0]], "agg": 4}}
+{"phase": 2, "table_id": "2-16501954-22", "question": "What is the average number of points with less than 1 draw and more than 11 losses for Ev Aich?", "sql": {"sel": 5, "conds": [[3, 2, 1], [1, 0, "ev aich"], [4, 1, 11]], "agg": 5}}
+{"phase": 2, "table_id": "2-18771190-18", "question": "Which Position has Drawn larger than 1, and a Played smaller than 14?", "sql": {"sel": 0, "conds": [[3, 1, 1], [2, 2, 14]], "agg": 1}}
+{"phase": 1, "table_id": "1-11545282-17", "question": "What is the nationality of bill robinzine?", "sql": {"sel": 2, "conds": [[0, 0, "Bill Robinzine"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13741576-2", "question": "How many tries for Nelson RFC?", "sql": {"sel": 6, "conds": [[0, 0, "nelson rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18771190-13", "question": "How much Position has a Lost of 8, and a Played larger than 14?", "sql": {"sel": 0, "conds": [[4, 0, 8], [2, 1, 14]], "agg": 4}}
+{"phase": 1, "table_id": "1-1013129-3", "question": "What is the nationality of the player from Vancouver Canucks?", "sql": {"sel": 3, "conds": [[4, 0, "Vancouver Canucks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16576950-5", "question": "With a gain of 1,380, what is the highest Avg/G?", "sql": {"sel": 4, "conds": [[1, 0, "1,380"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2886617-9", "question": "Who was picked for the draft by St. Louis Blues?", "sql": {"sel": 1, "conds": [[4, 0, "St. Louis Blues"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-15", "question": "What's the against when the draw was more than 0 and had 13 losses?", "sql": {"sel": 4, "conds": [[2, 0, 13], [3, 1, 0]], "agg": 3}}
+{"phase": 1, "table_id": "1-12828723-4", "question": "What is the tries against when the won is 14?", "sql": {"sel": 8, "conds": [[2, 0, "14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17747471-4", "question": "What is the position of club Melilla CF, with a goal difference smaller than -10?", "sql": {"sel": 0, "conds": [[1, 0, "melilla cf"], [9, 2, -10]], "agg": 4}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "What player played guard for toronto in 1996-97?", "sql": {"sel": 0, "conds": [[3, 0, "Guard"], [4, 0, "1996-97"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15434792-5", "question": "Which average draw has points greater than 12?", "sql": {"sel": 3, "conds": [[2, 1, 12]], "agg": 5}}
+{"phase": 2, "table_id": "2-14344289-4", "question": "after december 29 what is the score?", "sql": {"sel": 3, "conds": [[1, 1, 29]], "agg": 0}}
+{"phase": 2, "table_id": "2-17775406-3", "question": "What is the lowest position with points 1 of 27 2 and fewer than 9 drawn?", "sql": {"sel": 0, "conds": [[8, 0, "27 2"], [3, 2, 9]], "agg": 2}}
+{"phase": 2, "table_id": "2-12207900-4", "question": "Name the loss for june 30", "sql": {"sel": 3, "conds": [[0, 0, "june 30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18704095-5", "question": "what is the least played when points is 36 and place is more than 2?", "sql": {"sel": 2, "conds": [[7, 0, 36], [0, 1, 2]], "agg": 2}}
+{"phase": 1, "table_id": "1-14871601-1", "question": "What is the smallest draws value with 21 points?", "sql": {"sel": 4, "conds": [[8, 0, 21]], "agg": 2}}
+{"phase": 2, "table_id": "2-17421790-5", "question": "How many draws when there are fewer than 6 wins and the goal difference is less than -15?", "sql": {"sel": 5, "conds": [[4, 2, 6], [9, 2, -15]], "agg": 3}}
+{"phase": 2, "table_id": "2-18597302-1", "question": "What is the number of losses when there were less than 4 draws, and points were 9?", "sql": {"sel": 5, "conds": [[4, 2, 4], [8, 0, 9]], "agg": 0}}
+{"phase": 2, "table_id": "2-13013383-1", "question": "What's the total of Goals Scored with Points that's smaller than 27, and a Team of C.D. Atl\u00e9tico Balboa?", "sql": {"sel": 5, "conds": [[7, 2, 27], [1, 0, "c.d. atl\u00e9tico balboa"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17776244-1", "question": "How many times did the team lose who had 1 of 37 points and less than 60 goals against?", "sql": {"sel": 4, "conds": [[8, 0, "37"], [6, 2, 60]], "agg": 2}}
+{"phase": 2, "table_id": "2-17416195-2", "question": "What is the average number played that has fewer than 11 wins, more than 42 goals, more than 22 points, and 11 losses?", "sql": {"sel": 1, "conds": [[3, 2, 11], [6, 1, 42], [2, 1, 22], [5, 0, 11]], "agg": 5}}
+{"phase": 1, "table_id": "1-11734041-9", "question": "Which player who played for the Rockets for the years 1986-92?", "sql": {"sel": 0, "conds": [[4, 0, "1986-92"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-8", "question": "What's the total wins when the draws are less than 0?", "sql": {"sel": 1, "conds": [[3, 2, 0]], "agg": 3}}
+{"phase": 1, "table_id": "1-2840500-8", "question": "Name the most pick for evgeny korolev", "sql": {"sel": 0, "conds": [[1, 0, "Evgeny Korolev"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11513685-5", "question": "Who lost on July 20 with 42,607 attending?", "sql": {"sel": 3, "conds": [[4, 1, "42,607"], [0, 0, "july 20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-26", "question": "What is the largest number played with 16 points in a position over 4?", "sql": {"sel": 2, "conds": [[5, 0, 16], [0, 1, 4]], "agg": 1}}
+{"phase": 2, "table_id": "2-13103590-1", "question": "Name the sum of goals conceded when lost is more than 7 and points less than 26", "sql": {"sel": 6, "conds": [[4, 1, 7], [7, 2, 26]], "agg": 4}}
+{"phase": 2, "table_id": "2-12091980-1", "question": "what is the sum of games played when the losses is less than 7, the wins is 6 and the goals for is more than 76?", "sql": {"sel": 1, "conds": [[3, 2, 7], [2, 0, 6], [5, 1, 76]], "agg": 4}}
+{"phase": 2, "table_id": "2-1552908-9", "question": "What is the fewest losses that Ballarat FL of Lake Wendouree has when the wins are smaller than 9?", "sql": {"sel": 3, "conds": [[0, 0, "lake wendouree"], [1, 2, 9]], "agg": 2}}
+{"phase": 2, "table_id": "2-15621965-7", "question": "Who is the player for the School/Club team in Georgia?", "sql": {"sel": 0, "conds": [[4, 0, "georgia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-14", "question": "How many number does Fordham school have?", "sql": {"sel": 1, "conds": [[5, 0, "Fordham"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15315989-2", "question": "How many Againsts have Points larger than 31 and a Drawn larger than 6?", "sql": {"sel": 6, "conds": [[2, 1, 31], [4, 1, 6]], "agg": 3}}
+{"phase": 1, "table_id": "1-25718552-2", "question": "What is the number of wins when ends won is 30?", "sql": {"sel": 1, "conds": [[5, 0, 30]], "agg": 1}}
+{"phase": 2, "table_id": "2-17409365-3", "question": "What is the tries for when 52 was the tries against?", "sql": {"sel": 6, "conds": [[7, 0, "52"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-17", "question": "What is the average number of draws for Mortlake club when they have less than 0 wins?", "sql": {"sel": 3, "conds": [[0, 0, "mortlake"], [1, 2, 0]], "agg": 5}}
+{"phase": 1, "table_id": "1-11545282-18", "question": "Which player played 2004-05", "sql": {"sel": 0, "conds": [[4, 0, "2004-05"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207158-5", "question": "What was the score that made the record 47-49?", "sql": {"sel": 2, "conds": [[4, 0, "47-49"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17618349-1", "question": "What is the fewest draws for teams with a 0 goal difference and under 55 goals against?", "sql": {"sel": 3, "conds": [[7, 0, "0"], [6, 2, 55]], "agg": 2}}
+{"phase": 2, "table_id": "2-17832085-2", "question": "What is the lowest played number when goals for is 47, and wins is smaller than 14?", "sql": {"sel": 2, "conds": [[7, 0, 47], [4, 2, 14]], "agg": 2}}
+{"phase": 2, "table_id": "2-17603559-1", "question": "When Team Hyde United had more than 59 Goals For and fewer than 15 Drawn, what was the Lost?", "sql": {"sel": 4, "conds": [[5, 1, 59], [3, 2, 15], [1, 0, "hyde united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13041602-6", "question": "Which opponent led to a 56-59 record?", "sql": {"sel": 1, "conds": [[5, 0, "56-59"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15266104-2", "question": "Which Played is the highest one that has a Lost smaller than 1, and a Difference of 6, and an Against larger than 2?", "sql": {"sel": 3, "conds": [[5, 2, 1], [7, 0, "6"], [6, 1, 2]], "agg": 1}}
+{"phase": 2, "table_id": "2-18976447-7", "question": "What's the total draws when the losses are less than 10, less than 2 byes, and 13 wins?", "sql": {"sel": 4, "conds": [[3, 2, 10], [1, 0, 13], [2, 2, 2]], "agg": 3}}
+{"phase": 2, "table_id": "2-17625749-1", "question": "What is the lost when the club was Barry RFC?", "sql": {"sel": 3, "conds": [[0, 0, "barry rfc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16730027-18", "question": "What is the lowest long with an avg/G more than -2.2 and a total name and a gain of more than 2,488?", "sql": {"sel": 3, "conds": [[4, 1, -2.2], [0, 0, "total"], [1, 1, "2,488"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16501954-20", "question": "Which Played has a Position of 3, and a Points smaller than 15?", "sql": {"sel": 2, "conds": [[0, 0, 3], [5, 2, 15]], "agg": 3}}
+{"phase": 2, "table_id": "2-11893011-1", "question": "How many goals for were scored for the team(s) that won fewer than 4 games and lost more than 6?", "sql": {"sel": 5, "conds": [[2, 2, 4], [3, 1, 6]], "agg": 4}}
+{"phase": 2, "table_id": "2-16788123-1", "question": "Which Losses has Scored of 9, and Points larger than 8?", "sql": {"sel": 5, "conds": [[6, 0, 9], [8, 1, 8]], "agg": 5}}
+{"phase": 2, "table_id": "2-11545282-11", "question": "What are the years on the Jazz for the player who is a combo forward?", "sql": {"sel": 3, "conds": [[2, 0, "combo forward"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-2", "question": "Which positions were in Toronto in 2004?", "sql": {"sel": 3, "conds": [[4, 0, "2004"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886178-5", "question": "what is the points for when the club has 0 drawn and 60 tries against?", "sql": {"sel": 4, "conds": [[2, 0, "0"], [7, 0, "60"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13955731-4", "question": "On June 12 what score had an attendance larger than 43,191?", "sql": {"sel": 2, "conds": [[4, 1, "43,191"], [0, 0, "june 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12792876-5", "question": "How many tries for did the team with a try bonus of 5 score?", "sql": {"sel": 6, "conds": [[8, 0, "5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12807904-5", "question": "Where there any Draws with 45 tries against?", "sql": {"sel": 2, "conds": [[7, 0, "45"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207717-7", "question": "Name the loss for record of 71-81", "sql": {"sel": 3, "conds": [[4, 0, "71-81"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14302613-4", "question": "After December 19, what is the Game number with a Record of 21\u20134\u20137?", "sql": {"sel": 0, "conds": [[4, 0, "21\u20134\u20137"], [1, 1, 19]], "agg": 3}}
+{"phase": 1, "table_id": "1-11734041-3", "question": "Which school, club team, or country played for the rockets in the years 2000-01?", "sql": {"sel": 5, "conds": [[4, 0, "2000-01"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11800675-2", "question": "What is the date of the Cubs game when the Cubs had a record of 1-0?", "sql": {"sel": 0, "conds": [[5, 0, "1-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207900-2", "question": "Can you tell me the Score that has the Attendance of 4,567?", "sql": {"sel": 2, "conds": [[4, 0, "4,567"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13551983-3", "question": "What Opponent played on the Date May 21?", "sql": {"sel": 1, "conds": [[0, 0, "may 21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12792876-1", "question": "What is the Losing bonus of the club that has 80 tries against ?", "sql": {"sel": 9, "conds": [[7, 0, "80"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15890038-1", "question": "What is the average for games Lost where the Points are 25 and games Played are more than 18?", "sql": {"sel": 4, "conds": [[7, 0, 25], [2, 1, 18]], "agg": 5}}
+{"phase": 1, "table_id": "1-2886617-9", "question": "What college club team did the Dallas Stars choose their draft pick from?", "sql": {"sel": 5, "conds": [[4, 0, "Dallas Stars"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17633162-2", "question": "What is the lowest number of goals scored for the entry with goals conceded larger than 30, lost larger than 3, and fewer than 6 draws?", "sql": {"sel": 5, "conds": [[3, 2, 6], [4, 1, 3], [6, 1, 30]], "agg": 2}}
+{"phase": 2, "table_id": "2-18628904-18", "question": "What is the total number of Against values for clubs with more than 2 wins, 5 losses, and 0 draws?", "sql": {"sel": 4, "conds": [[1, 1, 2], [2, 0, 5], [3, 2, 0]], "agg": 3}}
+{"phase": 2, "table_id": "2-15430129-4", "question": "What is the smallest number of points for a match less than 12?", "sql": {"sel": 2, "conds": [[1, 2, 12]], "agg": 2}}
+{"phase": 2, "table_id": "2-14417906-4", "question": "What is the lowest Draws for a season later than 1919 with more than 0 wins?", "sql": {"sel": 4, "conds": [[0, 1, 1919], [2, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-18771190-11", "question": "What is the average number of games drawn among teams that played over 14 games?", "sql": {"sel": 3, "conds": [[2, 1, 14]], "agg": 5}}
+{"phase": 2, "table_id": "2-11734041-6", "question": "What is the Height for Years for Rockets of 2005-06?", "sql": {"sel": 2, "conds": [[4, 0, "2005-06"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12070870-1", "question": "What is the sum of wins when the goals for number was bigger than 35, the team was the Montreal Hockey Club, and the number of losses was less than 2?", "sql": {"sel": 2, "conds": [[5, 1, 35], [0, 0, "montreal hockey club"], [3, 2, 2]], "agg": 3}}
+{"phase": 2, "table_id": "2-18704095-8", "question": "What the lost that has less than 10 points and less than 38 goals scored?", "sql": {"sel": 4, "conds": [[5, 2, 38], [7, 2, 10]], "agg": 4}}
+{"phase": 2, "table_id": "2-17633162-10", "question": "What is the lowest place of the team who conceded 36 goals and lost more than 6 times?", "sql": {"sel": 0, "conds": [[6, 0, 36], [4, 1, 6]], "agg": 2}}
+{"phase": 2, "table_id": "2-18628904-14", "question": "What are the most losses when there are 5 wins and draws less than 0?", "sql": {"sel": 2, "conds": [[1, 0, 5], [3, 2, 0]], "agg": 1}}
+{"phase": 1, "table_id": "1-12886178-5", "question": "How many clubs have tries for count of 50?", "sql": {"sel": 1, "conds": [[7, 0, "50"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11734041-8", "question": "Which player played for the Rockets in 2002-03?", "sql": {"sel": 0, "conds": [[4, 0, "2002-03"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-11", "question": "How many wins happened with 8 draws?", "sql": {"sel": 2, "conds": [[4, 0, "8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11741681-2", "question": "What is the record for April 8?", "sql": {"sel": 5, "conds": [[0, 0, "april 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17298923-4", "question": "What is the lowest Wins, when Losses is less than 10, when Goal Difference is less than 46, when Goals is less than 63, and when Played is less than 30?", "sql": {"sel": 3, "conds": [[5, 2, 10], [8, 2, 46], [6, 2, 63], [1, 2, 30]], "agg": 2}}
+{"phase": 2, "table_id": "2-13990653-3", "question": "Who earned the save in the game against the Sinon Bulls when Jeriome Robertson took the loss?", "sql": {"sel": 4, "conds": [[1, 0, "sinon bulls"], [3, 0, "jeriome robertson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2886617-4", "question": "How many countries had players named Marc Savard get picked?", "sql": {"sel": 3, "conds": [[1, 0, "Marc Savard"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1013129-1", "question": "Tell me the nationality for pick of 18", "sql": {"sel": 3, "conds": [[0, 0, "18"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14911550-1", "question": "What's the sum of Losses that Scored larger than 15, has Points that's larger than 16, and Played that's larger than 9?", "sql": {"sel": 5, "conds": [[6, 1, 15], [8, 1, 16], [2, 1, 9]], "agg": 4}}
+{"phase": 1, "table_id": "1-2840500-3", "question": "who is the person that plays left wing and is from canada that plays on the st. louis blues", "sql": {"sel": 1, "conds": [[2, 0, "Left Wing"], [3, 0, "Canada"], [4, 0, "St. Louis Blues"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14887257-1", "question": "When was chuck morris, back, drafted?", "sql": {"sel": 1, "conds": [[3, 0, "back"], [2, 0, "chuck morris"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15430129-2", "question": "How many match values have points under 14 and 0 draws?", "sql": {"sel": 1, "conds": [[2, 2, 14], [3, 2, 0]], "agg": 3}}
+{"phase": 1, "table_id": "1-11734041-16", "question": "what is the total amount of players for the rockets in 1998 only?", "sql": {"sel": 0, "conds": [[4, 0, "1998"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13955746-9", "question": "Score of 3 - 2 had what record?", "sql": {"sel": 4, "conds": [[2, 0, "3 - 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-20", "question": "What School/Club did Dominique Wilkins play for?", "sql": {"sel": 4, "conds": [[0, 0, "dominique wilkins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15334146-1", "question": "Which Position has an Against larger than 17, and a Team of juventus, and a Drawn smaller than 4?", "sql": {"sel": 0, "conds": [[6, 1, 17], [1, 0, "juventus"], [4, 2, 4]], "agg": 2}}
+{"phase": 2, "table_id": "2-1552908-11", "question": "What is the lowest draws that have losses greater than 0, an against less than 1728, melton as the ballarat fl, and byes less than 2?", "sql": {"sel": 4, "conds": [[3, 1, 0], [5, 2, 1728], [0, 0, "melton"], [2, 2, 2]], "agg": 2}}
+{"phase": 1, "table_id": "1-10015132-2", "question": "During which years was Marcus Banks in Toronto?", "sql": {"sel": 4, "conds": [[0, 0, "Marcus Banks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15419242-1", "question": "What is the smallest number of losses for a position greater than 2 with 4 points and more than 2 draws?", "sql": {"sel": 5, "conds": [[0, 1, 2], [2, 0, 4], [4, 1, 2]], "agg": 2}}
+{"phase": 2, "table_id": "2-13940275-3", "question": "What is the losing bonus for the team that has 33 tries against and 5 lost?", "sql": {"sel": 9, "conds": [[7, 0, "33"], [3, 0, "5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2886617-4", "question": "What team did the New York Rangers recruit a player from?", "sql": {"sel": 5, "conds": [[4, 0, "New York Rangers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-7", "question": "What is the number of wins when the against is larger than 1155, for Warrnambool, with more than 0 draws?", "sql": {"sel": 1, "conds": [[4, 1, 1155], [0, 0, "warrnambool"], [3, 1, 0]], "agg": 5}}
+{"phase": 1, "table_id": "1-1013129-3", "question": "What's the pick number of the player from Springfield Olympics (Nejhl)?", "sql": {"sel": 0, "conds": [[5, 0, "Springfield Olympics (NEJHL)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11840017-1", "question": "What is the total number of losses for the Team of Montreal with Goals For larger than 29?", "sql": {"sel": 3, "conds": [[5, 1, 29], [0, 0, "montreal"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17716320-2", "question": "What is the highest Wins, when Goals For is greater than 39, and when Points is less than 25?", "sql": {"sel": 3, "conds": [[6, 1, 39], [2, 2, 25]], "agg": 1}}
+{"phase": 2, "table_id": "2-18628904-16", "question": "What is the draw when the losses were more than 8 and less than 2 wins?", "sql": {"sel": 3, "conds": [[2, 1, 8], [1, 2, 2]], "agg": 1}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Losses is the lowest one that has a Season smaller than 1920, and Draws larger than 0?", "sql": {"sel": 3, "conds": [[0, 2, 1920], [4, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-17589003-1", "question": "What is the most goals for when there are fewer than 4 draws?", "sql": {"sel": 5, "conds": [[3, 2, 4]], "agg": 1}}
+{"phase": 2, "table_id": "2-18607260-6", "question": "What are the lowest conceded with 1 draw, and a score larger than 14?", "sql": {"sel": 7, "conds": [[4, 0, 1], [6, 1, 14]], "agg": 2}}
+{"phase": 1, "table_id": "1-18594107-2", "question": "How many losses for the team atl. colegiales?", "sql": {"sel": 5, "conds": [[1, 0, "Atl. Colegiales"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13551983-6", "question": "Which score has a save of Smith (25)?", "sql": {"sel": 2, "conds": [[4, 0, "smith (25)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11512983-6", "question": "What loss occurred on August 21?", "sql": {"sel": 3, "conds": [[0, 0, "august 21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-11", "question": "What is Adam Keefe's nationality?", "sql": {"sel": 1, "conds": [[0, 0, "adam keefe"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12828723-5", "question": "What club has a Try Bonus of 8?", "sql": {"sel": 0, "conds": [[8, 0, "8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12828723-4", "question": "For a team with 332 points for, what was the try bonus?", "sql": {"sel": 8, "conds": [[4, 0, "332"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11734041-2", "question": "What position is number 35 whose height is 6-6?", "sql": {"sel": 3, "conds": [[2, 0, "6-6"], [1, 0, "35"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-13", "question": "Can you tell me the total number of Played that has the Position larger than 5, and the Points of 11, and the Drawn smaller than 1?", "sql": {"sel": 2, "conds": [[0, 1, 5], [5, 0, 11], [3, 2, 1]], "agg": 3}}
+{"phase": 2, "table_id": "2-12187674-2", "question": "What is the smallest number of \"goals for\" out of the clubs where there were 18 wins and fewer than 38 \"goals against\"?", "sql": {"sel": 7, "conds": [[4, 0, 18], [8, 2, 38]], "agg": 2}}
+{"phase": 2, "table_id": "2-11545282-21", "question": "What is the Nationality of the player who had Position of guard from School/Club Team Notre Dame?", "sql": {"sel": 1, "conds": [[2, 0, "guard"], [4, 0, "notre dame"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15389424-1", "question": "What is the total number of points of the team with less than 4 drawn and an against of 34?", "sql": {"sel": 2, "conds": [[4, 2, 4], [6, 0, 34]], "agg": 3}}
+{"phase": 2, "table_id": "2-14306821-4", "question": "Which Score has Points of 36, and a Game of 30?", "sql": {"sel": 3, "conds": [[5, 0, 36], [0, 0, 30]], "agg": 0}}
+{"phase": 2, "table_id": "2-14269743-6", "question": "What was the score of the game with a loss of Maholm (2\u20134)?", "sql": {"sel": 2, "conds": [[3, 0, "maholm (2\u20134)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-6", "question": "What Utah Jazz guard, played at BYU?", "sql": {"sel": 0, "conds": [[2, 0, "guard"], [4, 0, "byu"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14876228-1", "question": "What is the total number scored of the team positioned lower than 10?", "sql": {"sel": 6, "conds": [[0, 1, 10]], "agg": 3}}
+{"phase": 1, "table_id": "1-11545282-10", "question": "What number does the player from Ohio play with?", "sql": {"sel": 1, "conds": [[5, 0, "Ohio"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13564702-3", "question": "Name the number of won for maesteg harlequins rfc", "sql": {"sel": 2, "conds": [[0, 0, "Maesteg Harlequins RFC"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17921347-4", "question": "What is the team that lost with 77 tries against?", "sql": {"sel": 3, "conds": [[7, 0, "77"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18771190-18", "question": "Which Points have Drawn of 1, and a Played larger than 14?", "sql": {"sel": 5, "conds": [[3, 0, 1], [2, 1, 14]], "agg": 1}}
+{"phase": 2, "table_id": "2-11750790-1", "question": "what is the average losses when the wins is 3?", "sql": {"sel": 3, "conds": [[2, 0, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-12209065-5", "question": "Which loss has Attendance more than 47,712, an Opponent of white sox, and a Record of 57\u201336?", "sql": {"sel": 3, "conds": [[4, 1, "47,712"], [1, 0, "white sox"], [5, 0, "57\u201336"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18594107-2", "question": "How many points when the score is 14?", "sql": {"sel": 8, "conds": [[6, 0, 14]], "agg": 2}}
+{"phase": 2, "table_id": "2-11545282-19", "question": "What years did the Utah Jazz Player from Southern Methodist, Play?", "sql": {"sel": 3, "conds": [[4, 0, "southern methodist"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12886178-5", "question": "what is the amount lost when there is 1 draw and 515 points?", "sql": {"sel": 3, "conds": [[2, 0, "1"], [4, 0, "515"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15315989-2", "question": "Which Lost has Points of 28 and a Drawn smaller than 8?", "sql": {"sel": 5, "conds": [[2, 0, 28], [4, 2, 8]], "agg": 5}}
+{"phase": 1, "table_id": "1-29546030-2", "question": "Which skip (club) had 28 PA?", "sql": {"sel": 0, "conds": [[4, 0, 28]], "agg": 0}}
+{"phase": 2, "table_id": "2-17625749-3", "question": "What is the drawn when there are 402 points?", "sql": {"sel": 2, "conds": [[4, 0, "402"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17716055-3", "question": "Which Lost has Goals Against larger than 92?", "sql": {"sel": 4, "conds": [[6, 1, 92]], "agg": 1}}
+{"phase": 1, "table_id": "1-2886617-8", "question": "What NHL team picked Sergei Luchinkin?", "sql": {"sel": 4, "conds": [[1, 0, "Sergei Luchinkin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17902603-2", "question": "What is the total points for a place less than 2 with a played greater than 18?", "sql": {"sel": 7, "conds": [[0, 2, 2], [2, 1, 18]], "agg": 4}}
+{"phase": 2, "table_id": "2-15315989-1", "question": "What is the sum of games Played by the Team Vasco Da Gama, with fewer than 12 Against?", "sql": {"sel": 3, "conds": [[1, 0, "vasco da gama"], [6, 2, 12]], "agg": 4}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "What are the nationality of the players on the Fresno State school/club team?", "sql": {"sel": 2, "conds": [[5, 0, "Fresno State"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-15", "question": "Which position was in Orlando in 2000?", "sql": {"sel": 2, "conds": [[3, 0, "2000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12239755-2", "question": "Which position had a goal difference of less than 27, lost more than 13 games, scored less than 42 goals and drew 6 games?", "sql": {"sel": 2, "conds": [[9, 2, 27], [6, 1, 13], [7, 2, 42], [5, 0, 6]], "agg": 1}}
+{"phase": 2, "table_id": "2-17718005-3", "question": "What is the lowest Position, when Lost is greater than 15, when Team is Cheadle Town, and when Drawn is greater than 8?", "sql": {"sel": 0, "conds": [[4, 1, 15], [1, 0, "cheadle town"], [3, 1, 8]], "agg": 2}}
+{"phase": 2, "table_id": "2-12117808-2", "question": "Name the most goals with losses less than 15 and position more than 8 with points of 42+4", "sql": {"sel": 7, "conds": [[6, 2, 15], [0, 1, 8], [3, 0, "42+4"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1013129-11", "question": "What teams do the players from TPS (Finland) play for?", "sql": {"sel": 4, "conds": [[5, 0, "TPS (Finland)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29565541-2", "question": "When 6 is the w what is the pa?", "sql": {"sel": 4, "conds": [[1, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206056-6", "question": "Name the score for record 33-47", "sql": {"sel": 2, "conds": [[5, 0, "33-47"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13564637-3", "question": "what amount of try bonus where the game was won by 11?", "sql": {"sel": 9, "conds": [[2, 0, "11"]], "agg": 3}}
+{"phase": 1, "table_id": "1-29546142-2", "question": "Name the least ends lost for jo\u00eblle belley (glenmore)", "sql": {"sel": 6, "conds": [[0, 0, "Jo\u00eblle Belley (Glenmore)"]], "agg": 2}}
+{"phase": 2, "table_id": "2-14417906-4", "question": "What is the sum of Wins when draws shows 0 in 1964?", "sql": {"sel": 2, "conds": [[4, 0, 0], [0, 0, 1964]], "agg": 4}}
+{"phase": 1, "table_id": "1-18607260-6", "question": "Name the least wins for 5 losses", "sql": {"sel": 3, "conds": [[5, 0, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-13564637-1", "question": "How many tries against did the club with 383 points against have?", "sql": {"sel": 7, "conds": [[5, 0, "383"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11840017-1", "question": "What is the largest number of Games Played with Losses of 3, and more Wins than 5?", "sql": {"sel": 1, "conds": [[3, 0, 3], [2, 1, 5]], "agg": 1}}
+{"phase": 2, "table_id": "2-14656115-1", "question": "What is the total number of round picks from the Morris Brown School?", "sql": {"sel": 0, "conds": [[4, 0, "morris brown"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11545282-15", "question": "What is position does Dan O'Sullivan play?", "sql": {"sel": 2, "conds": [[0, 0, "dan o'sullivan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12821570-2", "question": "What was the total number of places in which the draw was less than 4 and the amount lost was less than 6?", "sql": {"sel": 0, "conds": [[3, 2, 4], [4, 2, 6]], "agg": 3}}
+{"phase": 1, "table_id": "1-25718552-2", "question": "What is the largest amount of ends won when stolen ends were 3?", "sql": {"sel": 5, "conds": [[8, 0, 3]], "agg": 1}}
+{"phase": 2, "table_id": "2-18771190-18", "question": "Which Lost has Drawn larger than 1, and a Played larger than 14?", "sql": {"sel": 4, "conds": [[3, 1, 1], [2, 1, 14]], "agg": 2}}
+{"phase": 2, "table_id": "2-13551983-2", "question": "What were the opponents from the April 13?", "sql": {"sel": 1, "conds": [[0, 0, "april 13"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14889048-2", "question": "How may draws did libertad have?", "sql": {"sel": 4, "conds": [[1, 0, "Libertad"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16566850-26", "question": "What is the sum of points with more than 5 losses and more than 14 played?", "sql": {"sel": 5, "conds": [[4, 1, 5], [2, 1, 14]], "agg": 4}}
+{"phase": 2, "table_id": "2-12107080-2", "question": "Name the least goals for goal difference of 7 and losses more than 13", "sql": {"sel": 8, "conds": [[9, 0, 7], [6, 1, 13]], "agg": 2}}
+{"phase": 1, "table_id": "1-2886617-3", "question": "Which nhl team has the player kevin mckay?", "sql": {"sel": 4, "conds": [[1, 0, "Kevin McKay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11512983-6", "question": "Which record has a score of 7\u20136 (12)?", "sql": {"sel": 4, "conds": [[2, 0, "7\u20136 (12)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-11", "question": "What is the position of number 47?", "sql": {"sel": 3, "conds": [[1, 0, "47"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1013129-1", "question": "What positions do the hartford whalers nhl team have?", "sql": {"sel": 2, "conds": [[4, 0, "Hartford Whalers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16712710-1", "question": "What was the highest Pick for Lonnie Brockman before round 9?", "sql": {"sel": 1, "conds": [[2, 0, "lonnie brockman"], [0, 2, 9]], "agg": 1}}
+{"phase": 2, "table_id": "2-16566850-11", "question": "How much Drawn has a Lost of 2, and Played smaller than 14?", "sql": {"sel": 3, "conds": [[4, 0, 2], [2, 2, 14]], "agg": 4}}
+{"phase": 2, "table_id": "2-16710956-1", "question": "What was Moe Gardner's pick?", "sql": {"sel": 1, "conds": [[2, 0, "moe gardner"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207717-6", "question": "What was the date of the game that had a loss of Gott (2-7)?", "sql": {"sel": 0, "conds": [[3, 0, "gott (2-7)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-14", "question": "Which Nationality has a Position of center, and a Years in Orlando of 2010\u20132012?", "sql": {"sel": 1, "conds": [[2, 0, "center"], [3, 0, "2010\u20132012"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14337005-4", "question": "Which Score has a Opponent of Boston red sox and a Save of sager?", "sql": {"sel": 2, "conds": [[1, 0, "boston red sox"], [4, 0, "sager"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-19", "question": "Which player wears the number 6?", "sql": {"sel": 0, "conds": [[1, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-12193971-2", "question": "How many losses are there with 5 goal differences, drew more than 10 times, and 43 goals against?", "sql": {"sel": 6, "conds": [[9, 0, 5], [5, 1, 10], [8, 0, 43]], "agg": 3}}
+{"phase": 2, "table_id": "2-15621965-11", "question": "Which Position has a Player of tyronn lue, and a Years in Orlando of 2003\u20132004?", "sql": {"sel": 2, "conds": [[0, 0, "tyronn lue"], [3, 0, "2003\u20132004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-12", "question": "Which country is Jim Les from?", "sql": {"sel": 2, "conds": [[0, 0, "Jim Les"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-2", "question": "What nationality is the player Muggsy Bogues?", "sql": {"sel": 2, "conds": [[0, 0, "Muggsy Bogues"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17775406-2", "question": "How many goals against did Clitheroe have when the loss was larger than 2?", "sql": {"sel": 6, "conds": [[1, 0, "clitheroe"], [4, 1, 2]], "agg": 3}}
+{"phase": 2, "table_id": "2-18704095-8", "question": "what the most lost for Alianza with a draw less than 6?", "sql": {"sel": 4, "conds": [[1, 0, "alianza"], [3, 2, 6]], "agg": 1}}
+{"phase": 2, "table_id": "2-13990653-9", "question": "What was the date of the game with a save of ||3,073?", "sql": {"sel": 0, "conds": [[4, 0, "||3,073"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1013129-2", "question": "Tell me the college for jason holland", "sql": {"sel": 5, "conds": [[1, 0, "jason holland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12015554-4", "question": "Who is the opponent on May 7?", "sql": {"sel": 1, "conds": [[0, 0, "may 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14347797-5", "question": "What record has a december less than 6, points less than 38, and pittsburgh penguins as the opponent?", "sql": {"sel": 4, "conds": [[1, 2, 6], [5, 2, 38], [2, 0, "pittsburgh penguins"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11734041-1", "question": "What height was the player that played for the Rockets between 1992-93?", "sql": {"sel": 2, "conds": [[4, 0, "1992-93"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17633162-2", "question": "What is the highest place that has a draw entry smaller than 6 and goal score of 28?", "sql": {"sel": 0, "conds": [[5, 0, 28], [3, 2, 6]], "agg": 1}}
+{"phase": 2, "table_id": "2-17608926-2", "question": "What is the number of points when the played is less than 30?", "sql": {"sel": 3, "conds": [[2, 2, 30]], "agg": 3}}
+{"phase": 2, "table_id": "2-17716320-2", "question": "What is the lowest Goals For, when Draws is less than 4, and when Points is less than 27?", "sql": {"sel": 6, "conds": [[4, 2, 4], [2, 2, 27]], "agg": 2}}
+{"phase": 1, "table_id": "1-29542269-2", "question": "What is the lowest overall amount of w's?", "sql": {"sel": 1, "conds": [], "agg": 2}}
+{"phase": 2, "table_id": "2-12206689-2", "question": "Name the record for april 6", "sql": {"sel": 5, "conds": [[0, 0, "april 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17776244-2", "question": "What is the smallest number of goals against when 8 games were lost, and the goals for are 60?", "sql": {"sel": 6, "conds": [[4, 0, 8], [5, 0, 60]], "agg": 2}}
+{"phase": 1, "table_id": "1-10015132-3", "question": "When did the player from Hawaii play for Toronto?", "sql": {"sel": 4, "conds": [[5, 0, "Hawaii"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15222432-2", "question": "What is the largest played number when the difference is - 8 and position is more than 8?", "sql": {"sel": 3, "conds": [[7, 0, "- 8"], [0, 1, 8]], "agg": 1}}
+{"phase": 1, "table_id": "1-2781227-2", "question": "How many teams does Maxim Bets play for?", "sql": {"sel": 4, "conds": [[1, 0, "Maxim Bets"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11734041-1", "question": "What player attended Loyola Marymount?", "sql": {"sel": 0, "conds": [[5, 0, "Loyola Marymount"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17785973-3", "question": "What is the highest lost entry that has a drawn entry less than 6, goals against less than 44, and a points 1 entry of 27?", "sql": {"sel": 4, "conds": [[3, 2, 6], [6, 2, 44], [8, 0, "27"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17409365-3", "question": "What is the points when the try bonus is 1?", "sql": {"sel": 4, "conds": [[8, 0, "1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13552019-3", "question": "Name the loss with save of || 23,391 ||17-18||?", "sql": {"sel": 3, "conds": [[4, 0, "|| 23,391 ||17-18||"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207717-6", "question": "Who was the opponent at the game that had a loss of Caldwell (10-11)?", "sql": {"sel": 1, "conds": [[3, 0, "caldwell (10-11)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13552019-4", "question": "What was the date when the game had a save by Aguilera (5)?", "sql": {"sel": 0, "conds": [[4, 0, "aguilera (5)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12109851-2", "question": "Which lowest goals for number had a played number of less than 34?", "sql": {"sel": 7, "conds": [[2, 2, 34]], "agg": 2}}
+{"phase": 2, "table_id": "2-13551983-6", "question": "Who was the opponent that also has a save of Smith (26)?", "sql": {"sel": 1, "conds": [[4, 0, "smith (26)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12821570-2", "question": "What were the total number of points when there was a lost larger than 6, when the team was Once Municipal, and when the number of goals scored was less than 8?", "sql": {"sel": 7, "conds": [[4, 1, 6], [1, 0, "once municipal"], [5, 2, 8]], "agg": 3}}
+{"phase": 2, "table_id": "2-12207528-3", "question": "What was the loss of the game when the record was 21-13?", "sql": {"sel": 3, "conds": [[4, 0, "21-13"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13564702-4", "question": "How many tries against got the club with 62 tries for?", "sql": {"sel": 8, "conds": [[7, 0, "62"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13758945-3", "question": "tries against is 29, what is the points against?", "sql": {"sel": 5, "conds": [[7, 0, "29"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11734041-10", "question": "What are all the names of the players who are 7-0 tall?", "sql": {"sel": 0, "conds": [[2, 0, "7-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12097215-2", "question": "What is the lowest position with 32-6 points and less then 59 goals when there are more than 38 played?", "sql": {"sel": 0, "conds": [[3, 0, "32-6"], [8, 2, 59], [2, 1, 38]], "agg": 2}}
+{"phase": 2, "table_id": "2-17606104-1", "question": "What is the fewest goals for when goals against is 75 and drawn is smaller than 11?", "sql": {"sel": 5, "conds": [[6, 0, 75], [3, 2, 11]], "agg": 2}}
+{"phase": 2, "table_id": "2-1552908-11", "question": "What is the lowest draws that have losses less than 0, an against greater than 1353, 2 as the wins, and ballarat as ballarat fl?", "sql": {"sel": 4, "conds": [[3, 1, 0], [5, 1, 1353], [1, 0, 2], [0, 0, "ballarat"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16566850-25", "question": "What is the whole of Points that has a Drawn smaller than 1?", "sql": {"sel": 5, "conds": [[3, 2, 1]], "agg": 4}}
+{"phase": 1, "table_id": "1-25714995-2", "question": "How many l's are there for the skip with 3 for w? ", "sql": {"sel": 2, "conds": [[1, 0, 3]], "agg": 1}}
+{"phase": 1, "table_id": "1-29542269-2", "question": "When 36 is the amount of ends won how many sets of pf's are there?", "sql": {"sel": 3, "conds": [[5, 0, 36]], "agg": 3}}
+{"phase": 1, "table_id": "1-14070062-4", "question": "tell the score when the times gone was 75", "sql": {"sel": 6, "conds": [[8, 0, "75"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14997324-5", "question": "Which Scored has a Team of recoleta?", "sql": {"sel": 6, "conds": [[1, 0, "recoleta"]], "agg": 4}}
+{"phase": 2, "table_id": "2-15384084-2", "question": "How many Drawn have a Position of 7, and Points larger than 18?", "sql": {"sel": 4, "conds": [[0, 0, 7], [2, 1, 18]], "agg": 3}}
+{"phase": 2, "table_id": "2-15404907-1", "question": "What is the greatest number of points that has a lost bigger than 5, a difference of - 10 and a played bigger than 12?", "sql": {"sel": 2, "conds": [[5, 1, 5], [7, 0, "- 10"], [3, 1, 12]], "agg": 1}}
+{"phase": 2, "table_id": "2-14546539-2", "question": "Who did the Indians play on April 23?", "sql": {"sel": 1, "conds": [[0, 0, "april 23"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-12", "question": "Which number is the player from Minnesota?", "sql": {"sel": 1, "conds": [[5, 0, "Minnesota"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1552908-5", "question": "Can you tell me the sum of Draws that had the Wins smaller than 3, and the Byes larger than 2?", "sql": {"sel": 4, "conds": [[1, 2, 3], [2, 1, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-17618349-1", "question": "What is the total number of positions for teams with more than 7 draws and under 40 played?", "sql": {"sel": 0, "conds": [[3, 1, 7], [2, 2, 40]], "agg": 3}}
+{"phase": 1, "table_id": "1-29542269-2", "question": "When 39 is the amount of ends won who is the skip (club)?", "sql": {"sel": 0, "conds": [[5, 0, 39]], "agg": 0}}
+{"phase": 2, "table_id": "2-18908350-1", "question": "Which pick played the Defensive End position?", "sql": {"sel": 1, "conds": [[3, 0, "defensive end"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-16", "question": "Which years have a School/Club Team of colorado state?", "sql": {"sel": 3, "conds": [[4, 0, "colorado state"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11734041-7", "question": "What is the total number of years did he play the forward position and what school/club/team/country of Oregon State did he play?", "sql": {"sel": 1, "conds": [[3, 0, "forward"], [5, 0, "oregon state"]], "agg": 4}}
+{"phase": 1, "table_id": "1-13564637-5", "question": "What were the points for when there were 30 tries against?", "sql": {"sel": 5, "conds": [[8, 0, "30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15621965-18", "question": "What is Stephen Thompson's School/Club Team?", "sql": {"sel": 4, "conds": [[0, 0, "stephen thompson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12792876-3", "question": "What was the drawn when the tries against was 89?", "sql": {"sel": 3, "conds": [[8, 0, "89"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15384084-2", "question": "How much Played has an Against larger than 37, and a Lost of 15, and Points smaller than 11?", "sql": {"sel": 3, "conds": [[6, 1, 37], [5, 0, 15], [2, 2, 11]], "agg": 4}}
+{"phase": 2, "table_id": "2-15621965-12", "question": "Amal McCaskill who plays forward-center played for what school/club team?", "sql": {"sel": 4, "conds": [[2, 0, "forward-center"], [0, 0, "amal mccaskill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16710742-1", "question": "In what Round was Tommy Norman picked?", "sql": {"sel": 0, "conds": [[2, 0, "tommy norman"]], "agg": 1}}
+{"phase": 2, "table_id": "2-16773359-1", "question": "What is the lowest played with a lost bigger than 10?", "sql": {"sel": 2, "conds": [[4, 1, 10]], "agg": 2}}
+{"phase": 2, "table_id": "2-15423698-2", "question": "What was the position with the total number less than 1?", "sql": {"sel": 0, "conds": [[5, 2, 1]], "agg": 3}}
+{"phase": 2, "table_id": "2-12207430-5", "question": "Which opponent has a Record of 54-38?", "sql": {"sel": 1, "conds": [[4, 0, "54-38"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11545282-5", "question": "Which player played the years for Jazz in 1995-2000, 2004-05", "sql": {"sel": 0, "conds": [[4, 0, "1995-2000, 2004-05"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11734041-7", "question": "What are all the positions for the rockets in 2008?", "sql": {"sel": 3, "conds": [[4, 0, "2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17786346-1", "question": "How many Drawn have a Lost smaller than 25, and a Goal Difference of +7, and a Played larger than 34?", "sql": {"sel": 3, "conds": [[4, 2, 25], [7, 0, "+7"], [2, 1, 34]], "agg": 3}}
+{"phase": 1, "table_id": "1-12828723-4", "question": "what is the points for when the played is 22 and tries against is 68?", "sql": {"sel": 5, "conds": [[1, 0, "22"], [8, 0, "68"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12149856-2", "question": "In the club of Real Oviedo, what were the points of the competitor with a goal difference less than 38, and 12 wins?", "sql": {"sel": 3, "conds": [[9, 2, 38], [4, 0, 12], [1, 0, "real oviedo"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12206689-3", "question": "What is the score of the game attended by 25,034?", "sql": {"sel": 2, "conds": [[4, 0, "25,034"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14887257-1", "question": "What pick was roger holdinsky?", "sql": {"sel": 1, "conds": [[2, 0, "roger holdinsky"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-11", "question": "what is the average losses when the club is warrnambool and wins is less than 12?", "sql": {"sel": 2, "conds": [[0, 0, "warrnambool"], [1, 2, 12]], "agg": 5}}
+{"phase": 2, "table_id": "2-15621965-10", "question": "What school/club team has tim kempton as the player?", "sql": {"sel": 4, "conds": [[0, 0, "tim kempton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14886214-2", "question": "What is the highest number of points team vit\u00f3ria, which had more than 38 played, had?", "sql": {"sel": 2, "conds": [[1, 0, "vit\u00f3ria"], [3, 1, 38]], "agg": 1}}
+{"phase": 2, "table_id": "2-13018938-1", "question": "what is the place when losses is less than 12 and points is less than 19?", "sql": {"sel": 0, "conds": [[4, 2, 12], [7, 2, 19]], "agg": 4}}
+{"phase": 2, "table_id": "2-14337005-3", "question": "what team had a score of 2-1", "sql": {"sel": 1, "conds": [[2, 0, "2-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16773359-1", "question": "What team with a goals conceded smaller than 25, and a place smaller than 3?", "sql": {"sel": 1, "conds": [[6, 2, 25], [0, 2, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-14886214-1", "question": "What is the largest drawn that has a played less than 38?", "sql": {"sel": 4, "conds": [[3, 2, 38]], "agg": 1}}
+{"phase": 1, "table_id": "1-2781227-4", "question": "For player is adam wiesel mention all the college/junior/club team ", "sql": {"sel": 5, "conds": [[1, 0, "Adam Wiesel"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17716055-2", "question": "How much Drawn has Goals Against larger than 74, and a Lost smaller than 20, and a Played larger than 38?", "sql": {"sel": 3, "conds": [[6, 1, 74], [4, 2, 20], [2, 1, 38]], "agg": 3}}
+{"phase": 2, "table_id": "2-12091720-2", "question": "What is the average of goals against, where overall goals are more than 35 and the goal difference is 20?", "sql": {"sel": 8, "conds": [[7, 1, 35], [9, 0, 20]], "agg": 5}}
+{"phase": 2, "table_id": "2-18976447-9", "question": "What is the total number of byes with more than 0 losses and 1526 against?", "sql": {"sel": 2, "conds": [[3, 1, 0], [5, 0, 1526]], "agg": 3}}
+{"phase": 2, "table_id": "2-14546539-4", "question": "Which Score has a Loss of buehrle (7-2)?", "sql": {"sel": 2, "conds": [[3, 0, "buehrle (7-2)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-7", "question": "what nationality is the player who played from 1997-98", "sql": {"sel": 2, "conds": [[4, 0, "1997-98"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-12", "question": "What was the average losses for team with points larger than 3 and played larger thna 14?", "sql": {"sel": 4, "conds": [[5, 1, 3], [2, 1, 14]], "agg": 5}}
+{"phase": 2, "table_id": "2-13552019-3", "question": "Name the opponent for save of williams (9)", "sql": {"sel": 1, "conds": [[4, 0, "williams (9)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17102123-5", "question": "What is the lowest Loss for the player named total that has a long greater than 55?", "sql": {"sel": 2, "conds": [[0, 0, "total"], [3, 1, 55]], "agg": 2}}
+{"phase": 2, "table_id": "2-11545282-21", "question": "What Position did Aaron Williams play?", "sql": {"sel": 2, "conds": [[0, 0, "aaron williams"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11750790-1", "question": "What is the average ties when the team is montreal victorias and the games played is more than 8?", "sql": {"sel": 4, "conds": [[0, 0, "montreal victorias"], [1, 1, 8]], "agg": 5}}
+{"phase": 1, "table_id": "1-11734041-3", "question": "During which years did number 13 play for the Rockets?", "sql": {"sel": 4, "conds": [[1, 0, "13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17633162-10", "question": "What is the average goals scored of the team who scored 44 points and placed higher than 5?", "sql": {"sel": 5, "conds": [[7, 0, "44"], [0, 1, 5]], "agg": 5}}
+{"phase": 2, "table_id": "2-15367861-2", "question": "What is the average played that has a drawn greater than 1, with an against greater than 16?", "sql": {"sel": 3, "conds": [[4, 1, 1], [6, 1, 16]], "agg": 5}}
+{"phase": 2, "table_id": "2-13043324-1", "question": "If the place is smaller than 8 and they played more than 18, what is the total number of goals conceded?", "sql": {"sel": 6, "conds": [[0, 2, 8], [2, 1, 18]], "agg": 3}}
+{"phase": 2, "table_id": "2-15128839-19", "question": "Which Avg/G has a Gain of 16, and a Name of barnes, freddie, and a Loss smaller than 2?", "sql": {"sel": 4, "conds": [[1, 0, 16], [0, 0, "barnes, freddie"], [2, 2, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-17543955-1", "question": "What is the number for match when the draws in more than 0, the team is Polonia Bydgoszcz, and there are less than 17 points?", "sql": {"sel": 1, "conds": [[3, 1, 0], [0, 0, "polonia bydgoszcz"], [2, 2, 17]], "agg": 4}}
+{"phase": 2, "table_id": "2-13564637-4", "question": "What were the points for a team that 414 points against?", "sql": {"sel": 4, "conds": [[5, 0, "414"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17785973-1", "question": "What is the total number drawn with goals against less than 55, and a total of 14 losses?", "sql": {"sel": 3, "conds": [[6, 2, 55], [4, 0, 14]], "agg": 3}}
+{"phase": 2, "table_id": "2-12207553-6", "question": "What was the loss of the game that had a record of 63-52?", "sql": {"sel": 3, "conds": [[4, 0, "63-52"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11734041-2", "question": "What school did the forward whose number is 10 belong to?", "sql": {"sel": 5, "conds": [[1, 0, "10"], [3, 0, "Forward"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17785973-2", "question": "What is the total number of Lost, when Played is less than 34?", "sql": {"sel": 4, "conds": [[2, 2, 34]], "agg": 3}}
+{"phase": 1, "table_id": "1-29565601-2", "question": "What is the largest number in L?", "sql": {"sel": 2, "conds": [], "agg": 1}}
+{"phase": 1, "table_id": "1-14058433-3", "question": "How many points were made when the tries for was 83?", "sql": {"sel": 11, "conds": [[7, 0, "83"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11545282-15", "question": "What position in the club team of Kansas?", "sql": {"sel": 2, "conds": [[4, 0, "kansas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2781227-9", "question": "What position does krylja sovetov (russia) play?", "sql": {"sel": 2, "conds": [[5, 0, "Krylja Sovetov (Russia)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13741576-3", "question": "How many points does the team with 3 losses have?", "sql": {"sel": 10, "conds": [[3, 0, "3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-25", "question": "What is the whole of Drawn that has a Lost of 4?", "sql": {"sel": 3, "conds": [[4, 0, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-15430129-2", "question": "What is the average number of draws for teams with more than 10 matches?", "sql": {"sel": 3, "conds": [[1, 1, 10]], "agg": 5}}
+{"phase": 2, "table_id": "2-18607260-1", "question": "What is the average number of losses for teams with under 16 points and under 3 draws?", "sql": {"sel": 5, "conds": [[8, 2, 16], [4, 2, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-12886178-3", "question": "What is the Club, when the value for Lost is 9, and when the value for Tries is 55?", "sql": {"sel": 0, "conds": [[3, 0, "9"], [6, 0, "55"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1552908-3", "question": "What was the greatest number of Losses for the team that had 1427 Against and more than 5 Wins?", "sql": {"sel": 3, "conds": [[5, 1, 1427], [1, 1, 5]], "agg": 1}}
+{"phase": 2, "table_id": "2-11734041-17", "question": "What is the number of the player who came from Virginia?", "sql": {"sel": 1, "conds": [[5, 0, "virginia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1013129-8", "question": "How many nationalities are the pick 193?", "sql": {"sel": 3, "conds": [[0, 0, 193]], "agg": 3}}
+{"phase": 2, "table_id": "2-13043324-1", "question": "What is the sum of the place that has less than 2 losses?", "sql": {"sel": 0, "conds": [[4, 2, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-14344570-4", "question": "Which December has a Record of 21\u20138\u20134, and a Game larger than 33?", "sql": {"sel": 1, "conds": [[4, 0, "21\u20138\u20134"], [0, 1, 33]], "agg": 5}}
+{"phase": 2, "table_id": "2-18628904-12", "question": "What is the average number of losses when there are more than 4 wins, and the against matches is more than 1728?", "sql": {"sel": 2, "conds": [[1, 2, 4], [4, 1, 1728]], "agg": 5}}
+{"phase": 1, "table_id": "1-2781227-2", "question": "How many teams does Lee Sorochan play for?", "sql": {"sel": 5, "conds": [[1, 0, "Lee Sorochan"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14886214-2", "question": "What is the average drawn of the team with a difference of 4 and more than 13 losses?", "sql": {"sel": 4, "conds": [[7, 0, "4"], [5, 1, 13]], "agg": 5}}
+{"phase": 2, "table_id": "2-1552908-21", "question": "How many Byes have Against of 1076 and Wins smaller than 13?", "sql": {"sel": 2, "conds": [[5, 0, 1076], [1, 2, 13]], "agg": 5}}
+{"phase": 2, "table_id": "2-16710917-1", "question": "Which position had a pick larger than 80 and Walt Mainer as a player?", "sql": {"sel": 3, "conds": [[1, 1, 80], [2, 0, "walt mainer"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15287209-1", "question": "How many Points have Drawn of 7, and a Team of corinthians, and a Played larger than 18?", "sql": {"sel": 2, "conds": [[4, 0, 7], [1, 0, "corinthians"], [3, 1, 18]], "agg": 3}}
+{"phase": 1, "table_id": "1-11734041-18", "question": "Which years had a jersey number 55", "sql": {"sel": 4, "conds": [[1, 0, "55"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12777110-2", "question": "For Once Municipal, what were the goals scored that had less than 27 points and greater than place 1?", "sql": {"sel": 5, "conds": [[0, 1, 1], [1, 0, "once municipal"], [7, 2, 27]], "agg": 5}}
+{"phase": 1, "table_id": "1-13564702-3", "question": "Name the tries against for played 22 and points against of 183", "sql": {"sel": 8, "conds": [[1, 0, "22"], [6, 0, "183"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18522916-1", "question": "What is the total goals scored with more than 11 points, 18 goals conceded, and played fewer than 18 times?", "sql": {"sel": 5, "conds": [[7, 1, 11], [6, 0, 18], [2, 2, 18]], "agg": 3}}
+{"phase": 1, "table_id": "1-17941032-3", "question": "Name the points when tries for is 49", "sql": {"sel": 11, "conds": [[7, 0, "49"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17416195-2", "question": "What is the total of the goal difference entries for entries with fewer than 49 goals and position smaller than 8?", "sql": {"sel": 8, "conds": [[6, 2, 49], [0, 2, 8]], "agg": 3}}
+{"phase": 2, "table_id": "2-17368673-1", "question": "what is the lost when played is less than 42?", "sql": {"sel": 4, "conds": [[2, 2, 42]], "agg": 4}}
+{"phase": 2, "table_id": "2-13940275-3", "question": "What is the number of tries for the team that has 22 plays with 33 tries against and 60 points?", "sql": {"sel": 6, "conds": [[1, 0, "22"], [7, 0, "33"], [10, 0, "60"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15128839-19", "question": "Which average Long has a Gain smaller than 16, and a Loss smaller than 6?", "sql": {"sel": 3, "conds": [[1, 2, 16], [2, 2, 6]], "agg": 5}}
+{"phase": 2, "table_id": "2-11734041-9", "question": "What are the numbers for any players from Washington?", "sql": {"sel": 1, "conds": [[5, 0, "washington"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14302613-4", "question": "What were the Points in the game with a Score of 2\u20137?", "sql": {"sel": 5, "conds": [[3, 0, "2\u20137"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17543955-3", "question": "What is the total for the draw with 0 points, and less than 14 lost?", "sql": {"sel": 3, "conds": [[2, 0, 0], [4, 2, 14]], "agg": 4}}
+{"phase": 2, "table_id": "2-12117808-2", "question": "Name the average losses for draws larger than 6 and played more than 38", "sql": {"sel": 6, "conds": [[5, 1, 6], [2, 1, 38]], "agg": 5}}
+{"phase": 2, "table_id": "2-18771190-14", "question": "What is the total number played with 8 points and a position more than 6?", "sql": {"sel": 2, "conds": [[5, 0, 8], [0, 1, 6]], "agg": 3}}
+{"phase": 2, "table_id": "2-18607260-1", "question": "What is the sum of points for teams with 10 goals scored and under 3 wins?", "sql": {"sel": 8, "conds": [[6, 0, 10], [3, 2, 3]], "agg": 4}}
+{"phase": 2, "table_id": "2-13882208-8", "question": "What date has postponed (rain) rescheduled for august 7 as the score?", "sql": {"sel": 0, "conds": [[2, 0, "postponed (rain) rescheduled for august 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17589003-1", "question": "What is the maximum lost with points 1 more than 58 and 66 goals against?", "sql": {"sel": 4, "conds": [[8, 1, 58], [6, 0, 66]], "agg": 1}}
+{"phase": 2, "table_id": "2-1013129-2", "question": "Tell me the pick for pittsburgh penguins", "sql": {"sel": 0, "conds": [[4, 0, "pittsburgh penguins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1552908-19", "question": "What is the lowest draw that has less than 4 wins, 14 losses, and against more than 1836?", "sql": {"sel": 4, "conds": [[1, 2, 4], [3, 0, 14], [5, 1, 1836]], "agg": 2}}
+{"phase": 2, "table_id": "2-15447701-4", "question": "What is the total number of Points from a Match that is larger than 18?", "sql": {"sel": 2, "conds": [[1, 1, 18]], "agg": 3}}
+{"phase": 1, "table_id": "1-29546218-3", "question": "What is the total mumber of skip (club) entries when the pf is 40?", "sql": {"sel": 0, "conds": [[3, 0, 40]], "agg": 3}}
+{"phase": 2, "table_id": "2-11545282-13", "question": "Which position was active in Jazz in 2002-03?", "sql": {"sel": 2, "conds": [[3, 0, "2002-03"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14417906-9", "question": "Which Draws have Losses larger than 16, and a Season larger than 1966?", "sql": {"sel": 4, "conds": [[3, 1, 16], [0, 1, 1966]], "agg": 4}}
+{"phase": 2, "table_id": "2-18976447-9", "question": "What is the total number of losses with less than 6 wins and less than 0 draws?", "sql": {"sel": 3, "conds": [[1, 2, 6], [4, 2, 0]], "agg": 3}}
+{"phase": 2, "table_id": "2-15318286-1", "question": "Which Played has a Drawn of 5, and a Team of palmeiras, and a Position smaller than 6?", "sql": {"sel": 3, "conds": [[4, 0, 5], [1, 0, "palmeiras"], [0, 2, 6]], "agg": 1}}
+{"phase": 2, "table_id": "2-11545282-5", "question": "What position did someone play from 1982-84?", "sql": {"sel": 2, "conds": [[3, 0, "1982-84"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14609698-1", "question": "Which school was the drafted player from in a pick larger than 181?", "sql": {"sel": 4, "conds": [[1, 1, 181]], "agg": 0}}
+{"phase": 2, "table_id": "2-16566850-12", "question": "What was the total number of games played by se freising when their points were larger than 13?", "sql": {"sel": 2, "conds": [[1, 0, "se freising"], [5, 1, 13]], "agg": 3}}
+{"phase": 2, "table_id": "2-15206839-2", "question": "Which Played has a Lost larger than 14, and a Drawn of 10, and Points larger than 46?", "sql": {"sel": 3, "conds": [[5, 1, 14], [4, 0, 10], [2, 1, 46]], "agg": 5}}
+{"phase": 2, "table_id": "2-17785973-3", "question": "What was the lowest lost entry for a team with fewer than 21 goals for?", "sql": {"sel": 4, "conds": [[5, 2, 21]], "agg": 2}}
+{"phase": 1, "table_id": "1-13564637-4", "question": "What is the name of the column points against?", "sql": {"sel": 6, "conds": [[11, 0, "Points"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17790191-2", "question": "What is the total number of Points 1, when Position is \"7\", and when Drawn is greater than 6?", "sql": {"sel": 8, "conds": [[0, 0, 7], [3, 1, 6]], "agg": 3}}
+{"phase": 2, "table_id": "2-15429035-2", "question": "How many matches have 0 as the lost?", "sql": {"sel": 1, "conds": [[4, 0, 0]], "agg": 3}}
+{"phase": 1, "table_id": "1-17625749-3", "question": "How many points are there for 63 tries against? ", "sql": {"sel": 5, "conds": [[8, 0, "63"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-21", "question": "Which country is the player that went to Georgetown from?", "sql": {"sel": 2, "conds": [[5, 0, "Georgetown"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1552908-9", "question": "What is the total against that has wins less than 9, and losses less than 16, and 2 as the byes, and Ballarat FL of ballarat?", "sql": {"sel": 5, "conds": [[1, 2, 9], [3, 2, 16], [2, 0, 2], [0, 0, "ballarat"]], "agg": 4}}
+{"phase": 2, "table_id": "2-12207924-2", "question": "What was the opponent at the game that had a loss of Travers (0\u20132)?", "sql": {"sel": 1, "conds": [[3, 0, "travers (0\u20132)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18628904-15", "question": "What's the smallest draw of Warrnambool when the against was less than 1299, more than 7 wins, and less than 2 losses?", "sql": {"sel": 3, "conds": [[4, 2, 1299], [1, 1, 7], [0, 0, "warrnambool"], [2, 2, 2]], "agg": 2}}
+{"phase": 2, "table_id": "2-12107896-2", "question": "What is the lowest goal difference for the club ud alzira, with a played larger than 38?", "sql": {"sel": 9, "conds": [[1, 0, "ud alzira"], [2, 1, 38]], "agg": 2}}
+{"phase": 1, "table_id": "1-1013129-10", "question": "Position in nhl team centre are all smaller pick than 243.0", "sql": {"sel": 4, "conds": [[2, 0, "Centre"], [0, 2, 243.0]], "agg": 0}}
+{"phase": 2, "table_id": "2-14871601-1", "question": "How many Wins have a Scored smaller than 24, and a Conceded larger than 25, and Draws larger than 5, and a Position smaller than 9?", "sql": {"sel": 3, "conds": [[6, 2, 24], [7, 1, 25], [4, 1, 5], [0, 2, 9]], "agg": 3}}
+{"phase": 2, "table_id": "2-11545282-21", "question": "At Position of guard, from the School/Club Team Notre Dame, how many Years for Jazz did that person play?", "sql": {"sel": 3, "conds": [[2, 0, "guard"], [4, 0, "notre dame"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15890038-1", "question": "What is the highest games Played where the Place is 10 and Points are less than 17?", "sql": {"sel": 2, "conds": [[0, 0, 10], [7, 2, 17]], "agg": 1}}
+{"phase": 2, "table_id": "2-1013129-2", "question": "Tell me the position for pick of 47", "sql": {"sel": 2, "conds": [[0, 0, "47"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11512776-2", "question": "What is the team's record on april 12?", "sql": {"sel": 5, "conds": [[0, 0, "april 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12207474-6", "question": "What was the score of the game when the record was 68-39?", "sql": {"sel": 2, "conds": [[4, 0, "68-39"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2781227-7", "question": "What college  team did the pick for Pittsburgh Penguins come from?", "sql": {"sel": 5, "conds": [[4, 0, "Pittsburgh Penguins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15354254-1", "question": "What is the largest points number where the difference is 12?", "sql": {"sel": 2, "conds": [[7, 0, "12"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15368442-1", "question": "What was the total number of Points when the value Difference was 13, and when the value Lost was greater than 3?", "sql": {"sel": 2, "conds": [[7, 0, "13"], [5, 1, 3]], "agg": 4}}

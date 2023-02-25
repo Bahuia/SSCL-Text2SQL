@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nohup python -u ./src/train_cl.py --task_path ./data/spider_task_stream_0806_v5/task{}/{} \
+nohup python -u ./src/train_cl.py --task_path ./data/spider_task_stream/task{}/{} \
 --cuda \
 --epoch 20 \
 --beam_size 2 \

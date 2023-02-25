@@ -1,0 +1,476 @@
+{"phase": 2, "table_id": "2-1140093-1", "question": "In the Canadian Grand Prix, what tyre was used when Jacky Ickx held pole position?", "sql": {"sel": 7, "conds": [[3, 0, "jacky ickx"], [0, 0, "canadian grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20854943-2", "question": "How many sail numbers for boat skippered by Geoff Ross?", "sql": {"sel": 2, "conds": [[7, 0, "Geoff Ross"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1251973-1", "question": "What was the finish with less than 200 laps in 1953?", "sql": {"sel": 4, "conds": [[5, 2, 200], [0, 0, "1953"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140085-2", "question": "Where did the team in which Tom Pryce was in Pole Position race?", "sql": {"sel": 2, "conds": [[3, 0, "tom pryce"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10219837-2", "question": "Name the circuit for marcel lehoux", "sql": {"sel": 1, "conds": [[3, 0, "marcel lehoux"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140077-2", "question": "Who was the winner of the race in monza?", "sql": {"sel": 5, "conds": [[2, 0, "monza"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14446103-2", "question": "Which Laps is the highest one that has a Time/Retired of +3.370 secs?", "sql": {"sel": 2, "conds": [[3, 0, "+3.370 secs"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14209455-5", "question": "What is the rank for the team with a Time of 1:12.40.28?", "sql": {"sel": 0, "conds": [[4, 0, "1:12.40.28"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18649514-2", "question": "Which rider was on the 600cc Yamaha team?", "sql": {"sel": 1, "conds": [[2, 0, "600cc yamaha"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1708050-2", "question": "Smaller than 37, the highest year for Ford?", "sql": {"sel": 0, "conds": [[1, 0, "ford"], [3, 2, 37]], "agg": 1}}
+{"phase": 2, "table_id": "2-1140070-2", "question": "What is the race in Paul Ricard with Keke Rosberg as the fastest lap?", "sql": {"sel": 0, "conds": [[4, 0, "keke rosberg"], [2, 0, "paul ricard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14209455-11", "question": "Rank smaller than 5, and a Time of 31\u2019 03.093 is what rider?", "sql": {"sel": 1, "conds": [[0, 2, 5], [4, 0, "31\u2019 03.093"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1390721-8", "question": "What engine has a start less than 7, and 23 as a finish?", "sql": {"sel": 2, "conds": [[3, 2, 7], [4, 0, 23]], "agg": 0}}
+{"phase": 1, "table_id": "1-16670746-2", "question": "Who was the winning driver at Okayama International Circuit?", "sql": {"sel": 5, "conds": [[1, 0, "Okayama International Circuit"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140086-1", "question": "Tell me the date for jody scheckter being the fastest lap at the french grand prix", "sql": {"sel": 2, "conds": [[4, 0, "jody scheckter"], [0, 0, "french grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1442541-7", "question": "What is the finish for the chip ganassi racing team that was later than 2010 and a Start of 17?", "sql": {"sel": 4, "conds": [[5, 0, "chip ganassi racing"], [0, 1, 2010], [3, 0, "17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18270426-2", "question": "What day was the circuit Isle of Man?", "sql": {"sel": 2, "conds": [[1, 0, "isle of man"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12807827-2", "question": "Who won at the Oran Park Raceway?", "sql": {"sel": 4, "conds": [[1, 0, "oran park raceway"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10301911-3", "question": "Who is Team Suzuki's rider and ranks higher than 6?", "sql": {"sel": 1, "conds": [[0, 1, 6], [2, 0, "suzuki"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16284301-2", "question": "What was the highest grid for Patrick Carpentier?", "sql": {"sel": 4, "conds": [[0, 0, "patrick carpentier"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1140078-2", "question": "What is the pole position of the belgian grand prix?", "sql": {"sel": 4, "conds": [[1, 0, "Belgian Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12631771-2", "question": "When did Gaspare Bona win the Pozzo Circuit?", "sql": {"sel": 2, "conds": [[3, 0, "gaspare bona"], [0, 0, "pozzo circuit"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18964684-1", "question": "What is the model that was made in the years 2011 2012-?", "sql": {"sel": 0, "conds": [[1, 0, "2011 2012-"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1256150-1", "question": "What was the result after 1994 for team MB2 and 31 starts?", "sql": {"sel": 3, "conds": [[0, 1, 1994], [4, 0, "mb2"], [2, 0, "31"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21297652-1", "question": "Which drivers won $40,000 in the NASCAR Winston Cup?", "sql": {"sel": 1, "conds": [[4, 0, "NASCAR Winston Cup"], [3, 0, "$40,000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1615758-5", "question": "What did the Dallara chassis with a 5 start in 2006 finish?", "sql": {"sel": 4, "conds": [[1, 0, "dallara"], [3, 0, "5"], [0, 0, 2006]], "agg": 0}}
+{"phase": 2, "table_id": "2-1615758-5", "question": "What is the earliest year of the Honda Engine with a finish of 4?", "sql": {"sel": 0, "conds": [[2, 0, "honda"], [4, 0, 4]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140105-6", "question": "Tell me the race name where stirling moss won on 16 april", "sql": {"sel": 0, "conds": [[3, 0, "stirling moss"], [2, 0, "16 april"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18964684-2", "question": "What is the torque of the xdrive20d model, which has a power of ps (kw; hp)@4000?", "sql": {"sel": 4, "conds": [[3, 0, "ps (kw; hp)@4000"], [0, 0, "xdrive20d"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18256407-2", "question": "Name the Date of mercedes, and a Circuit of elgin?", "sql": {"sel": 2, "conds": [[4, 0, "mercedes"], [1, 0, "elgin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10725629-2", "question": "What circut has an unknown fastest lap on July 19?", "sql": {"sel": 1, "conds": [[5, 0, "unknown"], [3, 0, "july 19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16508558-3", "question": "Which Winning Team has the Fastest Lap of brendon hartley, and a Pole Position of oliver turvey, and a Circuit of spa-francorchamps, and the Winning Driver of brendon hartley?", "sql": {"sel": 6, "conds": [[4, 0, "brendon hartley"], [3, 0, "oliver turvey"], [1, 0, "spa-francorchamps"], [5, 0, "brendon hartley"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11784911-4", "question": "Tell me the long for charles frederick", "sql": {"sel": 5, "conds": [[0, 0, "charles frederick"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16651598-2", "question": "When the grid is under 5 and justin wilson is driving for the team mi-jack conquest racing, what's the highest number of laps driven?", "sql": {"sel": 2, "conds": [[1, 0, "mi-jack conquest racing"], [0, 0, "justin wilson"], [4, 2, 5]], "agg": 1}}
+{"phase": 2, "table_id": "2-1256150-1", "question": "What team finished 35 in a ford before 1997?", "sql": {"sel": 4, "conds": [[0, 2, 1997], [1, 0, "ford"], [3, 0, "35"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140116-6", "question": "What is the date on which a race was run at Halle-Saale-Schleife circuit?", "sql": {"sel": 2, "conds": [[1, 0, "Halle-Saale-Schleife"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10651263-1", "question": "What is noriyuki haga's time?", "sql": {"sel": 3, "conds": [[0, 0, "noriyuki haga"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140073-2", "question": "What Race did Michele Alboreto win?", "sql": {"sel": 0, "conds": [[5, 0, "michele alboreto"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1235879-1", "question": "Name the rank with laps of 200 and qual of 148.374", "sql": {"sel": 3, "conds": [[5, 0, 200], [2, 0, "148.374"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140108-1", "question": "What was the constructor when Jack Brabham was the driver at the Monaco Grand Prix?", "sql": {"sel": 6, "conds": [[5, 0, "jack brabham"], [0, 0, "monaco grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17271053-3", "question": "Which Rider is grid 7?", "sql": {"sel": 0, "conds": [[4, 0, 7]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140113-5", "question": "What was the report of Mike Hawthorn's winning race?", "sql": {"sel": 5, "conds": [[3, 0, "Mike Hawthorn"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21977627-1", "question": "What chasis did the maserati l6s have?", "sql": {"sel": 4, "conds": [[5, 0, "Maserati L6s"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140073-2", "question": "Which race is located in kyalami?", "sql": {"sel": 1, "conds": [[3, 0, "Kyalami"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004028-3", "question": "What is the driver with the laps under 16, grid of 10, a bike of Yamaha YZF-R6, and ended with an accident?", "sql": {"sel": 0, "conds": [[2, 2, 16], [3, 0, "accident"], [1, 0, "yamaha yzf-r6"], [4, 0, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140115-2", "question": "What driver has a 166 c 500 chassis?", "sql": {"sel": 5, "conds": [[2, 0, "166 c 500"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140112-1", "question": "What tyre did Paul Russo have on his fastest lap?", "sql": {"sel": 7, "conds": [[4, 0, "paul russo"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18733814-2", "question": "What's the mountains classification of winner Carlos Sastre when the general classification is Denis Menchov?", "sql": {"sel": 4, "conds": [[2, 0, "denis menchov"], [1, 0, "carlos sastre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18278061-2", "question": "What Name has a Winning constructor of ansaldo?", "sql": {"sel": 0, "conds": [[4, 0, "ansaldo"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "How many drivers won the Italian Grand Prix?", "sql": {"sel": 4, "conds": [[1, 0, "Italian Grand Prix"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1252053-1", "question": "What year had the qual of totals", "sql": {"sel": 0, "conds": [[2, 0, "totals"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17248696-6", "question": "What is the quantity preserved when 4 were made of class F-21?", "sql": {"sel": 6, "conds": [[5, 0, "4"], [0, 0, "f-21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137702-3", "question": "Name the fastest lap for the brazilian grand prix", "sql": {"sel": 3, "conds": [[1, 0, "brazilian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140112-5", "question": "What does the Circuit of caen report?", "sql": {"sel": 5, "conds": [[1, 0, "caen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11784911-4", "question": "Tell me the long for TD's of 4", "sql": {"sel": 5, "conds": [[4, 0, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-1314336-2", "question": "Name the most year with start more than 2", "sql": {"sel": 0, "conds": [[2, 1, 2]], "agg": 1}}
+{"phase": 2, "table_id": "2-18649514-8", "question": "What ran has noel patterson as the rider?", "sql": {"sel": 0, "conds": [[1, 0, "noel patterson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15491596-1", "question": "How many cars used number 48?", "sql": {"sel": 5, "conds": [[0, 0, 48]], "agg": 3}}
+{"phase": 2, "table_id": "2-14209455-5", "question": "What time did team kawasaki zx10 1000cc have?", "sql": {"sel": 4, "conds": [[2, 0, "kawasaki zx10 1000cc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140099-1", "question": "Tell me the pole position for graham hill the fastest lap and winning driver of him on 30 may", "sql": {"sel": 3, "conds": [[4, 0, "graham hill"], [5, 0, "graham hill"], [2, 0, "30 may"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-4", "question": "What is the time for Alan Oversby?", "sql": {"sel": 4, "conds": [[1, 0, "alan oversby"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18308914-2", "question": "What team has 0 points and a contact tired/retired, and 71 laps?", "sql": {"sel": 1, "conds": [[5, 0, 0], [3, 0, "contact"], [2, 0, 71]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-7", "question": "What is Ryan McCay's speed that has a rank better than 8?", "sql": {"sel": 3, "conds": [[0, 1, 8], [1, 0, "ryan mccay"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "Which round had Michael Schumacher in the pole position, David Coulthard with the fastest lap, and McLaren - Mercedes as the winning constructor?", "sql": {"sel": 0, "conds": [[2, 0, "Michael Schumacher"], [3, 0, "David Coulthard"], [5, 0, "McLaren - Mercedes"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10707142-1", "question": "What is the engine for the team of Alex Morales Motorsports?", "sql": {"sel": 2, "conds": [[0, 0, "alex morales motorsports"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18278061-2", "question": "What Winning constructor has a Circuit of lasarte?", "sql": {"sel": 4, "conds": [[1, 0, "lasarte"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140105-6", "question": "What is the name of the circuit where the race xi Syracuse grand prix was held?", "sql": {"sel": 1, "conds": [[0, 0, "XI Syracuse Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1882094-2", "question": "Which Laps have a Finish of 15?", "sql": {"sel": 5, "conds": [[4, 0, "15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18256407-2", "question": "Name the Winning driver of mercedes on 22 august?", "sql": {"sel": 3, "conds": [[4, 0, "mercedes"], [2, 0, "22 august"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140119-5", "question": "Which driver won the iv j.c.c. jersey road race?", "sql": {"sel": 3, "conds": [[0, 0, "iv j.c.c. jersey road race"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783481-3", "question": "What is the long for the player with 26 carries?", "sql": {"sel": 5, "conds": [[1, 0, 26]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140112-1", "question": "Who was the winning driver on 30 May?", "sql": {"sel": 5, "conds": [[2, 0, "30 may"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140082-2", "question": "Where is the German Grand Prix?", "sql": {"sel": 3, "conds": [[1, 0, "German Grand Prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140083-2", "question": "The Dijon-prenois had how many fastest laps?", "sql": {"sel": 5, "conds": [[3, 0, "Dijon-Prenois"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18520643-2", "question": "What is the total number of laps for a team of team player's, and has a grid of 9, and points larger than 10?", "sql": {"sel": 2, "conds": [[1, 0, "team player's"], [4, 0, 9], [5, 1, 10]], "agg": 3}}
+{"phase": 2, "table_id": "2-1140074-2", "question": "What day did Patrick Tambay have the fastest lap?", "sql": {"sel": 1, "conds": [[4, 0, "patrick tambay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1756739-3", "question": "Which manufacturer was used after 1969 with a finish position of 34?", "sql": {"sel": 1, "conds": [[0, 1, 1969], [3, 0, 34]], "agg": 0}}
+{"phase": 2, "table_id": "2-14876144-2", "question": "What Time/Retired has a Points that's smaller than 11 and has a Laps of 74?", "sql": {"sel": 3, "conds": [[5, 2, 11], [2, 0, 74]], "agg": 0}}
+{"phase": 1, "table_id": "1-16670746-2", "question": "Who had the fastest lap in the race won by Team Impul at the Twin Ring Motegi circuit?", "sql": {"sel": 4, "conds": [[6, 0, "Team Impul"], [1, 0, "Twin Ring Motegi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1390721-8", "question": "What is the average finish that has a start greater than 3, with honda as the engine, and 2011 as the year?", "sql": {"sel": 4, "conds": [[3, 1, 3], [2, 0, "honda"], [0, 0, 2011]], "agg": 5}}
+{"phase": 2, "table_id": "2-15158976-2", "question": "Name the sum of laps for mi-jack conquest racing and points less than 11", "sql": {"sel": 2, "conds": [[1, 0, "mi-jack conquest racing"], [5, 2, 11]], "agg": 4}}
+{"phase": 2, "table_id": "2-13628822-1", "question": "What Rider had a Time of +1:08.291?", "sql": {"sel": 0, "conds": [[3, 0, "+1:08.291"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18964684-2", "question": "What model is the n\u00b7m (lb\u00b7ft)@1500-2500 torque?", "sql": {"sel": 0, "conds": [[4, 0, "n\u00b7m (lb\u00b7ft)@1500-2500"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10302742-2", "question": "Tell me the report for bugatti and brooklands", "sql": {"sel": 5, "conds": [[4, 0, "bugatti"], [1, 0, "brooklands"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1236238-1", "question": "What's the smallest amount of Laps that had a finish of 7 with a start of 6?", "sql": {"sel": 5, "conds": [[4, 0, "7"], [1, 0, "6"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1252142-1", "question": "How many laps were there when the start was 12?", "sql": {"sel": 5, "conds": [[1, 0, "12"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1252058-1", "question": "What is the most laps with a qualification of 106.185?", "sql": {"sel": 5, "conds": [[2, 0, "106.185"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15878404-1", "question": "What is the Bike with 18 laps and +41.280 as the time?", "sql": {"sel": 1, "conds": [[2, 0, 18], [3, 0, "+41.280"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12051344-2", "question": "Who was the winner for the Winton Motor Raceway circuit?", "sql": {"sel": 4, "conds": [[1, 0, "winton motor raceway"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140095-2", "question": "Which driver has a G tyre, rounds of 2-12 and a M7A chassis?", "sql": {"sel": 4, "conds": [[3, 0, "g"], [5, 0, "2-12"], [2, 0, "m7a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140088-6", "question": "What is the constructor for the VII Race of Champions?", "sql": {"sel": 4, "conds": [[0, 0, "vii race of champions"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140116-6", "question": "On what date was the I Dessau Autobahnspinne race?", "sql": {"sel": 2, "conds": [[0, 0, "i dessau autobahnspinne"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140114-5", "question": "Which constructor was present at the Redex Trophy race?", "sql": {"sel": 4, "conds": [[0, 0, "RedeX Trophy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1219773-6", "question": "What position did team scandia finish when their engine was cosworth?", "sql": {"sel": 4, "conds": [[2, 0, "cosworth"], [5, 0, "team scandia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13648477-2", "question": "what is the lowest grid with laps larger than 23?", "sql": {"sel": 4, "conds": [[2, 1, 23]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140093-1", "question": "What tyre was used in Kyalami?", "sql": {"sel": 7, "conds": [[1, 0, "kyalami"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1235992-1", "question": "What was the starting position of Joie Chitwood when he finished more than 200 laps?", "sql": {"sel": 1, "conds": [[5, 1, 200]], "agg": 0}}
+{"phase": 2, "table_id": "2-18899550-2", "question": "Which Laps have a Time/Retired of + 4 laps, and a Grid larger than 18?", "sql": {"sel": 2, "conds": [[3, 0, "+ 4 laps"], [4, 1, 18]], "agg": 5}}
+{"phase": 2, "table_id": "2-1140104-1", "question": "What is the tyre on the race where Bruce Mclaren had the fastest lap?", "sql": {"sel": 7, "conds": [[4, 0, "bruce mclaren"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10160447-1", "question": "what's the maximum\u00a0position\u00a0with\u00a0winnings\u00a0 $50,000", "sql": {"sel": 0, "conds": [[3, 0, "$50,000"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1252110-1", "question": "What is the finish in 1956?", "sql": {"sel": 4, "conds": [[0, 0, "1956"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140095-2", "question": "The rounds of 1-2, 4-10, 12 belong to which entrant?", "sql": {"sel": 0, "conds": [[5, 0, "1-2, 4-10, 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17840109-1", "question": "What is the time of Troy Bayliss with less than 8 grids?", "sql": {"sel": 3, "conds": [[4, 2, 8], [0, 0, "troy bayliss"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16420963-2", "question": "Which driver had 248 laps?", "sql": {"sel": 0, "conds": [[2, 0, 248]], "agg": 0}}
+{"phase": 2, "table_id": "2-11912223-2", "question": "Name the most laps for grid more than 9 and the driver being jan heylen", "sql": {"sel": 2, "conds": [[4, 1, 9], [0, 0, "jan heylen"]], "agg": 1}}
+{"phase": 1, "table_id": "1-26267607-2", "question": "Round 1 is in what circuit?", "sql": {"sel": 1, "conds": [[0, 0, "1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140110-6", "question": "What is the date that the winner driver is Stirling Moss in the race named vi grand prix de caen?", "sql": {"sel": 2, "conds": [[3, 0, "stirling moss"], [0, 0, "vi grand prix de caen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16159039-2", "question": "What is the smallest grid when the time is +8.051 and there were less than 23 laps?", "sql": {"sel": 4, "conds": [[3, 0, "+8.051"], [2, 2, 23]], "agg": 2}}
+{"phase": 2, "table_id": "2-1252058-1", "question": "What was the qualification in 1932?", "sql": {"sel": 2, "conds": [[0, 0, "1932"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15570607-1", "question": "What Series had 14 races and 12th position?", "sql": {"sel": 1, "conds": [[3, 0, 14], [8, 0, "12th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10506557-3", "question": "How many average points did the player with a time/retired of +16.789 and have more laps than 68 have?", "sql": {"sel": 5, "conds": [[3, 0, "+16.789"], [2, 1, 68]], "agg": 5}}
+{"phase": 2, "table_id": "2-14395920-2", "question": "Name the team classification for stage of 20", "sql": {"sel": 6, "conds": [[0, 0, "20"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25561560-2", "question": "What was the LOA for the Simonis Voogd Maxi? ", "sql": {"sel": 6, "conds": [[5, 0, "Simonis Voogd Maxi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10617925-2", "question": "Which Grand Prix did Nello Pagani win?", "sql": {"sel": 0, "conds": [[3, 0, "nello pagani"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004028-2", "question": "Which Grid has a Time of +13.999?", "sql": {"sel": 4, "conds": [[3, 0, "+13.999"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18278061-2", "question": "What Date has a Circuit of cremona?", "sql": {"sel": 2, "conds": [[1, 0, "cremona"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10576510-2", "question": "Which Grand Prix has the Circuit of Lille?", "sql": {"sel": 0, "conds": [[1, 0, "lille"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004028-1", "question": "How many grids did Shinichi Nakatomi ride in?", "sql": {"sel": 4, "conds": [[0, 0, "shinichi nakatomi"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1140070-2", "question": "What is the constructor for the race with Nigel Mansell as the fastest lap?", "sql": {"sel": 6, "conds": [[4, 0, "nigel mansell"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140074-2", "question": "what's the total number of\u00a0race winner\u00a0with\u00a0rnd\u00a0being 10", "sql": {"sel": 6, "conds": [[0, 0, 10]], "agg": 3}}
+{"phase": 2, "table_id": "2-1180976-2", "question": "Which model was made from 2001\u20132004, with a Torque of n\u00b7m (lb\u00b7ft) @ 3750, and an Engine code of n42b18 / n46b18?", "sql": {"sel": 0, "conds": [[1, 0, "2001\u20132004"], [4, 0, "n\u00b7m (lb\u00b7ft) @ 3750"], [2, 0, "n42b18 / n46b18"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140114-2", "question": "Who was the constructor of the officine alfieri maserati that was driven by Sergio Mantovani?", "sql": {"sel": 1, "conds": [[0, 0, "officine alfieri maserati"], [4, 0, "sergio mantovani"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18281746-2", "question": "What kind of the Winning driver has a Circuit of saint-rapha\u00ebl?", "sql": {"sel": 3, "conds": [[1, 0, "saint-rapha\u00ebl"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252065-1", "question": "What is the sum of the lap with a finish of 24?", "sql": {"sel": 5, "conds": [[4, 0, "24"]], "agg": 4}}
+{"phase": 2, "table_id": "2-12167074-2", "question": "What is the fewest number of laps for a Dale Coyne Racing team with a mechanical time/retired and fewer than 5 points?", "sql": {"sel": 2, "conds": [[1, 0, "dale coyne racing"], [3, 0, "mechanical"], [5, 2, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-1882094-2", "question": "Which Rank has a Finish of 8?", "sql": {"sel": 3, "conds": [[4, 0, "8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12615783-2", "question": "What race did Meo Constantini win at the circuit of monza ?", "sql": {"sel": 0, "conds": [[3, 0, "meo constantini"], [1, 0, "monza"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140116-5", "question": "What is the name of the race in the Modena circuit?", "sql": {"sel": 0, "conds": [[1, 0, "Modena"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252063-1", "question": "What's the average number of Laps, that had a start of 25, with a Qual of 138.063?", "sql": {"sel": 5, "conds": [[1, 0, "25"], [2, 0, "138.063"]], "agg": 5}}
+{"phase": 2, "table_id": "2-13628822-2", "question": "What is the largest Grid that has a Bike of honda cbr1000rr, and a Time of +20.848, and a Lap greater than 24?", "sql": {"sel": 4, "conds": [[1, 0, "honda cbr1000rr"], [3, 0, "+20.848"], [2, 1, 24]], "agg": 1}}
+{"phase": 2, "table_id": "2-18281746-2", "question": "Name the Report with Winning constructor of maserati, and a Name of monza grand prix?", "sql": {"sel": 5, "conds": [[4, 0, "maserati"], [0, 0, "monza grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252148-1", "question": "What is the finish of the year with start 5?", "sql": {"sel": 4, "conds": [[1, 0, "5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10292065-2", "question": "Tell me the report for 30 july", "sql": {"sel": 5, "conds": [[2, 0, "30 july"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18394791-4", "question": "Which Driver has a Capacity smaller than 5700, and a Total Time of 08:29?", "sql": {"sel": 0, "conds": [[4, 2, 5700], [5, 0, "08:29"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18145978-2", "question": "What is the sum of Grid, when Time is \"+16.687\"?", "sql": {"sel": 4, "conds": [[3, 0, "+16.687"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1140090-6", "question": "Which race was at Hockenheim circuit?", "sql": {"sel": 0, "conds": [[1, 0, "hockenheim"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140110-1", "question": "What race occurred on the date of 15 June?", "sql": {"sel": 0, "conds": [[2, 0, "15 june"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16759619-2", "question": "WHAT ARE THE LAPS WITH POINTS LARGER THAN 5, WITH FORSYTHE RACING, AND GRID 5?", "sql": {"sel": 2, "conds": [[5, 1, 5], [1, 0, "forsythe racing"], [4, 0, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-18649514-4", "question": "What is the team when the time is 1:11.19.89?", "sql": {"sel": 2, "conds": [[4, 0, "1:11.19.89"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140096-1", "question": "What's the report for the mexican grand prix?", "sql": {"sel": 8, "conds": [[0, 0, "mexican grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26267607-2", "question": "On what date is the winning team Abt Sportsline and pole position Mattias Ekstr\u00f6m in the Circuit Ricardo Tormo , Valencia?", "sql": {"sel": 2, "conds": [[6, 0, "Abt Sportsline"], [3, 0, "Mattias Ekstr\u00f6m"], [1, 0, "Circuit Ricardo Tormo , Valencia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24535095-2", "question": "Name the listed owner for mike garvey", "sql": {"sel": 5, "conds": [[6, 0, "Mike Garvey"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10264179-2", "question": "Name the winning driver for round 7", "sql": {"sel": 5, "conds": [[0, 0, 7]], "agg": 0}}
+{"phase": 2, "table_id": "2-12105157-2", "question": "Name the circuit for darracq and name of cuban race", "sql": {"sel": 1, "conds": [[4, 0, "darracq"], [0, 0, "cuban race"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140111-5", "question": "Which report has a Winning driver of peter collins, and a Circuit of syracuse?", "sql": {"sel": 5, "conds": [[3, 0, "peter collins"], [1, 0, "syracuse"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15491596-1", "question": "Who drove car 44?", "sql": {"sel": 1, "conds": [[0, 0, 44]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-7", "question": "How many ranks have 1:01.14.62 as the time, with michael russell as the rider?", "sql": {"sel": 0, "conds": [[4, 0, "1:01.14.62"], [1, 0, "michael russell"]], "agg": 3}}
+{"phase": 1, "table_id": "1-28190534-1", "question": "Name the chassis for sfacs ecurie france", "sql": {"sel": 4, "conds": [[2, 0, "SFACS Ecurie France"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1777959-1", "question": "What is Manufacturer, when Finish is greater than 29, when Start is less than 23, and when Year is \"1973\"?", "sql": {"sel": 1, "conds": [[3, 1, 29], [2, 2, 23], [0, 0, 1973]], "agg": 0}}
+{"phase": 2, "table_id": "2-10638654-10", "question": "Which Rider has a 1:06.02.0 Time?", "sql": {"sel": 1, "conds": [[4, 0, "1:06.02.0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140101-6", "question": "Which Constructor has the goodwood circuit?", "sql": {"sel": 4, "conds": [[1, 0, "goodwood"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137704-1", "question": "Which entrant has Ferrari 038 3.5 v12 engine?", "sql": {"sel": 0, "conds": [[3, 0, "ferrari 038 3.5 v12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-2", "question": "Who was the driver of the Officine Alfieri Maserati with a Tyre of P?", "sql": {"sel": 5, "conds": [[4, 0, "p"], [0, 0, "officine alfieri maserati"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1226454-1", "question": "Name the qual with start of totals", "sql": {"sel": 2, "conds": [[1, 0, "totals"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252148-1", "question": "What is the rank in 1940?", "sql": {"sel": 3, "conds": [[0, 0, "1940"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11242816-2", "question": "What is the mean number of laps when the grid was 8?", "sql": {"sel": 2, "conds": [[4, 0, 8]], "agg": 5}}
+{"phase": 2, "table_id": "2-1256150-1", "question": "What team has 33 starts?", "sql": {"sel": 4, "conds": [[2, 0, "33"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140117-2", "question": "In what rounds did Luigi Fagioli drive for Alfa Romeo SPA?", "sql": {"sel": 6, "conds": [[0, 0, "alfa romeo spa"], [5, 0, "luigi fagioli"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16955294-2", "question": "What is the smallest grid value that had 16 points and a team of Mi-Jack Conquest Racing?", "sql": {"sel": 4, "conds": [[1, 0, "mi-jack conquest racing"], [5, 0, "16"]], "agg": 2}}
+{"phase": 2, "table_id": "2-10301911-4", "question": "Which team has a rank of 6?", "sql": {"sel": 2, "conds": [[0, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-10638654-8", "question": "Which Rider finished with a speed of 81.91mph?", "sql": {"sel": 1, "conds": [[3, 0, "81.91mph"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140067-2", "question": "What was the date for monaco grand prix?", "sql": {"sel": 2, "conds": [[1, 0, "Monaco Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10219837-2", "question": "Name the winning driver for monaco grand prix", "sql": {"sel": 3, "conds": [[0, 0, "monaco grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140114-2", "question": "What was tyre that was made by cooper - bristol that was driven by bob gerard?", "sql": {"sel": 3, "conds": [[1, 0, "cooper - bristol"], [4, 0, "bob gerard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1314336-2", "question": "Name the year when start was 32", "sql": {"sel": 0, "conds": [[2, 0, 32]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252130-1", "question": "What is the qual for rank 20?", "sql": {"sel": 2, "conds": [[3, 0, "20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140096-1", "question": "Who has the pole position for the n\u00fcrburgring circuit?", "sql": {"sel": 3, "conds": [[1, 0, "n\u00fcrburgring"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16159039-3", "question": "Which bike had a grid less than 35 and time at 37:58.607?", "sql": {"sel": 1, "conds": [[4, 2, 35], [3, 0, "37:58.607"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16732659-2", "question": "Which Date had a City/Location of vancouver, british columbia?", "sql": {"sel": 3, "conds": [[2, 0, "vancouver, british columbia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16326318-2", "question": "What is the smallest point total when the grid is larger than 5 and the time/retired is fire?", "sql": {"sel": 5, "conds": [[4, 1, 5], [3, 0, "fire"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140110-1", "question": "During what race did Mike Hawthorn have the Fastest Lap and Peter Collins win?", "sql": {"sel": 0, "conds": [[4, 0, "mike hawthorn"], [5, 0, "peter collins"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140113-5", "question": "How many constructors won the III Redex Trophy?", "sql": {"sel": 4, "conds": [[0, 0, "III RedeX Trophy"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10725629-2", "question": "What is the pole position for marlboro challenge?", "sql": {"sel": 4, "conds": [[0, 0, "marlboro challenge"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-1", "question": "What is the Tyre when Jerry Hoyt was the pole position?", "sql": {"sel": 7, "conds": [[3, 0, "jerry hoyt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137695-1", "question": "Which round has a car with a chassis of sf01?", "sql": {"sel": 6, "conds": [[2, 0, "sf01"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140117-5", "question": "What's the report for the Silverstone circuit?", "sql": {"sel": 5, "conds": [[1, 0, "Silverstone"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11786754-4", "question": "Which Player had a Long of 5 and Yards of 6?", "sql": {"sel": 0, "conds": [[5, 0, "5"], [2, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1226543-6", "question": "What year was the start 33?", "sql": {"sel": 0, "conds": [[3, 0, "33"]], "agg": 4}}
+{"phase": 1, "table_id": "1-1137696-3", "question": "What is the winning driver of round 7?", "sql": {"sel": 4, "conds": [[0, 0, 7]], "agg": 0}}
+{"phase": 2, "table_id": "2-12085547-2", "question": "What was the name of the driver that won the Lakeside race?", "sql": {"sel": 4, "conds": [[0, 0, "lakeside"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140111-5", "question": "Who constructed the Syracuse circuit?", "sql": {"sel": 4, "conds": [[1, 0, "Syracuse"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252069-1", "question": "How many laps did Duke Nelson complete when his qualifying time was 136.498?", "sql": {"sel": 5, "conds": [[2, 0, "136.498"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1140103-1", "question": "Name the circuit for italian grand prix", "sql": {"sel": 1, "conds": [[0, 0, "italian grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25146455-1", "question": "In what position was the driver who won $60,000?", "sql": {"sel": 0, "conds": [[3, 0, "$60,000"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1238468-1", "question": "What year did he start at 13?", "sql": {"sel": 0, "conds": [[1, 0, "13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16141981-1", "question": "What is the sum of the poles of Team la fili\u00e8re, which has less than 162 points?", "sql": {"sel": 5, "conds": [[2, 0, "la fili\u00e8re"], [7, 2, 162]], "agg": 4}}
+{"phase": 2, "table_id": "2-1140115-1", "question": "Who won the race with a Ferrari, were Luigi Villoresi set the fastest lap time?", "sql": {"sel": 5, "conds": [[6, 0, "ferrari"], [4, 0, "luigi villoresi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140097-2", "question": "Name the engine with rounds of 7 with geki driver", "sql": {"sel": 3, "conds": [[6, 0, "7"], [5, 0, "geki"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-5", "question": "What is the name of the race for which the circuit was Snetterton?", "sql": {"sel": 0, "conds": [[1, 0, "snetterton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14171191-2", "question": "What is the grid of pkv racing with the driver oriol servi\u00e0?", "sql": {"sel": 4, "conds": [[1, 0, "pkv racing"], [0, 0, "oriol servi\u00e0"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1140084-2", "question": "Who was the race winner with a pole position james hunt, and a Fastest Lap of james hunt, and a Date of 15 august?", "sql": {"sel": 5, "conds": [[3, 0, "james hunt"], [4, 0, "james hunt"], [1, 0, "15 august"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1637053-4", "question": "For any races with a start of 14 what was the lowest finish?", "sql": {"sel": 4, "conds": [[3, 0, 14]], "agg": 2}}
+{"phase": 2, "table_id": "2-1132588-1", "question": "who is the driver when the engine is mercedes fo110m?", "sql": {"sel": 5, "conds": [[3, 0, "mercedes fo110m"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10617925-2", "question": "What date did Delage win?", "sql": {"sel": 2, "conds": [[4, 0, "delage"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-6", "question": "What is the highest rank for Peter Symes?", "sql": {"sel": 0, "conds": [[1, 0, "peter symes"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11786160-3", "question": "How many average carries for the player with 3 as a long?", "sql": {"sel": 1, "conds": [[5, 0, "3"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11972799-9", "question": "What is the best rank with a time of 1:05.14.10?", "sql": {"sel": 0, "conds": [[4, 0, "1:05.14.10"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1600272-4", "question": "What Team was in 2005?", "sql": {"sel": 4, "conds": [[0, 0, 2005]], "agg": 0}}
+{"phase": 2, "table_id": "2-1235044-1", "question": "What was the start result with a Rank of 7 and more than 100 laps?", "sql": {"sel": 1, "conds": [[3, 0, "7"], [5, 1, 100]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140095-2", "question": "What tyre has 1 round with Dave Charlton driving?", "sql": {"sel": 3, "conds": [[5, 0, "1"], [4, 0, "dave charlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-1", "question": "What was the fastest lap time at the British Grand Prix with Mercedes as the constructor?", "sql": {"sel": 4, "conds": [[6, 0, "mercedes"], [0, 0, "british grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28190534-1", "question": "Name the constructor for b. bira", "sql": {"sel": 3, "conds": [[1, 0, "B. Bira"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137700-1", "question": "Which rounds had the B195 chassis?", "sql": {"sel": 6, "conds": [[2, 0, "b195"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25146455-1", "question": "In what series did Bobby Labonte drive?", "sql": {"sel": 4, "conds": [[1, 0, "Bobby Labonte"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17248696-8", "question": "What year had a quantity made of 11 and a wheel arrangement of 4-6-2?", "sql": {"sel": 4, "conds": [[1, 0, "4-6-2"], [5, 0, "11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140097-1", "question": "On what date is there a Tryre of d at the Circuit of monaco?", "sql": {"sel": 2, "conds": [[7, 0, "d"], [1, 0, "monaco"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1132588-1", "question": "what is the engine when the rounds ar all, the tyre is m and the driver is david coulthard?", "sql": {"sel": 3, "conds": [[6, 0, "all"], [4, 0, "m"], [5, 0, "david coulthard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17840109-2", "question": "Who was the rider who went 14 laps on a Honda CBR1000rr, with a time of +1'04.877 on a grid larger than 23?", "sql": {"sel": 0, "conds": [[2, 0, 14], [4, 1, 23], [1, 0, "honda cbr1000rr"], [3, 0, "+1'04.877"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "Who had the fastest lap in the Belgian Grand Prix?", "sql": {"sel": 3, "conds": [[1, 0, "Belgian Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140078-2", "question": "Tell me the constructor for zolder", "sql": {"sel": 6, "conds": [[2, 0, "zolder"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140114-2", "question": "Who was the driver with chassis 625 553 500?", "sql": {"sel": 4, "conds": [[2, 0, "625 553 500"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14209455-11", "question": "Team of honda 250cc, and a Rank larger than 2, and a Rider of chris palmer is what time?", "sql": {"sel": 4, "conds": [[2, 0, "honda 250cc"], [0, 1, 2], [1, 0, "chris palmer"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17755575-1", "question": "What is the sum of Points with a Series of italian formula renault 2.0, and Poles smaller than 0?", "sql": {"sel": 7, "conds": [[1, 0, "italian formula renault 2.0"], [5, 2, 0]], "agg": 3}}
+{"phase": 1, "table_id": "1-1140119-5", "question": "When was the Albi circuit race driven? ", "sql": {"sel": 2, "conds": [[1, 0, "Albi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-1", "question": "What is the report for the race of Argentine Grand Prix?", "sql": {"sel": 8, "conds": [[0, 0, "argentine grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20854943-2", "question": "What position is the boat with 20.12 LOA (metres)?", "sql": {"sel": 0, "conds": [[6, 0, "20.12"]], "agg": 1}}
+{"phase": 2, "table_id": "2-10707176-1", "question": "Who drove for Arciero Racing?", "sql": {"sel": 4, "conds": [[0, 0, "arciero racing"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1251950-2", "question": "How many laps does the one ranked 16 have?", "sql": {"sel": 5, "conds": [[3, 0, "16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10292065-2", "question": "Tell me the winning constructor for the paris cup", "sql": {"sel": 4, "conds": [[0, 0, "paris cup"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1137695-3", "question": "Who was the winning driver when Michael Schumacher had the pole and the fastest lap?", "sql": {"sel": 4, "conds": [[3, 0, "Michael Schumacher"], [2, 0, "Michael Schumacher"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1132600-3", "question": "What pole position was Rubens Barrichello when he had the fastest lap and a round larger than 11?", "sql": {"sel": 2, "conds": [[3, 0, "rubens barrichello"], [0, 1, 11]], "agg": 0}}
+{"phase": 2, "table_id": "2-16838759-2", "question": "What is the highest laps for the grid of 7?", "sql": {"sel": 2, "conds": [[4, 0, 7]], "agg": 1}}
+{"phase": 2, "table_id": "2-17755575-1", "question": "What Poles have Races smaller than 4?", "sql": {"sel": 5, "conds": [[3, 2, 4]], "agg": 5}}
+{"phase": 1, "table_id": "1-14395920-2", "question": "Who led the points classification when Roman Kreuziger led the young rider classification?", "sql": {"sel": 3, "conds": [[5, 0, "Roman Kreuziger"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140105-2", "question": "What chassis was used by roy salvadori?", "sql": {"sel": 2, "conds": [[5, 0, "roy salvadori"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1390721-8", "question": "How many starts have a year prior to 2012, and team penske as the team, with a finish greater than 27?", "sql": {"sel": 3, "conds": [[0, 2, 2012], [5, 0, "team penske"], [4, 1, 27]], "agg": 4}}
+{"phase": 2, "table_id": "2-10527215-1", "question": "What chassis doe Ross Davis use?", "sql": {"sel": 1, "conds": [[4, 0, "ross davis"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140076-2", "question": "What is the constructor for 9 May?", "sql": {"sel": 7, "conds": [[2, 0, "9 May"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12631771-2", "question": "Who was the winning constructor of the Grand Prix Du Salon ?", "sql": {"sel": 4, "conds": [[0, 0, "grand prix du salon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137692-1", "question": "What is the constructor of driver Alexander Wurz?", "sql": {"sel": 1, "conds": [[5, 0, "alexander wurz"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18334077-1", "question": "Which Wins has a Team of scuderia toro rosso, Poles of 0, and Races of 16?", "sql": {"sel": 4, "conds": [[2, 0, "scuderia toro rosso"], [5, 0, "0"], [3, 0, "16"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140117-5", "question": "What is the report for the race name V Ulster Trophy?", "sql": {"sel": 5, "conds": [[0, 0, "V Ulster Trophy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140105-1", "question": "Who had Pole position for the French Grand Prix?", "sql": {"sel": 3, "conds": [[0, 0, "french grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140111-5", "question": "How many different kinds of reports are there for races that Juan Manuel Fangio won?", "sql": {"sel": 5, "conds": [[3, 0, "Juan Manuel Fangio"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14876144-2", "question": "What Time/Retired has a Laps of 86 and the Team of HVM Racing?", "sql": {"sel": 3, "conds": [[2, 0, 86], [1, 0, "hvm racing"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18357242-2", "question": "How many points for Newman/Haas Racing with fewer than 40 laps?", "sql": {"sel": 5, "conds": [[1, 0, "newman/haas racing"], [2, 2, 40]], "agg": 5}}
+{"phase": 2, "table_id": "2-11786940-5", "question": "What was the longest carry for kevin clemens with under 31 yards total?", "sql": {"sel": 5, "conds": [[0, 0, "kevin clemens"], [2, 2, 31]], "agg": 1}}
+{"phase": 2, "table_id": "2-1140097-1", "question": "On what Date is there a race on the Circuit of brands hatch?", "sql": {"sel": 2, "conds": [[1, 0, "brands hatch"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28190534-1", "question": "Name the chassis for b. bira", "sql": {"sel": 4, "conds": [[1, 0, "B. Bira"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16474450-2", "question": "Which river had 26 points?", "sql": {"sel": 0, "conds": [[5, 0, 26]], "agg": 0}}
+{"phase": 2, "table_id": "2-16955294-2", "question": "What is the number of points associated with 165 laps?", "sql": {"sel": 5, "conds": [[2, 0, 165]], "agg": 0}}
+{"phase": 2, "table_id": "2-1600272-4", "question": "Before 2008, if the Manufacturer is dodge and the start is under 9, what's the highest finish time?", "sql": {"sel": 3, "conds": [[1, 0, "dodge"], [2, 2, 9], [0, 2, 2008]], "agg": 1}}
+{"phase": 2, "table_id": "2-1777959-1", "question": "What is the highest Year, when Finish is \"51\", and when Start is less than 64?", "sql": {"sel": 0, "conds": [[3, 0, 51], [2, 2, 64]], "agg": 1}}
+{"phase": 2, "table_id": "2-1140084-2", "question": "What is the Pole Position of the Swedish Grand Prix?", "sql": {"sel": 3, "conds": [[0, 0, "swedish grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18733814-2", "question": "When 19 is the stage who is the points classification?", "sql": {"sel": 3, "conds": [[0, 0, 19]], "agg": 0}}
+{"phase": 1, "table_id": "1-28538368-2", "question": "When Alberto Contador Kanstantsin Sivtsov was the general classification and Alessandro Petacchi was the points classification at the same time while Mark Cavendish is the winner, who was the mountain classification?", "sql": {"sel": 4, "conds": [[2, 0, "Alberto Contador Kanstantsin Sivtsov"], [3, 0, "Alessandro Petacchi"], [1, 0, "Mark Cavendish"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18620528-6", "question": "What is the Class of 1899\u20131900?", "sql": {"sel": 0, "conds": [[4, 0, "1899\u20131900"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1432362-1", "question": "Which Finish has a Start of 15, and a Team of bahari?", "sql": {"sel": 3, "conds": [[2, 0, "15"], [4, 0, "bahari"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140078-2", "question": "What was the constructor for the fastest nelson piquet?", "sql": {"sel": 6, "conds": [[4, 0, "nelson piquet"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140084-2", "question": "What is the report for 10 october?", "sql": {"sel": 7, "conds": [[1, 0, "10 october"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137694-1", "question": "What engine did David Coulthard have in his mp4-13 chassis?", "sql": {"sel": 3, "conds": [[2, 0, "mp4-13"], [5, 0, "david coulthard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10527215-1", "question": "Who drove the Chevrolet with the Eagle chassis?", "sql": {"sel": 4, "conds": [[2, 0, "chevrolet"], [1, 0, "eagle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783640-4", "question": "Name the sum of Long for yards less than 197 and players of matt nagy", "sql": {"sel": 5, "conds": [[2, 2, 197], [0, 0, "matt nagy"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1236178-1", "question": "Which start has 4 as a rank?", "sql": {"sel": 1, "conds": [[3, 0, "4"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25999087-2", "question": "Who is every young rider classification if combativity award is Yannick Talabardon?", "sql": {"sel": 5, "conds": [[7, 0, "Yannick Talabardon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140084-2", "question": "What race has a Pole Position of Jacques Laffite?", "sql": {"sel": 0, "conds": [[3, 0, "jacques laffite"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11784911-4", "question": "Tell me the sum of TD's for 4 avg.", "sql": {"sel": 4, "conds": [[3, 0, "4"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10282772-2", "question": "Tell me the least Laps for grid larger than 2 with 35:26.734", "sql": {"sel": 2, "conds": [[3, 0, "35:26.734"], [4, 1, 2]], "agg": 2}}
+{"phase": 2, "table_id": "2-15565520-2", "question": "Who scored with a grid of 10 and the highest amount of laps?", "sql": {"sel": 2, "conds": [[4, 0, 10]], "agg": 1}}
+{"phase": 1, "table_id": "1-18733814-2", "question": "When danilo di luca is the winner who is the general classification? ", "sql": {"sel": 2, "conds": [[1, 0, "Danilo Di Luca"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783707-4", "question": "What is the average for the RB with an 8 yard long?", "sql": {"sel": 3, "conds": [[5, 0, 8]], "agg": 3}}
+{"phase": 1, "table_id": "1-26267607-2", "question": "In Round 6, who is the winning team?", "sql": {"sel": 6, "conds": [[0, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140099-6", "question": "Which Constructor has Pergusa in the Circuit?", "sql": {"sel": 4, "conds": [[1, 0, "pergusa"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252114-1", "question": "What place did Jimmy Reece start from when he ranked 12?", "sql": {"sel": 1, "conds": [[3, 0, "12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15080993-2", "question": "How many points are associated with a Time/Retired of +10.131 secs?", "sql": {"sel": 5, "conds": [[3, 0, "+10.131 secs"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18649514-8", "question": "What team has adam barclay as the rider?", "sql": {"sel": 2, "conds": [[1, 0, "adam barclay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11786940-5", "question": "How many TDs for the player with a long of less than 4 and under 8 yards?", "sql": {"sel": 4, "conds": [[5, 2, 4], [2, 2, 8]], "agg": 4}}
+{"phase": 2, "table_id": "2-17248696-6", "question": "What fleet number had 3 made?", "sql": {"sel": 2, "conds": [[5, 0, "3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140112-1", "question": "What was the fastest lap in the Belgian Grand Prix?", "sql": {"sel": 4, "conds": [[0, 0, "belgian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1251975-1", "question": "Which qual has both 200 total laps and took place in 1957?", "sql": {"sel": 2, "conds": [[5, 0, 200], [0, 0, "1957"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17564943-1", "question": "What is the total time that it took for the driver to finish 14 laps?", "sql": {"sel": 3, "conds": [[2, 0, 14]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140083-2", "question": "Which Report includes the Belgian Grand Prix Race?", "sql": {"sel": 7, "conds": [[0, 0, "belgian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004028-3", "question": "What is the most number of laps run by Ilario Dionisi?", "sql": {"sel": 2, "conds": [[0, 0, "ilario dionisi"]], "agg": 1}}
+{"phase": 1, "table_id": "1-25594271-1", "question": "what are all the state/nation where the race number is 36", "sql": {"sel": 4, "conds": [[1, 0, "36"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18520643-2", "question": "Waht laps have points smaller than 1, and a team of dale coyne racing, and the grid larger than 13?", "sql": {"sel": 2, "conds": [[5, 2, 1], [1, 0, "dale coyne racing"], [4, 1, 13]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137702-3", "question": "Name the pole position at the japanese grand prix when the fastest lap is damon hill", "sql": {"sel": 2, "conds": [[3, 0, "damon hill"], [1, 0, "japanese grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140112-5", "question": "Who is the winning drive of iv grand prix de caen?", "sql": {"sel": 3, "conds": [[0, 0, "iv grand prix de caen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18095719-2", "question": "Who was the winning team at Zandvoort?", "sql": {"sel": 6, "conds": [[1, 0, "zandvoort"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137700-3", "question": "What is the pole position of the Portuguese Grand Prix?", "sql": {"sel": 2, "conds": [[1, 0, "portuguese grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137696-3", "question": "When the winning driver was jacques villeneuve what was the fastest lap driven?", "sql": {"sel": 3, "conds": [[4, 0, "jacques villeneuve"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1432362-1", "question": "Which Year has a Finish of 22, and a Team of swan?", "sql": {"sel": 0, "conds": [[3, 0, "22"], [4, 0, "swan"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1140115-1", "question": "Which race did Alberto Ascari have both the Pole position and the win, but Luigi Villoresi set the fastest lap time?", "sql": {"sel": 0, "conds": [[3, 0, "alberto ascari"], [5, 0, "alberto ascari"], [4, 0, "luigi villoresi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18543211-1", "question": "What bike has a grid greater than 17, laps less than 8, with milos cihak as the rider?", "sql": {"sel": 1, "conds": [[4, 1, 17], [2, 2, 8], [0, 0, "milos cihak"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1235992-1", "question": "What is Chitwood's lowest completed number of laps with a qualifying time of 124.619?", "sql": {"sel": 5, "conds": [[2, 0, "124.619"]], "agg": 2}}
+{"phase": 1, "table_id": "1-1140099-6", "question": "Which driver won the i race of champions?", "sql": {"sel": 3, "conds": [[0, 0, "I Race of Champions"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140099-1", "question": "Tell me the winning driver for jim clark as pole position and fastest lap", "sql": {"sel": 5, "conds": [[3, 0, "jim clark"], [4, 0, "jim clark"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1139087-1", "question": "What was the Zakspeed 1500/4 1.5 l4 t chassis?", "sql": {"sel": 2, "conds": [[3, 0, "zakspeed 1500/4 1.5 l4 t"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-5", "question": "Name the speed for andy reynolds", "sql": {"sel": 3, "conds": [[1, 0, "andy reynolds"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17271053-2", "question": "What bike has an accident time, less than 9 laps, and a 5 grid?", "sql": {"sel": 1, "conds": [[3, 0, "accident"], [2, 2, 9], [4, 0, 5]], "agg": 0}}
+{"phase": 1, "table_id": "1-21977704-1", "question": "Name the number for  autom\u00f3vil club argentino for juan manuel fangio", "sql": {"sel": 0, "conds": [[2, 0, "Autom\u00f3vil Club Argentino"], [1, 0, "Juan Manuel Fangio"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140078-2", "question": "What is the pole position of paul ricard?", "sql": {"sel": 4, "conds": [[3, 0, "Paul Ricard"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140082-2", "question": "Who did the fastest lap at Watkins glen?", "sql": {"sel": 5, "conds": [[3, 0, "Watkins Glen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11002563-1", "question": "What is the average number of laps for max biaggi", "sql": {"sel": 2, "conds": [[0, 0, "max biaggi"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1140080-2", "question": "Who won the South African Grand Prix?", "sql": {"sel": 5, "conds": [[0, 0, "south african grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16651598-2", "question": "When the team is newman/haas racing and the grid size is 3, what's the time/retired?", "sql": {"sel": 3, "conds": [[1, 0, "newman/haas racing"], [4, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140077-2", "question": "What is the Pole Position of the Brazilian Grand Prix race?", "sql": {"sel": 3, "conds": [[0, 0, "brazilian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783574-4", "question": "What is the highest Car with more than 155 yards?", "sql": {"sel": 1, "conds": [[2, 1, 155]], "agg": 1}}
+{"phase": 2, "table_id": "2-105851-4", "question": "What was the starting position in the year before 1986?", "sql": {"sel": 3, "conds": [[0, 2, 1986]], "agg": 0}}
+{"phase": 2, "table_id": "2-10061118-2", "question": "Tell me the date for rudolf caracciola for avusrennen", "sql": {"sel": 2, "conds": [[3, 0, "rudolf caracciola"], [0, 0, "avusrennen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140117-5", "question": "Name the report for v grand prix de paris", "sql": {"sel": 5, "conds": [[0, 0, "v grand prix de paris"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252072-1", "question": "The 147.481 Qual, happened in what year?", "sql": {"sel": 0, "conds": [[2, 0, "147.481"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252070-1", "question": "How many laps were in 1958?", "sql": {"sel": 5, "conds": [[0, 0, "1958"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1132600-1", "question": "Which entrant had a mugen-honda mf-301 he engine?", "sql": {"sel": 0, "conds": [[3, 0, "mugen-honda mf-301 he"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16508558-3", "question": "Which Round has the Winning Driver of brendon hartley, and a Date of 27 april?", "sql": {"sel": 0, "conds": [[5, 0, "brendon hartley"], [2, 0, "27 april"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15444757-2", "question": "What is the name of the driver with 6 points?", "sql": {"sel": 0, "conds": [[5, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-2", "question": "What was John Hildreth's speed?", "sql": {"sel": 3, "conds": [[1, 0, "john hildreth"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18733814-2", "question": "What is the stage of winner Carlos Sastre when the general classification was Denis Menchov?", "sql": {"sel": 0, "conds": [[2, 0, "denis menchov"], [1, 0, "carlos sastre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140096-6", "question": "What is the circuit held on 15 april?", "sql": {"sel": 1, "conds": [[2, 0, "15 april"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18270426-2", "question": "Which report had a circuit of Cagliari?", "sql": {"sel": 5, "conds": [[1, 0, "cagliari"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12615783-2", "question": "Which driver won when o.m. was the winning constructor ?", "sql": {"sel": 3, "conds": [[4, 0, "o.m."]], "agg": 0}}
+{"phase": 1, "table_id": "1-2267345-2", "question": "What is the total number of winners when the team classification leader was Kelme-Costa Blanca and the combativity award was won by Jacky Durand?", "sql": {"sel": 1, "conds": [[6, 0, "Kelme-Costa Blanca"], [7, 0, "Jacky Durand"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17108809-2", "question": "What title did George Fury win when on the Oran Park Raceway?", "sql": {"sel": 0, "conds": [[4, 0, "george fury"], [1, 0, "oran park raceway"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140067-2", "question": "What was the date for the pole position of alain prost?", "sql": {"sel": 2, "conds": [[4, 0, "Alain Prost"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140116-5", "question": "Who won the Modena circuit?", "sql": {"sel": 3, "conds": [[1, 0, "Modena"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140099-6", "question": "What is the report for the race that Mike Spence won.", "sql": {"sel": 5, "conds": [[3, 0, "Mike Spence"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18281746-2", "question": "Name the Report has a Name of lyon grand prix?", "sql": {"sel": 5, "conds": [[0, 0, "lyon grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140101-1", "question": "What is the Tyre for the united states grand prix?", "sql": {"sel": 7, "conds": [[0, 0, "united states grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1251950-2", "question": "What finish qualified at 141.071?", "sql": {"sel": 4, "conds": [[2, 0, "141.071"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18805166-2", "question": "Which Points have a Grid larger than 7, and a Driver of alex tagliani, and a Lapse smaller than 85?", "sql": {"sel": 5, "conds": [[4, 1, 7], [0, 0, "alex tagliani"], [2, 2, 85]], "agg": 1}}
+{"phase": 2, "table_id": "2-16838759-2", "question": "What are the greatest points for a time/retired of +32.256 secs, and a a grid larger than 12?", "sql": {"sel": 5, "conds": [[3, 0, "+32.256 secs"], [4, 1, 12]], "agg": 1}}
+{"phase": 2, "table_id": "2-10638654-10", "question": "At 96.76mph speed, what is the Time?", "sql": {"sel": 4, "conds": [[3, 0, "96.76mph"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-2", "question": "What rounds did Gordini participate in?", "sql": {"sel": 6, "conds": [[1, 0, "gordini"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140113-2", "question": "Who was the entrant for driver Giuseppe Farina when he had a Chassis of 625 555 D50 and a tyre of E?", "sql": {"sel": 0, "conds": [[4, 0, "e"], [2, 0, "625 555 d50"], [5, 0, "giuseppe farina"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004028-1", "question": "Who rode a Honda CBR1000rr, had fewer than 22 laps, and a time of +2 laps?", "sql": {"sel": 0, "conds": [[1, 0, "honda cbr1000rr"], [2, 2, 22], [3, 0, "+2 laps"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18620528-6", "question": "What is the manufacturer with a wheel arrangement of 2-8-0, and Year made of 1883?", "sql": {"sel": 3, "conds": [[1, 0, "2-8-0"], [4, 0, "1883"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18145978-2", "question": "What is the highest Laps, when Bike is \"Yamaha YZF-R1\", when Rider is \"David Checa\", and when Grid is greater than 18?", "sql": {"sel": 2, "conds": [[1, 0, "yamaha yzf-r1"], [0, 0, "david checa"], [4, 1, 18]], "agg": 1}}
+{"phase": 2, "table_id": "2-1137706-1", "question": "Which chassis did Aguri Suzuki drive with an entrant of Larrousse F1?", "sql": {"sel": 2, "conds": [[0, 0, "larrousse f1"], [5, 0, "aguri suzuki"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137696-3", "question": "During the hungarian grand prix where the pole position was michael schumacher and the fastest lap was driven by damon hill, what's the total number of rounds of races matching these standards?", "sql": {"sel": 0, "conds": [[3, 0, "damon hill"], [2, 0, "michael schumacher"], [1, 0, "hungarian grand prix"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16590584-2", "question": "Which city or state contains Calder Park Raceway?", "sql": {"sel": 2, "conds": [[1, 0, "calder park raceway"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18270426-2", "question": "Which name had the circuit Monza?", "sql": {"sel": 0, "conds": [[1, 0, "monza"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22379931-2", "question": "How many drivers drove on Suzuka Circuit where Lo\u00efc Duval took pole position?", "sql": {"sel": 5, "conds": [[1, 0, "Suzuka Circuit"], [3, 0, "Lo\u00efc Duval"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16512496-2", "question": "who is the winner when the team is mobil 1 racing?", "sql": {"sel": 4, "conds": [[5, 0, "mobil 1 racing"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1132588-1", "question": "what is the chassis when the tyre is b, the engine is ferrari 050 ferrari 051 and the driver is rubens barrichello?", "sql": {"sel": 2, "conds": [[4, 0, "b"], [3, 0, "ferrari 050 ferrari 051"], [5, 0, "rubens barrichello"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25561560-2", "question": "what skipper has the sail number aus60000? ", "sql": {"sel": 7, "conds": [[2, 0, "AUS60000"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2187178-1", "question": "Name the listen owners for repairone", "sql": {"sel": 5, "conds": [[4, 0, "RepairOne"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18394791-5", "question": "What is the lowest capacity for the 1975 toyota celica 1600gt?", "sql": {"sel": 4, "conds": [[2, 0, "1975 toyota celica 1600gt"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140117-2", "question": "In what rounds did the P15 Chassis and tyre D participate?", "sql": {"sel": 6, "conds": [[4, 0, "d"], [2, 0, "p15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17271053-3", "question": "What is the total number of laps done by Massimo Roccoli when his grid was smaller than 4?", "sql": {"sel": 2, "conds": [[0, 0, "massimo roccoli"], [4, 2, 4]], "agg": 3}}
+{"phase": 2, "table_id": "2-17271053-2", "question": "What is the sum of the laps with a grid less than 28, retirement time, and a ducati 1098 f08 bikes?", "sql": {"sel": 2, "conds": [[4, 2, 28], [3, 0, "retirement"], [1, 0, "ducati 1098 f08"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18928120-2", "question": "What date has the Surfers Paradise International Raceway circuit?", "sql": {"sel": 3, "conds": [[1, 0, "surfers paradise international raceway"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17840109-2", "question": "What was the grid for rider Russell Holland, riding a Honda CBR1000rr?", "sql": {"sel": 4, "conds": [[1, 0, "honda cbr1000rr"], [0, 0, "russell holland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252148-1", "question": "What year had 134 laps?", "sql": {"sel": 0, "conds": [[5, 0, 134]], "agg": 0}}
+{"phase": 2, "table_id": "2-10651263-1", "question": "What grid has 23 laps done by Josh Brookes?", "sql": {"sel": 4, "conds": [[2, 0, 23], [0, 0, "josh brookes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18334077-1", "question": "Which Season has Podiums of 0, and Races of 16?", "sql": {"sel": 0, "conds": [[6, 0, "0"], [3, 0, "16"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1140074-2", "question": "what's the\u00a0race winner\u00a0with\u00a0date\u00a0being 12 june", "sql": {"sel": 6, "conds": [[2, 0, "12 June"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-3", "question": "What is the rank of the rider with time of 1:41.40.55?", "sql": {"sel": 0, "conds": [[4, 0, "1:41.40.55"]], "agg": 4}}
+{"phase": 2, "table_id": "2-14638077-2", "question": "Which circuit did Michael Andretti win?", "sql": {"sel": 1, "conds": [[6, 0, "michael andretti"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2187178-1", "question": "Name the drivers for superchips", "sql": {"sel": 3, "conds": [[4, 0, "Superchips"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140076-2", "question": "What Canadian Grand Prix race winner had Didier Pironi in Pole Position?", "sql": {"sel": 5, "conds": [[3, 0, "didier pironi"], [0, 0, "canadian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12105157-2", "question": "Name the report for 6 may", "sql": {"sel": 5, "conds": [[2, 0, "6 may"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12085547-2", "question": "Which driver won the Phillip Island Grand Prix Circuit?", "sql": {"sel": 4, "conds": [[1, 0, "phillip island grand prix circuit"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2187178-1", "question": "Name the crew chief for ricky craven", "sql": {"sel": 6, "conds": [[3, 0, "Ricky Craven"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27781212-1", "question": "what are the minimum points for tommy kendall?", "sql": {"sel": 2, "conds": [[1, 0, "Tommy Kendall"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140103-1", "question": "Name the pole position for 8 september", "sql": {"sel": 3, "conds": [[2, 0, "8 september"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10651263-1", "question": "What laps have a Time of +28.778?", "sql": {"sel": 2, "conds": [[3, 0, "+28.778"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252062-1", "question": "Name the qual for year of 1960", "sql": {"sel": 2, "conds": [[0, 0, "1960"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140090-6", "question": "Who is the constructor of John Surtees's Oulton Park circuit car?", "sql": {"sel": 4, "conds": [[1, 0, "oulton park"], [3, 0, "john surtees"]], "agg": 0}}
+{"phase": 2, "table_id": "2-105851-4", "question": "What engine was used by the team the finished 2nd?", "sql": {"sel": 2, "conds": [[4, 0, "2nd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18256407-2", "question": "Name the Winning constructor on 31 may and a Circuit of madonie?", "sql": {"sel": 4, "conds": [[2, 0, "31 may"], [1, 0, "madonie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140116-6", "question": "Who was the winning driver in the Sachsenring circuit?", "sql": {"sel": 3, "conds": [[1, 0, "sachsenring"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17271053-3", "question": "What is the time recorded by David Salom on his Yamaha yzf-r6 when his grid was larger than 1?", "sql": {"sel": 3, "conds": [[1, 0, "yamaha yzf-r6"], [4, 1, 1], [0, 0, "david salom"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252098-1", "question": "What is the qual when there are 125 laps?", "sql": {"sel": 2, "conds": [[5, 0, 125]], "agg": 0}}
+{"phase": 2, "table_id": "2-11786687-3", "question": "What is Craig Whelihan's average when his yards are smaller than 0?", "sql": {"sel": 3, "conds": [[0, 0, "craig whelihan"], [2, 2, 0]], "agg": 4}}
+{"phase": 2, "table_id": "2-18964684-1", "question": "What is the power for the model xdrive28i sdrive28i?", "sql": {"sel": 3, "conds": [[0, 0, "xdrive28i sdrive28i"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140114-5", "question": "What dates did Ferrari win races?", "sql": {"sel": 2, "conds": [[4, 0, "ferrari"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18733814-2", "question": "What's the points classification of Stage 18 when the general classification was Denis Menchov?", "sql": {"sel": 3, "conds": [[2, 0, "denis menchov"], [0, 0, "18"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140085-1", "question": "Name the round for engine of ford cosworth dfv 3.0 v8 with chassis fo 751", "sql": {"sel": 6, "conds": [[3, 0, "ford cosworth dfv 3.0 v8"], [2, 0, "751"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18357242-2", "question": "Which driver has fewer than 2 points, larger grid that 4 and is on American Spirit Team Johansson?", "sql": {"sel": 0, "conds": [[5, 2, 2], [4, 1, 4], [1, 0, "american spirit team johansson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22379931-2", "question": "What was the earlier round where Takashi Kogure got the fastest lap?", "sql": {"sel": 0, "conds": [[4, 0, "Takashi Kogure"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140103-2", "question": "What tyre has a chassis of p57 p61?", "sql": {"sel": 4, "conds": [[2, 0, "p57 p61"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16670746-2", "question": "What is the fastest lap for Seiji Ara?", "sql": {"sel": 4, "conds": [[5, 0, "seiji ara"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25561560-2", "question": "In what position did skipper Mark Richards place? ", "sql": {"sel": 0, "conds": [[7, 0, "Mark Richards"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12126919-2", "question": "What is Oriol Servia's average Grid on races with more than 43 laps?", "sql": {"sel": 4, "conds": [[2, 1, 43], [0, 0, "oriol servia"]], "agg": 5}}
+{"phase": 1, "table_id": "1-14395920-2", "question": "Who won the stage when Fumiyuki Beppu won the combativity award?", "sql": {"sel": 1, "conds": [[7, 0, "Fumiyuki Beppu"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140116-5", "question": "When does V Madgwick Cup take place?", "sql": {"sel": 2, "conds": [[0, 0, "V Madgwick Cup"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19908313-2", "question": "Who sponsors owner Bobby Dotter's team?", "sql": {"sel": 4, "conds": [[5, 0, "Bobby Dotter"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16670746-2", "question": "On what date does Yuji Tachikawa have the fastest lap in round 1?", "sql": {"sel": 2, "conds": [[4, 0, "yuji tachikawa"], [0, 0, 1]], "agg": 0}}
+{"phase": 1, "table_id": "1-19908313-2", "question": "What team is sponsored by d3 Outdoors?", "sql": {"sel": 0, "conds": [[4, 0, "D3 Outdoors"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11974088-3", "question": "How many TDs did the player with less than 7 long and less than 4 yards have?", "sql": {"sel": 4, "conds": [[5, 2, 7], [2, 2, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-11818965-2", "question": "Which driver scored 9 points?", "sql": {"sel": 0, "conds": [[5, 0, "9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17248696-6", "question": "What class has 0 preserved and 2 made?", "sql": {"sel": 0, "conds": [[6, 0, "0"], [5, 0, "2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-7", "question": "What's Matts Nilsson's team that's ranked better than 7?", "sql": {"sel": 2, "conds": [[0, 2, 7], [1, 0, "matts nilsson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11002563-2", "question": "What is the grid number for troy corser with under 22 laps?", "sql": {"sel": 4, "conds": [[0, 0, "troy corser"], [2, 2, 22]], "agg": 4}}
+{"phase": 2, "table_id": "2-16512496-2", "question": "what is the circuit when the date is 16 april?", "sql": {"sel": 1, "conds": [[3, 0, "16 april"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12105157-2", "question": "Name the winning driver for havana", "sql": {"sel": 3, "conds": [[1, 0, "havana"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-10", "question": "What was the speed with a time of 1:03.41.86 and a rank smaller than 3?", "sql": {"sel": 3, "conds": [[0, 2, 3], [4, 0, "1:03.41.86"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140115-1", "question": "What tyre was used in the Zandvoort circuit?", "sql": {"sel": 7, "conds": [[1, 0, "zandvoort"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1137702-3", "question": "Who was the winning driver when the grand Prix was at Belgian Grand Prix?", "sql": {"sel": 4, "conds": [[1, 0, "Belgian Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18145978-3", "question": "What is the minimum grid when there was more than 22 laps?", "sql": {"sel": 4, "conds": [[2, 1, 22]], "agg": 2}}
+{"phase": 2, "table_id": "2-1137703-1", "question": "Who was the entrant for all the round with Jean Alesi?", "sql": {"sel": 0, "conds": [[6, 0, "all"], [5, 0, "jean alesi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18394791-4", "question": "Which Navigator has a Total Time of 08:29?", "sql": {"sel": 1, "conds": [[5, 0, "08:29"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "What was the report of the Belgian Grand Prix?", "sql": {"sel": 6, "conds": [[1, 0, "Belgian Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12085547-2", "question": "When was the Mallala race held?", "sql": {"sel": 3, "conds": [[0, 0, "mallala"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14171191-2", "question": "What is the time/retired of the team with a grid of 14?", "sql": {"sel": 3, "conds": [[4, 0, 14]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140105-1", "question": "What was the Tyre for the German Grand Prix?", "sql": {"sel": 7, "conds": [[0, 0, "german grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-5", "question": "What is the time of the rider from the 348cc K4 Honda team with a speed of 97.743mph?", "sql": {"sel": 4, "conds": [[2, 0, "348cc k4 honda"], [3, 0, "97.743mph"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140110-1", "question": "On what date did Mike Hawthorn have the fastest lap for the E Tyre of the Silverstone Circuit?", "sql": {"sel": 2, "conds": [[4, 0, "mike hawthorn"], [7, 0, "e"], [1, 0, "silverstone"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18394791-4", "question": "Which Capacity has a Class of cm22, and a Vehicle of 1999 subaru impreza wrx sti?", "sql": {"sel": 4, "conds": [[3, 0, "cm22"], [2, 0, "1999 subaru impreza wrx sti"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18394791-2", "question": "What is the average capacity for the vehicle having a navigator of Macneall?", "sql": {"sel": 4, "conds": [[1, 0, "macneall"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1236260-1", "question": "What car had the fewest laps with a qual of 138.750?", "sql": {"sel": 5, "conds": [[2, 0, "138.750"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18699515-2", "question": "What is the average Laps that have gregorio lavilla as the rider, with a grid greater than 13?", "sql": {"sel": 2, "conds": [[0, 0, "gregorio lavilla"], [4, 1, 13]], "agg": 5}}
+{"phase": 2, "table_id": "2-1140117-5", "question": "Name the report on 20 may", "sql": {"sel": 5, "conds": [[2, 0, "20 may"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12579630-2", "question": "Who was the winning driver of the Savio Circuit with the constructor Itala?", "sql": {"sel": 3, "conds": [[4, 0, "itala"], [0, 0, "savio circuit"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16159039-1", "question": "How many laps had a time stat of accident for the rider carmelo morales when the grid was more than 25?", "sql": {"sel": 2, "conds": [[3, 0, "accident"], [0, 0, "carmelo morales"], [4, 1, 25]], "agg": 4}}
+{"phase": 2, "table_id": "2-13795349-2", "question": "Which Date has a Winning constructor of fiat and a Winning driver of louis wagner?", "sql": {"sel": 2, "conds": [[4, 0, "fiat"], [3, 0, "louis wagner"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140076-2", "question": "How many races had the pole position Alain Prost and the race winner Keke Rosberg?", "sql": {"sel": 1, "conds": [[4, 0, "Alain Prost"], [6, 0, "Keke Rosberg"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1140076-2", "question": "What is the report listed for the race in San Marino Grand Prix?", "sql": {"sel": 8, "conds": [[1, 0, "San Marino Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18964684-1", "question": "What is the torque when engine code is N46B20 and power is ps (kw; hp)@6400?", "sql": {"sel": 4, "conds": [[2, 0, "n46b20"], [3, 0, "ps (kw; hp)@6400"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18145978-2", "question": "What is the total number of Grid, when Laps is greater than 24?", "sql": {"sel": 4, "conds": [[2, 1, 24]], "agg": 3}}
+{"phase": 2, "table_id": "2-18699515-1", "question": "What is the grid with a +0.180 time?", "sql": {"sel": 4, "conds": [[3, 0, "+0.180"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140082-2", "question": "What is the constructor of the Swedish Grand Prix?", "sql": {"sel": 7, "conds": [[1, 0, "Swedish Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140096-1", "question": "When was pedro rodr\u00edguez the winning driver?", "sql": {"sel": 2, "conds": [[5, 0, "pedro rodr\u00edguez"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-6", "question": "Which team had a rank under 4 with a time of 1:14.04.88?", "sql": {"sel": 2, "conds": [[0, 2, 4], [4, 0, "1:14.04.88"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10160447-1", "question": "what's the total number of\u00a0position\u00a0with\u00a0driver\u00a0 robby gordon", "sql": {"sel": 0, "conds": [[1, 0, "Robby Gordon"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1140084-2", "question": "What was the date when the location was Zandvoort?", "sql": {"sel": 1, "conds": [[2, 0, "zandvoort"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17840109-2", "question": "What was the highest number of laps for rider Shuhei Aoyama in a grid higher than 24?", "sql": {"sel": 2, "conds": [[0, 0, "shuhei aoyama"], [4, 1, 24]], "agg": 1}}
+{"phase": 2, "table_id": "2-11972799-10", "question": "What is the time of the rider who has a rank smaller than 8 and speed of 104.567mph?", "sql": {"sel": 4, "conds": [[0, 2, 8], [3, 0, "104.567mph"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17248696-8", "question": "What manufacturer has a year made of 1923?", "sql": {"sel": 3, "conds": [[4, 0, "1923"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140088-6", "question": "What is the name of the race won by driver Carlos Reutemann?", "sql": {"sel": 0, "conds": [[3, 0, "carlos reutemann"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25213146-2", "question": "How many Pole Positions were there on 30 March?", "sql": {"sel": 3, "conds": [[2, 0, "30 March"]], "agg": 3}}
+{"phase": 1, "table_id": "1-25561560-2", "question": "How many elapsed times were posted for the yacht with 27.38 LOA meters? ", "sql": {"sel": 8, "conds": [[6, 0, "27.38"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1140096-6", "question": "What date was the xiv international gold cup?", "sql": {"sel": 2, "conds": [[0, 0, "xiv international gold cup"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1226454-1", "question": "Tell me the year with Laps less than 197 and start of 2", "sql": {"sel": 0, "conds": [[5, 2, 197], [1, 0, "2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10160447-1", "question": "what's the\u00a0points\u00a0with\u00a0driver\u00a0 mark martin", "sql": {"sel": 2, "conds": [[1, 0, "Mark Martin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18334077-1", "question": "Which Wins has Podiums of 0, and a Series of masters of formula 3?", "sql": {"sel": 4, "conds": [[6, 0, "0"], [1, 0, "masters of formula 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-184455-2", "question": "What is the speed for rank 1?", "sql": {"sel": 3, "conds": [[0, 0, "1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140067-2", "question": "What is the race winer of the portuguese grand prix?", "sql": {"sel": 6, "conds": [[1, 0, "Portuguese Grand Prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-2", "question": "What is the time of the rider with a speed of 102.962mph?", "sql": {"sel": 4, "conds": [[3, 0, "102.962mph"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140091-1", "question": "Which race had Jacky Ickx as the winner and Clay Regazzoni with the fastest lap?", "sql": {"sel": 0, "conds": [[5, 0, "jacky ickx"], [4, 0, "clay regazzoni"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15158976-2", "question": "Name the team with laps of 97 and grid of 3", "sql": {"sel": 1, "conds": [[2, 0, 97], [4, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-4", "question": "What is the Speed when the rank is smaller than 3, and time is 1:06.19.90?", "sql": {"sel": 3, "conds": [[0, 2, 3], [4, 0, "1:06.19.90"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783944-4", "question": "How many yards did kevin swayne average, with a long carry over 7?", "sql": {"sel": 3, "conds": [[0, 0, "kevin swayne"], [5, 1, 7]], "agg": 2}}
+{"phase": 2, "table_id": "2-18308914-2", "question": "What is the sum of a grid for driver Patrick Carpentier and less than 103 laps?", "sql": {"sel": 4, "conds": [[0, 0, "patrick carpentier"], [2, 2, 103]], "agg": 4}}
+{"phase": 2, "table_id": "2-17248696-2", "question": "What manufacturer made 6 and preserved 1?", "sql": {"sel": 3, "conds": [[5, 0, "6"], [6, 0, "1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21297652-1", "question": "What series is at the position 7?", "sql": {"sel": 4, "conds": [[0, 0, 7]], "agg": 0}}
+{"phase": 2, "table_id": "2-18543211-3", "question": "Which Rider has less than 18 laps, and a Grid of 24?", "sql": {"sel": 0, "conds": [[2, 2, 18], [4, 0, 24]], "agg": 0}}
+{"phase": 2, "table_id": "2-16874390-2", "question": "What are grid 4's average points?", "sql": {"sel": 5, "conds": [[4, 0, 4]], "agg": 5}}
+{"phase": 2, "table_id": "2-10707142-1", "question": "What is the engine for the Arciero Racing team?", "sql": {"sel": 2, "conds": [[0, 0, "arciero racing"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140108-6", "question": "Who is the winning driver that has a construction of brm?", "sql": {"sel": 3, "conds": [[4, 0, "brm"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14710984-2", "question": "Who is the general classification leader for stage 3?", "sql": {"sel": 2, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 1, "table_id": "1-14882588-2", "question": "What are all elapsed time for yacht type STP 65?", "sql": {"sel": 8, "conds": [[5, 0, "STP 65"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1882094-2", "question": "Which Start has a Qual of 207.590?", "sql": {"sel": 1, "conds": [[2, 0, "207.590"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18649514-4", "question": "What is the Speed for Chris Swallow?", "sql": {"sel": 3, "conds": [[1, 0, "chris swallow"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16590584-2", "question": "Which team raced at Amaroo Park?", "sql": {"sel": 5, "conds": [[1, 0, "amaroo park"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140117-5", "question": "What is the constructor for the Silverstone circuit?", "sql": {"sel": 4, "conds": [[1, 0, "Silverstone"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10638654-9", "question": "Which rider had a time of 1:54.26.6?", "sql": {"sel": 1, "conds": [[4, 0, "1:54.26.6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140108-1", "question": "What date was the Tyre d and Bruce Mclaren won?", "sql": {"sel": 2, "conds": [[7, 0, "d"], [5, 0, "bruce mclaren"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16141981-1", "question": "What is the average number of points in the 2012 season, which has less than 1 wins and less than 0 podiums?", "sql": {"sel": 7, "conds": [[4, 2, 1], [0, 0, "2012"], [6, 2, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-16326318-2", "question": "When Nelson Philippe drove with a grid larger than 16, what was the timre/retired?", "sql": {"sel": 3, "conds": [[4, 1, 16], [0, 0, "nelson philippe"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252148-1", "question": "What is the finish when there was more than 192 laps and a qual of 135.736?", "sql": {"sel": 4, "conds": [[5, 1, 192], [2, 0, "135.736"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21977704-1", "question": "Name the entrant for benedicto campos", "sql": {"sel": 2, "conds": [[1, 0, "Benedicto Campos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1442541-7", "question": "What is the name of the team with a finish of 19?", "sql": {"sel": 5, "conds": [[4, 0, "19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137700-3", "question": "What is the pole position of the Hungarian Grand Prix?", "sql": {"sel": 2, "conds": [[1, 0, "hungarian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1251973-1", "question": "What was the rank in 1955?", "sql": {"sel": 3, "conds": [[0, 0, "1955"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252112-1", "question": "What's the Qual listed with a Rank of 27?", "sql": {"sel": 2, "conds": [[3, 0, "27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17271053-2", "question": "What is the highest number of laps with an accident time and a suzuki gsx-r1000 bike?", "sql": {"sel": 2, "conds": [[3, 0, "accident"], [1, 0, "suzuki gsx-r1000"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1140086-1", "question": "Name the date for circuit of interlagos", "sql": {"sel": 2, "conds": [[1, 0, "interlagos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137692-1", "question": "What is the chassis for all rounds on the entrant Benson and Hedges Jordan driven by Damon Hill?", "sql": {"sel": 2, "conds": [[6, 0, "all"], [0, 0, "benson and hedges jordan"], [5, 0, "damon hill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1215894-1", "question": "Which constructor made the car with a rb1 chassis and which is driven by David Coulthard?", "sql": {"sel": 1, "conds": [[2, 0, "rb1"], [5, 0, "david coulthard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16512496-2", "question": "what is the circuit when the date is 4 june?", "sql": {"sel": 1, "conds": [[3, 0, "4 june"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1314336-2", "question": "Name the most year with start less than 2", "sql": {"sel": 0, "conds": [[2, 2, 2]], "agg": 1}}
+{"phase": 2, "table_id": "2-1137696-3", "question": "During the Australian Grand Prix and the fastest lap was driven by Jacques Villeneuve, what's the report recorded?", "sql": {"sel": 6, "conds": [[3, 0, "jacques villeneuve"], [1, 0, "australian grand prix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12032042-2", "question": "What is the point low with 2 grids?", "sql": {"sel": 5, "conds": [[4, 0, "2"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1140088-2", "question": "Who used the Ford Cosworth DFV 3.0 v8 engine in rounds 3-12, with a G tire?", "sql": {"sel": 5, "conds": [[3, 0, "ford cosworth dfv 3.0 v8"], [6, 0, "3-12"], [4, 0, "g"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2267345-2", "question": "Who was the general classification leader when the young rider classification leader was Salvatore Commesso and the winner was Erik Dekker?", "sql": {"sel": 2, "conds": [[5, 0, "Salvatore Commesso"], [1, 0, "Erik Dekker"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140080-2", "question": "what's the minimum\u00a0rnd\u00a0with\u00a0race\u00a0 italian grand prix", "sql": {"sel": 0, "conds": [[1, 0, "Italian Grand Prix"]], "agg": 2}}
+{"phase": 2, "table_id": "2-10707142-1", "question": "What is the engine for the Bettenhausen Motorsports team?", "sql": {"sel": 2, "conds": [[0, 0, "bettenhausen motorsports"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1137700-3", "question": "What is the pole position of the Belgian Grand Prix?", "sql": {"sel": 2, "conds": [[1, 0, "belgian grand prix"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1140117-5", "question": "What's the report for the race name, XIII Grand Prix de l'Albigeois?", "sql": {"sel": 5, "conds": [[0, 0, "XIII Grand Prix de l'Albigeois"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140104-2", "question": "What tyre was used for an entrant of Ecurie Nationale Suisse?", "sql": {"sel": 4, "conds": [[0, 0, "ecurie nationale suisse"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18394791-2", "question": "Which vehicle had a class of CM14?", "sql": {"sel": 2, "conds": [[3, 0, "cm14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15444757-2", "question": "Driver Ricardo Sperafico has what as his average laps?", "sql": {"sel": 2, "conds": [[0, 0, "ricardo sperafico"]], "agg": 5}}
+{"phase": 1, "table_id": "1-18733814-2", "question": "When philippe gilbert is the winner who is the points classification?", "sql": {"sel": 3, "conds": [[1, 0, "Philippe Gilbert"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11972799-6", "question": "What is the name of the rider with a time of 1:45.52.84, and a Rank of 8?", "sql": {"sel": 1, "conds": [[4, 0, "1:45.52.84"], [0, 0, 8]], "agg": 0}}
+{"phase": 2, "table_id": "2-1140073-2", "question": "What was the Report for the Monaco race?", "sql": {"sel": 7, "conds": [[2, 0, "monaco"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1252052-1", "question": "What was the rank of Bobby Grim when he finished 1059 laps?", "sql": {"sel": 3, "conds": [[5, 0, 1059]], "agg": 0}}

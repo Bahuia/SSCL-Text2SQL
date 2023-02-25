@@ -1,0 +1,1008 @@
+{"phase": 2, "table_id": "2-16488263-1", "question": "What was Tom Kite's to par?", "sql": {"sel": 4, "conds": [[1, 0, "tom kite"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14344407-13", "question": "Which Nation does e.j. bradley play for?", "sql": {"sel": 3, "conds": [[1, 0, "e.j. bradley"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677100-3", "question": "Which position has a Player of chad hutchinson?", "sql": {"sel": 1, "conds": [[0, 0, "chad hutchinson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17290223-1", "question": "What is the Place of the Player with Money greater than 300 and a Score of 71-69-70-70=280?", "sql": {"sel": 0, "conds": [[5, 1, 300], [3, 0, "71-69-70-70=280"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342210-5", "question": "What is the sum of all the touchdowns when the player had more than 0 extra points and less than 0 field goals?", "sql": {"sel": 1, "conds": [[2, 1, 0], [3, 2, 0]], "agg": 4}}
+{"phase": 1, "table_id": "1-16575609-4", "question": "Name the college for calgary stampeders", "sql": {"sel": 4, "conds": [[1, 0, "Calgary Stampeders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11801649-17", "question": "What is the highest round of Ian Cole, who played position d from the United States?", "sql": {"sel": 0, "conds": [[2, 0, "d"], [3, 0, "united states"], [1, 0, "ian cole"]], "agg": 1}}
+{"phase": 2, "table_id": "2-16668757-1", "question": "Who was the Democrat when the Republican was Mike Huckabee, and the sample size was less than 495?", "sql": {"sel": 3, "conds": [[1, 2, 495], [4, 0, "mike huckabee"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2897457-1", "question": "What draft pick is a goaltender?", "sql": {"sel": 0, "conds": [[2, 0, "Goaltender"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26010857-13", "question": "Who leads the general classification in stage 3?", "sql": {"sel": 2, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-16348031-7", "question": "How many sets lost have a loss smaller than 3 and a rank larger than 1?", "sql": {"sel": 4, "conds": [[2, 2, 3], [0, 1, 1]], "agg": 4}}
+{"phase": 1, "table_id": "1-15438337-1", "question": "Which company was based in London, United Kingdom?", "sql": {"sel": 4, "conds": [[1, 0, "London, United Kingdom"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17277149-3", "question": "What was gary player's score?", "sql": {"sel": 3, "conds": [[1, 0, "gary player"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208842-14", "question": "What League's Round is Sup and Position is Right Wing?", "sql": {"sel": 4, "conds": [[2, 0, "right wing"], [0, 0, "sup"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28742659-2", "question": "What is listed in eliminated when the finish is 15th voted out 9th jury Member Day 46?", "sql": {"sel": 3, "conds": [[5, 0, "15th Voted Out 9th Jury Member Day 46"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18744745-2", "question": "What is the last 1/4 for the QUA race with a finishing time of 2:03.1?", "sql": {"sel": 5, "conds": [[2, 0, "qua"], [4, 0, "2:03.1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18468611-2", "question": "What school has the Kansas City Royals for a team?", "sql": {"sel": 4, "conds": [[2, 0, "kansas city royals"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1965650-4", "question": "What's Steve Langdon's naitionality?", "sql": {"sel": 3, "conds": [[1, 0, "Steve Langdon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-34", "question": "What was the NBA draft status for Northeast High School?", "sql": {"sel": 5, "conds": [[2, 0, "northeast high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1169552-21", "question": "Who manufactured the vehicle withdrawn after 1932?", "sql": {"sel": 3, "conds": [[5, 1, 1932]], "agg": 0}}
+{"phase": 2, "table_id": "2-1507907-1", "question": "What is the Length (ft.) for a 2008 nfi d40lf?", "sql": {"sel": 5, "conds": [[1, 0, "nfi"], [2, 0, "d40lf"], [0, 0, "2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15777504-1", "question": "What is the total number of 4th place that has 3 appearances for 3, and a more than 0 silver medals, and no gold medals?", "sql": {"sel": 3, "conds": [[5, 0, 3], [1, 1, 0], [0, 2, 0]], "agg": 3}}
+{"phase": 1, "table_id": "1-1277350-5", "question": "What's the Slovene word for Thursday?", "sql": {"sel": 4, "conds": [[0, 0, "Slovene"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18130923-3", "question": "What player has t7 as the place, with tje United States as the country?", "sql": {"sel": 1, "conds": [[0, 0, "t7"], [2, 0, "united states"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14133106-2", "question": "Which Season has a Score of 39-27?", "sql": {"sel": 0, "conds": [[4, 0, "39-27"]], "agg": 1}}
+{"phase": 1, "table_id": "1-25643046-1", "question": "Where was the quake that began at 14:07?", "sql": {"sel": 5, "conds": [[1, 0, "14:07"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15282364-1", "question": "Which City has a Colony Name of northeastern crescent colony?", "sql": {"sel": 0, "conds": [[3, 0, "northeastern crescent colony"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-10", "question": "What is the total number of Caps Aca Ratuva, a flanker, has?", "sql": {"sel": 3, "conds": [[1, 0, "flanker"], [0, 0, "aca ratuva"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16025322-1", "question": "What is the sum pick # of the player from round 4?", "sql": {"sel": 1, "conds": [[0, 0, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-1517784-1", "question": "What is the lowest figure for her age when the year of marriage is before 1853, the number of children is less than 8, and the bride was Eliza Maria Partridge?", "sql": {"sel": 2, "conds": [[0, 2, 1853], [4, 2, 8], [1, 0, "eliza maria partridge"]], "agg": 2}}
+{"phase": 1, "table_id": "1-20996923-20", "question": "What is the city when the Television network was the NFL Network?", "sql": {"sel": 3, "conds": [[4, 0, "NFL Network"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13270-2", "question": "Name the city with july of 88 \u00b0f / 31.1 \u00b0c", "sql": {"sel": 0, "conds": [[6, 0, "88 \u00b0f / 31.1 \u00b0c"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10312569-1", "question": "Tell me the number of weeks for bye", "sql": {"sel": 0, "conds": [[1, 0, "bye"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1190935-2", "question": "Which category won the Sundance Film Festival award in 1998?", "sql": {"sel": 2, "conds": [[4, 0, "won"], [0, 0, 1998], [1, 0, "sundance film festival"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-4", "question": "What is Paino Hehea's date of birth?", "sql": {"sel": 2, "conds": [[0, 0, "paino hehea"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18131508-2", "question": "Which country had a total of 282?", "sql": {"sel": 1, "conds": [[3, 0, 282]], "agg": 0}}
+{"phase": 2, "table_id": "2-15313481-12", "question": "What unit is located in China and has Zhou Zhang as an author?", "sql": {"sel": 3, "conds": [[4, 0, "china"], [2, 0, "zhou zhang"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16514575-3", "question": "What player has a total of 158/", "sql": {"sel": 0, "conds": [[3, 0, "158"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17481093-3", "question": "What are the fewest floors for the building that has a height of 116 meters?", "sql": {"sel": 4, "conds": [[2, 0, 116]], "agg": 2}}
+{"phase": 2, "table_id": "2-11677760-11", "question": "Which player is 6-2?", "sql": {"sel": 0, "conds": [[1, 0, "6-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16116585-1", "question": "What is the host in a year greater than 1989 and when the venue is the Staples Center located in California?", "sql": {"sel": 4, "conds": [[0, 1, 1989], [3, 0, "california"], [1, 0, "staples center"]], "agg": 0}}
+{"phase": 2, "table_id": "2-189952-2", "question": "What is the average black value (Hispanic/Non-Hispanic) having a white (Hispanic/Non-Hispanic) under 61.9, Multiracial (Hispanic/Non-Hispanic) under 12.5 and Hispanic under 99.4?", "sql": {"sel": 2, "conds": [[1, 2, 61.9], [5, 2, 12.5], [6, 2, 99.4]], "agg": 5}}
+{"phase": 2, "table_id": "2-16176416-6", "question": "What is the sum of Asian or Amerindian (%), when Black (%) is 9,7, and when White (%) is greater than 45,7?", "sql": {"sel": 4, "conds": [[3, 0, "9,7"], [1, 1, "45,7"]], "agg": 4}}
+{"phase": 2, "table_id": "2-14330477-2", "question": "what is the pole position of Round 9", "sql": {"sel": 3, "conds": [[0, 0, 9]], "agg": 0}}
+{"phase": 2, "table_id": "2-10929673-2", "question": "What Runners-up have a Venue in Broadwood Stadium?", "sql": {"sel": 3, "conds": [[4, 0, "broadwood stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1177737-1", "question": "What season was Norwich Union League promoted?", "sql": {"sel": 0, "conds": [[4, 0, "norwich union league"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10628119-1", "question": "How many wins are there for the Races of 12/12?", "sql": {"sel": 5, "conds": [[3, 0, "12/12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22517564-3", "question": "HOw many jockeys had eoin harty as a trainer", "sql": {"sel": 3, "conds": [[2, 0, "Eoin Harty"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16279520-1", "question": "Who wrote Infiltration?", "sql": {"sel": 4, "conds": [[0, 0, "infiltration"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18608338-3", "question": "What is the average attendance when the rank is 5?", "sql": {"sel": 3, "conds": [[2, 0, "5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14173105-18", "question": "WHich Position is from russia?", "sql": {"sel": 2, "conds": [[3, 0, "russia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16710987-1", "question": "Which NFL team has a pick# less than 200 for Travis Davis?", "sql": {"sel": 1, "conds": [[0, 2, 200], [2, 0, "travis davis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12278022-1", "question": "What opponent was in the match that resulted in 1-2?", "sql": {"sel": 2, "conds": [[4, 0, "1-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15149189-6", "question": "What position does alun wyn jones play?", "sql": {"sel": 1, "conds": [[0, 0, "alun wyn jones"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18097219-7", "question": "What is the highest Money ( \u00a3 ), when Player is \"Peter Hedblom\"?", "sql": {"sel": 5, "conds": [[1, 0, "peter hedblom"]], "agg": 1}}
+{"phase": 1, "table_id": "1-23180638-1", "question": "How many peak positions were there on the daily charts?", "sql": {"sel": 2, "conds": [[1, 0, "Daily Charts"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17991748-5", "question": "What player is from Scotland and has a score of 74-70=144?", "sql": {"sel": 1, "conds": [[3, 0, "74-70=144"], [2, 0, "scotland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17064421-1", "question": "WHAT NATIONALITY HAS ROUND 3?", "sql": {"sel": 3, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 1, "table_id": "1-19236587-4", "question": "What's the series number of the episode seen by 2.43 million viewers in the UK?", "sql": {"sel": 0, "conds": [[6, 0, "2.43"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18017347-3", "question": "Name the Total of jeff sluman?", "sql": {"sel": 3, "conds": [[0, 0, "jeff sluman"]], "agg": 5}}
+{"phase": 2, "table_id": "2-14302613-17", "question": "What College/Junior/Club Team (League) has 6 as the Round?", "sql": {"sel": 4, "conds": [[0, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-1477679-2", "question": "what year did david whitfield win", "sql": {"sel": 3, "conds": [[1, 0, "david whitfield"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16135522-4", "question": "Which team had a year entering the league under 2009, located in Bath?", "sql": {"sel": 0, "conds": [[3, 2, 2009], [2, 0, "bath"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13021723-2", "question": "what is the competition that had a final score of 6:5?", "sql": {"sel": 1, "conds": [[4, 0, "6:5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12451376-3", "question": "What is the title of season 3 ep# 12?", "sql": {"sel": 2, "conds": [[1, 0, 12]], "agg": 0}}
+{"phase": 2, "table_id": "2-1755878-2", "question": "What is the displacement & configuration with CO2 of 204 g/km emissions?", "sql": {"sel": 1, "conds": [[5, 0, "204 g/km"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11803648-22", "question": "What is the nationality of a player from link\u00f6pings hc (se)?", "sql": {"sel": 4, "conds": [[5, 0, "link\u00f6pings hc (se)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14988364-1", "question": "Matches W-L of 1-2, and a Team of spain had what seeding?", "sql": {"sel": 3, "conds": [[5, 0, "1-2"], [1, 0, "spain"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14650162-1", "question": "What college did the defensive back attend?", "sql": {"sel": 4, "conds": [[3, 0, "Defensive Back"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17974840-2", "question": "What was Mark O'Meara's total?", "sql": {"sel": 3, "conds": [[0, 0, "mark o'meara"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12233660-4", "question": "What is the total of 2013 with 6th?", "sql": {"sel": 4, "conds": [[3, 0, "6th"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17601760-1", "question": "In what year did Kin-fung Leung get 2nd prize?", "sql": {"sel": 1, "conds": [[3, 0, "kin-fung leung"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1213511-7", "question": "what is the total number of pick # where nhl team is philadelphia flyers", "sql": {"sel": 0, "conds": [[4, 0, "Philadelphia Flyers"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1014145-1", "question": "Tell me the lowest pick number for columbus crew", "sql": {"sel": 0, "conds": [[1, 0, "columbus crew"]], "agg": 2}}
+{"phase": 2, "table_id": "2-10810530-3", "question": "What college has Jojo Manalo?", "sql": {"sel": 4, "conds": [[1, 0, "jojo manalo"]], "agg": 0}}
+{"phase": 2, "table_id": "2-163873-6", "question": "For a long scale of one million, what is the power notion?", "sql": {"sel": 1, "conds": [[3, 0, "one million"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10374985-14", "question": "Which song had Central Station as a label and whose album was Various - Wild Nights 4?", "sql": {"sel": 2, "conds": [[3, 0, "central station"], [1, 0, "various - wild nights 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11318462-36", "question": "For the Crew with Year 9 2nd Quads of STM, Year 9 1st Quads of SOM, and a Year 8 3rd Quads of STA what was the Year 8 1st Quads?", "sql": {"sel": 11, "conds": [[7, 0, "stm"], [6, 0, "som"], [13, 0, "sta"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18703231-1", "question": "What is the College of the Player from San Miguel Beermen PBA Team?", "sql": {"sel": 4, "conds": [[3, 0, "san miguel beermen"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-14", "question": "What year was the player born who is 2.02m tall?", "sql": {"sel": 4, "conds": [[2, 0, "2.02"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2849652-2", "question": "Where was the 2011-2012 soccer state tournament held?", "sql": {"sel": 5, "conds": [[1, 0, "Soccer"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2950964-5", "question": "The Empty House audiobook has what #?", "sql": {"sel": 0, "conds": [[1, 0, "The Empty House"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23722304-2", "question": "what is the vehicle code where the bore is 79.4?", "sql": {"sel": 0, "conds": [[1, 0, "79.4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10231753-1", "question": "Name the recipientof the year for 1976", "sql": {"sel": 1, "conds": [[0, 0, 1976]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677100-1", "question": "What position does the player from malvern prep play?", "sql": {"sel": 2, "conds": [[3, 0, "malvern prep"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342210-5", "question": "What is the total number of field goals for a player that had less than 3 touchdowns, had 4 points, and had less than 4 extra points?", "sql": {"sel": 3, "conds": [[1, 2, 3], [4, 0, 4], [2, 2, 4]], "agg": 3}}
+{"phase": 2, "table_id": "2-18934662-6", "question": "What's the railway number of a D(rebuild) class?", "sql": {"sel": 1, "conds": [[0, 0, "d(rebuild)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14655985-1", "question": "What is the pick number for the College of Central Missouri State?", "sql": {"sel": 0, "conds": [[4, 0, "central missouri state"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20649850-1", "question": "Name the player for ol", "sql": {"sel": 2, "conds": [[3, 0, "OL"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17784502-1", "question": "What dates was champion masahiro kawamura at the ibaraki country club tournament?", "sql": {"sel": 1, "conds": [[5, 0, "ibaraki country club"], [2, 0, "masahiro kawamura"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1516353-1", "question": "Which championship has a 5 shot lead for 54 holes?", "sql": {"sel": 1, "conds": [[2, 0, "5 shot lead"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-4", "question": "What is the player when the team is oakland raiders?", "sql": {"sel": 2, "conds": [[1, 0, "oakland raiders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16250642-4", "question": "Which Tankers have a Hazmat of \u2013, and Platforms of \u2013, and a Staffing of volunteer?", "sql": {"sel": 5, "conds": [[9, 0, "\u2013"], [7, 0, "\u2013"], [1, 0, "volunteer"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1020101-1", "question": "What is the frequency of number 3 with a bus station origin?", "sql": {"sel": 3, "conds": [[1, 0, "bus station"], [0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-11948277-1", "question": "In which host city was Margaret Thatcher the President-in-Office in 1981?", "sql": {"sel": 5, "conds": [[4, 0, "margaret thatcher"], [0, 0, 1981]], "agg": 0}}
+{"phase": 1, "table_id": "1-14649522-1", "question": "Which team does Robert Brooks play with?", "sql": {"sel": 1, "conds": [[2, 0, "Robert Brooks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1853483-1", "question": "What's the margin of victory during the Pocono Northeast Classic?", "sql": {"sel": 3, "conds": [[1, 0, "pocono northeast classic"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1625624-1", "question": "Name the Theaters that has a Rank larger than 7?", "sql": {"sel": 3, "conds": [[1, 1, 7]], "agg": 1}}
+{"phase": 2, "table_id": "2-18802322-1", "question": "How many years have claudia beni as the artist?", "sql": {"sel": 0, "conds": [[2, 0, "claudia beni"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18652117-1", "question": "Who is the rb player from team oakland?", "sql": {"sel": 2, "conds": [[3, 0, "rb"], [1, 0, "oakland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16457780-1", "question": "Where is the player Raymond Floyd?", "sql": {"sel": 0, "conds": [[1, 0, "raymond floyd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007119-1", "question": "What was the score for the player than won $450?", "sql": {"sel": 3, "conds": [[5, 0, 450]], "agg": 0}}
+{"phase": 2, "table_id": "2-1316872-1", "question": "Bldr of mcw&f, and a Year smaller than 1927, and a LT Nos of 9820-9821 has what type?", "sql": {"sel": 3, "conds": [[2, 0, "mcw&f"], [1, 2, 1927], [0, 0, "9820-9821"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18428035-3", "question": "What was the title of the episode written by Robert Haywood?", "sql": {"sel": 2, "conds": [[4, 0, "robert haywood"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10812938-4", "question": "Which college is aligned to the Saskatchewan Roughriders?", "sql": {"sel": 4, "conds": [[1, 0, "Saskatchewan Roughriders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1374854-1", "question": "The lowest rank with 2011 less than 80.7 and 2012 less than 73.1 is what?", "sql": {"sel": 0, "conds": [[3, 2, 80.7], [2, 2, 73.1]], "agg": 2}}
+{"phase": 2, "table_id": "2-17200019-10", "question": "What is the lowest Title Playoff, when League is greater than 3, and when Super Cup is less than 0?", "sql": {"sel": 2, "conds": [[1, 1, 3], [3, 2, 0]], "agg": 2}}
+{"phase": 1, "table_id": "1-25085059-3", "question": "What team got a draft pick player from McGill?", "sql": {"sel": 1, "conds": [[4, 0, "McGill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18049082-2", "question": "What is the total when the finish was t44?", "sql": {"sel": 3, "conds": [[5, 0, "t44"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342480-15", "question": "Which player scored 14 touchdowns?", "sql": {"sel": 0, "conds": [[1, 0, 14]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-15", "question": "What high school did Jeff Malm attend?", "sql": {"sel": 2, "conds": [[0, 0, "Jeff Malm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13270-1", "question": "Name the most point with population less than 144,444 and age of 1.0", "sql": {"sel": 4, "conds": [[3, 2, "144,444"], [6, 0, "1.0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18942405-4", "question": "What county has an IHSAA Football Class of A, and a Mascot of royals?", "sql": {"sel": 6, "conds": [[4, 0, "a"], [2, 0, "royals"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342480-15", "question": "How many field goals were there, where the points where less than 45 and there were less than 15 touchdowns?", "sql": {"sel": 3, "conds": [[1, 2, 15], [4, 2, 45]], "agg": 5}}
+{"phase": 1, "table_id": "1-2293510-1", "question": "What's the percentage of EU average GDP (PPP) in the region where \u20ac per capita is 2519", "sql": {"sel": 5, "conds": [[2, 0, 2519]], "agg": 0}}
+{"phase": 2, "table_id": "2-15578-1", "question": "How many years did the USD Exchange have \uffe5225.82 and a gross domestic product larger than 240,707,315?", "sql": {"sel": 0, "conds": [[2, 0, "\uffe5225.82"], [1, 1, "240,707,315"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11677760-16", "question": "Who is the player from La Costa Canyon High School?", "sql": {"sel": 0, "conds": [[2, 0, "la costa canyon high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18164207-3", "question": "What was John Fought's score?", "sql": {"sel": 3, "conds": [[1, 0, "john fought"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16899-3", "question": "How many minutes were played when there were 18 points and the opponent was Chicago Bulls?", "sql": {"sel": 3, "conds": [[4, 0, 18], [1, 0, "chicago bulls"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14344407-13", "question": "Mike Crowley plays defense for league?", "sql": {"sel": 4, "conds": [[2, 0, "defense"], [1, 0, "mike crowley"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1054817-4", "question": "What are the notes for the shirt that said Pavv after 2007?", "sql": {"sel": 4, "conds": [[3, 0, "pavv"], [0, 1, 2007]], "agg": 0}}
+{"phase": 2, "table_id": "2-18786347-6", "question": "What country has money ($) greater than 233,125 and Tiger Woods as the player?", "sql": {"sel": 2, "conds": [[5, 1, "233,125"], [1, 0, "tiger woods"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18409089-1", "question": "How many players were signed from Sevilla?", "sql": {"sel": 4, "conds": [[2, 0, "sevilla"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15352703-1", "question": "What's the average draft pick number from Carson-Newman College before Round 7?", "sql": {"sel": 1, "conds": [[4, 0, "carson-newman"], [0, 2, 7]], "agg": 5}}
+{"phase": 2, "table_id": "2-13802189-7", "question": "What is the 2008 value with a 7 in 2010?", "sql": {"sel": 3, "conds": [[5, 0, "7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15142622-3", "question": "What is the make and model that retires in 2004, and has a numbers (quantity ordered) of 961-967 (7 buses)?", "sql": {"sel": 0, "conds": [[5, 0, "2004"], [3, 0, "961-967 (7 buses)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13081314-2", "question": "What was Lloyd Mangrum's Score?", "sql": {"sel": 3, "conds": [[1, 0, "lloyd mangrum"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15185133-1", "question": "What are all the numbers in the series with an episode title of \"the beach\"?", "sql": {"sel": 0, "conds": [[2, 0, "\"The Beach\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677691-2", "question": "What college has a position of defensive line and Grant high school?", "sql": {"sel": 4, "conds": [[1, 0, "defensive line"], [2, 0, "grant high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17064421-1", "question": "WHAT PLAYER HAS A PICK SMALLER THAN 110, AND DUKE AS COLLEGE?", "sql": {"sel": 2, "conds": [[1, 2, 110], [4, 0, "duke"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25711913-2", "question": "What was the minimum touchdowns of the Fullback player?", "sql": {"sel": 3, "conds": [[1, 0, "Fullback"]], "agg": 2}}
+{"phase": 1, "table_id": "1-25730209-2", "question": "How many field goals did Donald Green score?", "sql": {"sel": 3, "conds": [[0, 0, "Donald Green"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18103106-3", "question": "Which Country has a Year(s) won of 1963?", "sql": {"sel": 1, "conds": [[2, 0, "1963"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-10", "question": "What is the date of birth of Henry Qiodravu?", "sql": {"sel": 2, "conds": [[0, 0, "henry qiodravu"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11803648-22", "question": "How many positions did player Ben Harpur play?", "sql": {"sel": 3, "conds": [[2, 0, "Ben Harpur"]], "agg": 3}}
+{"phase": 2, "table_id": "2-170661-4", "question": "WHAT EPISODE HAS A REGION NUMBER BIGGER THAN 1, AND 32 DVDS?", "sql": {"sel": 5, "conds": [[6, 1, 1], [2, 0, "32"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342480-6", "question": "Name the number of points for field goals being 1", "sql": {"sel": 6, "conds": [[5, 0, 1]], "agg": 3}}
+{"phase": 2, "table_id": "2-10560886-13", "question": "Which of the above are from 1987?", "sql": {"sel": 4, "conds": [[3, 0, 1987]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-2", "question": "What player is 2.01 m tall?", "sql": {"sel": 1, "conds": [[2, 0, "2.01"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14341967-2", "question": "Whicih Extra points are the average ones that have Points smaller than 6?", "sql": {"sel": 2, "conds": [[4, 2, 6]], "agg": 5}}
+{"phase": 2, "table_id": "2-17290169-3", "question": "What is the Place of Player with To par of +6 and Score of 78-70-74=222?", "sql": {"sel": 0, "conds": [[4, 0, "+6"], [3, 0, "78-70-74=222"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17277086-4", "question": "What is Score, when Player is \"Bob Murphy\"?", "sql": {"sel": 3, "conds": [[1, 0, "bob murphy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18026889-7", "question": "How much money does the player with a score of 76-70-65-68=279 have?", "sql": {"sel": 5, "conds": [[3, 0, "76-70-65-68=279"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12733279-3", "question": "What position was pick 32?", "sql": {"sel": 3, "conds": [[0, 0, 32]], "agg": 0}}
+{"phase": 2, "table_id": "2-12922162-1", "question": "What was the net capacity with a gross capacity of 1,126 mw, and a Unit of tianwan-4?", "sql": {"sel": 2, "conds": [[3, 0, "1,126 mw"], [0, 0, "tianwan-4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1200987-2", "question": "When was the result 3-1?", "sql": {"sel": 0, "conds": [[2, 0, "3-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1430940-3", "question": "What category has showest award for the category awards?", "sql": {"sel": 3, "conds": [[1, 0, "showest award"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11898258-7", "question": "What is the average rank of gol on airlines?", "sql": {"sel": 0, "conds": [[1, 0, "gol"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1145645-1", "question": "What is the total work number of Gowrie after 1875?", "sql": {"sel": 4, "conds": [[3, 1, 1875], [0, 0, "gowrie"]], "agg": 4}}
+{"phase": 1, "table_id": "1-27685921-1", "question": "what is the most time where exhibitions is 1701", "sql": {"sel": 0, "conds": [[3, 0, 1701]], "agg": 1}}
+{"phase": 2, "table_id": "2-11677691-2", "question": "Which college is Jordan Phillips playing for?", "sql": {"sel": 4, "conds": [[0, 0, "jordan phillips"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15817998-6", "question": "What is the highest Pick # when the CFL Team is the Toronto Argonauts?", "sql": {"sel": 0, "conds": [[1, 0, "toronto argonauts"]], "agg": 1}}
+{"phase": 1, "table_id": "1-26136228-3", "question": "Who wrote the episode that had 1.08 million U.S. viewers?", "sql": {"sel": 4, "conds": [[6, 0, "1.08"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12475284-5", "question": "What is the score of Australia?", "sql": {"sel": 3, "conds": [[2, 0, "australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11621873-3", "question": "What is the rank for the player with over $1,627,890?", "sql": {"sel": 0, "conds": [[3, 1, "1,627,890"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17943770-1", "question": "What record company did conductor Mikhail Snitko record for after 1996?", "sql": {"sel": 2, "conds": [[3, 1, 1996], [1, 0, "mikhail snitko"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17361114-13", "question": "What is the total number of Round, when College/Junior/Club Team (League) is \"Kelowna Rockets ( WHL )\"?", "sql": {"sel": 0, "conds": [[4, 0, "kelowna rockets ( whl )"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11173692-4", "question": "What Song is by the Artist 'mor ve \u00f6tesi'?", "sql": {"sel": 3, "conds": [[2, 0, "mor ve \u00f6tesi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15062421-1", "question": "Which Floors have a Location of ljubljana, and a Name of tr3?", "sql": {"sel": 4, "conds": [[2, 0, "ljubljana"], [1, 0, "tr3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10791466-4", "question": "What's the total number of picks of a team that had june longalong?", "sql": {"sel": 0, "conds": [[1, 0, "june longalong"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1023035-3", "question": "What is the newest Cap with a Goals stat larger than 17 and which was done by Brian Turner?", "sql": {"sel": 5, "conds": [[2, 1, 17], [0, 0, "brian turner"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1965650-9", "question": "When kitchener rangers (oha) is the  college, junior, or club team team who is the player?", "sql": {"sel": 1, "conds": [[5, 0, "Kitchener Rangers (OHA)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17073-1", "question": "What is the total height of the peak with a prominence of 12,867 ft and a prominence in m greater than 3,922?", "sql": {"sel": 1, "conds": [[4, 0, "12,867"], [3, 1, "3,922"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16355046-1", "question": "What is the category Anuya Bhagvath was nominated for at vijay award?", "sql": {"sel": 0, "conds": [[1, 0, "vijay award"], [4, 0, "nominated"], [3, 0, "anuya bhagvath"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10054296-1", "question": "What are the members listed with the sorority classification", "sql": {"sel": 0, "conds": [[2, 0, "Sorority"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342210-12", "question": "How many touchdowns are there that has field goals less than 0 and 0 extra points?", "sql": {"sel": 1, "conds": [[2, 0, 0], [3, 2, 0]], "agg": 4}}
+{"phase": 2, "table_id": "2-16881908-7", "question": "Which player is from Australia, and has a place of t9?", "sql": {"sel": 1, "conds": [[0, 0, "t9"], [2, 0, "australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11082207-3", "question": "What was the score of the 1999 fifa world cup qualification (uefa) on Nov 23, 1997?", "sql": {"sel": 4, "conds": [[0, 0, "1999 fifa world cup qualification (uefa)"], [3, 0, "nov 23, 1997"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-18", "question": "What school did the player attend who's hometown was Montvale, NJ?", "sql": {"sel": 2, "conds": [[3, 0, "Montvale, NJ"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-4", "question": "What is the highest pick when the college is saginaw valley state?", "sql": {"sel": 0, "conds": [[4, 0, "saginaw valley state"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15338781-2", "question": "What was the Date of the Cimmeria Issue for which the Penciller was Tom\u00e1s Giorello?", "sql": {"sel": 1, "conds": [[3, 0, "tom\u00e1s giorello"], [2, 0, "cimmeria"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16123317-1", "question": "What is Current Branch Opened, when Branch is Midland Library?", "sql": {"sel": 4, "conds": [[0, 0, "midland library"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30134667-2", "question": "Who had the fastest lap on september 4?", "sql": {"sel": 5, "conds": [[3, 0, "September 4"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2263674-1", "question": "What was Anthony Leung Kam-Chung previous position?", "sql": {"sel": 3, "conds": [[0, 0, "Anthony Leung Kam-chung"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1628093-1", "question": "what is the f/laps when the season is 2011 and races is 18?", "sql": {"sel": 6, "conds": [[0, 0, "2011"], [3, 0, "18"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1787654-2", "question": "What is the seat number when Series 3 shows Dana B\u00e9rov\u00e1?", "sql": {"sel": 0, "conds": [[3, 0, "dana b\u00e9rov\u00e1"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11677760-18", "question": "Which NBA draft has a School of huntington high school?", "sql": {"sel": 5, "conds": [[2, 0, "huntington high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15838180-1", "question": "What is the Hangul when the Hanja is \u897f, \u5f90?", "sql": {"sel": 0, "conds": [[1, 0, "\u897f, \u5f90"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13081314-4", "question": "How much money was won for the game with a score of 74-76-71-71=292?", "sql": {"sel": 5, "conds": [[3, 0, "74-76-71-71=292"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17360905-3", "question": "What was the score of the game on October 20 with a decision of Lundqvist?", "sql": {"sel": 3, "conds": [[4, 0, "lundqvist"], [1, 0, "20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-12", "question": "Tom Lagarde Category:Articles with hCards used what Jersey Number(s)?", "sql": {"sel": 2, "conds": [[0, 0, "tom lagarde category:articles with hcards"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14609625-7", "question": "What is the highest number when there were more than 50 long and less than 762 yards?", "sql": {"sel": 1, "conds": [[4, 1, 50], [2, 2, 762]], "agg": 1}}
+{"phase": 1, "table_id": "1-21154679-1", "question": "What Petrol engine has total power of ps (kw; bhp)@5400-6500?", "sql": {"sel": 0, "conds": [[4, 0, "PS (kW; bhp)@5400-6500"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23028629-2", "question": "What is every part number with model number core i5-670?", "sql": {"sel": 15, "conds": [[0, 0, "Core i5-670"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11801649-17", "question": "What is the position of the player from round 2 from Sweden?", "sql": {"sel": 2, "conds": [[0, 0, 2], [3, 0, "sweden"]], "agg": 0}}
+{"phase": 1, "table_id": "1-237757-10", "question": "What is the average when 2nd highest was 27242?", "sql": {"sel": 3, "conds": [[6, 0, 27242]], "agg": 1}}
+{"phase": 2, "table_id": "2-14342480-5", "question": "How many field goals did duncan thompson have?", "sql": {"sel": 5, "conds": [[0, 0, "duncan thompson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1290024-21", "question": "What is the date of creation for the locomotive having a type of 0-4-2", "sql": {"sel": 3, "conds": [[0, 0, "0-4-2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-7", "question": "What is the hometown of trinity high school?", "sql": {"sel": 3, "conds": [[2, 0, "Trinity High School"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15601335-1", "question": "What is the number for overall for angelo craig?", "sql": {"sel": 1, "conds": [[2, 0, "angelo craig"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18169093-4", "question": "What Score has a Place of t2, and a Country of england?", "sql": {"sel": 3, "conds": [[0, 0, "t2"], [2, 0, "england"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15211468-5", "question": "Which details of journey had simon hoggart as a narrator?", "sql": {"sel": 5, "conds": [[3, 0, "simon hoggart"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1143966-1", "question": "When less than 37 points are scored, what's the lowest Pct % found?", "sql": {"sel": 5, "conds": [[4, 2, 37]], "agg": 2}}
+{"phase": 1, "table_id": "1-11677691-1", "question": "What offensive line player hailed from Baton Rouge, Louisiana?", "sql": {"sel": 0, "conds": [[1, 0, "Offensive line"], [3, 0, "Baton Rouge, Louisiana"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-10", "question": "What years did the player from illinois play?", "sql": {"sel": 4, "conds": [[5, 0, "illinois"]], "agg": 0}}
+{"phase": 2, "table_id": "2-157297-1", "question": "What is the average population in 1991, that has a 2001 population less than 16,045, and a rank less than 58, in Eisenstadt?", "sql": {"sel": 2, "conds": [[3, 2, "16,045"], [0, 2, 58], [1, 0, "eisenstadt"]], "agg": 5}}
+{"phase": 1, "table_id": "1-1245350-1", "question": "When were 668 units produced?", "sql": {"sel": 2, "conds": [[1, 0, 668]], "agg": 0}}
+{"phase": 1, "table_id": "1-2850912-4", "question": "How many positions are associated with the St. Louis Blues?", "sql": {"sel": 2, "conds": [[4, 0, "St. Louis Blues"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16772687-6", "question": "During what years was the Jersey Numbers 34, 30 played?", "sql": {"sel": 4, "conds": [[2, 0, "34, 30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-12", "question": "The player from Alief Elsik Hs has what as a nationality?", "sql": {"sel": 1, "conds": [[5, 0, "alief elsik hs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652117-1", "question": "What is the team of the player from ohio state?", "sql": {"sel": 1, "conds": [[4, 0, "ohio state"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10254961-3", "question": "Tell me the score for score in legs and year less than 2012", "sql": {"sel": 4, "conds": [[1, 2, 2012]], "agg": 0}}
+{"phase": 2, "table_id": "2-1698244-4", "question": "What is the total number of wins when casey mears ranked 36th and had more than 0 top fives?", "sql": {"sel": 2, "conds": [[6, 0, "36th"], [3, 1, 0]], "agg": 3}}
+{"phase": 2, "table_id": "2-18524-3", "question": "What is the total poverty (2009) HPI-1 % when the extreme poverty (2011) <1.25 US$ % of 16.9, and the human development (2012) HDI is less than 0.581?", "sql": {"sel": 5, "conds": [[6, 0, "16.9"], [1, 2, 0.581]], "agg": 4}}
+{"phase": 2, "table_id": "2-13599687-35", "question": "What's the average pole position for the driver that has a percentage of 44.81%?", "sql": {"sel": 2, "conds": [[4, 0, "44.81%"]], "agg": 5}}
+{"phase": 2, "table_id": "2-12733279-2", "question": "What school did Conor Jackson attend?", "sql": {"sel": 4, "conds": [[1, 0, "conor jackson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14618098-2", "question": "What is the region 1 release that has july 20, 2009 as the region 2?", "sql": {"sel": 3, "conds": [[4, 0, "july 20, 2009"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-12", "question": "Which school did the player have a height of 6-4?", "sql": {"sel": 2, "conds": [[1, 0, "6-4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18217231-2", "question": "What is the power output for class 5?", "sql": {"sel": 4, "conds": [[2, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-1789618-2", "question": "What is the sum of the 2008 with a 2007 of 4,244,115 and less than 3,296,267 in 2003?", "sql": {"sel": 2, "conds": [[3, 0, "4,244,115"], [7, 2, "3,296,267"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17042893-14", "question": "What is Daultan Leveille's Position?", "sql": {"sel": 2, "conds": [[1, 0, "daultan leveille"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16201038-3", "question": "Name the total number of opponets venue for oklahoma", "sql": {"sel": 3, "conds": [[0, 0, "Oklahoma"]], "agg": 3}}
+{"phase": 1, "table_id": "1-14342592-5", "question": "How many field goals were made by someone playing position of right end?", "sql": {"sel": 5, "conds": [[1, 0, "Right end"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18133211-2", "question": "What country has a total greater than 270, with sandy lyle as the player?", "sql": {"sel": 1, "conds": [[3, 1, 270], [0, 0, "sandy lyle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14670843-4", "question": "Where was something built earlier than 1858?", "sql": {"sel": 3, "conds": [[2, 2, 1858]], "agg": 0}}
+{"phase": 2, "table_id": "2-13533299-4", "question": "Which country of origin corresponds to Far Eastern college?", "sql": {"sel": 2, "conds": [[4, 0, "far eastern"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11208843-1", "question": "What is the role of the aircraft that originates from the European Union?", "sql": {"sel": 2, "conds": [[1, 0, "european union"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1833981-1", "question": "What was the wind at New York City when the rank was smaller than 6?", "sql": {"sel": 2, "conds": [[0, 2, 6], [5, 0, "new york city"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13967239-2", "question": "What is after intermediate algebra", "sql": {"sel": 4, "conds": [[2, 0, "Intermediate Algebra"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17360905-9", "question": "What is the record for a game lower than 79?", "sql": {"sel": 5, "conds": [[0, 2, 79]], "agg": 0}}
+{"phase": 1, "table_id": "1-23399481-2", "question": "If the amount of U.S. viewers is 2.05 milliom, who was the episode directed by?", "sql": {"sel": 2, "conds": [[5, 0, "2.05"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-11", "question": "How many colleges have the NFL Team Buffalo Bills?", "sql": {"sel": 4, "conds": [[1, 0, "Buffalo Bills"]], "agg": 3}}
+{"phase": 1, "table_id": "1-207795-1", "question": "What is the russian title of the ugly swans?", "sql": {"sel": 1, "conds": [[0, 0, "The Ugly Swans"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22905641-2", "question": "Who was the race 1 winner at the race held at Winton Motor Raceway?", "sql": {"sel": 4, "conds": [[1, 0, "Winton Motor Raceway"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10716061-1", "question": "The safety position is represented in the draft by which colleges?", "sql": {"sel": 4, "conds": [[3, 0, "safety"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11627546-1", "question": "What is the highest pennant number with ships in raahe class?", "sql": {"sel": 2, "conds": [[1, 0, "raahe"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1912276-2", "question": "If -750 is 45.505, what is the maximum rank?", "sql": {"sel": 0, "conds": [[6, 0, "45.505"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11677760-33", "question": "What was the College of Player Perry Ellis?", "sql": {"sel": 4, "conds": [[0, 0, "perry ellis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15986484-1", "question": "What was the pick number for the wide receiver drafted from Michigan State?", "sql": {"sel": 0, "conds": [[3, 0, "wide receiver"], [4, 0, "michigan state"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22098274-1", "question": "How many number of site have May 1, 2004 as the date?", "sql": {"sel": 4, "conds": [[0, 0, "May 1, 2004"]], "agg": 3}}
+{"phase": 1, "table_id": "1-29545336-2", "question": "How many people directed episode 2?", "sql": {"sel": 2, "conds": [[0, 0, 2]], "agg": 3}}
+{"phase": 2, "table_id": "2-14611466-3", "question": "Which Events have Earnings ($) of 1,841,117, and a Rank smaller than 4?", "sql": {"sel": 4, "conds": [[3, 0, "1,841,117"], [0, 2, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-12757263-2", "question": "What's the website for the yamagata international documentary film festival?", "sql": {"sel": 4, "conds": [[0, 0, "yamagata international documentary film festival"]], "agg": 0}}
+{"phase": 2, "table_id": "2-111774-2", "question": "Which championship was established after 2005?", "sql": {"sel": 6, "conds": [[4, 1, 2005]], "agg": 0}}
+{"phase": 2, "table_id": "2-16123317-1", "question": "What is the highest Current Branch Opened, when Neighborhood is W. Portland Park?", "sql": {"sel": 4, "conds": [[2, 0, "w. portland park"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14611511-3", "question": "Which Player has 4 Wins?", "sql": {"sel": 1, "conds": [[5, 0, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-18131508-6", "question": "What country is Craig Parry from?", "sql": {"sel": 2, "conds": [[1, 0, "craig parry"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-17", "question": "What is From, when Player is Jackie Robinson Category:Articles With Hcards?", "sql": {"sel": 5, "conds": [[0, 0, "jackie robinson category:articles with hcards"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-15", "question": "When was the lock with 10 caps born?", "sql": {"sel": 2, "conds": [[1, 0, "lock"], [3, 0, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-17", "question": "What is Nationality, when Years is 1979?", "sql": {"sel": 1, "conds": [[4, 0, "1979"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18156085-3", "question": "What is the Year(s) won of the Player with a To par of 5?", "sql": {"sel": 2, "conds": [[4, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-10121778-1", "question": "What was the latest round with a running back from a California college?", "sql": {"sel": 0, "conds": [[3, 0, "running back"], [4, 0, "california"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17162228-2", "question": "What is curtis strange's to par?", "sql": {"sel": 4, "conds": [[0, 0, "curtis strange"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1647152-1", "question": "Which Top Speed has a Model Name of d14/4 supreme d14/4 sports & bushman?", "sql": {"sel": 2, "conds": [[0, 0, "d14/4 supreme d14/4 sports & bushman"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18122130-3", "question": "What is Country, when Total is less than 148, and when Player is \"Gary Player\"?", "sql": {"sel": 1, "conds": [[3, 2, 148], [0, 0, "gary player"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-15", "question": "What number is Andrea Bargnani?", "sql": {"sel": 0, "conds": [[1, 0, "Andrea Bargnani"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18317337-1", "question": "Which song was written by Nigel Stock and is 4:12 long?", "sql": {"sel": 1, "conds": [[2, 0, "nigel stock"], [4, 0, "4:12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17290159-1", "question": "What is the lowest to par of the player with a t3 place and less than $1,500?", "sql": {"sel": 4, "conds": [[0, 0, "t3"], [5, 2, "1,500"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15262161-1", "question": "What is the lowest population of the county with an area (km\u00b2) of 565.39 and a population density less than 23.54?", "sql": {"sel": 3, "conds": [[2, 0, 565.39], [4, 2, 23.54]], "agg": 2}}
+{"phase": 2, "table_id": "2-1014145-1", "question": "Tell me the total number of pick for university of portland", "sql": {"sel": 0, "conds": [[4, 0, "university of portland"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11783766-10", "question": "What is the club/province of Sireli Bobo, who plays wing and has less than 24 caps?", "sql": {"sel": 4, "conds": [[1, 0, "wing"], [3, 2, 24], [0, 0, "sireli bobo"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18324411-5", "question": "Who placed t5 and had a score of 70-72=142?", "sql": {"sel": 1, "conds": [[0, 0, "t5"], [3, 0, "70-72=142"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17277219-5", "question": "What place did Don Whitt finish?", "sql": {"sel": 0, "conds": [[1, 0, "don whitt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14656102-1", "question": "Who is the athlete who was picked before round 9, had an overall draft pick after number 143 and plays the position of db?", "sql": {"sel": 2, "conds": [[0, 2, 9], [1, 1, 143], [3, 0, "db"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18207285-1", "question": "What was the earliest round with Neil Colzie and a pick smaller than 24?", "sql": {"sel": 0, "conds": [[3, 0, "neil colzie"], [1, 2, 24]], "agg": 2}}
+{"phase": 2, "table_id": "2-16046689-30", "question": "What is the game 2 sum attendance of the team with a total attendance of 759,997?", "sql": {"sel": 2, "conds": [[7, 0, "759,997"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18722758-1", "question": "What school is in the Missouri Synod school corporation?", "sql": {"sel": 0, "conds": [[2, 0, "missouri synod"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-9", "question": "Which club has 1 cap?", "sql": {"sel": 4, "conds": [[3, 0, 1]], "agg": 0}}
+{"phase": 2, "table_id": "2-16456989-5", "question": "what is the to par for Dave hill?", "sql": {"sel": 4, "conds": [[1, 0, "dave hill"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26781017-1", "question": "How many MotoGP winners were there when the circuit was Catalunya?", "sql": {"sel": 4, "conds": [[3, 0, "Catalunya"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17120402-2", "question": "What was the position that the nominated work La Quinta Esencia, which also won an award for best CD coverbox, won?", "sql": {"sel": 4, "conds": [[1, 0, "la quinta esencia"], [2, 0, "best cd coverbox"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-15", "question": "How many players were from high point, nc?", "sql": {"sel": 4, "conds": [[3, 0, "High Point, NC"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17383542-3", "question": "Which Opponent has a Rockets score larger than 86, a Streak of won 1, and Opponents smaller than 101?", "sql": {"sel": 2, "conds": [[4, 1, 86], [7, 0, "won 1"], [5, 2, 101]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-16", "question": "How many players wore number 8?", "sql": {"sel": 2, "conds": [[0, 0, 8]], "agg": 3}}
+{"phase": 1, "table_id": "1-14342480-6", "question": "Name the most touchdowns for field goals being 1", "sql": {"sel": 3, "conds": [[5, 0, 1]], "agg": 1}}
+{"phase": 2, "table_id": "2-17245513-1", "question": "What is the highest to par of the player from the United States with a t3 place and a 74-73-72-69=288 place?", "sql": {"sel": 4, "conds": [[2, 0, "united states"], [0, 0, "t3"], [3, 0, "74-73-72-69=288"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12299351-2", "question": "When did Meg Whitman get 60%?", "sql": {"sel": 1, "conds": [[3, 0, "60%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1969634-1", "question": "What is the total enrollment for the school in garden city, new york?", "sql": {"sel": 4, "conds": [[1, 0, "Garden City, New York"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1230465-2", "question": "What is the win% for the game 80 and a PWin% of \u2014, and a Term [c ] of 1987\u20131988?", "sql": {"sel": 3, "conds": [[2, 0, 80], [4, 0, "\u2014"], [1, 0, "1987\u20131988"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18409079-1", "question": "How many picks on average did Jay Bruchak have before round 6?", "sql": {"sel": 1, "conds": [[2, 0, "jay bruchak"], [0, 2, 6]], "agg": 5}}
+{"phase": 2, "table_id": "2-13908184-17", "question": "What is the highest round for the Minnesota Junior Stars (Mjhl)?", "sql": {"sel": 0, "conds": [[4, 0, "minnesota junior stars (mjhl)"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2679061-9", "question": "What was the nationality of player picked no. 168?", "sql": {"sel": 3, "conds": [[0, 0, 168]], "agg": 0}}
+{"phase": 1, "table_id": "1-2112260-1", "question": "What is every website with specialization of engineering and division of dhaka division?", "sql": {"sel": 7, "conds": [[6, 0, "Engineering"], [5, 0, "Dhaka division"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15817998-4", "question": "What is the pick number for Peter Moore of the Montreal Alouettes?", "sql": {"sel": 0, "conds": [[1, 0, "montreal alouettes"], [2, 0, "peter moore"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14106667-14", "question": "In round 3 what was the position?", "sql": {"sel": 2, "conds": [[0, 0, "3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1979203-1", "question": "how many callsigns are for the branding telemundo 47", "sql": {"sel": 1, "conds": [[3, 0, "Telemundo 47"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14347546-17", "question": "Which Nationality has a Position of defense, and a Player of nikita korovkin?", "sql": {"sel": 3, "conds": [[2, 0, "defense"], [1, 0, "nikita korovkin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10814485-3", "question": "I want the total number of points for against of 753 and points diff more than -114", "sql": {"sel": 6, "conds": [[4, 0, 753], [5, 1, -114]], "agg": 3}}
+{"phase": 2, "table_id": "2-18049082-7", "question": "What is the to par for the player with winnings of 49,500?", "sql": {"sel": 4, "conds": [[5, 0, "49,500"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1359609-1", "question": "Which Matches has champion Rank of 5?", "sql": {"sel": 1, "conds": [[0, 0, 5]], "agg": 1}}
+{"phase": 2, "table_id": "2-16640814-6", "question": "What is the sum of total values for Rd 7 less than 8?", "sql": {"sel": 5, "conds": [[3, 2, 8]], "agg": 4}}
+{"phase": 2, "table_id": "2-1588821-4", "question": "How many floors have 207 w. hastings st. as the address?", "sql": {"sel": 4, "conds": [[1, 0, "207 w. hastings st."]], "agg": 3}}
+{"phase": 2, "table_id": "2-153465-2", "question": "Which City has an Average of 6.85?", "sql": {"sel": 0, "conds": [[4, 0, 6.85]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-34", "question": "What is Alex Poythress height?", "sql": {"sel": 1, "conds": [[0, 0, "alex poythress"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-18", "question": "What position does the player with jersey number 22 play?", "sql": {"sel": 3, "conds": [[2, 0, "22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17243192-1", "question": "What was the first year that the artist of every little thing ranked lower than 10?", "sql": {"sel": 1, "conds": [[3, 0, "every little thing"], [0, 2, 10]], "agg": 2}}
+{"phase": 2, "table_id": "2-18578964-3", "question": "What is the 1.93 that is 2.05 in height?", "sql": {"sel": 3, "conds": [[4, 0, 2.05]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-13", "question": "What is the minimum year born for strasbourg?", "sql": {"sel": 4, "conds": [[5, 0, "Strasbourg"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18009787-6", "question": "What Country had a Player with a Score of 72-66-72=210?", "sql": {"sel": 2, "conds": [[3, 0, "72-66-72=210"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18132874-2", "question": "What is the sum of the total of the player who won in 1979?", "sql": {"sel": 3, "conds": [[2, 0, "1979"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1851722-55", "question": "Which Genre has a Game of donkey kong country?", "sql": {"sel": 2, "conds": [[1, 0, "donkey kong country"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15442451-5", "question": "What college was the draft pick number larger than 18 that went to the Barangay ginebra kings?", "sql": {"sel": 4, "conds": [[0, 1, 18], [3, 0, "barangay ginebra kings"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12641884-1", "question": "What placement gets more than $400?", "sql": {"sel": 0, "conds": [[5, 1, 400]], "agg": 0}}
+{"phase": 2, "table_id": "2-12453743-1", "question": "What is the inegi code for mexicali with 13,700 km area?", "sql": {"sel": 0, "conds": [[2, 0, "mexicali"], [4, 1, "13,700"]], "agg": 5}}
+{"phase": 1, "table_id": "1-23028629-2", "question": "What is the model number for part numbers of  cm80616003177acbx80616i5660?", "sql": {"sel": 0, "conds": [[15, 0, "CM80616003177ACBX80616I5660"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21154679-1", "question": "What is the s7 4.0 tfsi quattro engine torque?", "sql": {"sel": 5, "conds": [[0, 0, "S7 4.0 TFSI quattro"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11803648-17", "question": "WHAT ROUND WAS FORWARD ANDRE PETERSSON SELECTED?", "sql": {"sel": 0, "conds": [[3, 0, "Forward"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18164207-2", "question": "What is the total for the year (s) won in 1977?", "sql": {"sel": 3, "conds": [[2, 0, "1977"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14828495-1", "question": "What is John Crawford's Nationality?", "sql": {"sel": 3, "conds": [[2, 0, "john crawford"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24689168-5", "question": "What was the 18 to 49 rating when 9.50 million watched?", "sql": {"sel": 2, "conds": [[4, 0, "9.50"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342480-6", "question": "Name the most extra points for right tackle", "sql": {"sel": 4, "conds": [[1, 0, "Right tackle"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1226549-3", "question": "What rank did the dallara chassis finish in 2000?", "sql": {"sel": 4, "conds": [[0, 0, "2000"], [2, 0, "dallara"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16147528-3", "question": "What was the total of the player from Spain?", "sql": {"sel": 3, "conds": [[1, 0, "spain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1014145-2", "question": "Chicago fire has a total of a total of how many #s?", "sql": {"sel": 0, "conds": [[1, 0, "chicago fire"]], "agg": 3}}
+{"phase": 1, "table_id": "1-14342480-5", "question": "Name the most extra points for right halfback", "sql": {"sel": 4, "conds": [[1, 0, "Right halfback"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11677760-20", "question": "What is the NBA draft for ohio state?", "sql": {"sel": 5, "conds": [[4, 0, "ohio state"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1196677-1", "question": "Which is the total number in the 2010 Census in Oconee County where the area in square miles was less than 674?", "sql": {"sel": 3, "conds": [[0, 0, "oconee county"], [5, 2, 674]], "agg": 4}}
+{"phase": 2, "table_id": "2-12034773-1", "question": "What is the name of the roller coaster that opened in 2000 in Brighton Pier?", "sql": {"sel": 0, "conds": [[4, 0, 2000], [2, 0, "brighton pier"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16514575-2", "question": "What country is player Raymond Floyd from?", "sql": {"sel": 1, "conds": [[0, 0, "raymond floyd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1467951-4", "question": "What is the most recent release date?", "sql": {"sel": 3, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-11622896-2", "question": "What is the lowest rank for a player earning $71,979?", "sql": {"sel": 0, "conds": [[3, 2, "71,979"]], "agg": 2}}
+{"phase": 2, "table_id": "2-17991356-5", "question": "In what place did the golfer that scored 66-74=140 finish?", "sql": {"sel": 0, "conds": [[3, 0, "66-74=140"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16458279-3", "question": "Which country has a score of 73-74-69=216?", "sql": {"sel": 2, "conds": [[3, 0, "73-74-69=216"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27277284-8", "question": "Name the number of v core for model number mobile athlon 64 3000+", "sql": {"sel": 5, "conds": [[0, 0, "Mobile Athlon 64 3000+"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11137732-4", "question": "How many 5K wins did Emily Chebet, who had more than 2 total, have?", "sql": {"sel": 2, "conds": [[0, 0, "emily chebet"], [4, 1, 2]], "agg": 4}}
+{"phase": 1, "table_id": "1-16376436-1", "question": "What is the pick number for the player Garry Lewis?", "sql": {"sel": 0, "conds": [[2, 0, "Garry Lewis"]], "agg": 2}}
+{"phase": 2, "table_id": "2-14129554-1", "question": "Who won the gold when Jules van Dyk Belgium won bronze?", "sql": {"sel": 1, "conds": [[3, 0, "jules van dyk belgium"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-6", "question": "Where is lincoln high school located?", "sql": {"sel": 3, "conds": [[2, 0, "Lincoln High School"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14611511-3", "question": "Which Country has a Rank of 5?", "sql": {"sel": 2, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-15467476-4", "question": "What is the value for the item \"Tries\" when the value of the item \"Played\" is 18 and the value of the item \"Points\" is 375?", "sql": {"sel": 7, "conds": [[1, 0, "18"], [5, 0, "375"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10882501-12", "question": "What is the lowest number of bronze medals for nations with over 6 total and 2 golds?", "sql": {"sel": 5, "conds": [[3, 0, 2], [6, 1, 6]], "agg": 2}}
+{"phase": 2, "table_id": "2-1263207-1", "question": "Which season did the Minnesota Kicks lose 13 games and scored 156 points?", "sql": {"sel": 0, "conds": [[1, 0, 13], [2, 0, 156]], "agg": 3}}
+{"phase": 2, "table_id": "2-12733279-3", "question": "What's the total number of picks for the player Matt Murton?", "sql": {"sel": 0, "conds": [[1, 0, "matt murton"]], "agg": 4}}
+{"phase": 1, "table_id": "1-15511178-3", "question": "Which race was the winning team mathiasen motorsports and the pole belonged to jonathan bomarito", "sql": {"sel": 1, "conds": [[5, 0, "Mathiasen Motorsports"], [2, 0, "Jonathan Bomarito"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11829563-7", "question": "Which ice level reporter has Harry Neale for the colour commentator after the year 2004?", "sql": {"sel": 4, "conds": [[3, 0, "harry neale"], [0, 1, 2004]], "agg": 0}}
+{"phase": 2, "table_id": "2-11813427-1", "question": "Which Franchise has a Percentage under 0.707, a Year larger than 1931, and the Finish was won 1998 World Series?", "sql": {"sel": 1, "conds": [[3, 2, 0.707], [0, 1, 1931], [4, 0, "won 1998 world series"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-31", "question": "Which School did Player Tyrone Johnson attend?", "sql": {"sel": 2, "conds": [[0, 0, "tyrone johnson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15968360-1", "question": "What is the Record with an attendance of more than 54,761, and a Result of loss?", "sql": {"sel": 4, "conds": [[5, 1, "54,761"], [2, 0, "loss"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1105695-9", "question": "what is the years when the notes is laredo, limited, overland and the engine is 5.7l hemi v8?", "sql": {"sel": 0, "conds": [[4, 0, "laredo, limited, overland"], [1, 0, "5.7l hemi v8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12845546-7", "question": "Who were F\u2013A of 1\u20130 scorers?", "sql": {"sel": 3, "conds": [[2, 0, "1\u20130"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17162179-5", "question": "Where did Jay Haas place?", "sql": {"sel": 0, "conds": [[1, 0, "jay haas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10650711-1", "question": " what's the\u00a0nfl team\u00a0where\u00a0player\u00a0is clifford charlton", "sql": {"sel": 1, "conds": [[2, 0, "Clifford Charlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-170683-2", "question": "WHAT SEASON HAD A SEASON FINALE OF MAY 21, 1989 AND WAS VIEWED BY 17.98 MILLION HOUSEHOLDS?", "sql": {"sel": 0, "conds": [[3, 0, "may 21, 1989"], [6, 2, 17.98]], "agg": 1}}
+{"phase": 2, "table_id": "2-1543845-3", "question": "What is the sum of Blank Ends for Denmark when less than 42 is the ends lost?", "sql": {"sel": 4, "conds": [[0, 0, "denmark"], [3, 2, 42]], "agg": 4}}
+{"phase": 1, "table_id": "1-25711913-2", "question": "How many touchdowns did the left guard took?", "sql": {"sel": 3, "conds": [[1, 0, "Left guard"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13059194-1", "question": "What was the Money ($) amount for Lloyd Mangrum?", "sql": {"sel": 5, "conds": [[1, 0, "lloyd mangrum"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-18", "question": "what is the highest pick for the position tight end?", "sql": {"sel": 0, "conds": [[3, 0, "tight end"]], "agg": 1}}
+{"phase": 2, "table_id": "2-16772687-2", "question": "Where is the position of sG from?", "sql": {"sel": 5, "conds": [[3, 0, "sg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17231302-5", "question": "What is To Par, when Place is \"T1\", and when Player is \"Joey Rassett\"?", "sql": {"sel": 4, "conds": [[0, 0, "t1"], [1, 0, "joey rassett"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007222-1", "question": "What is the Total for the Player who won in 1936?", "sql": {"sel": 3, "conds": [[2, 0, "1936"]], "agg": 3}}
+{"phase": 1, "table_id": "1-14342592-7", "question": "Was there a starter when 3 touchdowns were scored?", "sql": {"sel": 2, "conds": [[3, 0, 3]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342592-3", "question": "How many points does Clark have? ", "sql": {"sel": 6, "conds": [[0, 0, "Clark"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18404734-1", "question": "Who was the leader at the summit earlier than 1956, when Carcassonne shows for finish?", "sql": {"sel": 4, "conds": [[0, 2, 1956], [3, 0, "carcassonne"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12546053-2", "question": "What is the pts for 2004, and the ro event?", "sql": {"sel": 4, "conds": [[0, 0, "2004"], [2, 0, "ro"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-13", "question": "How many Extra Points were scored by the Player who had 5 Points and less than 1 Touchdowns?", "sql": {"sel": 2, "conds": [[4, 0, 5], [1, 2, 1]], "agg": 2}}
+{"phase": 1, "table_id": "1-26996293-7", "question": "How many times was player brian currie picked?", "sql": {"sel": 0, "conds": [[2, 0, "Brian Currie"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11983898-9", "question": "Which 2010 featured the US Open?", "sql": {"sel": 3, "conds": [[0, 0, "us open"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1473672-6", "question": "What country did Derek Black come from?", "sql": {"sel": 3, "conds": [[1, 0, "Derek Black"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18135501-6", "question": "What is the country of t1 place player wayne grady?", "sql": {"sel": 2, "conds": [[0, 0, "t1"], [1, 0, "wayne grady"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25505246-7", "question": "What kind of round was played when Hanne Skak Jensen faced Austria?", "sql": {"sel": 2, "conds": [[3, 0, "Austria"]], "agg": 0}}
+{"phase": 1, "table_id": "1-269920-17", "question": "What is the speed of model x5560?", "sql": {"sel": 1, "conds": [[0, 0, "X5560"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17900317-4", "question": "How many Matches have an S/Rate smaller than 133.72, and a Team of yorkshire carnegie?", "sql": {"sel": 2, "conds": [[6, 2, 133.72], [1, 0, "yorkshire carnegie"]], "agg": 3}}
+{"phase": 1, "table_id": "1-21321804-1", "question": "How many total positions are there for utah college?", "sql": {"sel": 3, "conds": [[4, 0, "Utah"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12715948-2", "question": "Which state has the venue Tsukisamu dome?", "sql": {"sel": 2, "conds": [[0, 0, "tsukisamu dome"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17860791-2", "question": "What was the location of the game against the Houston Oilers?", "sql": {"sel": 4, "conds": [[2, 0, "houston oilers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17323758-1", "question": "What is Pick #, when Round is \"10\"?", "sql": {"sel": 1, "conds": [[0, 0, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-18468611-1", "question": "What is the name of the player from Vanderbilt University?", "sql": {"sel": 1, "conds": [[4, 0, "vanderbilt university"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17625231-4", "question": "What is the IUCN for the gales point reserve when the Est. is 1998?", "sql": {"sel": 2, "conds": [[3, 0, 1998], [0, 0, "gales point"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-14", "question": "Which college has their team as the New York Jets?", "sql": {"sel": 4, "conds": [[1, 0, "new york jets"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-28", "question": "Which School is located in Winter Park, FL (Hometown)?", "sql": {"sel": 2, "conds": [[3, 0, "winter park, fl"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1526536-13", "question": "Which Win/Lose Percentage has Champs larger than 0, and a Draw larger than 3?", "sql": {"sel": 4, "conds": [[0, 1, 0], [2, 1, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-19", "question": "What years did the player with the jersey number bigger than 20 play?", "sql": {"sel": 4, "conds": [[2, 1, 20]], "agg": 0}}
+{"phase": 2, "table_id": "2-11603267-3", "question": "How many wins for bruce fleisher with over 31 events?", "sql": {"sel": 5, "conds": [[1, 0, "bruce fleisher"], [4, 1, 31]], "agg": 5}}
+{"phase": 2, "table_id": "2-17382981-7", "question": "What is the average total of kenwyne jones, who has more than 10 premier leagues?", "sql": {"sel": 4, "conds": [[0, 0, "kenwyne jones"], [1, 1, 10]], "agg": 5}}
+{"phase": 2, "table_id": "2-15186990-3", "question": "Which title did richard kolner play?", "sql": {"sel": 0, "conds": [[3, 0, "richard kolner"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22081847-1", "question": "What was the maximum number of wins?", "sql": {"sel": 3, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-14314911-1", "question": "What are the Points when the Place is 9?", "sql": {"sel": 3, "conds": [[4, 0, 9]], "agg": 0}}
+{"phase": 2, "table_id": "2-10696381-1", "question": "Name the average round where Dave Stachelski was picked smaller than 187.", "sql": {"sel": 0, "conds": [[1, 2, 187], [2, 0, "dave stachelski"]], "agg": 5}}
+{"phase": 1, "table_id": "1-2385460-1", "question": "Name the number of stations for 15 minutes travel time", "sql": {"sel": 4, "conds": [[7, 0, "15 minutes"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18588862-2", "question": "What's the world record when the 123kg was 275kg?", "sql": {"sel": 0, "conds": [[3, 0, "275kg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18513028-1", "question": "What is the prize level when the Prize if Wrong is 1,000 and the question is less than 2?", "sql": {"sel": 1, "conds": [[4, 0, "1,000"], [0, 2, 2]], "agg": 4}}
+{"phase": 2, "table_id": "2-13077577-1", "question": "Which Genre has a Year before 2013, and a Name of kikumana?", "sql": {"sel": 2, "conds": [[0, 2, 2013], [1, 0, "kikumana"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26920192-5", "question": "Who had the fastest lap for the circuit magione?", "sql": {"sel": 4, "conds": [[1, 0, "Magione"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14650162-1", "question": "What is the NFL team of the player whose college is Minnesota?", "sql": {"sel": 1, "conds": [[4, 0, "Minnesota"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16677874-1", "question": "Pick # of 203 went to which college?", "sql": {"sel": 4, "conds": [[1, 0, 203]], "agg": 0}}
+{"phase": 1, "table_id": "1-20589703-2", "question": "What college did Aaron Slegers attend?", "sql": {"sel": 3, "conds": [[1, 0, "Aaron Slegers"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2544694-3", "question": "Which series occurred in which the semi-finalist was runner-up and the 7800.00 was 6420.00?", "sql": {"sel": 1, "conds": [[4, 0, "Semi-Finalist"], [3, 0, "6420.00"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14655757-1", "question": "What college did Byron Williams attend?", "sql": {"sel": 4, "conds": [[2, 0, "Byron Williams"]], "agg": 0}}
+{"phase": 2, "table_id": "2-140968-1", "question": "What is the highest RNA segment having a protein of vp2 and a base pair size over 2690?", "sql": {"sel": 0, "conds": [[2, 0, "vp2"], [1, 1, 2690]], "agg": 1}}
+{"phase": 2, "table_id": "2-12333215-3", "question": "What years won when the To par is more than 13?", "sql": {"sel": 2, "conds": [[4, 1, 13]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-4", "question": "What team has a pick larger than 30, when the college is saginaw valley state?", "sql": {"sel": 1, "conds": [[0, 1, 30], [4, 0, "saginaw valley state"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22603701-1", "question": "What is the result for Steve Gonzalez? ", "sql": {"sel": 7, "conds": [[1, 0, "Steve Gonzalez"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1361602-1", "question": "What Torque has a Power of HP (KW)?", "sql": {"sel": 4, "conds": [[3, 0, "hp (kw)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-14", "question": "What is the pick number for New Mexico?", "sql": {"sel": 0, "conds": [[4, 0, "new mexico"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18131508-2", "question": "What country is Greg Norman from?", "sql": {"sel": 1, "conds": [[0, 0, "greg norman"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1030359-1", "question": "What signatory has a purpose of police security and Infotalent payee?", "sql": {"sel": 3, "conds": [[1, 0, "police security"], [0, 0, "infotalent"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29261215-4", "question": "How many scores did Helen Sildna give when Iiris Vesik gave a 3?", "sql": {"sel": 10, "conds": [[2, 0, 3]], "agg": 3}}
+{"phase": 1, "table_id": "1-10812403-4", "question": "What college's team is the Saskatchewan Roughriders?", "sql": {"sel": 4, "conds": [[1, 0, "Saskatchewan Roughriders"]], "agg": 0}}
+{"phase": 1, "table_id": "1-226619-12", "question": "Name the most pos for west bromwich albion club", "sql": {"sel": 0, "conds": [[1, 0, "West Bromwich Albion"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11210576-3", "question": "What is the average number for a final episode featuring maxine valera?", "sql": {"sel": 6, "conds": [[0, 0, "maxine valera"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11677691-10", "question": "Which player attended Hoover High School?", "sql": {"sel": 0, "conds": [[2, 0, "hoover high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17974840-1", "question": "Which Country has a Finish of t32, and a Year(s) won of 1996?", "sql": {"sel": 1, "conds": [[5, 0, "t32"], [2, 0, "1996"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17279851-2", "question": "Which artist has a serial number of ATM24016?", "sql": {"sel": 0, "conds": [[3, 0, "atm24016"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18025024-7", "question": "What is the save of the game with rice as the opponent?", "sql": {"sel": 5, "conds": [[1, 0, "rice"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-3", "question": "Which Touchdowns have an Extra points smaller than 5, and a Player of clark, and Field goals larger than 0?", "sql": {"sel": 1, "conds": [[2, 2, 5], [0, 0, "clark"], [3, 1, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-12202446-1", "question": "What is the smith with a 16 ashmolean?", "sql": {"sel": 1, "conds": [[2, 0, 16]], "agg": 0}}
+{"phase": 2, "table_id": "2-167482-1", "question": "What is the L1 Cache, when the Model Number is X5-133 ADY?", "sql": {"sel": 2, "conds": [[0, 0, "x5-133 ady"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17290135-2", "question": "What is the score of T7 place?", "sql": {"sel": 3, "conds": [[0, 0, "t7"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21321804-1", "question": "What is the pick # for player wes lysack?", "sql": {"sel": 0, "conds": [[2, 0, "Wes Lysack"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16078-1", "question": "What is the place of the record on 1996-05-25 with a mark greater than 90.73?", "sql": {"sel": 3, "conds": [[1, 1, 90.73], [4, 0, "1996-05-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10716158-1", "question": "What was the overall draft pick for the player selected for the tight end position?", "sql": {"sel": 1, "conds": [[3, 0, "tight end"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13700749-1", "question": "What are all the languages for tsotsi?", "sql": {"sel": 2, "conds": [[1, 0, "Tsotsi"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1474099-6", "question": "At maximum, what are our goals?", "sql": {"sel": 5, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-18428030-3", "question": "What is the sum of the numbers in series written by sam meikle, which have 21 numbers in the season?", "sql": {"sel": 0, "conds": [[4, 0, "sam meikle"], [1, 0, 21]], "agg": 4}}
+{"phase": 2, "table_id": "2-12523044-3", "question": "Which United States player has a To par of 14?", "sql": {"sel": 0, "conds": [[1, 0, "united states"], [4, 0, 14]], "agg": 0}}
+{"phase": 2, "table_id": "2-15149189-2", "question": "When was the player with 51 caps from a Club/province of clermont born?", "sql": {"sel": 2, "conds": [[3, 0, 51], [4, 0, "clermont"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16176416-6", "question": "What is the sum of White (%), when Black (%) is less than 5,8, and when Asian or Amerindian (%) is less than 0,2?", "sql": {"sel": 1, "conds": [[3, 2, "5,8"], [4, 2, "0,2"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17852990-1", "question": "Which Death date has a Rank smaller than 49, and an Age (as of 1 February 2014) of 112 years, 172 days?", "sql": {"sel": 3, "conds": [[0, 2, 49], [4, 0, "112 years, 172 days"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14650162-1", "question": "How many colleges did pick number 269 attend?", "sql": {"sel": 4, "conds": [[0, 0, 269]], "agg": 3}}
+{"phase": 2, "table_id": "2-1880318-1", "question": "Which Relation has a Year larger than 2000, and a Length of 8 x 20 mins?", "sql": {"sel": 2, "conds": [[4, 1, 2000], [3, 0, "8 x 20 mins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1169568-4", "question": "Which type has a quantity of 11?", "sql": {"sel": 1, "conds": [[2, 0, 11]], "agg": 0}}
+{"phase": 2, "table_id": "2-18811891-2", "question": "what is the to par for retief goosen?", "sql": {"sel": 4, "conds": [[0, 0, "retief goosen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17235399-1", "question": "Which ship had a tonnage over 8,782?", "sql": {"sel": 1, "conds": [[3, 1, "8,782"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21035326-1", "question": "What is the total number of opponents played against the bears in game 4?", "sql": {"sel": 5, "conds": [[0, 0, 4]], "agg": 3}}
+{"phase": 1, "table_id": "1-14342480-15", "question": "What is the highest number of extra points?", "sql": {"sel": 2, "conds": [], "agg": 1}}
+{"phase": 1, "table_id": "1-2850912-5", "question": "What is Timo Lehkonen's highest pick number?", "sql": {"sel": 0, "conds": [[1, 0, "Timo Lehkonen"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1473672-7", "question": "Serge Beaudoin was drafted when in the 1972 NHL draft", "sql": {"sel": 0, "conds": [[1, 0, "Serge Beaudoin"]], "agg": 2}}
+{"phase": 2, "table_id": "2-11783766-23", "question": "What is the club or province of Girvan Dempsey, who has 74 caps?", "sql": {"sel": 4, "conds": [[3, 0, 74], [0, 0, "girvan dempsey"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18369370-2", "question": "What years did the player with a total larger than 157 have wins?", "sql": {"sel": 2, "conds": [[3, 1, 157]], "agg": 0}}
+{"phase": 2, "table_id": "2-18811509-7", "question": "Count the Money ( \u00a3 ) of south africa with a To par of +1, and a Player of ernie els?", "sql": {"sel": 5, "conds": [[2, 0, "south africa"], [4, 0, "+1"], [1, 0, "ernie els"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15622615-1", "question": "Who is the driver that one for the winning tpc team qi-meritus that has a round more than 8?", "sql": {"sel": 4, "conds": [[5, 0, "tpc team qi-meritus"], [0, 1, 8]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-13", "question": "What player is a lock with 1 cap?", "sql": {"sel": 0, "conds": [[1, 0, "lock"], [3, 0, 1]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-17", "question": "Which college did the player picked larger than 130 by the New York Jets go to?", "sql": {"sel": 4, "conds": [[0, 1, 130], [1, 0, "new york jets"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13985563-2", "question": "If the class is total, what is the total number of podiums?", "sql": {"sel": 3, "conds": [[0, 0, "total"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18652198-15", "question": "Who is the Cincinnati College player?", "sql": {"sel": 2, "conds": [[4, 0, "cincinnati"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2385460-1", "question": "Name the stops for stations 36", "sql": {"sel": 6, "conds": [[4, 0, 36]], "agg": 0}}
+{"phase": 2, "table_id": "2-14640226-3", "question": "Which Wins is the highest one that has a Country of united states, and a Player of andy bean, and a Rank smaller than 4?", "sql": {"sel": 5, "conds": [[2, 0, "united states"], [1, 0, "andy bean"], [0, 2, 4]], "agg": 1}}
+{"phase": 2, "table_id": "2-11677760-20", "question": "What is the player that went to st. benedict's prep?", "sql": {"sel": 0, "conds": [[2, 0, "st. benedict's prep"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007230-2", "question": "What is the Money ($) amount of the Player with a To par of e?", "sql": {"sel": 5, "conds": [[4, 0, "e"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007202-1", "question": "Which average money has a To par larger than 12?", "sql": {"sel": 5, "conds": [[4, 1, 12]], "agg": 5}}
+{"phase": 2, "table_id": "2-18166348-7", "question": "What To par has a Country of united states, and a Score of 67-66-78-77=288?", "sql": {"sel": 4, "conds": [[2, 0, "united states"], [3, 0, "67-66-78-77=288"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13270-2", "question": "Name the june when it has july of 84 \u00b0f / 28.9 \u00b0c", "sql": {"sel": 5, "conds": [[6, 0, "84 \u00b0f / 28.9 \u00b0c"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12375494-1", "question": "What's the Issue Date for an Eric Prydz song with a no available Download information?", "sql": {"sel": 1, "conds": [[4, 0, "no available"], [2, 0, "eric prydz"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18695319-1", "question": "what is the position in round 3?", "sql": {"sel": 3, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-12607102-1", "question": "Who wins the Northumberland Senior Cup, when the Northumberland Women's Cup is won by Whitley Bay Women, and when the Northumberland Senior Benevolent Bowl is won by Alnwick Town?", "sql": {"sel": 1, "conds": [[4, 0, "whitley bay women"], [2, 0, "alnwick town"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-16", "question": "What positions were drafted from Las Vegas, NV?", "sql": {"sel": 1, "conds": [[3, 0, "Las Vegas, NV"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13012513-1", "question": "What is the year of the TV series that has a character of Leiloon Bala Barareh?", "sql": {"sel": 0, "conds": [[4, 0, "leiloon bala barareh"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-4", "question": "What number draft pick was Oklahoma State's Greg Hill in 1983?", "sql": {"sel": 0, "conds": [[4, 0, "Oklahoma State"], [2, 0, "Greg Hill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15125201-1", "question": "Name the people's party for social democratic of 30.1%", "sql": {"sel": 6, "conds": [[3, 0, "30.1%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16201038-1", "question": "what is the record for years 2006-11?", "sql": {"sel": 3, "conds": [[1, 0, "2006-11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17672526-1", "question": "Which team is ranked #10?", "sql": {"sel": 2, "conds": [[0, 0, 10]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-9", "question": "Which school is home to player Thomas Tyner?", "sql": {"sel": 2, "conds": [[0, 0, "Thomas Tyner"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-5", "question": "What is the lowest jersey number of a player from louisiana state?", "sql": {"sel": 2, "conds": [[5, 0, "louisiana state"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18703231-2", "question": "What is the total number of picks from the PBA team of purefoods tender juicy hotdogs?", "sql": {"sel": 0, "conds": [[3, 0, "purefoods tender juicy hotdogs"]], "agg": 3}}
+{"phase": 1, "table_id": "1-13505192-3", "question": "What is the production code for season episode 8?", "sql": {"sel": 4, "conds": [[1, 0, 8]], "agg": 2}}
+{"phase": 1, "table_id": "1-2508633-5", "question": "How many players did the philadelphia eagles pick?", "sql": {"sel": 3, "conds": [[1, 0, "Philadelphia Eagles"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10650711-1", "question": " what's the\u00a0position\u00a0where\u00a0player\u00a0is anthony blaylock", "sql": {"sel": 3, "conds": [[2, 0, "Anthony Blaylock"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10672618-1", "question": "What position does the player from Oklahoma who was drafted in round 7 play?", "sql": {"sel": 3, "conds": [[0, 0, 7], [4, 0, "oklahoma"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28742659-2", "question": "What is the vote number when immunity listed as David and reward is listed as none?", "sql": {"sel": 4, "conds": [[2, 0, "David"], [1, 0, "None"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28051859-3", "question": "When were the members tenured in the Field school?", "sql": {"sel": 4, "conds": [[0, 0, "Field"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18703231-2", "question": "What is the PBA team for roberto jabar who was picked before number 11?", "sql": {"sel": 3, "conds": [[0, 2, 11], [1, 0, "roberto jabar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17717526-11", "question": "When was the Result of 3\u20132, with a Score of 6\u20130, 6\u20134?", "sql": {"sel": 3, "conds": [[9, 0, "3\u20132"], [8, 0, "6\u20130, 6\u20134"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16767061-1", "question": "What is the total number of Pick #, when College is Oklahoma, and when Round is less than 4?", "sql": {"sel": 1, "conds": [[4, 0, "oklahoma"], [0, 2, 4]], "agg": 3}}
+{"phase": 2, "table_id": "2-17162199-3", "question": "What was T3 player Lee Janzen's score?", "sql": {"sel": 3, "conds": [[0, 0, "t3"], [1, 0, "lee janzen"]], "agg": 2}}
+{"phase": 2, "table_id": "2-17162268-2", "question": "How much total has a To par of +9?", "sql": {"sel": 3, "conds": [[4, 0, "+9"]], "agg": 3}}
+{"phase": 1, "table_id": "1-262495-1", "question": "When 9386 is the undergraduate enrollment what is the nickname?", "sql": {"sel": 1, "conds": [[5, 0, 9386]], "agg": 0}}
+{"phase": 2, "table_id": "2-106094-3", "question": "Which province and flag has a water area (km 2) of 0?", "sql": {"sel": 1, "conds": [[2, 0, 0]], "agg": 0}}
+{"phase": 2, "table_id": "2-18486567-2", "question": "What is the usage for the f136e engline?", "sql": {"sel": 3, "conds": [[0, 0, "f136e"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13673176-3", "question": "Which rating larger than 5 have the lowest amount of views in #3 rank with a share of 9?", "sql": {"sel": 5, "conds": [[6, 0, "#3"], [3, 0, 9], [2, 1, 5]], "agg": 2}}
+{"phase": 2, "table_id": "2-13293931-1", "question": "Goals that has a Position of 14th of 24, and a League of football conference has what sum?", "sql": {"sel": 4, "conds": [[2, 0, "14th of 24"], [1, 0, "football conference"]], "agg": 4}}
+{"phase": 1, "table_id": "1-14655985-1", "question": "what's the\u00a0player\u00a0with\u00a0college\u00a0being penn state", "sql": {"sel": 2, "conds": [[4, 0, "Penn State"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18132874-3", "question": "What country was the player who was 11 off par from?", "sql": {"sel": 1, "conds": [[4, 0, 11]], "agg": 0}}
+{"phase": 2, "table_id": "2-14656102-1", "question": "What position was Jafus White who was picked after round 1?", "sql": {"sel": 3, "conds": [[0, 1, 1], [2, 0, "jafus white"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17162179-6", "question": "What was the score for Tom Lehman?", "sql": {"sel": 3, "conds": [[1, 0, "tom lehman"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-19", "question": "What school did the guard who began playing in 1991 come from?", "sql": {"sel": 4, "conds": [[2, 0, "guard"], [3, 0, "1991"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12626983-2", "question": "What was the finish of the winner of the 2000 Masters?", "sql": {"sel": 5, "conds": [[2, 0, "2000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1646838-1", "question": "What's the room temperature with no toxic materials and no ln production?", "sql": {"sel": 2, "conds": [[5, 0, "no"], [4, 0, "no"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10998425-1", "question": "What is the highest 1930 population when the 2000 population is 43,966 and the 1900 population is less than 8,401?", "sql": {"sel": 2, "conds": [[4, 0, "43,966"], [1, 2, "8,401"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11677760-6", "question": "What college did delray brooks go to?", "sql": {"sel": 4, "conds": [[0, 0, "delray brooks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18409079-1", "question": "How many rounds did Pierre Bland have a pick larger than 148?", "sql": {"sel": 0, "conds": [[1, 1, 148], [2, 0, "pierre bland"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15380820-1", "question": "In the County of Prince, what was the highest Population density when the Area (km\u00b2) was larger than 3.02, and the Population (2006) was larger than 786, and the Population (2011) was smaller than 1135?", "sql": {"sel": 5, "conds": [[0, 0, "prince"], [4, 1, 3.02], [2, 1, 786], [1, 2, 1135]], "agg": 1}}
+{"phase": 2, "table_id": "2-15796072-1", "question": "What is the Song choice with a Theme that is 1960s?", "sql": {"sel": 2, "conds": [[1, 0, "1960s"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562113-1", "question": "What is the location of the institution nicknamed Lions? ", "sql": {"sel": 1, "conds": [[5, 0, "Lions"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27469019-2", "question": "What was the status of the series that was run by tv channel Mediacorp tv12 Suria?", "sql": {"sel": 7, "conds": [[3, 0, "MediaCorp TV12 Suria"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1529260-3", "question": "Which Year is the lowest one that has a To par of \u20131?", "sql": {"sel": 0, "conds": [[5, 0, "\u20131"]], "agg": 2}}
+{"phase": 2, "table_id": "2-13270-1", "question": "Name the nickname with age of 4.9", "sql": {"sel": 1, "conds": [[6, 0, "4.9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-11", "question": "Which player is associated with Temple?", "sql": {"sel": 0, "conds": [[4, 0, "temple"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2897457-3", "question": "Which college/junior/team has defence as the position with canada as the nationality and the pick # is less than 61.0?", "sql": {"sel": 5, "conds": [[2, 0, "Defence"], [3, 0, "Canada"], [0, 2, 61.0]], "agg": 0}}
+{"phase": 2, "table_id": "2-18096431-3", "question": "Which To par has a Player of jack nicklaus, and a Total smaller than 146?", "sql": {"sel": 4, "conds": [[0, 0, "jack nicklaus"], [3, 2, 146]], "agg": 5}}
+{"phase": 1, "table_id": "1-29836557-2", "question": "What pick number is Kevan George?", "sql": {"sel": 0, "conds": [[2, 0, "Kevan George"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-11", "question": "What NFL Team has the player Danny Triplett with the position linebacker?", "sql": {"sel": 1, "conds": [[3, 0, "Linebacker"], [2, 0, "Danny Triplett"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18278177-5", "question": "What nationality is Mark Hirth from Michigan State University (NCAA)?", "sql": {"sel": 3, "conds": [[5, 0, "michigan state university (ncaa)"], [1, 0, "mark hirth"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11365528-2", "question": "The president, peter williamson, had how many home grounds?", "sql": {"sel": 3, "conds": [[2, 0, "Peter Williamson"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1213511-8", "question": "What position in the Vancouver Canucks has a Pick # of 101?", "sql": {"sel": 2, "conds": [[4, 0, "vancouver canucks"], [0, 0, "101"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1014145-5", "question": "What is the position of the Colorado Rapids team?", "sql": {"sel": 3, "conds": [[1, 0, "colorado rapids"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677691-8", "question": "What position is Sal Martinez?", "sql": {"sel": 1, "conds": [[0, 0, "sal martinez"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16767061-1", "question": "What is the average Round, when Pick # is greater than 70, and when Position is Tackle?", "sql": {"sel": 0, "conds": [[1, 1, 70], [3, 0, "tackle"]], "agg": 5}}
+{"phase": 2, "table_id": "2-10747104-1", "question": "What is the sum of elections in vicenza?", "sql": {"sel": 4, "conds": [[0, 0, "vicenza"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10101099-1", "question": "What was the score in 1969?", "sql": {"sel": 3, "conds": [[0, 0, "1969"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1132489-1", "question": "what is the highest platform number when the frequency (per hour) is 4, the operator is london overground and the destination is west croydon?", "sql": {"sel": 0, "conds": [[1, 0, 4], [3, 0, "london overground"], [2, 0, "west croydon"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18962637-1", "question": "What's the n Africa in 2012 with an N/A as the CPLP?", "sql": {"sel": 4, "conds": [[6, 0, 2012], [3, 0, "n/a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11603267-3", "question": "What is the high earnings for players with 34 events and over 2 wins?", "sql": {"sel": 3, "conds": [[4, 0, 34], [5, 1, 2]], "agg": 1}}
+{"phase": 2, "table_id": "2-17344644-1", "question": "Who was the highest drafted player that attended college at Virginia?", "sql": {"sel": 1, "conds": [[4, 0, "virginia"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2764267-2", "question": "Name the number of countries that have the us dollar", "sql": {"sel": 1, "conds": [[0, 0, "US dollar"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15739554-1", "question": "How many average votes did producer carlos coelho have in a higher place than 6 and with a draw larger than 5?", "sql": {"sel": 4, "conds": [[5, 2, 6], [3, 0, "carlos coelho"], [0, 1, 5]], "agg": 5}}
+{"phase": 2, "table_id": "2-18772258-1", "question": "What is Far Eastern College Johnny Abarrientos' Pick number?", "sql": {"sel": 0, "conds": [[4, 0, "far eastern"], [1, 0, "johnny abarrientos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10996789-1", "question": "What is the overall draft number for the running back drafted after round 1 from fresno state?", "sql": {"sel": 1, "conds": [[3, 0, "running back"], [0, 1, 1], [4, 0, "fresno state"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10560886-15", "question": "What is the average number of players from Duquesne?", "sql": {"sel": 3, "conds": [[4, 0, "duquesne"]], "agg": 5}}
+{"phase": 1, "table_id": "1-2155350-2", "question": "Name the number of cab size for 4 medium tanker", "sql": {"sel": 2, "conds": [[0, 0, "4 Medium tanker"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16677887-1", "question": "What is the total round of the 129 pick?", "sql": {"sel": 0, "conds": [[1, 0, 129]], "agg": 3}}
+{"phase": 2, "table_id": "2-18789059-1", "question": "What is the average enrollment 08=09, for the team that had a previous conference of lake and IHSAA class of 3A?", "sql": {"sel": 3, "conds": [[7, 0, "lake"], [4, 0, "3a"]], "agg": 5}}
+{"phase": 1, "table_id": "1-14655985-1", "question": "what's the\u00a0college\u00a0with\u00a0position\u00a0being placekicker", "sql": {"sel": 4, "conds": [[3, 0, "Placekicker"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17062990-1", "question": "Which nationality is Dick Walker?", "sql": {"sel": 3, "conds": [[2, 0, "dick walker"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16710987-1", "question": "What is the pick# from South Dakota college?", "sql": {"sel": 0, "conds": [[4, 0, "south dakota"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12233660-4", "question": "What is the year 2001 with a total larger than 1, and 2009 with 8?", "sql": {"sel": 0, "conds": [[4, 1, 1], [2, 0, "8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18722758-1", "question": "What IHSAA football class do the Generals play in?", "sql": {"sel": 4, "conds": [[1, 0, "generals"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26996293-2", "question": "where cfl team is edmonton (2) what are all the position", "sql": {"sel": 3, "conds": [[1, 0, "Edmonton (2)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14656102-1", "question": "What is the total number of overall draft picks for Fred Nixon?", "sql": {"sel": 1, "conds": [[2, 0, "fred nixon"]], "agg": 3}}
+{"phase": 1, "table_id": "1-28802165-1", "question": "What is the civil parish of Aghafullim?", "sql": {"sel": 3, "conds": [[0, 0, "Aghafullim"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-9", "question": "Which school has the player Thomas Tyner?", "sql": {"sel": 2, "conds": [[0, 0, "Thomas Tyner"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10538601-1", "question": "How many pages does the story h 87112 have?", "sql": {"sel": 1, "conds": [[4, 0, "h 87112"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27378582-1", "question": "Name the current womens lacrosse conference for bison", "sql": {"sel": 7, "conds": [[2, 0, "Bison"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18789596-1", "question": "what is the most free when the total is 81.167 and the rank is higher than 23?", "sql": {"sel": 4, "conds": [[5, 0, 81.167], [0, 1, 23]], "agg": 1}}
+{"phase": 1, "table_id": "1-23145653-1", "question": "Name the games w-1 for cliff richey", "sql": {"sel": 3, "conds": [[0, 0, "Cliff Richey"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24781886-2", "question": "When 6.66 is the amount of viewers what is the lowest production code?", "sql": {"sel": 6, "conds": [[4, 0, "6.66"]], "agg": 2}}
+{"phase": 1, "table_id": "1-25085059-1", "question": "What CFL team got their draft pick from North Dakota?", "sql": {"sel": 1, "conds": [[4, 0, "North Dakota"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14640450-3", "question": "What is the mean number of events where the rank is 1 and there are more than 3 wins?", "sql": {"sel": 4, "conds": [[0, 0, 1], [5, 1, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-14341967-2", "question": "Which Extra points is the highest one that has a Player of herman everhardus, and a Field goals larger than 0?", "sql": {"sel": 2, "conds": [[0, 0, "herman everhardus"], [3, 1, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-15577036-2", "question": "What was the Score when the Losing Semifinalists were Toluca Unam?", "sql": {"sel": 2, "conds": [[4, 0, "toluca unam"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14988364-1", "question": "Players of amanda coetzer and marcos ondruska is what team?", "sql": {"sel": 1, "conds": [[2, 0, "amanda coetzer and marcos ondruska"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1213511-4", "question": "What team draft a player from Canada that was picked #43 and plays right wing?", "sql": {"sel": 4, "conds": [[3, 0, "canada"], [2, 0, "right wing"], [0, 0, "43"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17360818-13", "question": "How many rounds does Colby Robak have with a position of (d)?", "sql": {"sel": 0, "conds": [[2, 0, "(d)"], [1, 0, "colby robak"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14123513-5", "question": "Who was in the 4th district in 1924?", "sql": {"sel": 4, "conds": [[0, 0, 1924]], "agg": 0}}
+{"phase": 2, "table_id": "2-11169688-2", "question": "Who was the player in Position G on the Petron Blaze Boosters and retired in 2000?", "sql": {"sel": 1, "conds": [[3, 0, "g"], [2, 0, "petron blaze boosters"], [5, 0, "2000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12245054-1", "question": "What's the average wins of those games with 3 podiums?", "sql": {"sel": 2, "conds": [[3, 0, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-16441561-4", "question": "Which Position has a Pick # smaller than 23, and a Player of garrett sutherland?", "sql": {"sel": 3, "conds": [[0, 2, 23], [2, 0, "garrett sutherland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15120038-2", "question": "How many were in attendance for a result of D, at H venue, and Arsenal as an opponent?", "sql": {"sel": 6, "conds": [[4, 0, "d"], [3, 0, "h"], [2, 0, "arsenal"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10960039-1", "question": "Which player's college is Saskatchewan?", "sql": {"sel": 2, "conds": [[4, 0, "Saskatchewan"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1213511-5", "question": "what is the college that has the nhl chicago black hawks?", "sql": {"sel": 5, "conds": [[4, 0, "Chicago Black Hawks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-9", "question": "What were the total number of field goals when there were 0 touchdowns and 2 extra points?", "sql": {"sel": 3, "conds": [[1, 0, 0], [2, 0, 2]], "agg": 3}}
+{"phase": 2, "table_id": "2-18455690-1", "question": "who is the player when the school is spring hs (spring, texas)?", "sql": {"sel": 1, "conds": [[4, 0, "spring hs (spring, texas)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342480-5", "question": "Na,e the number of field goals for right tackle", "sql": {"sel": 5, "conds": [[1, 0, "Right tackle"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1789618-2", "question": "What is the 2005 sum with a 2009 less than 1,850,654?", "sql": {"sel": 5, "conds": [[1, 2, "1,850,654"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10672618-1", "question": "In what round was a defensive tackle drafted with an overall pick smaller than 149?", "sql": {"sel": 0, "conds": [[3, 0, "defensive tackle"], [1, 2, 149]], "agg": 3}}
+{"phase": 2, "table_id": "2-1289651-1", "question": "Which deputy prime minister left office in 2004 and was in the 7th legislature?", "sql": {"sel": 0, "conds": [[4, 0, "7th legislature"], [2, 0, "2004"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-4", "question": "Which player's hometown was Pewaukee, Wisconsin?", "sql": {"sel": 0, "conds": [[3, 0, "Pewaukee, Wisconsin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-25", "question": "Which school is in Riverside, CA?", "sql": {"sel": 2, "conds": [[3, 0, "riverside, ca"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11768629-5", "question": "When Hamilton Academical is the Opponent, what is the total Attendance?", "sql": {"sel": 5, "conds": [[2, 0, "hamilton academical"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13912739-13", "question": "What player has a round larger than 6 with a D position.", "sql": {"sel": 1, "conds": [[0, 1, 6], [2, 0, "d"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1081235-1", "question": "What is the composition at Valles lava dome?", "sql": {"sel": 3, "conds": [[0, 0, "Valles lava dome"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-16", "question": "Which player has a Club/province of direito, less than 21 caps, and a Position of lock?", "sql": {"sel": 0, "conds": [[4, 0, "direito"], [3, 2, 21], [1, 0, "lock"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22901612-2", "question": "If the chief judge is Jeffrey L. Viken, what is the region?", "sql": {"sel": 0, "conds": [[6, 0, "Jeffrey L. Viken"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-7", "question": "How many caps does stephen hoiles have?", "sql": {"sel": 3, "conds": [[0, 0, "stephen hoiles"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18847281-3", "question": "What Title has the Label of Columbia and Standard number of CODC-8760?", "sql": {"sel": 0, "conds": [[3, 0, "columbia"], [4, 0, "codc-8760"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18703231-1", "question": "What is the College of the Player from PBA Team Alaska Milkmen with a Pick number of 3 or less?", "sql": {"sel": 4, "conds": [[0, 2, 3], [3, 0, "alaska milkmen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18060467-7", "question": "What is the money won by Frank Nobilo?", "sql": {"sel": 5, "conds": [[1, 0, "frank nobilo"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1473672-9", "question": "what's the\u00a0nhl team\u00a0with\u00a0college/junior/club team\u00a0being brandon wheat kings (wchl)", "sql": {"sel": 4, "conds": [[5, 0, "Brandon Wheat Kings (WCHL)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-154957-5", "question": "Which club/province has more than 9 caps and Ben Franks as a player?", "sql": {"sel": 4, "conds": [[3, 1, 9], [0, 0, "ben franks"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2110959-1", "question": "What were the points in the 1958-59 season? ", "sql": {"sel": 5, "conds": [[0, 0, "1958-59"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14743082-1", "question": "What is the year of most recent appearance of the Suncoast sound, who had more than 7 finals appearances?", "sql": {"sel": 3, "conds": [[0, 0, "suncoast sound"], [1, 1, 7]], "agg": 3}}
+{"phase": 2, "table_id": "2-18470615-1", "question": "What player is from Seton Hall University?", "sql": {"sel": 1, "conds": [[4, 0, "seton hall university"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007213-1", "question": "From which country is the player who made less than $216?", "sql": {"sel": 2, "conds": [[5, 2, 216]], "agg": 0}}
+{"phase": 1, "table_id": "1-2201541-3", "question": "What championship was played in 1981?", "sql": {"sel": 2, "conds": [[1, 0, 1981]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-15", "question": "Which player plays forward and is from Kentucky?", "sql": {"sel": 0, "conds": [[2, 0, "forward"], [4, 0, "kentucky"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18170407-1", "question": "What is Australia\u00b4s finish?", "sql": {"sel": 5, "conds": [[1, 0, "australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16950053-1", "question": "What number corresponds to Presidet Yves Krattinger of the Socialist party?", "sql": {"sel": 0, "conds": [[3, 0, "socialist party"], [2, 0, "yves krattinger"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18983113-2", "question": "Which Team has a Qualification of entry to the 2004 chinese super league, and a 2002 Position smaller than 6, and a 2003 Position smaller than 9, and a Total Position larger than 3.5?", "sql": {"sel": 0, "conds": [[4, 0, "entry to the 2004 chinese super league"], [1, 2, 6], [2, 2, 9], [3, 1, 3.5]], "agg": 0}}
+{"phase": 2, "table_id": "2-16066063-8", "question": "How many Airlines have a total distance of 705 (km)?", "sql": {"sel": 3, "conds": [[4, 0, 705]], "agg": 3}}
+{"phase": 2, "table_id": "2-16880965-1", "question": "Which date has the promoter Frank Moloney and the opponent Georgi Iliev?", "sql": {"sel": 2, "conds": [[3, 0, "frank moloney"], [1, 0, "georgi iliev"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18025024-7", "question": "What is the save of the game with a 7-6 score?", "sql": {"sel": 5, "conds": [[2, 0, "7-6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10659676-2", "question": "What was the result of week 1 and the opponent was bye?", "sql": {"sel": 3, "conds": [[0, 0, "1"], [2, 0, "bye"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-10", "question": "Who had a points average with 0 extra points and 0 field goals?", "sql": {"sel": 4, "conds": [[2, 0, 0], [3, 1, 0]], "agg": 5}}
+{"phase": 2, "table_id": "2-14975-5", "question": "What is the name of the event where Cornell-Penn played?", "sql": {"sel": 1, "conds": [[0, 0, "cornell-penn"]], "agg": 0}}
+{"phase": 2, "table_id": "2-185618-1", "question": "What Japanese On'yomi has Vietnamese of M\u1eadu?", "sql": {"sel": 5, "conds": [[8, 0, "m\u1eadu"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19342760-1", "question": "How was the Temple of Artemis at Ephesus destroyed?", "sql": {"sel": 4, "conds": [[0, 0, "Temple of Artemis at Ephesus"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17991748-7", "question": "What is the Place of Davis Love III with a To Par of +1?", "sql": {"sel": 0, "conds": [[4, 0, "+1"], [1, 0, "davis love iii"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15517213-1", "question": "Which Total Apps (sub) has 6 goals total?", "sql": {"sel": 5, "conds": [[6, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12988956-1", "question": "What position does the Wales player who made more than 167 appearances, had more than 0 goals, and had a Leeds career from 1977\u20131982 play?", "sql": {"sel": 1, "conds": [[3, 1, 167], [0, 0, "wales"], [4, 1, 0], [2, 0, "1977\u20131982"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12293930-1", "question": "What position has 14 rounds?", "sql": {"sel": 3, "conds": [[0, 0, 14]], "agg": 0}}
+{"phase": 2, "table_id": "2-18532579-2", "question": "Who has 187kg and a Snatch of Clean & Jerk?", "sql": {"sel": 3, "conds": [[1, 0, "clean & jerk"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16458279-4", "question": "How much money was scored for 73-71-70-73=287?", "sql": {"sel": 5, "conds": [[3, 0, "73-71-70-73=287"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11803648-20", "question": "Which Player has a Nationality of united states, and an Overall of 61 (from boston)?", "sql": {"sel": 2, "conds": [[4, 0, "united states"], [1, 0, "61 (from boston)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1473672-10", "question": "Which player(s) was drafted by the Pittsburgh Penguins?", "sql": {"sel": 1, "conds": [[4, 0, "pittsburgh penguins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-9", "question": "Which NBA Draft had Labradford Smith?", "sql": {"sel": 5, "conds": [[0, 0, "labradford smith"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-12", "question": "what are all the positions of players who's hometown is concord, california", "sql": {"sel": 1, "conds": [[3, 0, "Concord, California"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17309500-1", "question": "Name the gs for points being 12.1", "sql": {"sel": 2, "conds": [[3, 0, "12.1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11622006-3", "question": "Who is the lowest ranked player from the United States that has less than 3 Wins?", "sql": {"sel": 0, "conds": [[2, 0, "united states"], [5, 2, 3]], "agg": 2}}
+{"phase": 2, "table_id": "2-12264570-2", "question": "Which conference held at School of whiting?", "sql": {"sel": 5, "conds": [[0, 0, "whiting"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2850912-5", "question": "What college/junior/club team played right wing position with NHL team Chicago Black Hawks?", "sql": {"sel": 5, "conds": [[2, 0, "Right Wing"], [4, 0, "Chicago Black Hawks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-142178-1", "question": "What kind of locomotive is Winston Churchill?", "sql": {"sel": 1, "conds": [[0, 0, "winston churchill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-166732-1", "question": "What character was the version 5.1 and had a Greek capital letter Archaic Sampi?", "sql": {"sel": 0, "conds": [[3, 0, 5.1], [2, 0, "greek capital letter archaic sampi"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2897457-4", "question": "Which player is the centre for the Detroit Red Wings?", "sql": {"sel": 1, "conds": [[2, 0, "Centre"], [4, 0, "Detroit Red Wings"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23963781-2", "question": "who has the 1 goal and the position is fw?", "sql": {"sel": 0, "conds": [[7, 0, 1], [2, 0, "FW"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-2", "question": "What position did pick 14 play?", "sql": {"sel": 3, "conds": [[0, 0, 14]], "agg": 0}}
+{"phase": 1, "table_id": "1-25730326-2", "question": "How many points does George M. Lawton have?", "sql": {"sel": 4, "conds": [[0, 0, "George M. Lawton"]], "agg": 1}}
+{"phase": 1, "table_id": "1-11803648-20", "question": "What position is associated with an overall value of 126?", "sql": {"sel": 3, "conds": [[1, 0, "126"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17128242-2", "question": "What is the finish of South Africa?", "sql": {"sel": 5, "conds": [[1, 0, "south africa"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-2", "question": "WHAT SCHOOL DOES HA'SEAN CLINTON-DIX BELONG TO?", "sql": {"sel": 2, "conds": [[0, 0, "Ha'Sean Clinton-Dix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15593730-1", "question": "What chart positions did the album reach when ep was the format?", "sql": {"sel": 4, "conds": [[1, 0, "ep"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15352703-1", "question": "Which college has a pick number of 155?", "sql": {"sel": 4, "conds": [[1, 0, 155]], "agg": 0}}
+{"phase": 1, "table_id": "1-17309500-1", "question": "Name the total number of assists for 77 blocks", "sql": {"sel": 5, "conds": [[6, 0, "77"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10577-1", "question": "What is the Swedish name for South Karelia?", "sql": {"sel": 2, "conds": [[0, 0, "south karelia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12755786-4", "question": "What day was the game held at Firhill against AYR United?", "sql": {"sel": 1, "conds": [[3, 0, "firhill"], [2, 0, "ayr united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14607-5", "question": "What is the country seat for the license plate code 5c?", "sql": {"sel": 1, "conds": [[2, 0, "5c"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-18", "question": "Which school has a Hometown of phoenix, az?", "sql": {"sel": 2, "conds": [[3, 0, "phoenix, az"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10975034-5", "question": "What is the cfl team that has a position of ol?", "sql": {"sel": 1, "conds": [[3, 0, "OL"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17073-1", "question": "What is the highest prominence in ft of the peak with a prominence in m less than 103?", "sql": {"sel": 4, "conds": [[3, 2, 103]], "agg": 1}}
+{"phase": 2, "table_id": "2-18652198-2", "question": "What college was the quarterback from?", "sql": {"sel": 4, "conds": [[3, 0, "quarterback"]], "agg": 0}}
+{"phase": 1, "table_id": "1-261946-3", "question": "Which founding year corresponds with the highest enrollment? ", "sql": {"sel": 3, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-13292247-7", "question": "What is the number of successes for rockets that have more than 3 launches, were based in Russia, are type soyuz and a rocket type of soyuz-u?", "sql": {"sel": 4, "conds": [[3, 1, 3], [1, 0, "russia"], [2, 0, "soyuz"], [0, 0, "soyuz-u"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1105695-13", "question": "What is then engine when the notes state srt8?", "sql": {"sel": 1, "conds": [[5, 0, "srt8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1473672-3", "question": "Which colle/junior/club team did Michel Boudreau play for?", "sql": {"sel": 5, "conds": [[1, 0, "Michel Boudreau"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15873547-1", "question": "What residence hall has the vermin mascot?", "sql": {"sel": 0, "conds": [[7, 0, "Vermin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13599687-37", "question": "What are the lowest entries for a front row smaller than 15 where Michael Schumacher was driving?", "sql": {"sel": 2, "conds": [[3, 2, 15], [0, 0, "michael schumacher"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15577036-2", "question": "Who was the Winner when the Runner-up was Real Salt Lake?", "sql": {"sel": 1, "conds": [[3, 0, "real salt lake"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24648983-1", "question": "What date did the episode with 8.61 million U.S. viewers originally air?", "sql": {"sel": 4, "conds": [[6, 0, "8.61"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-7", "question": "Which player is from Utah?", "sql": {"sel": 0, "conds": [[4, 0, "Utah"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-3", "question": "How many Touchdowns have Extra points larger than 0, and Points of 48?", "sql": {"sel": 1, "conds": [[2, 1, 0], [4, 0, 48]], "agg": 3}}
+{"phase": 2, "table_id": "2-18116279-2", "question": "What is Year(s) Won, when Finish is \"T31\", and when Player is \"Nick Price\"?", "sql": {"sel": 2, "conds": [[5, 0, "t31"], [0, 0, "nick price"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-11", "question": "Who are the all the players whose position is guard in college Clemson?", "sql": {"sel": 2, "conds": [[4, 0, "Clemson"], [3, 0, "Guard"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-8", "question": "what is the pick number minimum if the NFL team is the San Diego Chargers?", "sql": {"sel": 0, "conds": [[1, 0, "San Diego Chargers"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18049082-3", "question": "What years did Tom Lehman win?", "sql": {"sel": 2, "conds": [[0, 0, "tom lehman"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14655985-1", "question": "What position does pick number 12 play?", "sql": {"sel": 3, "conds": [[0, 0, 12]], "agg": 0}}
+{"phase": 1, "table_id": "1-25760427-2", "question": "error (see notes)", "sql": {"sel": 6, "conds": [], "agg": 2}}
+{"phase": 2, "table_id": "2-1014145-1", "question": "Tell me the affiliation for diego walsh", "sql": {"sel": 4, "conds": [[2, 0, "diego walsh"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342592-8", "question": "Name the most field goals", "sql": {"sel": 5, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-11677760-25", "question": "Which school is in Raleigh, NC?", "sql": {"sel": 2, "conds": [[3, 0, "raleigh, nc"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15928363-1", "question": "Name the aspect ratio for 720", "sql": {"sel": 2, "conds": [[1, 0, 720]], "agg": 0}}
+{"phase": 2, "table_id": "2-12202446-1", "question": "What is the lowest image with a 20w Harrison, and less than 20 for Ashmolean?", "sql": {"sel": 0, "conds": [[7, 0, "20w"], [2, 2, 20]], "agg": 2}}
+{"phase": 2, "table_id": "2-11813427-1", "question": "What was the Finish when NL was the League, the Percentage was under 0.726, the Year was larger than 1897, and the Franchies was the Pittsburgh Pirates?", "sql": {"sel": 4, "conds": [[2, 0, "nl"], [3, 2, 0.726], [0, 1, 1897], [1, 0, "pittsburgh pirates"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10812403-2", "question": "What position did the Saskatchewan player get drafted as?", "sql": {"sel": 3, "conds": [[4, 0, "saskatchewan"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17186229-4", "question": "Name the total number of opponent of record 9-2", "sql": {"sel": 2, "conds": [[8, 0, "9-2"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14342480-3", "question": "What is the lowest number of touchdowns for left halfback WIllie Heston who has more than 15 points?", "sql": {"sel": 3, "conds": [[1, 0, "left halfback"], [0, 0, "willie heston"], [6, 1, 15]], "agg": 2}}
+{"phase": 1, "table_id": "1-11677100-11", "question": "What school is he the catcher for?", "sql": {"sel": 2, "conds": [[1, 0, "Catcher"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677691-9", "question": "What college did the player with a school of crete-monee high school go to?", "sql": {"sel": 4, "conds": [[2, 0, "crete-monee high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17991748-3", "question": "What is the total number of years won by Justin Leonard with a to par under 9?", "sql": {"sel": 2, "conds": [[0, 0, "justin leonard"], [4, 2, 9]], "agg": 3}}
+{"phase": 1, "table_id": "1-226619-12", "question": "Name the most red/yellow cards for positive play being 255", "sql": {"sel": 3, "conds": [[4, 0, 255]], "agg": 1}}
+{"phase": 2, "table_id": "2-13004730-2", "question": "Name the score for 30 january 2013", "sql": {"sel": 3, "conds": [[1, 0, "30 january 2013"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17290101-1", "question": "What is the total number of Total, when To Par is \"7\"?", "sql": {"sel": 3, "conds": [[4, 0, 7]], "agg": 3}}
+{"phase": 2, "table_id": "2-18009462-7", "question": "What is the place of the player with \u00a3140,000 and a 68-68-75-68=279 score?", "sql": {"sel": 0, "conds": [[5, 0, "140,000"], [3, 0, "68-68-75-68=279"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-8", "question": "If the NFL team is the Minnesota Vikings, what is the position?", "sql": {"sel": 3, "conds": [[1, 0, "Minnesota Vikings"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17062990-1", "question": "What is the largest round of a pick smaller than 92 from Toledo University?", "sql": {"sel": 0, "conds": [[4, 0, "toledo"], [1, 2, 92]], "agg": 1}}
+{"phase": 1, "table_id": "1-16575609-3", "question": "What college does Jean-Nicolas Carriere play for?", "sql": {"sel": 4, "conds": [[2, 0, "Jean-Nicolas Carriere"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1912276-2", "question": "If -750m is 46.436, what is the name of the cyclist? ", "sql": {"sel": 2, "conds": [[6, 0, "46.436"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-16", "question": "What player was picked earlier than 126 by the Houston Oilers?", "sql": {"sel": 2, "conds": [[0, 2, 126], [1, 0, "houston oilers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1213511-4", "question": "The Estevan Bruins (WCHL) are affiliated with what NHL team?", "sql": {"sel": 4, "conds": [[5, 0, "estevan bruins (wchl)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11803648-20", "question": "How many rounds is the player Matthew Puempel associated with?", "sql": {"sel": 0, "conds": [[2, 0, "Matthew Puempel"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14050485-1", "question": "On what date was the ship with a Pennant number of Q144 commissioned?", "sql": {"sel": 4, "conds": [[1, 0, "q144"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16514575-3", "question": "When the tom watson is playing for the United States and the To par is under 14, what's the total?", "sql": {"sel": 3, "conds": [[1, 0, "united states"], [4, 2, 14], [0, 0, "tom watson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16334302-1", "question": "Who is the Director of the Olsen Gang Sees Red?", "sql": {"sel": 3, "conds": [[1, 0, "the olsen gang sees red"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10672678-1", "question": "What is the sum of all the rounds when a Florida State player was drafted?", "sql": {"sel": 0, "conds": [[4, 0, "florida state"]], "agg": 3}}
+{"phase": 1, "table_id": "1-13169136-1", "question": "What year is Jiyai Shin the champion?", "sql": {"sel": 0, "conds": [[2, 0, "Jiyai Shin"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10753786-4", "question": "What was the highest order amount in weeks prier to 15 and a major less than 1?", "sql": {"sel": 4, "conds": [[3, 2, 15], [5, 2, 1]], "agg": 1}}
+{"phase": 1, "table_id": "1-1108394-43", "question": "what is the minimum total", "sql": {"sel": 7, "conds": [], "agg": 2}}
+{"phase": 2, "table_id": "2-16772687-2", "question": "What years were from Connecticut?", "sql": {"sel": 4, "conds": [[5, 0, "connecticut"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-8", "question": "Which position was picked before 63, for Oklahoma College?", "sql": {"sel": 3, "conds": [[0, 2, 63], [4, 0, "oklahoma"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11621915-3", "question": "How many events for bob murphy?", "sql": {"sel": 4, "conds": [[1, 0, "bob murphy"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11801126-5", "question": "What Tournament was the 2010 Olympic Games?", "sql": {"sel": 0, "conds": [[7, 0, "olympic games"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10971065-12", "question": "I want to know the sum of points with a previous rank of 3", "sql": {"sel": 5, "conds": [[1, 0, "3"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11677691-10", "question": "Which position does the player from Muscle Shoals, Alabama play?", "sql": {"sel": 1, "conds": [[3, 0, "muscle shoals, alabama"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18455690-1", "question": "what is the pick when the school is jasper hs (jasper, texas)?", "sql": {"sel": 0, "conds": [[4, 0, "jasper hs (jasper, texas)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11782763-1", "question": "What is the Status when Henry I is the Monarch and the Reason is succession unclear 1100-1103?", "sql": {"sel": 1, "conds": [[6, 0, "henry i"], [4, 0, "succession unclear 1100-1103"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1895522-2", "question": "What is the smallest converted value at number 19?", "sql": {"sel": 3, "conds": [[0, 0, "19"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18113463-4", "question": "Which To par has a Place of t4, and wayne grady is in?", "sql": {"sel": 4, "conds": [[0, 0, "t4"], [1, 0, "wayne grady"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13596926-1", "question": "What transmitter location has digital power of 570kw?", "sql": {"sel": 7, "conds": [[4, 0, "570kw"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10312569-1", "question": "Tell me the result for lincoln financial field december 11, 2005", "sql": {"sel": 3, "conds": [[4, 0, "lincoln financial field"], [1, 0, "december 11, 2005"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14344807-14", "question": "Who is the player who was from Dynamo-2 moscow (rus) and was picked after round 5?", "sql": {"sel": 1, "conds": [[0, 1, 5], [4, 0, "dynamo-2 moscow (rus)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15690379-3", "question": "What is the longest Time (seconds), when the Nation - athlete(s) is Sylke Otto - Germany?", "sql": {"sel": 4, "conds": [[2, 0, "sylke otto - germany"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18180883-6", "question": "What is the Nominated work of popularity award (actor in a motion picture)?", "sql": {"sel": 3, "conds": [[2, 0, "popularity award (actor in a motion picture)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-12", "question": "Which position did the player from the hometown of Dallas, TX play?", "sql": {"sel": 1, "conds": [[3, 0, "Dallas, TX"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16147528-2", "question": "What is the average total for Tiger Woods?", "sql": {"sel": 3, "conds": [[0, 0, "tiger woods"]], "agg": 5}}
+{"phase": 2, "table_id": "2-14056076-13", "question": "Which Position has a Round larger than 6, and a Player of neil pilon?", "sql": {"sel": 2, "conds": [[0, 1, 6], [1, 0, "neil pilon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-11", "question": "Which nationality is associated with Temple?", "sql": {"sel": 1, "conds": [[4, 0, "temple"]], "agg": 0}}
+{"phase": 1, "table_id": "1-287659-2", "question": "In Ca/Nv, what are all of the regional page #s?", "sql": {"sel": 4, "conds": [[1, 0, "CA/NV"]], "agg": 0}}
+{"phase": 2, "table_id": "2-140976-1", "question": "What is the Homeport that has a Laid down on 14 december 1985?", "sql": {"sel": 5, "conds": [[2, 0, "14 december 1985"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25730326-2", "question": "What is the least number of extra points? ", "sql": {"sel": 2, "conds": [], "agg": 2}}
+{"phase": 2, "table_id": "2-18369370-2", "question": "What is the highest total of the player with a 7 to par?", "sql": {"sel": 3, "conds": [[4, 0, 7]], "agg": 1}}
+{"phase": 2, "table_id": "2-18113463-3", "question": "What is the lowest To par of gary player, with more than 145 total?", "sql": {"sel": 4, "conds": [[0, 0, "gary player"], [3, 1, 145]], "agg": 2}}
+{"phase": 2, "table_id": "2-18131508-7", "question": "Which Score has a Place of t5, and a Country of united states?", "sql": {"sel": 3, "conds": [[0, 0, "t5"], [2, 0, "united states"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1597866-3", "question": "Name the host when first premiere is august 3, 2007", "sql": {"sel": 2, "conds": [[4, 0, "August 3, 2007"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17326499-5", "question": "What is 2009, when Year is \"Highest Mean Annual Temperature\"?", "sql": {"sel": 3, "conds": [[0, 0, "highest mean annual temperature"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18017216-3", "question": "Which Country has a To par smaller than 7, and a Total of 148?", "sql": {"sel": 1, "conds": [[4, 2, 7], [3, 0, 148]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-10", "question": "What was the position of the player from Butler High School?", "sql": {"sel": 1, "conds": [[2, 0, "Butler High School"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-8", "question": "Where did robert nkemdiche \u2021 go to college", "sql": {"sel": 4, "conds": [[0, 0, "Robert Nkemdiche \u2021"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16225902-7", "question": "What Country's Player scored 71-69-70-71=281?", "sql": {"sel": 2, "conds": [[3, 0, "71-69-70-71=281"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16575609-3", "question": "How many cfl teams had pick # 21?", "sql": {"sel": 1, "conds": [[0, 0, 21]], "agg": 3}}
+{"phase": 2, "table_id": "2-15546197-1", "question": "Which motor's quantity was more than 8, and a class of bs 1915?", "sql": {"sel": 3, "conds": [[1, 1, 8], [0, 0, "bs 1915"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2679061-6", "question": "what is the position for pick # 103?", "sql": {"sel": 2, "conds": [[0, 0, 103]], "agg": 0}}
+{"phase": 2, "table_id": "2-15563403-1", "question": "Who was the constitutional ticken when Charles B. Sears was the republican ticket?", "sql": {"sel": 4, "conds": [[2, 0, "charles b. sears"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11874802-1", "question": "What horse was induced in 2011 with a sire of cowboy p-12?", "sql": {"sel": 0, "conds": [[1, 0, 2011], [4, 0, "cowboy p-12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18773999-1", "question": "What was the total enrollment 08-09 of Franklin County?", "sql": {"sel": 3, "conds": [[0, 0, "franklin county"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11782763-1", "question": "Who is the Monarch whose Heir is Robert Curthose when the Reason is that the father became king?", "sql": {"sel": 6, "conds": [[0, 0, "robert curthose"], [4, 0, "father became king"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15140180-1", "question": "What is the Highest finish with a Most recent finish that was 2nd?", "sql": {"sel": 10, "conds": [[9, 0, "2nd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2076516-1", "question": "When 1927 is the founded year how many measurements of enrollment in 2012 are there?", "sql": {"sel": 4, "conds": [[5, 0, 1927]], "agg": 3}}
+{"phase": 2, "table_id": "2-15717093-2", "question": "What was the date of airing for episodes with ratings under 10.1 and production number of 96 5-09?", "sql": {"sel": 2, "conds": [[3, 2, 10.1], [0, 0, "96 5-09"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15690379-3", "question": "What is the Date, when the Record is, \"track\", when the Time (seconds) is longer than 43.564, and when the Sport is luge - women's singles?", "sql": {"sel": 3, "conds": [[1, 0, "track"], [4, 1, 43.564], [0, 0, "luge - women's singles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11603398-3", "question": "What is the highest rank of the player who played 30 events and made less than $2,708,005?", "sql": {"sel": 0, "conds": [[3, 2, "2,708,005"], [4, 0, 30]], "agg": 1}}
+{"phase": 2, "table_id": "2-18133211-2", "question": "What player has 289 as the total?", "sql": {"sel": 0, "conds": [[3, 0, 289]], "agg": 0}}
+{"phase": 2, "table_id": "2-12333215-4", "question": "What place has Canada as the country?", "sql": {"sel": 0, "conds": [[2, 0, "canada"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1987995-5", "question": "How many locations have been used for ballparks named Memorial Stadium?", "sql": {"sel": 1, "conds": [[0, 0, "Memorial Stadium"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18097219-7", "question": "What is Score, when Country is \"United States\", and when Player is \"Mark Brooks\"?", "sql": {"sel": 3, "conds": [[2, 0, "united states"], [1, 0, "mark brooks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18097219-7", "question": "What is To par, when Country is \"United States\", when Money ( \u00a3 ) is greater than 125,000, and when Score is \"67-70-68-71=276\"?", "sql": {"sel": 4, "conds": [[2, 0, "united states"], [5, 1, "125,000"], [3, 0, "67-70-68-71=276"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1213511-2", "question": "What is the nationality of the player from Buffalo Sabres?", "sql": {"sel": 3, "conds": [[4, 0, "Buffalo Sabres"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29545336-2", "question": "How many million U.S. viewers was written by Matt Pelfrey?", "sql": {"sel": 5, "conds": [[3, 0, "Matt Pelfrey"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18695319-1", "question": "what is the round when the pick # is less than 236 and the position is offensive guard?", "sql": {"sel": 0, "conds": [[1, 2, 236], [3, 0, "offensive guard"]], "agg": 5}}
+{"phase": 2, "table_id": "2-14056076-13", "question": "Which Position has a Nationality of canada, and a Player of pat janostin?", "sql": {"sel": 2, "conds": [[3, 0, "canada"], [1, 0, "pat janostin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14670843-4", "question": "What was the type of boat built in Port Blakeley", "sql": {"sel": 1, "conds": [[3, 0, "port blakeley"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-15", "question": "How many clubs does number 6 play for?", "sql": {"sel": 5, "conds": [[0, 0, 6]], "agg": 3}}
+{"phase": 1, "table_id": "1-14655985-1", "question": "who is the the\u00a0player\u00a0where\u00a0pick #\u00a0is 64", "sql": {"sel": 2, "conds": [[0, 0, 64]], "agg": 0}}
+{"phase": 1, "table_id": "1-287659-2", "question": "In the North Central region, what are the regional page #'s?", "sql": {"sel": 4, "conds": [[0, 0, "North Central"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15149189-1", "question": "Name the club/province for steve borthwick", "sql": {"sel": 4, "conds": [[0, 0, "steve borthwick"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17641314-3", "question": "Name the minimum 11-12 enrollment for washington school", "sql": {"sel": 4, "conds": [[0, 0, "Washington"]], "agg": 2}}
+{"phase": 1, "table_id": "1-22853654-9", "question": "Name the result for alexander shvec", "sql": {"sel": 7, "conds": [[5, 0, "Alexander Shvec"]], "agg": 0}}
+{"phase": 2, "table_id": "2-179348-2", "question": "Which Yards have Carries smaller than 23, and a Team of at chi, and an Average smaller than 8.5?", "sql": {"sel": 3, "conds": [[2, 2, 23], [1, 0, "at chi"], [4, 2, 8.5]], "agg": 2}}
+{"phase": 1, "table_id": "1-245694-4", "question": "Name the concacaf for 2010 season", "sql": {"sel": 4, "conds": [[0, 0, 2010]], "agg": 0}}
+{"phase": 2, "table_id": "2-17201619-10", "question": "Which music video was from the album Map of the Human Soul?", "sql": {"sel": 1, "conds": [[3, 0, "map of the human soul"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16645-1", "question": "What is the rural population percentage in 1979?", "sql": {"sel": 2, "conds": [[0, 0, 1979]], "agg": 2}}
+{"phase": 2, "table_id": "2-18135501-6", "question": "What is the to par of the player from Argentina with a t8 place?", "sql": {"sel": 4, "conds": [[0, 0, "t8"], [2, 0, "argentina"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17277176-1", "question": "What is Highest Total, when Year(s) Won is before 1959?", "sql": {"sel": 3, "conds": [[2, 2, 1959]], "agg": 1}}
+{"phase": 2, "table_id": "2-1273047-2", "question": "Which country had a tower destroyed in 1899?", "sql": {"sel": 2, "conds": [[1, 0, "1899"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1307572-1", "question": "How many coins have a diameter of 23mm?", "sql": {"sel": 7, "conds": [[1, 0, "23mm"]], "agg": 3}}
+{"phase": 1, "table_id": "1-14650373-1", "question": "What is the highest pick number?", "sql": {"sel": 0, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-11864519-1", "question": "What is the highest summary statistic of the algorithm with a distance larger than 2 and simulated datasets of aabbababaaabbababbab?", "sql": {"sel": 2, "conds": [[3, 1, 2], [1, 0, "aabbababaaabbababbab"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1363000-3", "question": "Who was the architect that built the Electric Railway Chambers before 1915?", "sql": {"sel": 5, "conds": [[3, 2, 1915], [0, 0, "electric railway chambers"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-13", "question": "What is the total number that has a height of 2.06?", "sql": {"sel": 0, "conds": [[2, 0, "2.06"]], "agg": 3}}
+{"phase": 1, "table_id": "1-30047613-12", "question": "in april 13 what was the streak", "sql": {"sel": 8, "conds": [[1, 0, "April 13"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25730326-2", "question": "How many touchdowns did the player with 10 points have?", "sql": {"sel": 1, "conds": [[4, 0, 10]], "agg": 2}}
+{"phase": 2, "table_id": "2-11497980-1", "question": "Which Torque Nm@rpm has a Power kW@rpm equal to 184 @ 2500 and a GVM (kg) Technical Capacity of 16000?", "sql": {"sel": 3, "conds": [[2, 0, "184 @ 2500"], [4, 0, "16000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1145970-5", "question": "What is the lowest high position for 10 years of hits, and over 870,000 sales?", "sql": {"sel": 3, "conds": [[1, 0, "10 years of hits"], [4, 1, "870,000"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1873992-3", "question": "What is the lowest rank that has university park, pa as the location?", "sql": {"sel": 0, "conds": [[3, 0, "university park, pa"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16533683-3", "question": "What is the average Episode Number, when Original Airdate is March 21, 2010, and when Season is less than 3?", "sql": {"sel": 4, "conds": [[5, 0, "march 21, 2010"], [2, 2, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-12894445-1", "question": "Name the title with representative edward h. strobel", "sql": {"sel": 1, "conds": [[0, 0, "edward h. strobel"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2651755-2", "question": "where together we can do more is gloria mujica ( ph ) what are all the cons.", "sql": {"sel": 0, "conds": [[3, 0, "Gloria Mujica ( PH )"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677691-4", "question": "What is the hometown for the player that is defensive back and went to alabama?", "sql": {"sel": 3, "conds": [[1, 0, "defensive back"], [4, 0, "alabama"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17809257-14", "question": "What is the Official ITV1 rating for auditions 4?", "sql": {"sel": 2, "conds": [[0, 0, "auditions 4"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11210576-3", "question": "What duration is listed for Christian de la Fuente?", "sql": {"sel": 5, "conds": [[2, 0, "Christian de la Fuente"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14347256-16", "question": "Which player's nationality is from Sweden?", "sql": {"sel": 1, "conds": [[3, 0, "sweden"]], "agg": 0}}
+{"phase": 1, "table_id": "1-29728596-1", "question": "Where was the home match against FK Rudar Ugljevik played?", "sql": {"sel": 2, "conds": [[5, 0, "FK Rudar Ugljevik"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27514362-7", "question": "What is the finish position for cars by Pontiac driven by Bobby Hamilton?", "sql": {"sel": 0, "conds": [[5, 0, "Pontiac"], [3, 0, "Bobby Hamilton"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2897457-2", "question": "What player came from Cornell University (NCAA)?", "sql": {"sel": 1, "conds": [[5, 0, "Cornell University (NCAA)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16025322-1", "question": "What is the sum of the round of the player who plays linebacker and has a pick # greater than 251?", "sql": {"sel": 0, "conds": [[3, 0, "linebacker"], [1, 1, 251]], "agg": 4}}
+{"phase": 1, "table_id": "1-11677100-7", "question": "How many schools did Mike Jones attend?", "sql": {"sel": 2, "conds": [[0, 0, "Mike Jones"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14640372-3", "question": "What is the largest events with earning less than $384,489 ranked more than 4 with less than 1 win?", "sql": {"sel": 4, "conds": [[3, 2, "384,489"], [0, 1, 4], [5, 2, 1]], "agg": 1}}
+{"phase": 2, "table_id": "2-10269678-1", "question": "Which government is number 6?", "sql": {"sel": 4, "conds": [[0, 0, 6]], "agg": 0}}
+{"phase": 1, "table_id": "1-28418916-3", "question": "How many head coaches did Kent state golden flashes have?", "sql": {"sel": 4, "conds": [[1, 0, "Kent State Golden Flashes"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12475284-7", "question": "What is South Korea's to par value?", "sql": {"sel": 4, "conds": [[2, 0, "south korea"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342367-5", "question": "what is the maximum number of points?", "sql": {"sel": 6, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-11779131-2", "question": "Which pick was MIchael Holper?", "sql": {"sel": 0, "conds": [[1, 0, "michael holper"]], "agg": 2}}
+{"phase": 2, "table_id": "2-17290196-1", "question": "What is the total number of To Par, when Money ( $ ) is less than 387, and when Player is \"Al Brosch\"?", "sql": {"sel": 4, "conds": [[5, 2, 387], [1, 0, "al brosch"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17445522-1", "question": "Where was the decision draw before round 5?", "sql": {"sel": 7, "conds": [[3, 0, "decision draw"], [5, 2, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-11956457-1", "question": "Name the CPU clock for L2 cache of 2*512 and series ^ of e-series and DDR3 speed of 1066", "sql": {"sel": 2, "conds": [[5, 0, "2*512"], [0, 0, "e-series"], [7, 0, 1066]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-13", "question": "Name the total number of grupo capitol valladolid", "sql": {"sel": 0, "conds": [[5, 0, "Grupo Capitol Valladolid"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17386076-1", "question": "In which round was Jerry Butler chosen?", "sql": {"sel": 0, "conds": [[2, 0, "jerry butler"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16490473-2", "question": "What country does charles coody play for?", "sql": {"sel": 1, "conds": [[0, 0, "charles coody"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007091-1", "question": "Which country has a to par less than 19 and a score of 75-79-77-73=304?", "sql": {"sel": 2, "conds": [[4, 2, 19], [3, 0, "75-79-77-73=304"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1285475-1", "question": "What displacement is the model in 1999 with a Torque of 280n\u00b7m (207lb\u00b7ft) @ 1750?", "sql": {"sel": 1, "conds": [[4, 0, 1999], [3, 0, "280n\u00b7m (207lb\u00b7ft) @ 1750"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11622562-3", "question": "What is the high rank for players earning over $533,929?", "sql": {"sel": 0, "conds": [[3, 1, "533,929"]], "agg": 1}}
+{"phase": 1, "table_id": "1-29728596-2", "question": "Who were the away teams when the competition was the 1st ``republic of srpska football day`` and the home team was u 14 republic of srpska?", "sql": {"sel": 5, "conds": [[1, 0, "1st ``Republic of Srpska Football Day``"], [3, 0, "U 14 Republic of Srpska"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14583258-3", "question": "Name the most rank for wins more than 0 and events of 26", "sql": {"sel": 0, "conds": [[4, 0, 26], [5, 1, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-18009462-7", "question": "What is the to par of the player with a 73-70-70-65=278 score?", "sql": {"sel": 4, "conds": [[3, 0, "73-70-70-65=278"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342480-7", "question": "What is the lowest amount of field goals on the chart? ", "sql": {"sel": 5, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-26631526-1", "question": "Name the release date xbox 360 for sea wolf", "sql": {"sel": 4, "conds": [[1, 0, "Sea Wolf"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14242137-15", "question": "What is the 3rd Liga from 2010-11?", "sql": {"sel": 2, "conds": [[0, 0, "2010-11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11994830-20", "question": "What was the Comp average, having Gino Guidugli as a player and a rating of more than 92.2?", "sql": {"sel": 2, "conds": [[0, 0, "gino guidugli"], [4, 1, 92.2]], "agg": 5}}
+{"phase": 2, "table_id": "2-18017216-5", "question": "What is the country that has a place of T6, a socre of 69-69=138, and where Niclas Fasth played?", "sql": {"sel": 2, "conds": [[0, 0, "t6"], [3, 0, "69-69=138"], [1, 0, "niclas fasth"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2508633-3", "question": "Which player went to college at Tennessee?", "sql": {"sel": 2, "conds": [[4, 0, "Tennessee"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18156085-7", "question": "What is the To par when Lanny Wadkins is the player?", "sql": {"sel": 4, "conds": [[1, 0, "lanny wadkins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17387421-1", "question": "What is Player, when Round is less than 6, and when Pick is \"69\"?", "sql": {"sel": 2, "conds": [[0, 2, 6], [1, 0, 69]], "agg": 0}}
+{"phase": 2, "table_id": "2-18044375-7", "question": "Who is from south africa and has a score of 76-75-73-71=295?", "sql": {"sel": 1, "conds": [[2, 0, "south africa"], [3, 0, "76-75-73-71=295"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15430606-1", "question": "Name the maximum number of disc for bill gereghty", "sql": {"sel": 1, "conds": [[3, 0, "Bill Gereghty"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1577834-1", "question": "Which Draw has a Season of 2001\u201302, and Points larger than 47?", "sql": {"sel": 2, "conds": [[0, 0, "2001\u201302"], [4, 1, 47]], "agg": 4}}
+{"phase": 2, "table_id": "2-16490473-1", "question": "What player has a total of 297?", "sql": {"sel": 0, "conds": [[3, 0, 297]], "agg": 0}}
+{"phase": 2, "table_id": "2-12347040-1", "question": "What is the Priority-entry-rights to Derby in rank 4?", "sql": {"sel": 4, "conds": [[0, 0, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-171200-2", "question": "What Label has a Code of cocy-78365?", "sql": {"sel": 4, "conds": [[5, 0, "cocy-78365"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18639024-14", "question": "How many games does the player with 1 (0) finals and a w-league of 28 (1) have?", "sql": {"sel": 1, "conds": [[3, 0, "1 (0)"], [2, 0, "28 (1)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1014145-1", "question": "Tell me the lowest pick number for new england revolution", "sql": {"sel": 0, "conds": [[1, 0, "new england revolution"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18122130-2", "question": "Which player is from scotland?", "sql": {"sel": 0, "conds": [[1, 0, "scotland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14650373-1", "question": "Which NFL team picked Patrick Collins?", "sql": {"sel": 1, "conds": [[2, 0, "patrick collins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12859623-3", "question": "On what surface was the 26 August 2001 tournament played?", "sql": {"sel": 2, "conds": [[0, 0, "26 august 2001"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1717663-1", "question": "Which is the earliest founded day school to have entered the competition after 1958?", "sql": {"sel": 3, "conds": [[6, 0, "day"], [7, 1, 1958]], "agg": 2}}
+{"phase": 2, "table_id": "2-16022840-3", "question": "What position is played by the player from the Chicago Cubs?", "sql": {"sel": 3, "conds": [[2, 0, "chicago cubs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342480-15", "question": "How many touchdowns were made where field goals were less than 0?", "sql": {"sel": 1, "conds": [[3, 2, 0]], "agg": 4}}
+{"phase": 2, "table_id": "2-11622829-3", "question": "How many win total which has the rank smaller than 3 and events smaller than 22", "sql": {"sel": 5, "conds": [[4, 2, 22], [0, 2, 3]], "agg": 3}}
+{"phase": 2, "table_id": "2-1721801-3", "question": "What is the total years for roots and branches?", "sql": {"sel": 0, "conds": [[3, 0, "roots and branches"]], "agg": 4}}
+{"phase": 1, "table_id": "1-269920-16", "question": "How many entries have a speed of exactly 2.53 GHz?", "sql": {"sel": 6, "conds": [[1, 0, "2.53"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16376436-1", "question": "What college did Marcus Wilson attend?", "sql": {"sel": 4, "conds": [[2, 0, "marcus wilson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28819393-1", "question": "When 3.29% was the average per candidate, what was the number of average votes per candidate?", "sql": {"sel": 3, "conds": [[5, 0, "3.29"]], "agg": 2}}
+{"phase": 1, "table_id": "1-21258-1", "question": "period between 1985 - 1990 have minimum infant mortality rate of what.", "sql": {"sel": 8, "conds": [[0, 0, "1985 - 1990"]], "agg": 2}}
+{"phase": 2, "table_id": "2-14208842-14", "question": "In what Round is John Parco a Center?", "sql": {"sel": 0, "conds": [[2, 0, "center"], [1, 0, "john parco"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15149189-1", "question": "Name the position for the player born 2 november 1987", "sql": {"sel": 1, "conds": [[2, 0, "2 november 1987"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14562722-2", "question": "Name the most epiosdes when region 4 is march 13, 2008", "sql": {"sel": 2, "conds": [[5, 0, "March 13, 2008"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15760618-1", "question": "What is the highest Ranking Round Rank for Russia with a Final Rank over 11?", "sql": {"sel": 1, "conds": [[2, 0, "russia"], [0, 1, 11]], "agg": 1}}
+{"phase": 2, "table_id": "2-16225902-5", "question": "What was the score for the player from Scotland?", "sql": {"sel": 3, "conds": [[2, 0, "scotland"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25730123-2", "question": "What were the least amount of field goals when Frederick L. Conklin played?", "sql": {"sel": 3, "conds": [[0, 0, "Frederick L. Conklin"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16772687-9", "question": "What is the nationality of the PG position from VCU?", "sql": {"sel": 1, "conds": [[3, 0, "pg"], [5, 0, "vcu"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11779131-2", "question": "Which country is Leo Najorda from?", "sql": {"sel": 2, "conds": [[1, 0, "leo najorda"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2941963-1", "question": "how many countiers had 2009 remittances of 6.02?", "sql": {"sel": 0, "conds": [[2, 0, "6.02"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1806641-2", "question": "What is Award, when Category is \"Best Actor\", and when Year is less than 1988?", "sql": {"sel": 1, "conds": [[2, 0, "best actor"], [0, 2, 1988]], "agg": 0}}
+{"phase": 2, "table_id": "2-18148933-6", "question": "What is the to par for the score 64-73-74-69=280?", "sql": {"sel": 4, "conds": [[3, 0, "64-73-74-69=280"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-19", "question": "Which player went to Gonzaga?", "sql": {"sel": 0, "conds": [[4, 0, "gonzaga"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30134667-2", "question": "What is the circuit located in baltimore , maryland?", "sql": {"sel": 1, "conds": [[2, 0, "Baltimore , Maryland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16514630-2", "question": "Tiger Woods with a total less than 293 had what To par?", "sql": {"sel": 4, "conds": [[3, 2, 293], [0, 0, "tiger woods"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13605170-2", "question": "how many Curtiss XBTC aircraft are retired?", "sql": {"sel": 4, "conds": [[0, 0, "Curtiss XBTC"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11803648-22", "question": "What is the position of a player from a round less than 4 and an overall of 17?", "sql": {"sel": 3, "conds": [[0, 2, 4], [1, 0, "17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15868127-4", "question": "How many total No Results are recorded for less than 6 wins?", "sql": {"sel": 3, "conds": [[1, 2, 6]], "agg": 3}}
+{"phase": 2, "table_id": "2-12475284-3", "question": "What was the winning to par score of the 1993 PGA Championship?", "sql": {"sel": 4, "conds": [[2, 0, "1993"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677691-6", "question": "Which college has a linebacker from Lessburg High School?", "sql": {"sel": 4, "conds": [[1, 0, "linebacker"], [2, 0, "lessburg high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18133211-7", "question": "Which Money (\u00a3) has a Player of jodie mudd?", "sql": {"sel": 5, "conds": [[1, 0, "jodie mudd"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14639984-3", "question": "Which Events have a Player of tom kite, and Earnings ($) smaller than 760,405?", "sql": {"sel": 4, "conds": [[1, 0, "tom kite"], [3, 2, "760,405"]], "agg": 5}}
+{"phase": 2, "table_id": "2-14344187-13", "question": "Which player is in position center for round 2?", "sql": {"sel": 1, "conds": [[0, 0, "2"], [2, 0, "center"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15593730-1", "question": "The album titled I had what chart positions?", "sql": {"sel": 4, "conds": [[0, 0, "i"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1732978-1", "question": "What average wheels has accounting as the type, with IBM Collection as the location?", "sql": {"sel": 3, "conds": [[2, 0, "accounting"], [0, 0, "ibm collection"]], "agg": 5}}
+{"phase": 2, "table_id": "2-15909912-2", "question": "What is the total number of Std SAPs with 0-11 Opt SAPS?", "sql": {"sel": 6, "conds": [[5, 0, "0-11"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17430068-1", "question": "what is the club that was founded before 2007, joined prsl in 2008 and the stadium is yldefonso sol\u00e1 morales stadium?", "sql": {"sel": 0, "conds": [[3, 2, 2007], [4, 0, 2008], [2, 0, "yldefonso sol\u00e1 morales stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16772687-6", "question": "What is the jersey number of the player from years 1986 \u2013 1991 1997 \u2013 1999?", "sql": {"sel": 2, "conds": [[4, 0, "1986 \u2013 1991 1997 \u2013 1999"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18122130-5", "question": "What is To par, when Player is \"Larry Rinker\"?", "sql": {"sel": 4, "conds": [[1, 0, "larry rinker"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18622103-2", "question": "What is the number of guests for the Viking Ingvar, built earlier than 1990?", "sql": {"sel": 5, "conds": [[0, 0, "viking ingvar"], [1, 2, 1990]], "agg": 5}}
+{"phase": 1, "table_id": "1-29836557-2", "question": "What university was Kevan George affiliated with?", "sql": {"sel": 4, "conds": [[2, 0, "Kevan George"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18207694-1", "question": "What is the release date for the song \"had a dad\"?", "sql": {"sel": 5, "conds": [[0, 0, "\"Had a Dad\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-18735456-2", "question": "What city has the home team of the brisbane broncos?", "sql": {"sel": 2, "conds": [[4, 0, "brisbane broncos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18672607-1", "question": "Which ISHAA school joined in 2012 and has a mascot of the panthers?", "sql": {"sel": 4, "conds": [[7, 2, 2012], [2, 0, "panthers"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25774493-3", "question": "What were the blocks per game in the selection where the field goal percentage was .594 (2nd)?", "sql": {"sel": 7, "conds": [[5, 0, ".594 (2nd)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18059698-3", "question": "WHAT IS THE PLAYER WITH TOTAL LESS THAN 151, TO PAR OF 8?", "sql": {"sel": 0, "conds": [[3, 2, 151], [4, 0, 8]], "agg": 0}}
+{"phase": 1, "table_id": "1-20170644-1", "question": "What CFL team did simeon rottier play for?", "sql": {"sel": 1, "conds": [[2, 0, "Simeon Rottier"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17900317-4", "question": "How many Matches have an Average larger than 26.53, and an S/Rate of 165.4, and a 100s smaller than 1?", "sql": {"sel": 2, "conds": [[8, 1, 26.53], [6, 0, 165.4], [7, 2, 1]], "agg": 3}}
+{"phase": 2, "table_id": "2-18097219-7", "question": "What is To par, when Player is \"Greg Turner\"?", "sql": {"sel": 4, "conds": [[1, 0, "greg turner"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14344807-14", "question": "What is the lowest round number that Ian Forbes was picked in the draft?", "sql": {"sel": 0, "conds": [[1, 0, "ian forbes"]], "agg": 2}}
+{"phase": 1, "table_id": "1-21321804-1", "question": "How many clf teams have a pick # of 5?", "sql": {"sel": 1, "conds": [[0, 0, 5]], "agg": 3}}
+{"phase": 2, "table_id": "2-1558755-1", "question": "What is the largest number of top division titles with a 2012 position of 10th?", "sql": {"sel": 5, "conds": [[1, 0, "10th"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18012080-1", "question": "What is the local name for January 7, 2013?", "sql": {"sel": 2, "conds": [[4, 0, "january 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15127238-2", "question": "Which Year has a Genre of rock (track)?", "sql": {"sel": 0, "conds": [[2, 0, "rock (track)"]], "agg": 4}}
+{"phase": 1, "table_id": "1-2897457-8", "question": "Who was drafted to the Vancouver Canucks?", "sql": {"sel": 1, "conds": [[4, 0, "Vancouver Canucks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-10", "question": "What is the Team for Stanford College?", "sql": {"sel": 1, "conds": [[4, 0, "stanford"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-9", "question": "Which college is present in the hometown of Crete, Illinois?", "sql": {"sel": 4, "conds": [[3, 0, "Crete, Illinois"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12607102-1", "question": "Who won the Northumberland Women's Cup when the Northumberland Senior Benevolent Bowl was won by Percy Main Amateurs?", "sql": {"sel": 4, "conds": [[2, 0, "percy main amateurs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1089254-1", "question": "What lab measurements can help diagnosie ornithine transcarbamylase deficiency?", "sql": {"sel": 4, "conds": [[3, 0, "ornithine transcarbamylase deficiency"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18468611-1", "question": "What school did the player drafted for the New York Mets attend?", "sql": {"sel": 4, "conds": [[2, 0, "new york mets"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17798201-14", "question": "Who position did matthew tassone who was drafted after round 5 play?", "sql": {"sel": 2, "conds": [[0, 1, 5], [1, 0, "matthew tassone"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18703231-1", "question": "What is Joselito Escobar's Pick number?", "sql": {"sel": 0, "conds": [[1, 0, "joselito escobar"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11677760-26", "question": "What is the hometown of the player who attended Ohio State?", "sql": {"sel": 3, "conds": [[4, 0, "ohio state"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-3", "question": "What school does Kerry Wood play for?", "sql": {"sel": 2, "conds": [[0, 0, "Kerry Wood"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14431699-3", "question": "What was the score at Spartan Stadium when San Jose was the Home team?", "sql": {"sel": 2, "conds": [[1, 0, "san jose"], [4, 0, "spartan stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18166348-4", "question": "In what place did Des Smyth, who scored less than 71, finish?", "sql": {"sel": 0, "conds": [[3, 2, 71], [1, 0, "des smyth"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342480-5", "question": "Name the number of points for right halfback and starter being yes", "sql": {"sel": 6, "conds": [[1, 0, "Right halfback"], [2, 0, "yes"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17245565-6", "question": "What was Jim Colbert's score?", "sql": {"sel": 3, "conds": [[1, 0, "jim colbert"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677760-31", "question": "Name the numbers of the nba draft where the player went to kentucky", "sql": {"sel": 5, "conds": [[4, 0, "Kentucky"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1473672-8", "question": "What is the Position for the brandon wheat kings (wchl)?", "sql": {"sel": 2, "conds": [[5, 0, "brandon wheat kings (wchl)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18483171-1", "question": "List the total number of institutions founded in Rock Island, Illinois.", "sql": {"sel": 2, "conds": [[1, 0, "Rock Island, Illinois"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12771946-8", "question": "How many weeks in total were games played at Cleveland Browns Stadium?", "sql": {"sel": 0, "conds": [[4, 0, "cleveland browns stadium"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16022840-2", "question": "What is the Team with a Player that is david cooper?", "sql": {"sel": 2, "conds": [[1, 0, "david cooper"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2679061-6", "question": "What is the college/junior/club team for player don barber?", "sql": {"sel": 5, "conds": [[1, 0, "Don Barber"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22410316-17", "question": "what team had ricardo serrano for combativity prize?", "sql": {"sel": 5, "conds": [[6, 0, "Ricardo Serrano"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13514348-7", "question": "Who were the umpires when Paul Vines (S) won the Simpson Medal?", "sql": {"sel": 9, "conds": [[6, 0, "Paul Vines (S)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1246822-2", "question": "In what year was the ctc-3 model built?", "sql": {"sel": 0, "conds": [[2, 0, "ctc-3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19605700-1", "question": "What is the total number of capitals that have an area of exactly 1104 square km?", "sql": {"sel": 5, "conds": [[1, 0, 1104]], "agg": 3}}
+{"phase": 2, "table_id": "2-10560886-14", "question": "What is the position of the player from Temple?", "sql": {"sel": 2, "conds": [[4, 0, "temple"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-11", "question": "WHAT HOMETOWN DOES HE PLAY AS THE CATCHER FOR?", "sql": {"sel": 3, "conds": [[1, 0, "Catcher"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12333215-3", "question": "What is the highest Total for Australia?", "sql": {"sel": 3, "conds": [[1, 0, "australia"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18786347-3", "question": "what is the average score for s\u00f8ren kjeldsen?", "sql": {"sel": 3, "conds": [[1, 0, "s\u00f8ren kjeldsen"]], "agg": 5}}
+{"phase": 2, "table_id": "2-15654720-1", "question": "Which PBA Titles has a TV Finals larger than 6, and an Events larger than 20?", "sql": {"sel": 5, "conds": [[4, 1, 6], [1, 1, 20]], "agg": 5}}
+{"phase": 1, "table_id": "1-11803648-22", "question": "What is the position of player Marcus Hogberg?", "sql": {"sel": 3, "conds": [[2, 0, "Marcus Hogberg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15313481-12", "question": "What unit is in Mongolia?", "sql": {"sel": 3, "conds": [[4, 0, "mongolia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21321804-5", "question": "What is Marc Parenteau's position? ", "sql": {"sel": 3, "conds": [[2, 0, "Marc Parenteau"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-3", "question": "What's Shion Newton's MLB draft result?", "sql": {"sel": 4, "conds": [[0, 0, "Shion Newton"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2562113-1", "question": "What type of institution is San Diego Christian college? ", "sql": {"sel": 2, "conds": [[0, 0, "San Diego Christian College"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342210-2", "question": "What are the average points White made with 0 extra points?", "sql": {"sel": 4, "conds": [[2, 0, 0], [0, 0, "white"]], "agg": 5}}
+{"phase": 2, "table_id": "2-13032664-2", "question": "What is the week 12 nomination that had a week 1 nomination of Maria Maxine and a week 2 nomination of Henri Satu?", "sql": {"sel": 4, "conds": [[0, 0, "maria maxine"], [1, 0, "henri satu"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15597028-3", "question": "What time was the kickoff when the miami dolphins were the opponent?", "sql": {"sel": 2, "conds": [[3, 0, "miami dolphins"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1080823-1", "question": "What band is the highest and has a System of gsm-450?", "sql": {"sel": 1, "conds": [[0, 0, "gsm-450"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12894445-1", "question": "Name the termination of mission for appointed by of franklin pierce", "sql": {"sel": 3, "conds": [[4, 0, "franklin pierce"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677100-3", "question": "Which position has a School of petal high school?", "sql": {"sel": 1, "conds": [[2, 0, "petal high school"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16441561-1", "question": "What was the highest pick number for the Hamilton tiger-cats?", "sql": {"sel": 0, "conds": [[1, 0, "hamilton tiger-cats"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18789453-1", "question": "what is the normal environment of occurrence that has a Proto-Germanic origin /ai/", "sql": {"sel": 4, "conds": [[5, 0, "/ai/"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18150723-6", "question": "What is the average money (\u00a3) that has +8 as the to par, with 73-72-72-71=288 as the score?", "sql": {"sel": 5, "conds": [[4, 0, "+8"], [3, 0, "73-72-72-71=288"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11677760-10", "question": "What School did Player Alonzo Mourning attend?", "sql": {"sel": 2, "conds": [[0, 0, "alonzo mourning"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1883027-1", "question": "What is the Green-Communist percentage in the poll showing a 9.7% lead?", "sql": {"sel": 4, "conds": [[6, 0, "9.7%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18121795-2", "question": "Which player has a to par greater than 11, with a total less than 155?", "sql": {"sel": 0, "conds": [[4, 1, 11], [3, 2, 155]], "agg": 0}}
+{"phase": 2, "table_id": "2-1269044-3", "question": "What ethnic group is 65,104 in 1931?", "sql": {"sel": 0, "conds": [[1, 0, "65,104"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17075346-20", "question": "WHAT IS THE ROUND FOR ZACH BOYCHUK?", "sql": {"sel": 0, "conds": [[1, 0, "zach boychuk"]], "agg": 3}}
+{"phase": 1, "table_id": "1-28562675-3", "question": "How many years did Germany participate, when the team from Italy was Naples LL Naples and the team from England was London Area Youth London?", "sql": {"sel": 4, "conds": [[5, 0, "Naples LL Naples"], [3, 0, "London Area Youth London"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10960039-5", "question": "what is the highest pick number of the CFL team, the winnipeg blue bombers?", "sql": {"sel": 0, "conds": [[1, 0, "winnipeg blue bombers"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14639984-3", "question": "Which Wins have a Rank of 3?", "sql": {"sel": 5, "conds": [[0, 0, 3]], "agg": 5}}
+{"phase": 2, "table_id": "2-18994360-1", "question": "Which Song has Points smaller than 54, and a Draw smaller than 4, and a Place smaller than 10?", "sql": {"sel": 2, "conds": [[3, 2, 54], [0, 2, 4], [4, 2, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-10", "question": "How many points did Stuart have when he had less than 1 touchdown?", "sql": {"sel": 4, "conds": [[0, 0, "stuart"], [1, 2, 1]], "agg": 4}}
+{"phase": 1, "table_id": "1-28059992-1", "question": "How many pick# for CFL team of Toronto Argonauts?", "sql": {"sel": 0, "conds": [[1, 0, "Toronto Argonauts"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11677760-9", "question": "Who's from Bay City, TX?", "sql": {"sel": 0, "conds": [[3, 0, "bay city, tx"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12913985-5", "question": "What was the two-round score for Bob Tway?", "sql": {"sel": 3, "conds": [[1, 0, "bob tway"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2679061-4", "question": "Which team drafted Esa Tikkanen? ", "sql": {"sel": 4, "conds": [[1, 0, "Esa Tikkanen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11622562-3", "question": "What player has 3 wins and ranks above 3rd?", "sql": {"sel": 1, "conds": [[5, 0, 3], [0, 1, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-12", "question": "What is the mean number of caps for Ryota Asano?", "sql": {"sel": 3, "conds": [[0, 0, "ryota asano"]], "agg": 5}}
+{"phase": 2, "table_id": "2-15380820-1", "question": "What is the Population density that has a Change (%) higher than 10.4, and a Population (2011) less than 8574, in the County of Queens?", "sql": {"sel": 5, "conds": [[3, 1, 10.4], [0, 0, "queens"], [1, 2, 8574]], "agg": 5}}
+{"phase": 2, "table_id": "2-17245483-4", "question": "Which country had a score of 72-67=139?", "sql": {"sel": 2, "conds": [[3, 0, "72-67=139"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14683281-1", "question": "Which opponent was played at Forbes Field after week 4?", "sql": {"sel": 2, "conds": [[4, 0, "forbes field"], [0, 1, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-18991234-3", "question": "Which PBA team has a College of nu?", "sql": {"sel": 3, "conds": [[4, 0, "nu"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-3", "question": "How many players are from Indianapolis, Indiana? ", "sql": {"sel": 0, "conds": [[3, 0, "Indianapolis, Indiana"]], "agg": 3}}
+{"phase": 1, "table_id": "1-23819979-3", "question": "Name the last match for  argentina - estadio jos\u00e9 mar\u00eda minella", "sql": {"sel": 3, "conds": [[4, 0, "Argentina - Estadio Jos\u00e9 Mar\u00eda Minella"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18097219-7", "question": "What is Score, when Money ( \u00a3 ) is greater than 35,000, and when Country is \"United States\"?", "sql": {"sel": 3, "conds": [[5, 1, "35,000"], [2, 0, "united states"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11803648-18", "question": "What round was Corey Cowick picked?", "sql": {"sel": 0, "conds": [[2, 0, "corey cowick"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11128774-19", "question": "Which round was Mike Peca (C) of Canada selected in?", "sql": {"sel": 0, "conds": [[2, 0, "canada"], [1, 0, "mike peca (c)"]], "agg": 4}}
+{"phase": 1, "table_id": "1-11677691-12", "question": "who are all the players for mission viejo high school", "sql": {"sel": 0, "conds": [[2, 0, "Mission Viejo High School"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-3", "question": "What is the nationality with a forward position from a year after 2005?", "sql": {"sel": 1, "conds": [[2, 0, "forward"], [3, 1, 2005]], "agg": 0}}
+{"phase": 1, "table_id": "1-25711913-2", "question": "How many touchdowns did the player took which gained 25 points?", "sql": {"sel": 3, "conds": [[6, 0, 25]], "agg": 0}}
+{"phase": 1, "table_id": "1-21114902-1", "question": "How many knockout of the night occurred when joe lauzon fought. ", "sql": {"sel": 2, "conds": [[0, 0, "Joe Lauzon"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-10", "question": "What position was played by the player who was 2.12 meters tall?", "sql": {"sel": 3, "conds": [[2, 0, "2.12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11306889-3", "question": "What was the Illinois Derby purse?", "sql": {"sel": 4, "conds": [[2, 0, "illinois derby"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-8", "question": "What position did the kid from loganville, georgia play", "sql": {"sel": 1, "conds": [[3, 0, "Loganville, Georgia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10812938-5", "question": "What player is on the Montreal Alouettes CFl team?", "sql": {"sel": 2, "conds": [[1, 0, "Montreal Alouettes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677760-34", "question": "What was the college for Alex Poythress?", "sql": {"sel": 4, "conds": [[0, 0, "alex poythress"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17344644-1", "question": "What college did the player drafted after round 2 before pick 160 attend?", "sql": {"sel": 4, "conds": [[1, 2, 160], [0, 1, 2]], "agg": 0}}
+{"phase": 1, "table_id": "1-2110959-1", "question": "What was the goals for in the season that the pct % was 0.604?", "sql": {"sel": 7, "conds": [[6, 0, "0.604"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18122130-3", "question": "What is the lowest To par, when Total is greater than 148, and when Year(s) Won is \"1959 , 1968 , 1974\"?", "sql": {"sel": 4, "conds": [[3, 2, 148], [2, 0, "1959 , 1968 , 1974"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16772687-18", "question": "Who wears the jersey number 20 and has the position of SG?", "sql": {"sel": 0, "conds": [[3, 0, "sg"], [2, 0, "20"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16308030-1", "question": "How many years have a time of 1:42.086?", "sql": {"sel": 0, "conds": [[6, 0, "1:42.086"]], "agg": 3}}
+{"phase": 1, "table_id": "1-14342592-3", "question": "What positions does Hal Weeks play?", "sql": {"sel": 1, "conds": [[0, 0, "Hal Weeks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11677100-6", "question": "What MLB draft has Shaun Boyd?", "sql": {"sel": 4, "conds": [[0, 0, "shaun boyd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18949253-4", "question": "Which Title has a Year smaller than 2001, and an Award of independent spirit awards?", "sql": {"sel": 3, "conds": [[2, 2, 2001], [0, 0, "independent spirit awards"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17383465-1", "question": "What is the total number of Pick, when Round is greater than 1, and when Player is \"Jim Stack\"?", "sql": {"sel": 1, "conds": [[0, 1, 1], [2, 0, "jim stack"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1228289-2", "question": "What is the commissioned with a 636.3 project, and ordered status?", "sql": {"sel": 3, "conds": [[2, 0, "636.3"], [4, 0, "ordered"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20360535-2", "question": "what is the television order of the episode directed by ben jones, written by j. m. dematteis and originally aired on february6,2009", "sql": {"sel": 6, "conds": [[2, 0, "Ben Jones"], [3, 0, "J. M. DeMatteis"], [4, 0, "February6,2009"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18148933-5", "question": "Who is the player with a score of 70-68-70=208?", "sql": {"sel": 1, "conds": [[3, 0, "70-68-70=208"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007222-1", "question": "What is the Finish of the Player with a To par of 23 of less and Total of 294?", "sql": {"sel": 5, "conds": [[4, 2, 23], [3, 0, 294]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342592-5", "question": "What players played the position of left tackle?", "sql": {"sel": 0, "conds": [[1, 0, "Left tackle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16440724-1", "question": "Which model had a wheelbase of 136 inches?", "sql": {"sel": 1, "conds": [[4, 0, "136"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11177563-1", "question": "I want the country for score of 274 and runner-up of virginie lagoutte-cl\u00e9ment", "sql": {"sel": 4, "conds": [[5, 0, "274"], [8, 0, "virginie lagoutte-cl\u00e9ment"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208855-18", "question": "What College team has 8 rounds?", "sql": {"sel": 4, "conds": [[0, 0, 8]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-5", "question": "what's the\u00a0current club\u00a0with\u00a0player\u00a0being felipe reyes", "sql": {"sel": 5, "conds": [[1, 0, "Felipe Reyes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18027810-3", "question": "What country is Paul Lawrie from?", "sql": {"sel": 1, "conds": [[0, 0, "paul lawrie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18484319-17", "question": "What weekday has an against of kashima antlers?", "sql": {"sel": 5, "conds": [[2, 0, "kashima antlers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17344651-1", "question": "What is the average pick for Princeton after round 3?", "sql": {"sel": 1, "conds": [[0, 1, 3], [4, 0, "princeton"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11066073-1", "question": "What is the serial number of the pilot car that is black, has a pilot car number larger than 2, and an engine number of 1008?", "sql": {"sel": 2, "conds": [[1, 0, "black"], [0, 1, 2], [3, 0, 1008]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-12", "question": "What is the hometown of the players for placer, california", "sql": {"sel": 2, "conds": [[3, 0, "Placer, California"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13998897-1", "question": "What is the lowest ERP W of  w223bp?", "sql": {"sel": 3, "conds": [[0, 0, "w223bp"]], "agg": 2}}
+{"phase": 1, "table_id": "1-20170644-1", "question": "What college did \u00e9tienne l\u00e9gar\u00e9 play for?", "sql": {"sel": 4, "conds": [[2, 0, "\u00c9tienne L\u00e9gar\u00e9"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15185133-1", "question": "How many viewers in millions for episode \"sokka's master\"?", "sql": {"sel": 7, "conds": [[2, 0, "\"Sokka's Master\""]], "agg": 0}}
+{"phase": 2, "table_id": "2-1473672-2", "question": "What is the Pick # for the College/junior/club team of edmonton oil kings (wchl), and the position if defence?", "sql": {"sel": 0, "conds": [[5, 0, "edmonton oil kings (wchl)"], [2, 0, "defence"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11803648-17", "question": "HOW MUCH WAS THE OVERALL FOR ERIK KARLSSON?", "sql": {"sel": 1, "conds": [], "agg": 2}}
+{"phase": 2, "table_id": "2-18811509-3", "question": "What is the To par  of the United States, when the Total was 145, in 2004?", "sql": {"sel": 4, "conds": [[1, 0, "united states"], [3, 0, 145], [2, 0, "2004"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11775918-15", "question": "What nationality was the round 6 draft pick?", "sql": {"sel": 3, "conds": [[0, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007110-1", "question": "How much money does the player with a score of 74-71-76-76=297 have?", "sql": {"sel": 5, "conds": [[3, 0, "74-71-76-76=297"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16456727-1", "question": "What place did the golfer from the United States come in with a To Par of +2, and a score of 73-74-71-72=290?", "sql": {"sel": 0, "conds": [[2, 0, "united states"], [4, 0, "+2"], [3, 0, "73-74-71-72=290"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18165870-1", "question": "What country won in 1977?", "sql": {"sel": 1, "conds": [[2, 0, "1977"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15442451-5", "question": "What is the total number of picks for PBA team san miguel beermen who picked rommel daep?", "sql": {"sel": 0, "conds": [[3, 0, "san miguel beermen"], [1, 0, "rommel daep"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14342367-5", "question": "What is the average number of field goals for players with more than 60 points?", "sql": {"sel": 3, "conds": [[4, 1, 60]], "agg": 5}}
+{"phase": 2, "table_id": "2-12752969-5", "question": "Name the sum of pick for philippines and erwin velez", "sql": {"sel": 0, "conds": [[2, 0, "philippines"], [1, 0, "erwin velez"]], "agg": 4}}
+{"phase": 2, "table_id": "2-1603756-1", "question": "What is the goals for Round 15?", "sql": {"sel": 4, "conds": [[0, 0, "round 15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1691800-2", "question": "what is the population where municipality is san jacinto?", "sql": {"sel": 3, "conds": [[0, 0, "San Jacinto"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18771646-1", "question": "What college did Richard Ticzon attend?", "sql": {"sel": 4, "conds": [[1, 0, "richard ticzon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10560886-17", "question": "What position does the player from arkansas play?", "sql": {"sel": 2, "conds": [[4, 0, "arkansas"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16645083-2", "question": "Does Green Bay have a golf team?", "sql": {"sel": 2, "conds": [[0, 0, "green bay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17162255-2", "question": "Which player had a to par score larger than 7 and a total score of 298?", "sql": {"sel": 0, "conds": [[4, 1, 7], [3, 0, 298]], "agg": 0}}
+{"phase": 2, "table_id": "2-18007230-2", "question": "What Country has a Player with Playoff Money with a Score of 72-69-73-73=287?", "sql": {"sel": 2, "conds": [[5, 0, "playoff"], [3, 0, "72-69-73-73=287"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11867-3", "question": "Which HQ is associated with a number of employees of 100?", "sql": {"sel": 2, "conds": [[5, 0, 100]], "agg": 0}}
+{"phase": 2, "table_id": "2-13894411-6", "question": "What is the partial failure for the Country of russia, and a Failure larger than 0, and a Family of angara, and a Launch larger than 1?", "sql": {"sel": 5, "conds": [[1, 0, "russia"], [4, 1, 0], [0, 0, "angara"], [2, 1, 1]], "agg": 5}}
+{"phase": 1, "table_id": "1-20867295-2", "question": "When twente came in third place and ajax was the winner what are the seasons?", "sql": {"sel": 0, "conds": [[1, 0, "Ajax"], [3, 0, "Twente"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342592-4", "question": "Name the least points for patrick", "sql": {"sel": 6, "conds": [[0, 0, "Patrick"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16729094-1", "question": "What is the average rank for more than 12 points?", "sql": {"sel": 0, "conds": [[5, 1, 12]], "agg": 5}}
+{"phase": 2, "table_id": "2-11622496-3", "question": "What is the rank where the events is 31?", "sql": {"sel": 0, "conds": [[4, 0, 31]], "agg": 0}}
+{"phase": 2, "table_id": "2-17162228-6", "question": "What is the Country of the Player with a Score of 69-71-66=206?", "sql": {"sel": 2, "conds": [[3, 0, "69-71-66=206"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18652198-9", "question": "What is the pick of wiley college?", "sql": {"sel": 0, "conds": [[4, 0, "wiley"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2263674-1", "question": "How old was the official with Chinese name  \u5b6b\u660e\u63da?", "sql": {"sel": 2, "conds": [[1, 0, "\u5b6b\u660e\u63da"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17277176-1", "question": "What is Finish, when To Par is greater than 6, and when Year(s) Won is before 1961?", "sql": {"sel": 5, "conds": [[4, 1, 6], [2, 2, 1961]], "agg": 0}}
+{"phase": 2, "table_id": "2-11542215-3", "question": "Name the least floor exercise for parallel bars more than 9.687 and pommel horse less than 8.45", "sql": {"sel": 2, "conds": [[3, 2, 8.45], [6, 1, 9.687]], "agg": 2}}
+{"phase": 2, "table_id": "2-1193316-2", "question": "What is the playoffs 2 result of season 2010-11?", "sql": {"sel": 5, "conds": [[0, 0, "2010-11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11783766-6", "question": "What position for chris moreno?", "sql": {"sel": 1, "conds": [[0, 0, "chris moreno"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16514630-2", "question": "What is the average of the total when t11 is the finish?", "sql": {"sel": 3, "conds": [[5, 0, "t11"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11934531-9", "question": "Name the kaz hayashi with block A of Shuji Kondo", "sql": {"sel": 1, "conds": [[0, 0, "shuji kondo"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10791466-3", "question": "Which pick was the lowest from Manila College in Philippines?", "sql": {"sel": 0, "conds": [[2, 0, "philippines"], [4, 0, "manila"]], "agg": 2}}
+{"phase": 1, "table_id": "1-2941963-1", "question": "how many countries have remittances in 2008 of 9.07?", "sql": {"sel": 0, "conds": [[1, 0, "9.07"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10560886-13", "question": "What position is the player from 1959?", "sql": {"sel": 2, "conds": [[3, 0, 1959]], "agg": 0}}
+{"phase": 2, "table_id": "2-13210570-1", "question": "When was moray firth built?", "sql": {"sel": 3, "conds": [[1, 0, "moray firth"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14342210-12", "question": "How many touchdowns did Redden score?", "sql": {"sel": 3, "conds": [[0, 0, "Redden"]], "agg": 2}}
+{"phase": 1, "table_id": "1-26996293-1", "question": "What was Barry Jamieson's pick number?", "sql": {"sel": 0, "conds": [[2, 0, "Barry Jamieson"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1162324-1", "question": "What is the language for translators ritah meltser and amatsyah porat?", "sql": {"sel": 1, "conds": [[3, 0, "ritah meltser and amatsyah porat"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342592-10", "question": "Who had the lowest field goals but had 10 points and more than 2 touchdowns?", "sql": {"sel": 3, "conds": [[4, 0, 10], [1, 1, 2]], "agg": 2}}
+{"phase": 2, "table_id": "2-14173105-18", "question": "Which Nationality of the person has a Position on left wing?", "sql": {"sel": 3, "conds": [[2, 0, "left wing"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20404716-1", "question": "Who was the director of the film that was not nominated and had the Spanish title of play? ", "sql": {"sel": 3, "conds": [[4, 0, "Not Nominated"], [2, 0, "Play"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10150210-5", "question": "What date is the 1:00 pm game at arrowhead stadium?", "sql": {"sel": 1, "conds": [[3, 0, "1:00 pm"], [4, 0, "arrowhead stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1830541-1", "question": "After 1996, what is the average position?", "sql": {"sel": 3, "conds": [[0, 1, 1996]], "agg": 5}}
+{"phase": 2, "table_id": "2-17299309-4", "question": "Who was the winner on 15 December 1957?", "sql": {"sel": 2, "conds": [[1, 0, "15 december 1957"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10254961-3", "question": "Tell me the sum of Year for outcome of runner-up for world darts championship", "sql": {"sel": 1, "conds": [[0, 0, "runner-up"], [2, 0, "world darts championship"]], "agg": 4}}
+{"phase": 1, "table_id": "1-2501754-3", "question": "List the production code for the episode had 5.55 million viewers?", "sql": {"sel": 3, "conds": [[5, 0, "5.55"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14302613-17", "question": "Which Player has United States as Nationality, forward as Position and a greater than 5 Round?", "sql": {"sel": 1, "conds": [[3, 0, "united states"], [2, 0, "forward"], [0, 1, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-15062421-1", "question": "Which Height Metres / feet has a Rank of 8, and Floors of 3x17?", "sql": {"sel": 3, "conds": [[0, 0, 8], [4, 0, "3x17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14344289-12", "question": "what is the school that hosts mikael renberg", "sql": {"sel": 4, "conds": [[1, 0, "mikael renberg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968303-5", "question": "Which 2007\u201308 Pts has a Total Pts smaller than 173, a Total Pld larger than 38, a Team of banfield, and a 2005\u201306 Pts smaller than 59?", "sql": {"sel": 3, "conds": [[4, 2, 173], [5, 1, 38], [0, 0, "banfield"], [1, 2, 59]], "agg": 4}}
+{"phase": 2, "table_id": "2-10560886-19", "question": "What is the nationality of the guard/forward who began playing in 1977?", "sql": {"sel": 1, "conds": [[2, 0, "guard/forward"], [3, 0, "1977"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12962773-1", "question": "what's\u00a0current club\u00a0with\u00a0player\u00a0being nikolaos chatzivrettas", "sql": {"sel": 5, "conds": [[1, 0, "Nikolaos Chatzivrettas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28848697-4", "question": "How many goals scored entries are listed when the year is verano 2001?", "sql": {"sel": 6, "conds": [[0, 0, "Verano 2001"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18811509-7", "question": "Which To par is of thomas aiken?", "sql": {"sel": 4, "conds": [[1, 0, "thomas aiken"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677100-17", "question": "What is the hometown of Bubba Starling?", "sql": {"sel": 3, "conds": [[0, 0, "Bubba Starling"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14342367-7", "question": "Which Field goals is the highest one that has Touchdowns of 0, and Points larger than 4?", "sql": {"sel": 3, "conds": [[1, 0, 0], [4, 1, 4]], "agg": 1}}
+{"phase": 1, "table_id": "1-14342592-8", "question": "Name the extra points for left guard", "sql": {"sel": 4, "conds": [[1, 0, "Left guard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15558076-1", "question": "Who were the visitors when the Atlanta Falcons were the home team?", "sql": {"sel": 3, "conds": [[4, 0, "atlanta falcons"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14650502-1", "question": "How many values of first elected are for district 16?", "sql": {"sel": 4, "conds": [[0, 0, "16"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13998897-1", "question": "How many ERP W is it that has a Call sign of w273bs?", "sql": {"sel": 3, "conds": [[0, 0, "w273bs"]], "agg": 4}}
+{"phase": 2, "table_id": "2-15637024-1", "question": "Which circuit had a round larger than 5?", "sql": {"sel": 2, "conds": [[0, 1, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-11658983-1", "question": "When did the tom smith built train enter service with a number under 7007?", "sql": {"sel": 4, "conds": [[3, 0, "tom smith"], [0, 2, 7007]], "agg": 5}}
+{"phase": 2, "table_id": "2-16351975-1", "question": "Which player went to Vanderbilt?", "sql": {"sel": 2, "conds": [[4, 0, "vanderbilt"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1691800-2", "question": "what is the municipality where the area is 73?", "sql": {"sel": 0, "conds": [[4, 0, 73]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-11", "question": "How many players are from Delray Beach, Florida?", "sql": {"sel": 0, "conds": [[3, 0, "Delray Beach, Florida"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14747955-1", "question": "What is the pick number for tulane university?", "sql": {"sel": 0, "conds": [[4, 0, "tulane university"]], "agg": 4}}
+{"phase": 1, "table_id": "1-12962773-15", "question": "Which club had a player born in 1983?", "sql": {"sel": 5, "conds": [[4, 0, 1983]], "agg": 0}}
+{"phase": 2, "table_id": "2-18035854-1", "question": "Which station was opened in 2013, with no park & ride lot?", "sql": {"sel": 0, "conds": [[1, 0, "2013"], [3, 0, "no"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11677691-6", "question": "Where is Norco HIgh School?", "sql": {"sel": 3, "conds": [[2, 0, "Norco High School"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15149189-4", "question": "What is the club/province of the player born on 12 May 1984?", "sql": {"sel": 4, "conds": [[2, 0, "12 may 1984"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1630266-1", "question": "What year had the supernova award?", "sql": {"sel": 1, "conds": [[2, 0, "supernova award"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15986484-1", "question": "What position does Denard Walker play?", "sql": {"sel": 3, "conds": [[2, 0, "denard walker"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2896329-1", "question": "What was the handicap when the prize money was 120s?", "sql": {"sel": 6, "conds": [[10, 0, "120s"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15817998-3", "question": "Which player was drafted by the Saskatchewan Roughriders?", "sql": {"sel": 2, "conds": [[1, 0, "saskatchewan roughriders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12925436-1", "question": "How much money did the player Ed Oliver win?", "sql": {"sel": 5, "conds": [[1, 0, "ed oliver"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18100823-1", "question": "What Player had a To Par of +2?", "sql": {"sel": 0, "conds": [[4, 0, "+2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19897896-7", "question": "in which class is the position forward", "sql": {"sel": 5, "conds": [[4, 0, "Forward"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16514575-3", "question": "If 1967 is the winning year and a player has a total recorded as wd with a To par under 16, what's the players name?", "sql": {"sel": 0, "conds": [[3, 0, "wd"], [4, 2, 16], [2, 0, "1967"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13894411-8", "question": "What is the highest number of successful launches associated with over 1 launch and under 0 fails?", "sql": {"sel": 4, "conds": [[3, 1, 1], [5, 2, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-11677760-10", "question": "What is Player Kenny Williams' Height?", "sql": {"sel": 1, "conds": [[0, 0, "kenny williams"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11309475-1", "question": "What is the average operation beginning with a length of ampang and over 27 stations?", "sql": {"sel": 1, "conds": [[3, 0, "ampang"], [2, 1, 27]], "agg": 5}}
+{"phase": 1, "table_id": "1-30108346-1", "question": "Name the total number of troops per one million being 2.76", "sql": {"sel": 3, "conds": [[4, 0, "2.76"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16135522-4", "question": "Which university was in the Western division in 2013-14, located in Bath, and named the Bath Spa Bulldogs?", "sql": {"sel": 1, "conds": [[4, 0, "western"], [2, 0, "bath"], [0, 0, "bath spa bulldogs"]], "agg": 0}}

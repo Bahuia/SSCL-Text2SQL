@@ -1,0 +1,420 @@
+{"phase": 2, "table_id": "2-1745843-2", "question": "Which class has *alanaz as Part 4?", "sql": {"sel": 0, "conds": [[4, 0, "*alanaz"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-5", "question": "What is on tv at 10:00 on the same channel that had movies on at 8:00?", "sql": {"sel": 6, "conds": [[2, 0, "movies"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25284864-3", "question": "What is the November 3 result when the result for January 15-16 is 141?", "sql": {"sel": 3, "conds": [[2, 0, "141"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-5", "question": "What is the 3rd participle of the verb whose 2nd participle is band?", "sql": {"sel": 3, "conds": [[2, 0, "band"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-9", "question": "In what region and year was Jacob the number 2 name and Ryan the number 10 name?", "sql": {"sel": 0, "conds": [[2, 0, "jacob"], [10, 0, "ryan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-4", "question": "What is the 8:00 that has da vinci's inquest as the 9:00?", "sql": {"sel": 2, "conds": [[4, 0, "da vinci's inquest"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15925889-5", "question": "What is Set 4, when Set 1 is 19-25, and when Set 2 is 23-25?", "sql": {"sel": 5, "conds": [[2, 0, "19-25"], [3, 0, "23-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1549452-3", "question": "What shows for 2002 when 2010 shows 69?", "sql": {"sel": 1, "conds": [[9, 0, "69"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15945725-5", "question": "What is the set 2 with a 25-23 set 1 and a 17-19 set 5?", "sql": {"sel": 3, "conds": [[2, 0, "25-23"], [6, 0, "17-19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968233-1", "question": "What was the 1st leg that had a 1st get home for the Boca Juniors?", "sql": {"sel": 2, "conds": [[0, 0, "boca juniors"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-7", "question": "Name the No. 3 which has a No. 7 of logan, and a No. 5 of jackson?", "sql": {"sel": 3, "conds": [[7, 0, "logan"], [5, 0, "jackson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-6", "question": "What is the 9:30 program that airs on the station that airs Dawson's Creek at 8:30?", "sql": {"sel": 5, "conds": [[3, 0, "dawson's creek"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14630796-1", "question": "What is the Class AAAAA when Class AA is Tuscola Jim Ned and Class AAA Snyder?", "sql": {"sel": 5, "conds": [[2, 0, "tuscola jim ned"], [3, 0, "snyder"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1323399-10", "question": "Name the most cuts made with top-25 more than 4 and top 5 of 1 with wins more than 0", "sql": {"sel": 6, "conds": [[4, 1, 4], [2, 0, 1], [1, 1, 0]], "agg": 1}}
+{"phase": 1, "table_id": "1-25286976-2", "question": "When 129 is on March 27th to 29th what is June 10th to 11th?", "sql": {"sel": 0, "conds": [[1, 0, "129"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14603057-2", "question": "Who was the Class AAAA champion in 2006-07?", "sql": {"sel": 4, "conds": [[0, 0, "2006-07"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14630796-1", "question": "Name the class aaaa for menard", "sql": {"sel": 4, "conds": [[1, 0, "Menard"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1313008-1", "question": "Name the D 47 which has D 42 of d 22", "sql": {"sel": 1, "conds": [[6, 0, "d 22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-3", "question": "Who is in February where has September is kristine hanson?", "sql": {"sel": 1, "conds": [[7, 0, "kristine hanson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18246956-16", "question": "What is the Total of Set 2 of 21:12?", "sql": {"sel": 4, "conds": [[3, 0, "21:12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-7", "question": "what is part 4 when the class is 5?", "sql": {"sel": 4, "conds": [[0, 0, "5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25355392-2", "question": "how many times is march 27-29 is 129?", "sql": {"sel": 3, "conds": [[1, 0, "129"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10173807-1", "question": "What is the value for 2010 when the 2012 value is Q2?", "sql": {"sel": 5, "conds": [[7, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968229-1", "question": "What was the 2nd leg score when atl\u00e9tico tucum\u00e1n played at home?", "sql": {"sel": 3, "conds": [[1, 0, "atl\u00e9tico tucum\u00e1n"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17626199-35", "question": "What date was the set 1 25\u201323, and a Set 3 of 25\u201314?", "sql": {"sel": 0, "conds": [[2, 0, "25\u201323"], [4, 0, "25\u201314"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14726623-4", "question": "What is the average total score of Belarus, which had an E score less than 8.2?", "sql": {"sel": 4, "conds": [[0, 0, "belarus"], [3, 2, 8.2]], "agg": 5}}
+{"phase": 2, "table_id": "2-17973973-2", "question": "What is the team 1 with tikve\u0161 as team 2?", "sql": {"sel": 0, "conds": [[2, 0, "tikve\u0161"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15925889-3", "question": "What is the Set 3 when the Total was 98 - 92?", "sql": {"sel": 4, "conds": [[7, 0, "98 - 92"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1558607-6", "question": "Which Tournament has a Cuts made smaller than 9, and an Events of 10?", "sql": {"sel": 0, "conds": [[6, 2, 9], [5, 0, 10]], "agg": 0}}
+{"phase": 1, "table_id": "1-25235489-2", "question": "When November is 153 what is the March number?", "sql": {"sel": 1, "conds": [[3, 0, "153"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-3", "question": "What is the 3rd day result when the 4th day was bumped Fitzwilliam?", "sql": {"sel": 4, "conds": [[5, 0, "bumped fitzwilliam"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1891067-3", "question": "What's the sum of Top-10 that has Events that's larger than 16, and has a Top-5 that's also larger than 5?", "sql": {"sel": 3, "conds": [[5, 1, 16], [2, 1, 5]], "agg": 3}}
+{"phase": 2, "table_id": "2-11200856-1", "question": "Which hand results in a 2 credits of 16?", "sql": {"sel": 0, "conds": [[2, 0, "16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16593943-5", "question": "What is the score for set 2 when the time is 18:00 and the score of set 1 is 18\u201325?", "sql": {"sel": 4, "conds": [[1, 0, "18:00"], [3, 0, "18\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-8", "question": "What is No. 2, when No. 9 is Mia?", "sql": {"sel": 2, "conds": [[9, 0, "mia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15945725-7", "question": "What is the Set 5 with a Date that is jun 29?", "sql": {"sel": 6, "conds": [[0, 0, "jun 29"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18087075-3", "question": "What is 2011, when Tournament is \"Year-End Ranking\"?", "sql": {"sel": 4, "conds": [[0, 0, "year-end ranking"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16593943-5", "question": "What is the score with a time at 18:00 and a score for set 3 of 13\u201325?", "sql": {"sel": 2, "conds": [[1, 0, "18:00"], [5, 0, "13\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15925889-3", "question": "What shows for Set 5 when the Total was 77 - 65?", "sql": {"sel": 6, "conds": [[7, 0, "77 - 65"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-11", "question": "What is Set 5, when Date is Jun 26, and when Set 2 is 25-22?", "sql": {"sel": 6, "conds": [[0, 0, "jun 26"], [3, 0, "25-22"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14219514-1", "question": "How many home (2nd leg) had a 1st leg 1-1?", "sql": {"sel": 1, "conds": [[2, 0, "1-1"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14726623-4", "question": "What is the total of the team with a T score less than 6.8?", "sql": {"sel": 4, "conds": [[1, 2, 6.8]], "agg": 4}}
+{"phase": 1, "table_id": "1-1745843-9", "question": "Name the verb meaning for half drosch", "sql": {"sel": 5, "conds": [[2, 0, "half drosch"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1818978-2", "question": "What is 2006, when 2007 is \"1R\", and when 2002 is \"Q2\"?", "sql": {"sel": 6, "conds": [[7, 0, "1r"], [2, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-9", "question": "What is the name of the cyber girl in week 4 when Lexi Lombardelli was the cyber girl in week 2?", "sql": {"sel": 3, "conds": [[1, 0, "lexi lombardelli"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-9", "question": "What is the set 1 with a 28-30 set 4?", "sql": {"sel": 2, "conds": [[5, 0, "28-30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-10", "question": "Who is number 7 when Sophia is number 3 and Abigail is number 10?", "sql": {"sel": 7, "conds": [[3, 0, "sophia"], [10, 0, "abigail"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12397961-14", "question": "What tournament was at the 2007 Olympic Games?", "sql": {"sel": 0, "conds": [[1, 0, "olympic games"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-3", "question": "Who was No. 9 when No. 5 Mason and No. 3 Aiden?", "sql": {"sel": 9, "conds": [[5, 0, "mason"], [3, 0, "aiden"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25284864-3", "question": "What is the November 3 result when June 10-11 is 147?", "sql": {"sel": 3, "conds": [[0, 0, "147"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12397961-14", "question": "What tournament was at the 2011 Cincinnati Masters?", "sql": {"sel": 5, "conds": [[0, 0, "cincinnati masters"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11307139-8", "question": "Tell me the 2004 for 2012 of 21", "sql": {"sel": 4, "conds": [[12, 0, "21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17989297-2", "question": "What team 1 has sloga jugomagnat as team 2?", "sql": {"sel": 0, "conds": [[2, 0, "sloga jugomagnat"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-7", "question": "Which week 2 had a week 3 of Cidney Carson?", "sql": {"sel": 1, "conds": [[2, 0, "cidney carson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14747043-1", "question": "Who was the class AAAA when class AAAAA was Weslaco in 1994-95", "sql": {"sel": 4, "conds": [[5, 0, "Weslaco"], [0, 0, "1994-95"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17617561-4", "question": "What tournament has a 2010 of 1r, and a 2008 of 1r?", "sql": {"sel": 0, "conds": [[2, 0, "1r"], [1, 0, "1r"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17968229-1", "question": "For home of River Plate, what is the first leg listed?", "sql": {"sel": 2, "conds": [[1, 0, "River Plate"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18246956-16", "question": "What is the Set 1 of the 45:40 Total?", "sql": {"sel": 2, "conds": [[4, 0, "45:40"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25216791-3", "question": "How many datas were recorded on January 15-16 if August 21-22 is 155?", "sql": {"sel": 2, "conds": [[4, 0, "155"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17717526-12", "question": "What 2008 has A as the 2007, and 2r as the 2010?", "sql": {"sel": 3, "conds": [[2, 0, "a"], [5, 0, "2r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15100199-11", "question": "Which 2007 has a 2010 of A?", "sql": {"sel": 2, "conds": [[5, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17074170-4", "question": "What is Celta's Agg.?", "sql": {"sel": 1, "conds": [[0, 0, "celta"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-4", "question": "Who was the girl of the week after nicole woodruff in the same month?", "sql": {"sel": 4, "conds": [[3, 0, "nicole woodruff"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17978030-6", "question": "What is the Score when the set 3 is 26\u201328?", "sql": {"sel": 2, "conds": [[5, 0, "26\u201328"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-11", "question": "Who was the girl on week 1 that was previous to week 3's Ava Hart?", "sql": {"sel": 0, "conds": [[2, 0, "ava hart"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1601826-6", "question": "What is the highest top-25 of the tournament with less than 22 events and more than 1 top-10?", "sql": {"sel": 4, "conds": [[5, 2, 22], [3, 1, 1]], "agg": 1}}
+{"phase": 2, "table_id": "2-148535-2", "question": "What is listed for the Hand that has a 1 credit of 1?", "sql": {"sel": 0, "conds": [[1, 0, "1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16457934-2", "question": "When 2054 is the result of 50 to 54 what is the oblast\\age?", "sql": {"sel": 1, "conds": [[10, 0, 2054]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-8", "question": "What is No. 7, when No. 4 is Madison, and when No. 10 is Amelia?", "sql": {"sel": 7, "conds": [[4, 0, "madison"], [10, 0, "amelia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12209362-14", "question": "Name the 2008 for 2012 being a and tournament of australian open", "sql": {"sel": 2, "conds": [[6, 0, "a"], [0, 0, "australian open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18610881-4", "question": "What time has a Set 1 of 18\u201325?", "sql": {"sel": 1, "conds": [[3, 0, "18\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17679324-12", "question": "what is 2008 when 2012 is 3r and 2009 is 2r?", "sql": {"sel": 3, "conds": [[7, 0, "3r"], [4, 0, "2r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-12", "question": "What was the week 2 prior to the when Brittany Alyse was week 3?", "sql": {"sel": 1, "conds": [[2, 0, "brittany alyse"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17968229-1", "question": "With an aggregate of 0-2, what is listed for home?", "sql": {"sel": 1, "conds": [[4, 0, "0-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-8", "question": "What is No. 3, when No. 7 is Abigail, and when No. 4 is Ava?", "sql": {"sel": 3, "conds": [[7, 0, "abigail"], [4, 0, "ava"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17074170-4", "question": "What is the 2nd leg for Barcelona Team 2?", "sql": {"sel": 4, "conds": [[2, 0, "barcelona"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-11", "question": "Who was the girl on week 2 that was previous to week 4's Chelsie Loraine?", "sql": {"sel": 1, "conds": [[3, 0, "chelsie loraine"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17626199-35", "question": "What is the Set 3 when the total was 53\u201375?", "sql": {"sel": 4, "conds": [[5, 0, "53\u201375"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11190694-16", "question": "What is on at 8:00 when at 8:30 it is the bachelorette?", "sql": {"sel": 0, "conds": [[1, 0, "the bachelorette"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11233202-7", "question": "Which tournament was on 2009 with 11?", "sql": {"sel": 0, "conds": [[8, 0, "11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16571273-17", "question": "What is the total when the score for set 1 is 14\u201325?", "sql": {"sel": 6, "conds": [[3, 0, "14\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1261748-7", "question": "What is the lowest top 5 winners with less than 0?", "sql": {"sel": 2, "conds": [[1, 2, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-16571273-13", "question": "Which Date has a Set 1 of 25\u201320?", "sql": {"sel": 0, "conds": [[3, 0, "25\u201320"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17626199-10", "question": "What date was the score 3\u20130, and set 1 was 25\u201322?", "sql": {"sel": 0, "conds": [[1, 0, "3\u20130"], [2, 0, "25\u201322"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968233-1", "question": "What was the 1st leg that had a 4-2 aggregate?", "sql": {"sel": 2, "conds": [[4, 0, "4-2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16457934-5", "question": "If 50 to 54 is 2119, what is the total number of c/w 15+?", "sql": {"sel": 0, "conds": [[10, 0, 2119]], "agg": 3}}
+{"phase": 2, "table_id": "2-16013858-11", "question": "What is Set 4, when Date is Jun 27, and when Set 3 is 17-25?", "sql": {"sel": 5, "conds": [[0, 0, "jun 27"], [4, 0, "17-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-16", "question": "What show is on at 9:00 when Law & Order: Criminal Intent is on at 9:30 and The Great American Road Trip is on at 8:00?", "sql": {"sel": 2, "conds": [[3, 0, "law & order: criminal intent"], [0, 0, "the great american road trip"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-12", "question": "What show played at 8:00 when Ugly Betty played at 8:30?", "sql": {"sel": 0, "conds": [[1, 0, "ugly betty"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10399701-2", "question": "Who was Class AAA during the same year that Class A was (tie) Apple Springs/Texline?", "sql": {"sel": 3, "conds": [[1, 0, "(tie) Apple Springs/Texline"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-5", "question": "What is Set 2, when Score is 3-0, when Date is May 11, and when Set 1 is 25-20?", "sql": {"sel": 3, "conds": [[1, 0, "3-0"], [0, 0, "may 11"], [2, 0, "25-20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-5", "question": "Which part one is class 7d?", "sql": {"sel": 1, "conds": [[0, 0, "7d"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18621753-1", "question": "What's the 2010 when they had a Q2 in 2009?", "sql": {"sel": 3, "conds": [[2, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11190694-12", "question": "What is at 9:00 when at 10:00 it is local programming and at 9:30 it is my thursday night movie?", "sql": {"sel": 2, "conds": [[4, 0, "local programming"], [3, 0, "my thursday night movie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026260-2", "question": "What was the 1st leg when team 2 was nov milenium?", "sql": {"sel": 3, "conds": [[2, 0, "nov milenium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-8", "question": "What is the part 4 entry for class 7b?", "sql": {"sel": 4, "conds": [[0, 0, "7b"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17923214-5", "question": "What's the 2010 when Q2 happened in 2011?", "sql": {"sel": 3, "conds": [[4, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14603057-2", "question": "Name the class A with school year of 2004-05", "sql": {"sel": 1, "conds": [[0, 0, "2004-05"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1543742-2", "question": "What are the lowest top-5 with a top-25 larger than 4, 29 cuts and a top-10 larger than 18?", "sql": {"sel": 2, "conds": [[4, 1, 4], [6, 0, 29], [3, 1, 18]], "agg": 2}}
+{"phase": 2, "table_id": "2-12280777-3", "question": "On the channel with The Biggest loser at 8:00, what's on at 7:30?", "sql": {"sel": 1, "conds": [[2, 0, "the biggest loser"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14603057-2", "question": "Name the clas AAAA of school year 2000-01", "sql": {"sel": 4, "conds": [[0, 0, "2000-01"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14219514-2", "question": "When temperley is the home (2nd leg) what is the home (1st leg)?", "sql": {"sel": 0, "conds": [[1, 0, "Temperley"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25252080-3", "question": " november 3 where march 27-29 is 149?", "sql": {"sel": 3, "conds": [[1, 0, "149"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1818978-3", "question": "What's the 2005 result when 2001 is sf?", "sql": {"sel": 5, "conds": [[1, 0, "sf"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10173807-1", "question": "What is the value for 2009 when the value for 2011 is 138?", "sql": {"sel": 4, "conds": [[6, 0, "138"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-11", "question": "Who was the girl on week 5 that came after week 3's Mikaela James?", "sql": {"sel": 4, "conds": [[2, 0, "mikaela james"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1305075-1", "question": "What is the D42 associated with a D47 of d 27?", "sql": {"sel": 6, "conds": [[1, 0, "d 27"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1708610-3", "question": "Name the january 15-16 where march 27-29 where march 29, 2006", "sql": {"sel": 2, "conds": [[1, 0, "March 29, 2006"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14219514-2", "question": "What is the home of aggregate's 3-4?", "sql": {"sel": 1, "conds": [[4, 0, "3-4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-6", "question": "What is the Part 2 when the class is 6?", "sql": {"sel": 2, "conds": [[0, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-3", "question": "Who is in July where February is linda forsythe?", "sql": {"sel": 5, "conds": [[1, 0, "linda forsythe"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12330040-2", "question": "Which team has far rabat as the team 1?", "sql": {"sel": 2, "conds": [[0, 0, "far rabat"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14219514-1", "question": "What was the home team for the 2nd leg of the match having an aggregate of 2-3?", "sql": {"sel": 1, "conds": [[4, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16571273-13", "question": "Which Date has a Score of 2\u20133, a Time of 20:30, and a Set 3 of 16\u201325?", "sql": {"sel": 0, "conds": [[2, 0, "2\u20133"], [1, 0, "20:30"], [5, 0, "16\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10173807-1", "question": "What is the value for 2008 for the US Open Tournament?", "sql": {"sel": 3, "conds": [[0, 0, "us open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-16", "question": "What show is on at 9:00 when The Bachelorette is on at 8:30?", "sql": {"sel": 2, "conds": [[1, 0, "the bachelorette"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17998533-3", "question": "When was there a Time of 18:00, and a Set 1 of 22\u201325?", "sql": {"sel": 0, "conds": [[1, 0, "18:00"], [3, 0, "22\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-8", "question": "Who is week 2 if week 3 is Sara Stokes?", "sql": {"sel": 1, "conds": [[2, 0, "sara stokes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15209530-6", "question": "Name the 2012 for us open", "sql": {"sel": 5, "conds": [[0, 0, "us open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-6", "question": "What is the 8:00 feature with je at 7:00?", "sql": {"sel": 2, "conds": [[0, 0, "je"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25235489-2", "question": "How many numbers are there for August when March is 139?", "sql": {"sel": 4, "conds": [[1, 0, "139"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15708593-9", "question": "What is airing at 9:00 on the channel that airs Chuck at 8:30 and Medium at 10:00?", "sql": {"sel": 2, "conds": [[4, 0, "medium"], [1, 0, "chuck"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1520730-5", "question": "How man cuts were there of players who had 0 wins but had 1 player in the top 25 with more than 4 events?", "sql": {"sel": 6, "conds": [[1, 0, 0], [4, 0, 1], [5, 1, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-16304563-5", "question": "What is No. 5, when No. 9 is Michael, and when Region (Year) is New Hampshire (2010)?", "sql": {"sel": 5, "conds": [[9, 0, "michael"], [0, 0, "new hampshire (2010)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-5", "question": "What kind of Week 2 has a Week 4 of araya robinson?", "sql": {"sel": 1, "conds": [[3, 0, "araya robinson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-4", "question": "What is the year that the 3rd say is Rowed-Over and the 4th day was bumped Corpus Christi?", "sql": {"sel": 0, "conds": [[4, 0, "rowed-over"], [5, 0, "bumped corpus christi"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18880596-3", "question": "What is the 3rd day result when the 2nd day was rowed-over in 2010?", "sql": {"sel": 4, "conds": [[3, 0, "rowed-over"], [0, 0, 2010]], "agg": 0}}
+{"phase": 2, "table_id": "2-1524433-1", "question": "What was the cuts average in tournament totals in an event larger than 24?", "sql": {"sel": 6, "conds": [[0, 0, "totals"], [5, 1, 24]], "agg": 5}}
+{"phase": 2, "table_id": "2-14013701-4", "question": "What was the 1st leg of the match that had an aggregate of 4-3?", "sql": {"sel": 3, "conds": [[1, 0, "4-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10882589-58", "question": "Tell me the team 1 for team 2 being civitavecchiese (latium a)", "sql": {"sel": 0, "conds": [[2, 0, "civitavecchiese (latium a)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-5", "question": "Who is the March playmate with a November playmate Cara Wakelin?", "sql": {"sel": 2, "conds": [[9, 0, "cara wakelin"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1313008-1", "question": "Name the D 42 with D 43 of d 14", "sql": {"sel": 6, "conds": [[5, 0, "d 14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15100199-11", "question": "Which 2009 has a 2006 of A, and a 2011 of sf?", "sql": {"sel": 4, "conds": [[1, 0, "a"], [6, 0, "sf"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15100199-11", "question": "Which 2007 has a 2006 of A, and a Tournament of canada?", "sql": {"sel": 2, "conds": [[1, 0, "a"], [0, 0, "canada"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16593943-5", "question": "What was the total with a score in set 3 of 13\u201325?", "sql": {"sel": 6, "conds": [[5, 0, "13\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-2", "question": "What is the verb meaning for *bar as Part 2?", "sql": {"sel": 5, "conds": [[2, 0, "*bar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1543742-2", "question": "What are the highest wins with cuts smaller than 6, events of 4 and a top-5 smaller than 0?", "sql": {"sel": 1, "conds": [[6, 2, 6], [5, 0, 4], [2, 2, 0]], "agg": 1}}
+{"phase": 2, "table_id": "2-14603057-2", "question": "Name the class AAAA with class A of lindsay and class AAAAA of galena park north shore", "sql": {"sel": 4, "conds": [[1, 0, "lindsay"], [5, 0, "galena park north shore"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-9", "question": "What is the verb meaning for Gaben in part 3?", "sql": {"sel": 5, "conds": [[3, 0, "gaben"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16457934-5", "question": "If 65 to 69 is 2417, what is the minimum of 25 to 29?", "sql": {"sel": 5, "conds": [[13, 0, 2417]], "agg": 2}}
+{"phase": 1, "table_id": "1-25355501-2", "question": " june 10-11 when january 15-16 is january 15, 1991?", "sql": {"sel": 0, "conds": [[2, 0, "January 15, 1991"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17989297-2", "question": "What 1st leg has 11 oktomvri as team 2?", "sql": {"sel": 3, "conds": [[2, 0, "11 oktomvri"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1601826-6", "question": "What is the lowest top-5 of the tournament with less than 1 top-10 and less than 1 top-25?", "sql": {"sel": 2, "conds": [[3, 2, 1], [4, 2, 1]], "agg": 2}}
+{"phase": 2, "table_id": "2-10218362-7", "question": "Tell me the 2011 tournament of monte carlo masters", "sql": {"sel": 4, "conds": [[0, 0, "monte carlo masters"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12443672-1", "question": "What is the agg with a second leg of 0-1?", "sql": {"sel": 1, "conds": [[4, 0, "0-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-6", "question": "What is the 9:30 program airing on the station that airs The Red Green Show at 8:30?", "sql": {"sel": 5, "conds": [[3, 0, "the red green show"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1507806-2", "question": "Which Top-25 has a Top-5 larger than 9, and Wins smaller than 11?", "sql": {"sel": 4, "conds": [[2, 1, 9], [1, 2, 11]], "agg": 4}}
+{"phase": 1, "table_id": "1-10399701-2", "question": "Who was Class AAA during the school year of 2000-01?", "sql": {"sel": 3, "conds": [[0, 0, "2000-01"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12450517-11", "question": "Name the 2010 for tournament of us open", "sql": {"sel": 3, "conds": [[0, 0, "us open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1305075-1", "question": "What is the D43 associated with a D41 of r 16?", "sql": {"sel": 5, "conds": [[7, 0, "r 16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-8", "question": "What is the part 2 entry for class 3a?", "sql": {"sel": 2, "conds": [[0, 0, "3a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11823140-11", "question": "On what date was the total 25\u201345?", "sql": {"sel": 0, "conds": [[5, 0, "25\u201345"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14219514-2", "question": "When belgrano is the home (1st leg) what is the  home (2nd leg)?", "sql": {"sel": 1, "conds": [[0, 0, "Belgrano"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-7", "question": "what is the part 4 when the verb meaning is to steal?", "sql": {"sel": 4, "conds": [[5, 0, "to steal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-3", "question": "If Gossip Girl is on at 7:30, what shows at 9:00?", "sql": {"sel": 4, "conds": [[1, 0, "gossip girl"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16949333-9", "question": "WHAT IS THE 2008 PERFORMANCE WITH A 2007 CAREER STATISTICS?", "sql": {"sel": 2, "conds": [[1, 0, "career statistics"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1818978-3", "question": "What's the 2010 result when 2006 is a?", "sql": {"sel": 10, "conds": [[6, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-4", "question": "Who was number 7 when Olivia was number 5 and Emma was number 2?", "sql": {"sel": 7, "conds": [[5, 0, "olivia"], [2, 0, "emma"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1507170-4", "question": "Name the least top-10 for cuts made less than 11 and wins more than 0", "sql": {"sel": 3, "conds": [[6, 2, 11], [1, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-14920702-2", "question": "Which Set 1 has a Date of 24 may, and a Total of 57\u201375?", "sql": {"sel": 2, "conds": [[0, 0, "24 may"], [5, 0, "57\u201375"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13040023-3", "question": "Which team 2 had an aggregate score of 3-4 and a 2nd leg score of 0-2?", "sql": {"sel": 2, "conds": [[1, 0, "3-4"], [4, 0, "0-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-5", "question": "What kind of Week 2 that has a Week 1 of mandy ashford?", "sql": {"sel": 1, "conds": [[0, 0, "mandy ashford"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14747043-1", "question": "How many class AA in the year 2002-03", "sql": {"sel": 2, "conds": [[0, 0, "2002-03"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12280777-1", "question": "Which 9:00 has an 8:00 behind the movies?", "sql": {"sel": 4, "conds": [[2, 0, "behind the movies"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25252080-3", "question": "What number is shown for november 3 where january 15-16 is 151?", "sql": {"sel": 3, "conds": [[2, 0, "151"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18255941-28", "question": "What is team 1 when team 2 is Manchester United?", "sql": {"sel": 0, "conds": [[2, 0, "manchester united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12269075-1", "question": "What was the 2nd leg when Team 1 was Chicago Croatian?", "sql": {"sel": 4, "conds": [[0, 0, "chicago croatian"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1891067-3", "question": "What's the average Top-25, that has an Events that's smaller than 12, and has a Top-5 that is larger than 0?", "sql": {"sel": 4, "conds": [[5, 2, 12], [2, 1, 0]], "agg": 5}}
+{"phase": 1, "table_id": "1-16457934-4", "question": "what is the maximum 65-69 and 35-39 is 1606?", "sql": {"sel": 13, "conds": [[7, 0, 1606]], "agg": 1}}
+{"phase": 2, "table_id": "2-1110732-7", "question": "How many cuts were made when there weren't any wins but had a top-5 of 1 and a top 10 larger than 4?", "sql": {"sel": 6, "conds": [[1, 2, 1], [2, 0, 1], [3, 1, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-16571273-17", "question": "What is the time when the set 3 score is 31\u201329?", "sql": {"sel": 1, "conds": [[5, 0, "31\u201329"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1314472-1", "question": "Name the D 43 when it has D 45 of d 25", "sql": {"sel": 5, "conds": [[3, 0, "d 25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16593943-13", "question": "What was the score when the time was 14:00?", "sql": {"sel": 2, "conds": [[1, 0, "14:00"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-9", "question": "What is airing at 8:00 on the channel that airs Castle at 10:00?", "sql": {"sel": 0, "conds": [[4, 0, "castle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18246956-34", "question": "What is Date, when Set 1 is \"20:22\"?", "sql": {"sel": 0, "conds": [[2, 0, "20:22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-4", "question": "Who is the March playmate with an August playmate Gianna Amore?", "sql": {"sel": 2, "conds": [[6, 0, "gianna amore"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12126365-3", "question": "Which Set 3 has a Set 1 of 25\u201320?", "sql": {"sel": 5, "conds": [[3, 0, "25\u201320"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-2", "question": "What is the 7:30 feature with an 8:00 feature of Cosby?", "sql": {"sel": 1, "conds": [[2, 0, "cosby"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15789909-13", "question": "What is the report in the tournament that started at 12:30?", "sql": {"sel": 7, "conds": [[1, 0, "12:30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11206408-2", "question": "What is the 2nd leg of the Comunicaciones team?", "sql": {"sel": 4, "conds": [[0, 0, "comunicaciones"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1781343-3", "question": "What is the number of cuts made when the top-5 is 0, top-10 is 1 and events are fewer than 12?", "sql": {"sel": 6, "conds": [[2, 0, 0], [3, 0, 1], [5, 2, 12]], "agg": 5}}
+{"phase": 2, "table_id": "2-12330040-2", "question": "Which team 2 has a 2nd leg of 0-2?", "sql": {"sel": 2, "conds": [[4, 0, "0-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15315103-1", "question": "If the Class A is Anton and Class AAA is Burnet, what is Class AA?", "sql": {"sel": 2, "conds": [[1, 0, "anton"], [3, 0, "burnet"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-5", "question": "What is No. 8, when No. 10 is Hunter?", "sql": {"sel": 8, "conds": [[10, 0, "hunter"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17859751-5", "question": "What is the 2009 entry for the row that has a 2007 entry of A and a tournament entry of US Open?", "sql": {"sel": 3, "conds": [[1, 0, "a"], [0, 0, "us open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968229-1", "question": "Which team played at home for the second leg and has an aggregate score of 2-4?", "sql": {"sel": 1, "conds": [[4, 0, "2-4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15315103-1", "question": "Where Class AAA is Atlanta and Class AA is Weimar, what is Class AAAAA?", "sql": {"sel": 5, "conds": [[3, 0, "atlanta"], [2, 0, "weimar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13140232-10", "question": "What was the 2012 result associated with a 2007 finish of 2R and a 2009 of 1R?", "sql": {"sel": 8, "conds": [[3, 0, "2r"], [5, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-5", "question": "What is Total, when Set 5 is NA, and when Set 2 is 25-13?", "sql": {"sel": 7, "conds": [[6, 0, "na"], [3, 0, "25-13"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25216791-3", "question": "What was the data on January 15-16 if the data recorded June 10-11 is June 10, 1964?", "sql": {"sel": 2, "conds": [[0, 0, "June 10, 1964"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598164-9", "question": "What is the sum of top-25s for events with more than 1 top-5?", "sql": {"sel": 4, "conds": [[2, 1, 1]], "agg": 4}}
+{"phase": 2, "table_id": "2-11924384-6", "question": "What is the 2006 value of the 2009 A value, 2011 A value, and A as the 2007 value?", "sql": {"sel": 1, "conds": [[4, 0, "a"], [6, 0, "a"], [2, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15945725-9", "question": "When was set 3 of 18-25?", "sql": {"sel": 0, "conds": [[4, 0, "18-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-1", "question": "What is the No 1 from the Maryland (2008) Region (year)?", "sql": {"sel": 1, "conds": [[0, 0, "maryland (2008)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-3", "question": "What is on at 7:30 on the same channel as Wheel of Fortune at 7:00?", "sql": {"sel": 1, "conds": [[0, 0, "wheel of fortune"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12710384-4", "question": "Which totals tournament has the lowest wins and top-25 less than 4?", "sql": {"sel": 1, "conds": [[0, 0, "totals"], [4, 2, 4]], "agg": 2}}
+{"phase": 2, "table_id": "2-1307603-6", "question": "Name the total number of wins with top-25 of 10 and events less than 26", "sql": {"sel": 1, "conds": [[4, 0, 10], [5, 2, 26]], "agg": 3}}
+{"phase": 2, "table_id": "2-15100199-11", "question": "Which 2010 has a Tournament of australian open?", "sql": {"sel": 5, "conds": [[0, 0, "australian open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1516564-12", "question": "What is the average number of cuts made in events with fewer than 1 win and exactly 11 top-10s?", "sql": {"sel": 6, "conds": [[3, 0, 11], [1, 2, 1]], "agg": 5}}
+{"phase": 1, "table_id": "1-1745843-7", "question": "What's the part 4 for the verb whose part 3 is borgen?", "sql": {"sel": 4, "conds": [[3, 0, "borgen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1576965-6", "question": "What was the total number of Top-25 values, for which Cuts made was 62, and for which Wins were less than 1?", "sql": {"sel": 4, "conds": [[6, 0, 62], [1, 2, 1]], "agg": 3}}
+{"phase": 2, "table_id": "2-16013858-11", "question": "What is Score, when Set 3 is 17-25?", "sql": {"sel": 1, "conds": [[4, 0, "17-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12923427-5", "question": "What is the 2012 value at the Grand Slam Tournaments?", "sql": {"sel": 5, "conds": [[0, 0, "grand slam tournaments"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-8", "question": "What is the verb meaning of the word with part 3 \"sufun\"?", "sql": {"sel": 5, "conds": [[3, 0, "sufun"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-1", "question": "Which Finish position has a 4th Day of bumped robinson?", "sql": {"sel": 1, "conds": [[5, 0, "bumped robinson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15789909-9", "question": "What is the score for set 3 with a time at 15:04?", "sql": {"sel": 5, "conds": [[1, 0, "15:04"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-6", "question": "What is the Part 3 when the Verb meaning is to gather?", "sql": {"sel": 3, "conds": [[5, 0, "to gather"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1313008-1", "question": "Name the D 43 with D 48 of d 9", "sql": {"sel": 5, "conds": [[0, 0, "d 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15209530-5", "question": "Which 2009 has a 2008 of A, and a Tournament of canada masters?", "sql": {"sel": 2, "conds": [[1, 0, "a"], [0, 0, "canada masters"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11190694-12", "question": "what is at 9:30 when at 8:30 it is scrubs?", "sql": {"sel": 3, "conds": [[1, 0, "scrubs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-11", "question": "What is Set 1, when Date is Jun 26, and when Set 4 is 26-24?", "sql": {"sel": 2, "conds": [[0, 0, "jun 26"], [5, 0, "26-24"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-9", "question": "Name the class for boten", "sql": {"sel": 0, "conds": [[3, 0, "boten"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-11", "question": "Who was the girl on week 5 that came after week 3's Shelly Louise?", "sql": {"sel": 4, "conds": [[2, 0, "shelly louise"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18246956-16", "question": "What is the date of the 21:12 Set 2?", "sql": {"sel": 0, "conds": [[3, 0, "21:12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-7", "question": "In what class does the verb with part 4 gelopen belong to?", "sql": {"sel": 0, "conds": [[4, 0, "gelopen"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-6", "question": "What's the class of the verb whose part 1 is lesan?", "sql": {"sel": 0, "conds": [[1, 0, "lesan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12126365-3", "question": "Which Set 1 has a Set 3 of 16\u201325?", "sql": {"sel": 3, "conds": [[5, 0, "16\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12424326-2", "question": "What team played against Al-Ismaily (team 1)?", "sql": {"sel": 2, "conds": [[0, 0, "al-ismaily"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15789909-11", "question": "What is the Set 3 when the Set 2 is 21\u201325, and a Set 1 is 25\u201321?", "sql": {"sel": 5, "conds": [[4, 0, "21\u201325"], [3, 0, "25\u201321"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-20", "question": "What aired at 10:00 when Flashpoint aired at 9:30?", "sql": {"sel": 4, "conds": [[3, 0, "flashpoint"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17859751-5", "question": "What is the 2008 entry for the row that as a 2011 entry of 1R?", "sql": {"sel": 2, "conds": [[5, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1580725-6", "question": "What is the average Cuts that were made with a Top-10 that is larger than 9?", "sql": {"sel": 6, "conds": [[3, 1, 9]], "agg": 5}}
+{"phase": 2, "table_id": "2-12868503-4", "question": "Who is the December playmate with a November playmate Marlene Janssen?", "sql": {"sel": 10, "conds": [[9, 0, "marlene janssen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-7", "question": "Name the No. 10 which has a No. 8 of jackson, and a No. 9 of jayden?", "sql": {"sel": 10, "conds": [[8, 0, "jackson"], [9, 0, "jayden"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15945725-13", "question": "What is the score on 15 Aug with a 17:30 time?", "sql": {"sel": 2, "conds": [[0, 0, "15 aug"], [1, 0, "17:30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16965329-8", "question": "What is the tournament with a 2r in 2009 and a 2r in 2010?", "sql": {"sel": 0, "conds": [[5, 0, "2r"], [6, 0, "2r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-7", "question": "What is the total of the 3-0 score with a set 2 of 25-12 and a set 3 of 25-18?", "sql": {"sel": 7, "conds": [[1, 0, "3-0"], [4, 0, "25-18"], [3, 0, "25-12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16472507-3", "question": "What is the 2003 value for the 2008 grand slam tournaments?", "sql": {"sel": 2, "conds": [[7, 0, "grand slam tournaments"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968233-2", "question": "Which team played the 2nd leg at home with a tie of 1-1 and scored 3-2 in aggregate?", "sql": {"sel": 1, "conds": [[4, 0, "3-2"], [3, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16741821-7", "question": "What 2010 has an A 2006 & 2011?", "sql": {"sel": 5, "conds": [[1, 0, "a"], [6, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1544297-7", "question": "What is the sum of Events, when Top-10 is 7, and when Top-5 is greater than 4?", "sql": {"sel": 5, "conds": [[3, 0, 7], [2, 1, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-16593943-5", "question": "What is the score for set 2 when the score of set 1 is 19\u201325?", "sql": {"sel": 4, "conds": [[3, 0, "19\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14923445-2", "question": "Which Total has a Set 2 of 19\u201325?", "sql": {"sel": 6, "conds": [[4, 0, "19\u201325"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1708610-3", "question": "Name the march 27-29 for november 3 being 133", "sql": {"sel": 1, "conds": [[3, 0, "133"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-2", "question": "What Week 5 has a Week 1 of mysti sherwood?", "sql": {"sel": 4, "conds": [[0, 0, "mysti sherwood"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1178059-1", "question": "Name the D 47 when it has a D 48 of d 49 and D 42 of r 42", "sql": {"sel": 1, "conds": [[0, 0, "d 49"], [6, 0, "r 42"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16311036-9", "question": "what is 2007 when 2011 is not held and 2012 is not held?", "sql": {"sel": 1, "conds": [[5, 0, "not held"], [6, 0, "not held"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25284864-3", "question": "What June 10-11 is is that corresponds to March 28, 1968?", "sql": {"sel": 0, "conds": [[1, 0, "March 28, 1968"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11949127-4", "question": "What is the number of wins that has a top-10 of 2, and more events than 8, more cuts than 6?", "sql": {"sel": 1, "conds": [[3, 0, 2], [5, 1, 8], [6, 1, 6]], "agg": 3}}
+{"phase": 2, "table_id": "2-12126365-3", "question": "Which score has a Set 2 of 17\u201325, and a Total of 48\u201375?", "sql": {"sel": 2, "conds": [[4, 0, "17\u201325"], [6, 0, "48\u201375"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14601528-2", "question": "Name the class aa for 1998-99", "sql": {"sel": 2, "conds": [[0, 0, "1998-99"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-9", "question": "What name was number 7 when Mason was number 1, Owen was number 6, Jackson was number 9, and Logan was number 10?", "sql": {"sel": 7, "conds": [[1, 0, "mason"], [9, 0, "jackson"], [10, 0, "logan"], [6, 0, "owen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11823140-11", "question": "What is the total when the score of set 1 was 15\u201311?", "sql": {"sel": 5, "conds": [[2, 0, "15\u201311"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15209530-6", "question": "Name the 2012 for us open", "sql": {"sel": 5, "conds": [[0, 0, "us open"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-6", "question": "What is the verb meaning when part 2 is band?", "sql": {"sel": 5, "conds": [[2, 0, "band"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1750635-12", "question": "what is 2003 when 2005 is did not qualify?", "sql": {"sel": 2, "conds": [[4, 0, "did not qualify"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-6", "question": "What is the 7:00 feature with entertainment tonight at 7:30?", "sql": {"sel": 0, "conds": [[1, 0, "entertainment tonight"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17717526-12", "question": "What 2009 has lq as the 2011?", "sql": {"sel": 4, "conds": [[6, 0, "lq"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-7", "question": "What's the part 3 of the verb with part 4 gelopen?", "sql": {"sel": 3, "conds": [[4, 0, "gelopen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12472200-8", "question": "Name the 2008 with 2010 of 2r and wimbledon tournament", "sql": {"sel": 1, "conds": [[2, 0, "2r"], [0, 0, "wimbledon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18246956-35", "question": "What is the score for Set 1 at 19:21?", "sql": {"sel": 1, "conds": [[2, 0, "19:21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-8", "question": "Who is week 1 if week 3 is Natasha Budhi?", "sql": {"sel": 0, "conds": [[2, 0, "natasha budhi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11822854-5", "question": "What is the Set 3 with a Set 2 with 15\u20136?", "sql": {"sel": 4, "conds": [[3, 0, "15\u20136"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18087075-3", "question": "What is 2009, when 2011 is \"Q2\"?", "sql": {"sel": 2, "conds": [[4, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15945725-9", "question": "What set 2 has a set 4 of 21-25?", "sql": {"sel": 3, "conds": [[5, 0, "21-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17614198-2", "question": "What is the agg when team 2 was Cementarnica?", "sql": {"sel": 1, "conds": [[2, 0, "cementarnica"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1750635-12", "question": "what is 2012 when the tournament is win %?", "sql": {"sel": 11, "conds": [[0, 0, "win %"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11200856-1", "question": "What is the hand for 4 credits is 1600?", "sql": {"sel": 0, "conds": [[4, 0, 1600]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-6", "question": "What is the 9:00 episode that will be shown on the station that will show 20/20 at 10:00?", "sql": {"sel": 4, "conds": [[6, 0, "20/20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12923427-5", "question": "What is the 2009 value with q1 in 2010?", "sql": {"sel": 2, "conds": [[3, 0, "q1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22651355-3", "question": "What value can you find under the column \"august 21-22\" and the row of June 11, 1983?", "sql": {"sel": 4, "conds": [[0, 0, "June 11, 1983"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-7", "question": "Which week 1 had a week 2 of Mandy Lynn?", "sql": {"sel": 0, "conds": [[1, 0, "mandy lynn"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16304563-1", "question": "What is the No. 8 of the person with a No. 4 of Matthew and a No. 7 of Anthony?", "sql": {"sel": 8, "conds": [[4, 0, "matthew"], [7, 0, "anthony"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12845004-3", "question": "What Team 2 has a second leg of 3-1?", "sql": {"sel": 2, "conds": [[4, 0, "3-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14630796-1", "question": "What is the Class AAAAA when the Class AAA is Gonzales?", "sql": {"sel": 4, "conds": [[3, 0, "gonzales"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-6", "question": "What is the Verb meaning when part 1 is alan?", "sql": {"sel": 5, "conds": [[1, 0, "alan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-2", "question": "What is the 8:00 feature with a 7:00 feature Air Farce?", "sql": {"sel": 2, "conds": [[0, 0, "air farce"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-1", "question": "Which 1st day has a 3rd day of bumped 1st & 3rd trinity?", "sql": {"sel": 2, "conds": [[4, 0, "bumped 1st & 3rd trinity"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-9", "question": "Who is the cyber girl in week 3 when Demi Jessica was the cyber girl in week 1?", "sql": {"sel": 2, "conds": [[0, 0, "demi jessica"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11823140-11", "question": "What is the total when the score of set 1 is 15\u201311?", "sql": {"sel": 5, "conds": [[2, 0, "15\u201311"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17922810-3", "question": "What is the 2009 value of the shanghai masters, which was A in 2012 and 1r in 2011?", "sql": {"sel": 2, "conds": [[5, 0, "a"], [4, 0, "1r"], [0, 0, "shanghai masters"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14603212-5", "question": "What are all the AAA classes in the school years of 2004-05?", "sql": {"sel": 3, "conds": [[0, 0, "2004-05"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14630796-1", "question": "Name the class a for carthage", "sql": {"sel": 1, "conds": [[4, 0, "Carthage"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10882589-57", "question": "Which team was team 1 that had a team 2 that was la nuova piovese (veneto a)?", "sql": {"sel": 0, "conds": [[2, 0, "la nuova piovese (veneto a)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10173807-1", "question": "What is the value for 2010 when the value for 2006 is A and the value for 2009 is 1R?", "sql": {"sel": 5, "conds": [[1, 0, "a"], [4, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15925889-5", "question": "What is Set 1, when Set 2 is 17-25?", "sql": {"sel": 2, "conds": [[3, 0, "17-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18586543-7", "question": "What is the tournament when 2012 is q2?", "sql": {"sel": 0, "conds": [[6, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17978030-6", "question": "What is the set 3 when the total is 78\u201392?", "sql": {"sel": 5, "conds": [[6, 0, "78\u201392"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17065288-2", "question": "Which Team 2 has a Team 1 of vardar?", "sql": {"sel": 2, "conds": [[0, 0, "vardar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14923445-2", "question": "Which Score has a Set 2 of 25\u201317, and a Time of 16:00?", "sql": {"sel": 2, "conds": [[4, 0, "25\u201317"], [1, 0, "16:00"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14603212-5", "question": "What are all the AAA classes in the school years of 2005-06?", "sql": {"sel": 3, "conds": [[0, 0, "2005-06"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17397131-6", "question": "What is the team 1 with a 3-0 2nd leg?", "sql": {"sel": 0, "conds": [[4, 0, "3-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17626199-35", "question": "What was the total when the set 3 was 25\u201314?", "sql": {"sel": 5, "conds": [[4, 0, "25\u201314"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1590652-7", "question": "How many wins were in the PGA Championship when there were more than 10 events?", "sql": {"sel": 1, "conds": [[0, 0, "pga championship"], [5, 1, 10]], "agg": 3}}
+{"phase": 2, "table_id": "2-1157761-9", "question": "Which top ten, having less than  12 cuts less than 2 top five, and events smaller than 14, is the highest?", "sql": {"sel": 3, "conds": [[6, 2, 12], [2, 2, 2], [5, 2, 14]], "agg": 1}}
+{"phase": 2, "table_id": "2-16693989-9", "question": "What is the overall score when the set 2 score is 25\u201318?", "sql": {"sel": 2, "conds": [[4, 0, "25\u201318"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18586543-7", "question": "What is the tournament when 2007 is WTA Premier 5 tournaments?", "sql": {"sel": 0, "conds": [[1, 0, "wta premier 5 tournaments"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14601528-2", "question": "Name the school year for class a for sterling city and little elm", "sql": {"sel": 0, "conds": [[1, 0, "Sterling City"], [2, 0, "Little Elm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11823251-21", "question": "What was the time when the score was 0\u20133?", "sql": {"sel": 1, "conds": [[2, 0, "0\u20133"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18504248-7", "question": "What's the 2008 of the US Open when 2010 was 2R and 2011 was 1R?", "sql": {"sel": 1, "conds": [[4, 0, "1r"], [3, 0, "2r"], [0, 0, "us open"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17968233-2", "question": "If the second leg is 1-1, what is the first leg?", "sql": {"sel": 0, "conds": [[3, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10124937-14", "question": "What is the first leg score in that match where Marseille was the first team?", "sql": {"sel": 3, "conds": [[0, 0, "marseille"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17617561-4", "question": "What shows for 2013 when the 2008 is 1r?", "sql": {"sel": 5, "conds": [[1, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11823251-12", "question": "For a date of 29 Sep and a time of 16:40, what is the corresponding Set 3?", "sql": {"sel": 5, "conds": [[0, 0, "29 sep"], [1, 0, "16:40"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15315103-1", "question": "If Class AAAA is Schertz Clemens and SChool Year is 1987-88, what is Class AA?", "sql": {"sel": 2, "conds": [[4, 0, "schertz clemens"], [0, 0, "1987-88"]], "agg": 0}}
+{"phase": 2, "table_id": "2-148535-2", "question": "What is listed for the 3 credits that also has a 2 credits of 99.7%?", "sql": {"sel": 3, "conds": [[2, 0, "99.7%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14923445-2", "question": "Which Date has a Score of 0\u20133, and a Set 2 of 16\u201325?", "sql": {"sel": 0, "conds": [[2, 0, "0\u20133"], [4, 0, "16\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12450517-11", "question": "Name the 2011 for 2012 of a and 2010 of 1r with 2008 of 2r", "sql": {"sel": 4, "conds": [[5, 0, "a"], [3, 0, "1r"], [1, 0, "2r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15184672-3", "question": "What is on at 9:30 on the same channel as Fin du Monde at 10:00?", "sql": {"sel": 5, "conds": [[6, 0, "fin du monde"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-6", "question": "What is the 7:30 feature with le tva 22 heures at 10:00?", "sql": {"sel": 1, "conds": [[6, 0, "le tva 22 heures"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10399701-2", "question": "Who was Class AAAAA during the school year of 1995-96?", "sql": {"sel": 5, "conds": [[0, 0, "1995-96"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12285359-7", "question": "Name the 2nd leg for defence force", "sql": {"sel": 4, "conds": [[2, 0, "defence force"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14219514-2", "question": "What aggregate has a 0-0 1st leg, and is from Instituto?", "sql": {"sel": 4, "conds": [[2, 0, "0-0"], [1, 0, "instituto"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1570274-4", "question": "What are the least Top-5 finish when the events are greater than 18?", "sql": {"sel": 2, "conds": [[5, 1, 18]], "agg": 2}}
+{"phase": 2, "table_id": "2-12598104-9", "question": "What is the 2010 result of a tournament that is 1R in 2009, Q2 in 2011 and 1R in 2012?", "sql": {"sel": 5, "conds": [[6, 0, "q2"], [7, 0, "1r"], [4, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18586543-7", "question": "What is the tournament when 2010 is q2, and 2009 is 1r?", "sql": {"sel": 0, "conds": [[4, 0, "q2"], [3, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17968229-1", "question": "What was the score of the 2nd leg when Newell's Old Boys played at home?", "sql": {"sel": 3, "conds": [[1, 0, "newell's old boys"]], "agg": 0}}
+{"phase": 2, "table_id": "2-148535-2", "question": "What's the listed Hand has 3 credits of 6?", "sql": {"sel": 0, "conds": [[3, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-2", "question": "What is on at 8:30 when etalk is on at 7:00 on that channel?", "sql": {"sel": 3, "conds": [[0, 0, "etalk"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-11", "question": "What is Set 1, when Set 3 is 22-25?", "sql": {"sel": 2, "conds": [[4, 0, "22-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18210406-1", "question": "What is 2nd Leg, when Team 2 is \"Dunaferr\"?", "sql": {"sel": 4, "conds": [[2, 0, "dunaferr"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1615980-8", "question": "What is the lowest Top-25, when Events is 10, and when Wins is greater than 0?", "sql": {"sel": 4, "conds": [[5, 0, 10], [1, 1, 0]], "agg": 2}}
+{"phase": 2, "table_id": "2-11870943-8", "question": "What is the categorization in 2010 when it was A in 2008 and 20011 while being QF in 2012?", "sql": {"sel": 4, "conds": [[2, 0, "a"], [5, 0, "a"], [6, 0, "qf"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-4", "question": "What is the 4th day when the 2nd day is Bumped Caius?", "sql": {"sel": 5, "conds": [[3, 0, "bumped caius"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14737891-10", "question": "What is the total number of E scores when the total score was 19.7 and the A score was more than 6?", "sql": {"sel": 3, "conds": [[4, 0, 19.7], [2, 1, 6]], "agg": 3}}
+{"phase": 2, "table_id": "2-1551597-4", "question": "Which Top-10 has a Cuts made of 10, and a Top-5 larger than 1?", "sql": {"sel": 3, "conds": [[6, 0, 10], [2, 1, 1]], "agg": 2}}
+{"phase": 1, "table_id": "1-17968229-1", "question": "What is the aggregate when the second leg is 1-3?", "sql": {"sel": 4, "conds": [[3, 0, "1-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11511365-9", "question": "Name the 2012 for when 2010 is q3", "sql": {"sel": 6, "conds": [[4, 0, "q3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15980495-1", "question": "What was the 1st leg score for the match with Lesotho as team 1?", "sql": {"sel": 3, "conds": [[0, 0, "lesotho"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11822854-5", "question": "What is the Set 1 with a Set 2 of 15\u20135, and a Set 3 with 15\u20133?", "sql": {"sel": 2, "conds": [[3, 0, "15\u20135"], [4, 0, "15\u20133"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12845004-3", "question": "Which Team 1 faced Dynamos FC?", "sql": {"sel": 0, "conds": [[2, 0, "dynamos fc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-3", "question": "What's on at 7:30 before the 9:00 showing of the Tudors?", "sql": {"sel": 1, "conds": [[4, 0, "the tudors"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-6", "question": "What is the class when the verb meaning is to nourish, to grow?", "sql": {"sel": 0, "conds": [[5, 0, "to nourish, to grow"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14076287-3", "question": "What is the 2nd leg of the Internacional Team 1?", "sql": {"sel": 4, "conds": [[0, 0, "internacional"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10218362-7", "question": "Tell me the tournament of 2009 of atp masters series", "sql": {"sel": 0, "conds": [[2, 0, "atp masters series"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17859751-5", "question": "What is the 2011 entry for the row with a 2007 entry of 558?", "sql": {"sel": 5, "conds": [[1, 0, "558"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-2", "question": "What is the latest year that ended with a 3rd day of rowed-over?", "sql": {"sel": 0, "conds": [[4, 0, "rowed-over"]], "agg": 1}}
+{"phase": 2, "table_id": "2-16218722-2", "question": "Which Team 1 had a 1st leg of 0\u20132?", "sql": {"sel": 0, "conds": [[3, 0, "0\u20132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17693472-4", "question": "WHAT IS THE 2008 WITH TOURNAMENT OF WIN-LOSS, AND 2005 A?", "sql": {"sel": 4, "conds": [[0, 0, "win-loss"], [1, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-5", "question": "Who is the January playmate with a March playmate Alexandria Karlsen?", "sql": {"sel": 0, "conds": [[2, 0, "alexandria karlsen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18621753-1", "question": "What tournament had an A in 2012 and Q2 in 2010?", "sql": {"sel": 0, "conds": [[5, 0, "a"], [3, 0, "q2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16013858-13", "question": "What is set 3 when set 5 is na, set 1 is 21-25, and set 2 is 25-16?", "sql": {"sel": 4, "conds": [[6, 0, "na"], [2, 0, "21-25"], [3, 0, "25-16"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-8", "question": "What is the part 4 when part 1 is \"lesan\"?", "sql": {"sel": 4, "conds": [[1, 0, "lesan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15209530-5", "question": "Which 2008 has a 2009 of A, and a Tournament of cincinnati masters?", "sql": {"sel": 1, "conds": [[2, 0, "a"], [0, 0, "cincinnati masters"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-1", "question": "What 10:00 has a 8:00 of movies?", "sql": {"sel": 6, "conds": [[2, 0, "movies"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14737891-11", "question": "When the A Score was larger than 5.933 with a total of 19.833, what nation was this?", "sql": {"sel": 0, "conds": [[2, 1, 5.933], [4, 0, 19.833]], "agg": 0}}
+{"phase": 2, "table_id": "2-16623894-36", "question": "Team 1, Everton, has what as a 1st leg?", "sql": {"sel": 3, "conds": [[0, 0, "everton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1662630-5", "question": "what is the average top-10 when the cuts made is less than 9 and the events is more than 14?", "sql": {"sel": 3, "conds": [[6, 2, 9], [5, 1, 14]], "agg": 5}}
+{"phase": 2, "table_id": "2-11870943-7", "question": "What is the 2011 value that has a 2r in 2008 and a 4r in 2012?", "sql": {"sel": 6, "conds": [[3, 0, "2r"], [7, 0, "4r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1818978-2", "question": "What is 2001, when 2007 is \"1R\", and when 2008 is \"Q1\"?", "sql": {"sel": 1, "conds": [[7, 0, "1r"], [8, 0, "q1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16741821-7", "question": "What 2001 has a ATP World Tour Masters 1000 2007?", "sql": {"sel": 6, "conds": [[2, 0, "atp world tour masters 1000"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10882589-57", "question": "What was the 2nd leg where the team 2 was budoni (sardinia)?", "sql": {"sel": 4, "conds": [[2, 0, "budoni (sardinia)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16457934-2", "question": "When 2073 is 65 to 69 how many results of  25 to 29 are there?", "sql": {"sel": 5, "conds": [[13, 0, 2073]], "agg": 3}}
+{"phase": 2, "table_id": "2-11190694-12", "question": "what is at 10:00 when at 9:00 it is lost (#19, 4.6 rating) and at 8:30 it is lost (reruns)?", "sql": {"sel": 4, "conds": [[2, 0, "lost (#19, 4.6 rating)"], [1, 0, "lost (reruns)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13140232-10", "question": "What was the 2008 result associated with a 2009 of A and a 2011 of 2R?", "sql": {"sel": 4, "conds": [[5, 0, "a"], [7, 0, "2r"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17968229-1", "question": "If the home is Atl\u00e9tico Tucum\u00e1n, what is the name of the first leg?", "sql": {"sel": 2, "conds": [[1, 0, "Atl\u00e9tico Tucum\u00e1n"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16472507-3", "question": "What is the 2005 value for the 2010 grand slam tournaments?", "sql": {"sel": 4, "conds": [[9, 0, "grand slam tournaments"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14923445-2", "question": "Which Time has a Set 2 of 20\u201325, and a Date of 05 jun?", "sql": {"sel": 1, "conds": [[4, 0, "20\u201325"], [0, 0, "05 jun"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17626199-10", "question": "What date was the total 75\u201345?", "sql": {"sel": 0, "conds": [[5, 0, "75\u201345"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17337726-61", "question": "What is 2nd Leg, when 1st Leg is \"SGM Basso Molise (Molise)\"?", "sql": {"sel": 4, "conds": [[3, 0, "sgm basso molise (molise)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-19", "question": "What is 9:00, when 8:30 is \"My Thursday Night Movie\"?", "sql": {"sel": 2, "conds": [[1, 0, "my thursday night movie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16033363-9", "question": "What is the Tournament with a 3r 2011 and A 2010?", "sql": {"sel": 0, "conds": [[5, 0, "3r"], [4, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17859751-5", "question": "What is the 2010 entry for the row that has a 2009 entry of 270?", "sql": {"sel": 4, "conds": [[3, 0, "270"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14737891-11", "question": "What was the total of A Score when the E Score was greater than 9.383, total was less than 19.716 and the T Score was larger than 4?", "sql": {"sel": 2, "conds": [[3, 1, 9.383], [4, 2, 19.716], [1, 1, 4]], "agg": 4}}
+{"phase": 2, "table_id": "2-12489251-4", "question": "Name the 2012 for 2011 being 1r", "sql": {"sel": 4, "conds": [[3, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-148535-2", "question": "What's the 1 credit with a Hand of Theoretical Return?", "sql": {"sel": 1, "conds": [[0, 0, "theoretical return"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-7", "question": "Which week 3 had a week 1 of Kristy Dwyer?", "sql": {"sel": 2, "conds": [[0, 0, "kristy dwyer"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14630796-1", "question": "Which school year was the Class AAA dalhart and the class AAAAA edinburg?", "sql": {"sel": 0, "conds": [[3, 0, "dalhart"], [5, 0, "edinburg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17998533-3", "question": "Which report has a Set 3 value of 21\u201325?", "sql": {"sel": 7, "conds": [[5, 0, "21\u201325"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11924384-6", "question": "What is the 2007 value with 1r in 2011 and 1r in 2010?", "sql": {"sel": 2, "conds": [[6, 0, "1r"], [5, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1323399-10", "question": "Name the top-25 with wins less than 1 and events of 12", "sql": {"sel": 4, "conds": [[1, 2, 1], [5, 0, 12]], "agg": 4}}
+{"phase": 2, "table_id": "2-1570274-4", "question": "What is the total of wins when the evens is less than 3?", "sql": {"sel": 1, "conds": [[5, 2, 3]], "agg": 4}}
+{"phase": 2, "table_id": "2-1512659-6", "question": "In the tournament that had 3 Top-10's, and less than 15 events, how many Top-5's did the player have?", "sql": {"sel": 2, "conds": [[3, 0, 3], [5, 2, 15]], "agg": 4}}
+{"phase": 2, "table_id": "2-16304563-3", "question": "Who was No. 8 when No. 1 Michael and No. 4 Logan?", "sql": {"sel": 8, "conds": [[1, 0, "michael"], [4, 0, "logan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18246956-35", "question": "What Set 2 has a set one at 19:21?", "sql": {"sel": 3, "conds": [[2, 0, "19:21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-20", "question": "What aired at 9:30 when Don't Forget the Lyrics aired at 8:00?", "sql": {"sel": 3, "conds": [[0, 0, "don't forget the lyrics"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18621753-1", "question": "What's the tournament name when they had an A in 2011 & 2012?", "sql": {"sel": 0, "conds": [[5, 0, "a"], [4, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15708593-9", "question": "What is airing at 9:00 on the channel that airs House at 8:00?", "sql": {"sel": 2, "conds": [[0, 0, "house"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14737891-11", "question": "How large was the total when the E Score was greater than 9.35 and T Score was less than 4?", "sql": {"sel": 4, "conds": [[3, 1, 9.35], [1, 2, 4]], "agg": 1}}
+{"phase": 1, "table_id": "1-25355501-2", "question": " january 15-16 when august 21-22 is august 22, 1979?", "sql": {"sel": 2, "conds": [[4, 0, "August 22, 1979"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15757906-11", "question": "Which team 1 has cbm valladolid as team 2?", "sql": {"sel": 0, "conds": [[2, 0, "cbm valladolid"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18621753-1", "question": "What's the 2012 during Wimbledon and had a Q3 in 2008?", "sql": {"sel": 5, "conds": [[1, 0, "q3"], [0, 0, "wimbledon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-6", "question": "Name the october for july of kimberley stanfield", "sql": {"sel": 8, "conds": [[5, 0, "kimberley stanfield"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-4", "question": "What was the 4th day in the year before 2012 that the finish is 33rd?", "sql": {"sel": 5, "conds": [[0, 2, 2012], [1, 0, "33rd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25235489-2", "question": "How many times does November 3rd occur when January 15, 1991 does?", "sql": {"sel": 3, "conds": [[2, 0, "January 15, 1991"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1314472-1", "question": "Name the D 43 when it has D 41 of d 56", "sql": {"sel": 5, "conds": [[7, 0, "d 56"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1745843-6", "question": "What's the part 3 of the verb in class 5?", "sql": {"sel": 3, "conds": [[0, 0, "5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16457934-4", "question": "what is the maximum 18 to 19 and 30-34  is 1203?", "sql": {"sel": 3, "conds": [[6, 0, 1203]], "agg": 1}}
+{"phase": 2, "table_id": "2-15708593-12", "question": "What played at 8:00 when Grey's Anatomy played at 9:00 and Ugly Betty played at 8:30?", "sql": {"sel": 0, "conds": [[2, 0, "grey's anatomy"], [1, 0, "ugly betty"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1745843-7", "question": "what is part 1 when the class is 7d?", "sql": {"sel": 1, "conds": [[0, 0, "7d"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14747043-1", "question": "What was the class AAAA when San Angelo Lake View was the class AAAA", "sql": {"sel": 5, "conds": [[4, 0, "San Angelo Lake View"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11511365-9", "question": "Name the 2010 for 2012 grand slam tournaments", "sql": {"sel": 4, "conds": [[6, 0, "grand slam tournaments"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15757906-1", "question": "What is the Team 2 with a Team 1 that is milli piyango sk?", "sql": {"sel": 2, "conds": [[0, 0, "milli piyango sk"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15757906-1", "question": "What is the Team 1 with a Team 2 with brest hc meshkov?", "sql": {"sel": 0, "conds": [[2, 0, "brest hc meshkov"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17659558-2", "question": "Which Team 1 has a 2nd leg of 1-3?", "sql": {"sel": 0, "conds": [[4, 0, "1-3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25355501-2", "question": "What is shown for november 3 when august 21-22 is august 22, 1998?", "sql": {"sel": 3, "conds": [[4, 0, "August 22, 1998"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16218498-1", "question": "What is Agg., when Team 1 is CD El\u00e1 Nguema?", "sql": {"sel": 1, "conds": [[0, 0, "cd el\u00e1 nguema"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12868503-3", "question": "Who is in July where October is jill de vries?", "sql": {"sel": 5, "conds": [[8, 0, "jill de vries"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1558607-6", "question": "Which Cuts made has a Top-5 smaller than 3, and a Top-25 smaller than 6, and an Events of 10?", "sql": {"sel": 6, "conds": [[2, 2, 3], [4, 2, 6], [5, 0, 10]], "agg": 0}}
+{"phase": 2, "table_id": "2-1818978-3", "question": "What's the 2011 result when 2010 is 2r and 2013 is w?", "sql": {"sel": 11, "conds": [[10, 0, "2r"], [13, 0, "w"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14920702-2", "question": "Which Set 1 has a Set 2 of 26\u201324?", "sql": {"sel": 2, "conds": [[3, 0, "26\u201324"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1576965-6", "question": "What was the sum of Events, when Wins were less than 1, when Top-25 was 3, and when Top-5 was less than 1?", "sql": {"sel": 5, "conds": [[1, 2, 1], [4, 0, 3], [2, 2, 1]], "agg": 4}}
+{"phase": 1, "table_id": "1-148535-2", "question": "Name the hand for 1 credit 200", "sql": {"sel": 0, "conds": [[1, 0, 200]], "agg": 0}}
+{"phase": 2, "table_id": "2-12472200-8", "question": "Name the 2010 with tournament of grand slam tournaments", "sql": {"sel": 2, "conds": [[0, 0, "grand slam tournaments"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17877429-12", "question": "Can you tell me the Score that has the Date of 05 dec?", "sql": {"sel": 2, "conds": [[0, 0, "05 dec"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17617561-4", "question": "What shows for 2013 when 2012 is 2r?", "sql": {"sel": 5, "conds": [[4, 0, "2r"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14601528-2", "question": "Name the number of class aa for bridgeport and 1999-2000", "sql": {"sel": 2, "conds": [[3, 0, "Bridgeport"], [0, 0, "1999-2000"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11200856-1", "question": "How many 4 credits is the hand two pair?", "sql": {"sel": 4, "conds": [[0, 0, "Two pair"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17968233-1", "question": "What was the 2nd leg that had a first leg of 1-1?", "sql": {"sel": 1, "conds": [[2, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17372848-1", "question": "What is the team 1 when Ulisses is team 2?", "sql": {"sel": 0, "conds": [[2, 0, "ulisses"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1340667-3", "question": " how many\u00a01st day\u00a0with\u00a03rd day\u00a0being bumped st. catharine's", "sql": {"sel": 2, "conds": [[4, 0, "bumped St. Catharine's"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17991582-1", "question": "What team 2 has a team 1 of harbour view?", "sql": {"sel": 2, "conds": [[0, 0, "harbour view"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16311036-9", "question": "what is the tournament when 2011 is a, 2009 is lq and 2012 is 1r?", "sql": {"sel": 0, "conds": [[5, 0, "a"], [3, 0, "lq"], [6, 0, "1r"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-3", "question": "What show comes on at 9:00 on the channel that shows the Insider at 7:00?", "sql": {"sel": 4, "conds": [[0, 0, "the insider"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-10", "question": "What is the week 1 with candice hunnicutt in week 3?", "sql": {"sel": 0, "conds": [[2, 0, "candice hunnicutt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14923445-2", "question": "Which Time has a Set 3 of 24\u201326, and a Score of 0\u20133?", "sql": {"sel": 1, "conds": [[5, 0, "24\u201326"], [2, 0, "0\u20133"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12280777-2", "question": "What is on at 9:30 on the channel of dancing with the stars?", "sql": {"sel": 5, "conds": [[3, 0, "dancing with the stars"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16949333-9", "question": "WHAT IS THE 2009 PERFORMANCE WITH A 2012 OF 2R, 2001 OF 1R, 2007 OF A, AND 2008 OF A?", "sql": {"sel": 3, "conds": [[6, 0, "2r"], [5, 0, "1r"], [1, 0, "a"], [2, 0, "a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1510351-5", "question": "Name the top-10 with top-5 less than 1", "sql": {"sel": 3, "conds": [[2, 2, 1]], "agg": 0}}
+{"phase": 2, "table_id": "2-17993994-3", "question": "When Audra Lynn was featured in Week 2, who was the cyber girl for Week 5?", "sql": {"sel": 4, "conds": [[1, 0, "audra lynn"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11822854-5", "question": "What is the Set 2 with a Total of 45\u201312, and a Set 3 with 15\u20132?", "sql": {"sel": 3, "conds": [[5, 0, "45\u201312"], [4, 0, "15\u20132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11822708-4", "question": "What was the Set 1 game score when Set 3 game score was 15\u20134, and a Set 2 game score was 15\u20137?", "sql": {"sel": 2, "conds": [[4, 0, "15\u20134"], [3, 0, "15\u20137"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14603057-2", "question": "Name the school year with class AAAAA of mcallen and class AAAA of longview pine tree", "sql": {"sel": 0, "conds": [[5, 0, "mcallen"], [4, 0, "longview pine tree"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1586876-6", "question": "What is the mean number of events when top-5 is 1?", "sql": {"sel": 5, "conds": [[2, 0, 1]], "agg": 5}}
+{"phase": 2, "table_id": "2-16304563-4", "question": "Who was number 4 when Natalie was number 9?", "sql": {"sel": 4, "conds": [[9, 0, "natalie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1602858-4", "question": "What is the name of the tournament with 11 or more events a top-5 of 0 and a top-25 of 2?", "sql": {"sel": 0, "conds": [[5, 1, 11], [2, 0, 0], [4, 0, 2]], "agg": 0}}
+{"phase": 2, "table_id": "2-15209530-5", "question": "Which 2012 has a 2010 of 0\u20130?", "sql": {"sel": 5, "conds": [[3, 0, "0\u20130"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18880596-4", "question": "What is the 3rd day when the 4th day is bumped by Caius?", "sql": {"sel": 4, "conds": [[5, 0, "bumped by caius"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1524433-1", "question": "What is the total for a top-10 in a masters tournament in an event smaller than 4?", "sql": {"sel": 3, "conds": [[0, 0, "masters tournament"], [5, 2, 4]], "agg": 3}}
+{"phase": 2, "table_id": "2-11924384-6", "question": "What is the 2012 value with 479 in 2008?", "sql": {"sel": 7, "conds": [[3, 0, "479"]], "agg": 0}}

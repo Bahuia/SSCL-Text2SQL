@@ -1,0 +1,6676 @@
+[
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address id"
+            ],
+            [
+                0,
+                "address details"
+            ],
+            [
+                1,
+                "staff id"
+            ],
+            [
+                1,
+                "staff gender"
+            ],
+            [
+                1,
+                "staff name"
+            ],
+            [
+                2,
+                "supplier id"
+            ],
+            [
+                2,
+                "supplier name"
+            ],
+            [
+                2,
+                "supplier phone"
+            ],
+            [
+                3,
+                "department store chain id"
+            ],
+            [
+                3,
+                "department store chain name"
+            ],
+            [
+                4,
+                "customer id"
+            ],
+            [
+                4,
+                "payment method code"
+            ],
+            [
+                4,
+                "customer code"
+            ],
+            [
+                4,
+                "customer name"
+            ],
+            [
+                4,
+                "customer address"
+            ],
+            [
+                4,
+                "customer phone"
+            ],
+            [
+                4,
+                "customer email"
+            ],
+            [
+                5,
+                "product id"
+            ],
+            [
+                5,
+                "product type code"
+            ],
+            [
+                5,
+                "product name"
+            ],
+            [
+                5,
+                "product price"
+            ],
+            [
+                6,
+                "supplier id"
+            ],
+            [
+                6,
+                "address id"
+            ],
+            [
+                6,
+                "date from"
+            ],
+            [
+                6,
+                "date to"
+            ],
+            [
+                7,
+                "customer id"
+            ],
+            [
+                7,
+                "address id"
+            ],
+            [
+                7,
+                "date from"
+            ],
+            [
+                7,
+                "date to"
+            ],
+            [
+                8,
+                "order id"
+            ],
+            [
+                8,
+                "customer id"
+            ],
+            [
+                8,
+                "order status code"
+            ],
+            [
+                8,
+                "order date"
+            ],
+            [
+                9,
+                "department store id"
+            ],
+            [
+                9,
+                "department store chain id"
+            ],
+            [
+                9,
+                "store name"
+            ],
+            [
+                9,
+                "store address"
+            ],
+            [
+                9,
+                "store phone"
+            ],
+            [
+                9,
+                "store email"
+            ],
+            [
+                10,
+                "department id"
+            ],
+            [
+                10,
+                "department store id"
+            ],
+            [
+                10,
+                "department name"
+            ],
+            [
+                11,
+                "order item id"
+            ],
+            [
+                11,
+                "order id"
+            ],
+            [
+                11,
+                "product id"
+            ],
+            [
+                12,
+                "product id"
+            ],
+            [
+                12,
+                "supplier id"
+            ],
+            [
+                12,
+                "date supplied from"
+            ],
+            [
+                12,
+                "date supplied to"
+            ],
+            [
+                12,
+                "total amount purchased"
+            ],
+            [
+                12,
+                "total value purchased"
+            ],
+            [
+                13,
+                "staff id"
+            ],
+            [
+                13,
+                "department id"
+            ],
+            [
+                13,
+                "date assigned from"
+            ],
+            [
+                13,
+                "job title code"
+            ],
+            [
+                13,
+                "date assigned to"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address_id"
+            ],
+            [
+                0,
+                "address_details"
+            ],
+            [
+                1,
+                "staff_id"
+            ],
+            [
+                1,
+                "staff_gender"
+            ],
+            [
+                1,
+                "staff_name"
+            ],
+            [
+                2,
+                "supplier_id"
+            ],
+            [
+                2,
+                "supplier_name"
+            ],
+            [
+                2,
+                "supplier_phone"
+            ],
+            [
+                3,
+                "dept_store_chain_id"
+            ],
+            [
+                3,
+                "dept_store_chain_name"
+            ],
+            [
+                4,
+                "customer_id"
+            ],
+            [
+                4,
+                "payment_method_code"
+            ],
+            [
+                4,
+                "customer_code"
+            ],
+            [
+                4,
+                "customer_name"
+            ],
+            [
+                4,
+                "customer_address"
+            ],
+            [
+                4,
+                "customer_phone"
+            ],
+            [
+                4,
+                "customer_email"
+            ],
+            [
+                5,
+                "product_id"
+            ],
+            [
+                5,
+                "product_type_code"
+            ],
+            [
+                5,
+                "product_name"
+            ],
+            [
+                5,
+                "product_price"
+            ],
+            [
+                6,
+                "supplier_id"
+            ],
+            [
+                6,
+                "address_id"
+            ],
+            [
+                6,
+                "date_from"
+            ],
+            [
+                6,
+                "date_to"
+            ],
+            [
+                7,
+                "customer_id"
+            ],
+            [
+                7,
+                "address_id"
+            ],
+            [
+                7,
+                "date_from"
+            ],
+            [
+                7,
+                "date_to"
+            ],
+            [
+                8,
+                "order_id"
+            ],
+            [
+                8,
+                "customer_id"
+            ],
+            [
+                8,
+                "order_status_code"
+            ],
+            [
+                8,
+                "order_date"
+            ],
+            [
+                9,
+                "dept_store_id"
+            ],
+            [
+                9,
+                "dept_store_chain_id"
+            ],
+            [
+                9,
+                "store_name"
+            ],
+            [
+                9,
+                "store_address"
+            ],
+            [
+                9,
+                "store_phone"
+            ],
+            [
+                9,
+                "store_email"
+            ],
+            [
+                10,
+                "department_id"
+            ],
+            [
+                10,
+                "dept_store_id"
+            ],
+            [
+                10,
+                "department_name"
+            ],
+            [
+                11,
+                "order_item_id"
+            ],
+            [
+                11,
+                "order_id"
+            ],
+            [
+                11,
+                "product_id"
+            ],
+            [
+                12,
+                "product_id"
+            ],
+            [
+                12,
+                "supplier_id"
+            ],
+            [
+                12,
+                "date_supplied_from"
+            ],
+            [
+                12,
+                "date_supplied_to"
+            ],
+            [
+                12,
+                "total_amount_purchased"
+            ],
+            [
+                12,
+                "total_value_purchased"
+            ],
+            [
+                13,
+                "staff_id"
+            ],
+            [
+                13,
+                "department_id"
+            ],
+            [
+                13,
+                "date_assigned_from"
+            ],
+            [
+                13,
+                "job_title_code"
+            ],
+            [
+                13,
+                "date_assigned_to"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "text",
+            "time",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "time",
+            "time",
+            "text",
+            "number",
+            "number",
+            "number",
+            "time",
+            "text",
+            "time"
+        ],
+        "db_id": "department_store",
+        "foreign_keys": [
+            [
+                22,
+                6
+            ],
+            [
+                23,
+                1
+            ],
+            [
+                26,
+                11
+            ],
+            [
+                27,
+                1
+            ],
+            [
+                31,
+                11
+            ],
+            [
+                35,
+                9
+            ],
+            [
+                41,
+                34
+            ],
+            [
+                45,
+                18
+            ],
+            [
+                44,
+                30
+            ],
+            [
+                46,
+                18
+            ],
+            [
+                47,
+                6
+            ],
+            [
+                52,
+                3
+            ],
+            [
+                53,
+                40
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            6,
+            9,
+            11,
+            18,
+            22,
+            26,
+            30,
+            34,
+            40,
+            43,
+            46,
+            52
+        ],
+        "table_names": [
+            "addresses",
+            "staff",
+            "suppliers",
+            "department store chain",
+            "customers",
+            "products",
+            "supplier addresses",
+            "customer addresses",
+            "customer orders",
+            "department stores",
+            "departments",
+            "order items",
+            "product suppliers",
+            "staff department assignments"
+        ],
+        "table_names_original": [
+            "Addresses",
+            "Staff",
+            "Suppliers",
+            "Department_Store_Chain",
+            "Customers",
+            "Products",
+            "Supplier_Addresses",
+            "Customer_Addresses",
+            "Customer_Orders",
+            "Department_Stores",
+            "Departments",
+            "Order_Items",
+            "Product_Suppliers",
+            "Staff_Department_Assignments"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "customer id"
+            ],
+            [
+                0,
+                "customer name"
+            ],
+            [
+                1,
+                "service id"
+            ],
+            [
+                1,
+                "service name"
+            ],
+            [
+                2,
+                "policy id"
+            ],
+            [
+                2,
+                "policy type code"
+            ],
+            [
+                2,
+                "customer phone"
+            ],
+            [
+                3,
+                "customer id"
+            ],
+            [
+                3,
+                "policy id"
+            ],
+            [
+                3,
+                "date opened"
+            ],
+            [
+                3,
+                "date closed"
+            ],
+            [
+                4,
+                "fnol id"
+            ],
+            [
+                4,
+                "customer id"
+            ],
+            [
+                4,
+                "policy id"
+            ],
+            [
+                4,
+                "service id"
+            ],
+            [
+                5,
+                "claim id"
+            ],
+            [
+                5,
+                "fnol id"
+            ],
+            [
+                5,
+                "effective date"
+            ],
+            [
+                6,
+                "settlement id"
+            ],
+            [
+                6,
+                "claim id"
+            ],
+            [
+                6,
+                "effective date"
+            ],
+            [
+                6,
+                "settlement amount"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Customer_ID"
+            ],
+            [
+                0,
+                "Customer_name"
+            ],
+            [
+                1,
+                "Service_ID"
+            ],
+            [
+                1,
+                "Service_name"
+            ],
+            [
+                2,
+                "Policy_ID"
+            ],
+            [
+                2,
+                "policy_type_code"
+            ],
+            [
+                2,
+                "Customer_Phone"
+            ],
+            [
+                3,
+                "Customer_ID"
+            ],
+            [
+                3,
+                "Policy_ID"
+            ],
+            [
+                3,
+                "Date_Opened"
+            ],
+            [
+                3,
+                "Date_Closed"
+            ],
+            [
+                4,
+                "FNOL_ID"
+            ],
+            [
+                4,
+                "Customer_ID"
+            ],
+            [
+                4,
+                "Policy_ID"
+            ],
+            [
+                4,
+                "Service_ID"
+            ],
+            [
+                5,
+                "Claim_ID"
+            ],
+            [
+                5,
+                "FNOL_ID"
+            ],
+            [
+                5,
+                "Effective_Date"
+            ],
+            [
+                6,
+                "Settlement_ID"
+            ],
+            [
+                6,
+                "Claim_ID"
+            ],
+            [
+                6,
+                "Effective_Date"
+            ],
+            [
+                6,
+                "Settlement_Amount"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "time",
+            "number",
+            "number",
+            "time",
+            "number"
+        ],
+        "db_id": "insurance_fnol",
+        "foreign_keys": [
+            [
+                9,
+                5
+            ],
+            [
+                8,
+                1
+            ],
+            [
+                13,
+                8
+            ],
+            [
+                14,
+                9
+            ],
+            [
+                15,
+                3
+            ],
+            [
+                17,
+                12
+            ],
+            [
+                20,
+                16
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            5,
+            8,
+            12,
+            16,
+            19
+        ],
+        "table_names": [
+            "customers",
+            "services",
+            "available policies",
+            "customers policies",
+            "first notification of loss",
+            "claims",
+            "settlements"
+        ],
+        "table_names_original": [
+            "Customers",
+            "Services",
+            "Available_Policies",
+            "Customers_Policies",
+            "First_Notification_of_Loss",
+            "Claims",
+            "Settlements"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address id"
+            ],
+            [
+                0,
+                "line 1"
+            ],
+            [
+                0,
+                "line 2"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "zip postcode"
+            ],
+            [
+                0,
+                "state province county"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                1,
+                "person id"
+            ],
+            [
+                1,
+                "first name"
+            ],
+            [
+                1,
+                "middle name"
+            ],
+            [
+                1,
+                "last name"
+            ],
+            [
+                1,
+                "cell mobile number"
+            ],
+            [
+                1,
+                "email address"
+            ],
+            [
+                1,
+                "login name"
+            ],
+            [
+                1,
+                "password"
+            ],
+            [
+                2,
+                "student id"
+            ],
+            [
+                2,
+                "student details"
+            ],
+            [
+                3,
+                "course id"
+            ],
+            [
+                3,
+                "course name"
+            ],
+            [
+                3,
+                "course description"
+            ],
+            [
+                3,
+                "other details"
+            ],
+            [
+                4,
+                "person address id"
+            ],
+            [
+                4,
+                "person id"
+            ],
+            [
+                4,
+                "address id"
+            ],
+            [
+                4,
+                "date from"
+            ],
+            [
+                4,
+                "date to"
+            ],
+            [
+                5,
+                "student id"
+            ],
+            [
+                5,
+                "course id"
+            ],
+            [
+                5,
+                "registration date"
+            ],
+            [
+                6,
+                "student id"
+            ],
+            [
+                6,
+                "course id"
+            ],
+            [
+                6,
+                "date of attendance"
+            ],
+            [
+                7,
+                "candidate id"
+            ],
+            [
+                7,
+                "candidate details"
+            ],
+            [
+                8,
+                "candidate id"
+            ],
+            [
+                8,
+                "qualification"
+            ],
+            [
+                8,
+                "assessment date"
+            ],
+            [
+                8,
+                "asessment outcome code"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address_id"
+            ],
+            [
+                0,
+                "line_1"
+            ],
+            [
+                0,
+                "line_2"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "zip_postcode"
+            ],
+            [
+                0,
+                "state_province_county"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                1,
+                "person_id"
+            ],
+            [
+                1,
+                "first_name"
+            ],
+            [
+                1,
+                "middle_name"
+            ],
+            [
+                1,
+                "last_name"
+            ],
+            [
+                1,
+                "cell_mobile_number"
+            ],
+            [
+                1,
+                "email_address"
+            ],
+            [
+                1,
+                "login_name"
+            ],
+            [
+                1,
+                "password"
+            ],
+            [
+                2,
+                "student_id"
+            ],
+            [
+                2,
+                "student_details"
+            ],
+            [
+                3,
+                "course_id"
+            ],
+            [
+                3,
+                "course_name"
+            ],
+            [
+                3,
+                "course_description"
+            ],
+            [
+                3,
+                "other_details"
+            ],
+            [
+                4,
+                "person_address_id"
+            ],
+            [
+                4,
+                "person_id"
+            ],
+            [
+                4,
+                "address_id"
+            ],
+            [
+                4,
+                "date_from"
+            ],
+            [
+                4,
+                "date_to"
+            ],
+            [
+                5,
+                "student_id"
+            ],
+            [
+                5,
+                "course_id"
+            ],
+            [
+                5,
+                "registration_date"
+            ],
+            [
+                6,
+                "student_id"
+            ],
+            [
+                6,
+                "course_id"
+            ],
+            [
+                6,
+                "date_of_attendance"
+            ],
+            [
+                7,
+                "candidate_id"
+            ],
+            [
+                7,
+                "candidate_details"
+            ],
+            [
+                8,
+                "candidate_id"
+            ],
+            [
+                8,
+                "qualification"
+            ],
+            [
+                8,
+                "assessment_date"
+            ],
+            [
+                8,
+                "asessment_outcome_code"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "time",
+            "number",
+            "number",
+            "time",
+            "number",
+            "text",
+            "number",
+            "text",
+            "time",
+            "text"
+        ],
+        "db_id": "student_assessment",
+        "foreign_keys": [
+            [
+                16,
+                8
+            ],
+            [
+                24,
+                1
+            ],
+            [
+                23,
+                8
+            ],
+            [
+                28,
+                18
+            ],
+            [
+                27,
+                16
+            ],
+            [
+                30,
+                27
+            ],
+            [
+                31,
+                28
+            ],
+            [
+                33,
+                8
+            ],
+            [
+                35,
+                33
+            ]
+        ],
+        "primary_keys": [
+            1,
+            8,
+            16,
+            18,
+            22,
+            27,
+            30,
+            33,
+            35
+        ],
+        "table_names": [
+            "addresses",
+            "people",
+            "students",
+            "courses",
+            "people addresses",
+            "student course registrations",
+            "student course attendance",
+            "candidates",
+            "candidate assessments"
+        ],
+        "table_names_original": [
+            "Addresses",
+            "People",
+            "Students",
+            "Courses",
+            "People_Addresses",
+            "Student_Course_Registrations",
+            "Student_Course_Attendance",
+            "Candidates",
+            "Candidate_Assessments"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "service id"
+            ],
+            [
+                0,
+                "service type code"
+            ],
+            [
+                1,
+                "participant id"
+            ],
+            [
+                1,
+                "participant type code"
+            ],
+            [
+                1,
+                "participant details"
+            ],
+            [
+                2,
+                "event id"
+            ],
+            [
+                2,
+                "service id"
+            ],
+            [
+                2,
+                "event details"
+            ],
+            [
+                3,
+                "event id"
+            ],
+            [
+                3,
+                "participant id"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "Service_ID"
+            ],
+            [
+                0,
+                "Service_Type_Code"
+            ],
+            [
+                1,
+                "Participant_ID"
+            ],
+            [
+                1,
+                "Participant_Type_Code"
+            ],
+            [
+                1,
+                "Participant_Details"
+            ],
+            [
+                2,
+                "Event_ID"
+            ],
+            [
+                2,
+                "Service_ID"
+            ],
+            [
+                2,
+                "Event_Details"
+            ],
+            [
+                3,
+                "Event_ID"
+            ],
+            [
+                3,
+                "Participant_ID"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number"
+        ],
+        "db_id": "local_govt_in_alabama",
+        "foreign_keys": [
+            [
+                7,
+                1
+            ],
+            [
+                9,
+                6
+            ],
+            [
+                10,
+                3
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            6,
+            9
+        ],
+        "table_names": [
+            "services",
+            "participants",
+            "events",
+            "participants in events"
+        ],
+        "table_names_original": [
+            "Services",
+            "Participants",
+            "Events",
+            "Participants_in_Events"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "album id"
+            ],
+            [
+                0,
+                "title"
+            ],
+            [
+                0,
+                "artist id"
+            ],
+            [
+                1,
+                "artist id"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "first name"
+            ],
+            [
+                2,
+                "last name"
+            ],
+            [
+                2,
+                "company"
+            ],
+            [
+                2,
+                "address"
+            ],
+            [
+                2,
+                "city"
+            ],
+            [
+                2,
+                "state"
+            ],
+            [
+                2,
+                "country"
+            ],
+            [
+                2,
+                "postal code"
+            ],
+            [
+                2,
+                "phone"
+            ],
+            [
+                2,
+                "fax"
+            ],
+            [
+                2,
+                "email"
+            ],
+            [
+                2,
+                "support representative id"
+            ],
+            [
+                3,
+                "employee id"
+            ],
+            [
+                3,
+                "last name"
+            ],
+            [
+                3,
+                "first name"
+            ],
+            [
+                3,
+                "title"
+            ],
+            [
+                3,
+                "reports to"
+            ],
+            [
+                3,
+                "birth date"
+            ],
+            [
+                3,
+                "hire date"
+            ],
+            [
+                3,
+                "address"
+            ],
+            [
+                3,
+                "city"
+            ],
+            [
+                3,
+                "state"
+            ],
+            [
+                3,
+                "country"
+            ],
+            [
+                3,
+                "postal code"
+            ],
+            [
+                3,
+                "phone"
+            ],
+            [
+                3,
+                "fax"
+            ],
+            [
+                3,
+                "email"
+            ],
+            [
+                4,
+                "genre id"
+            ],
+            [
+                4,
+                "name"
+            ],
+            [
+                5,
+                "invoice id"
+            ],
+            [
+                5,
+                "customer id"
+            ],
+            [
+                5,
+                "invoice date"
+            ],
+            [
+                5,
+                "billing address"
+            ],
+            [
+                5,
+                "billing city"
+            ],
+            [
+                5,
+                "billing state"
+            ],
+            [
+                5,
+                "billing country"
+            ],
+            [
+                5,
+                "billing postal code"
+            ],
+            [
+                5,
+                "total"
+            ],
+            [
+                6,
+                "invoice line id"
+            ],
+            [
+                6,
+                "invoice id"
+            ],
+            [
+                6,
+                "track id"
+            ],
+            [
+                6,
+                "unit price"
+            ],
+            [
+                6,
+                "quantity"
+            ],
+            [
+                7,
+                "media type id"
+            ],
+            [
+                7,
+                "name"
+            ],
+            [
+                8,
+                "play list id"
+            ],
+            [
+                8,
+                "name"
+            ],
+            [
+                9,
+                "play list id"
+            ],
+            [
+                9,
+                "track id"
+            ],
+            [
+                10,
+                "track id"
+            ],
+            [
+                10,
+                "name"
+            ],
+            [
+                10,
+                "album id"
+            ],
+            [
+                10,
+                "media type id"
+            ],
+            [
+                10,
+                "genre id"
+            ],
+            [
+                10,
+                "composer"
+            ],
+            [
+                10,
+                "milliseconds"
+            ],
+            [
+                10,
+                "bytes"
+            ],
+            [
+                10,
+                "unit price"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "AlbumId"
+            ],
+            [
+                0,
+                "Title"
+            ],
+            [
+                0,
+                "ArtistId"
+            ],
+            [
+                1,
+                "ArtistId"
+            ],
+            [
+                1,
+                "Name"
+            ],
+            [
+                2,
+                "CustomerId"
+            ],
+            [
+                2,
+                "FirstName"
+            ],
+            [
+                2,
+                "LastName"
+            ],
+            [
+                2,
+                "Company"
+            ],
+            [
+                2,
+                "Address"
+            ],
+            [
+                2,
+                "City"
+            ],
+            [
+                2,
+                "State"
+            ],
+            [
+                2,
+                "Country"
+            ],
+            [
+                2,
+                "PostalCode"
+            ],
+            [
+                2,
+                "Phone"
+            ],
+            [
+                2,
+                "Fax"
+            ],
+            [
+                2,
+                "Email"
+            ],
+            [
+                2,
+                "SupportRepId"
+            ],
+            [
+                3,
+                "EmployeeId"
+            ],
+            [
+                3,
+                "LastName"
+            ],
+            [
+                3,
+                "FirstName"
+            ],
+            [
+                3,
+                "Title"
+            ],
+            [
+                3,
+                "ReportsTo"
+            ],
+            [
+                3,
+                "BirthDate"
+            ],
+            [
+                3,
+                "HireDate"
+            ],
+            [
+                3,
+                "Address"
+            ],
+            [
+                3,
+                "City"
+            ],
+            [
+                3,
+                "State"
+            ],
+            [
+                3,
+                "Country"
+            ],
+            [
+                3,
+                "PostalCode"
+            ],
+            [
+                3,
+                "Phone"
+            ],
+            [
+                3,
+                "Fax"
+            ],
+            [
+                3,
+                "Email"
+            ],
+            [
+                4,
+                "GenreId"
+            ],
+            [
+                4,
+                "Name"
+            ],
+            [
+                5,
+                "InvoiceId"
+            ],
+            [
+                5,
+                "CustomerId"
+            ],
+            [
+                5,
+                "InvoiceDate"
+            ],
+            [
+                5,
+                "BillingAddress"
+            ],
+            [
+                5,
+                "BillingCity"
+            ],
+            [
+                5,
+                "BillingState"
+            ],
+            [
+                5,
+                "BillingCountry"
+            ],
+            [
+                5,
+                "BillingPostalCode"
+            ],
+            [
+                5,
+                "Total"
+            ],
+            [
+                6,
+                "InvoiceLineId"
+            ],
+            [
+                6,
+                "InvoiceId"
+            ],
+            [
+                6,
+                "TrackId"
+            ],
+            [
+                6,
+                "UnitPrice"
+            ],
+            [
+                6,
+                "Quantity"
+            ],
+            [
+                7,
+                "MediaTypeId"
+            ],
+            [
+                7,
+                "Name"
+            ],
+            [
+                8,
+                "PlaylistId"
+            ],
+            [
+                8,
+                "Name"
+            ],
+            [
+                9,
+                "PlaylistId"
+            ],
+            [
+                9,
+                "TrackId"
+            ],
+            [
+                10,
+                "TrackId"
+            ],
+            [
+                10,
+                "Name"
+            ],
+            [
+                10,
+                "AlbumId"
+            ],
+            [
+                10,
+                "MediaTypeId"
+            ],
+            [
+                10,
+                "GenreId"
+            ],
+            [
+                10,
+                "Composer"
+            ],
+            [
+                10,
+                "Milliseconds"
+            ],
+            [
+                10,
+                "Bytes"
+            ],
+            [
+                10,
+                "UnitPrice"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "time",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number"
+        ],
+        "db_id": "chinook_1",
+        "foreign_keys": [
+            [
+                3,
+                4
+            ],
+            [
+                18,
+                19
+            ],
+            [
+                23,
+                19
+            ],
+            [
+                37,
+                6
+            ],
+            [
+                47,
+                56
+            ],
+            [
+                46,
+                36
+            ],
+            [
+                55,
+                56
+            ],
+            [
+                54,
+                52
+            ],
+            [
+                59,
+                50
+            ],
+            [
+                60,
+                34
+            ],
+            [
+                58,
+                1
+            ]
+        ],
+        "primary_keys": [
+            1,
+            4,
+            6,
+            19,
+            34,
+            36,
+            45,
+            50,
+            52,
+            54,
+            56
+        ],
+        "table_names": [
+            "album",
+            "artist",
+            "customer",
+            "employee",
+            "genre",
+            "invoice",
+            "invoice line",
+            "media type",
+            "playlist",
+            "playlist track",
+            "track"
+        ],
+        "table_names_original": [
+            "Album",
+            "Artist",
+            "Customer",
+            "Employee",
+            "Genre",
+            "Invoice",
+            "InvoiceLine",
+            "MediaType",
+            "Playlist",
+            "PlaylistTrack",
+            "Track"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "premise id"
+            ],
+            [
+                0,
+                "premises type"
+            ],
+            [
+                0,
+                "premise details"
+            ],
+            [
+                1,
+                "product id"
+            ],
+            [
+                1,
+                "product category"
+            ],
+            [
+                1,
+                "product name"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "payment method"
+            ],
+            [
+                2,
+                "customer name"
+            ],
+            [
+                2,
+                "customer phone"
+            ],
+            [
+                2,
+                "customer email"
+            ],
+            [
+                2,
+                "customer address"
+            ],
+            [
+                2,
+                "customer login"
+            ],
+            [
+                2,
+                "customer password"
+            ],
+            [
+                3,
+                "mailshot id"
+            ],
+            [
+                3,
+                "product category"
+            ],
+            [
+                3,
+                "mailshot name"
+            ],
+            [
+                3,
+                "mailshot start date"
+            ],
+            [
+                3,
+                "mailshot end date"
+            ],
+            [
+                4,
+                "customer id"
+            ],
+            [
+                4,
+                "premise id"
+            ],
+            [
+                4,
+                "date address from"
+            ],
+            [
+                4,
+                "address type code"
+            ],
+            [
+                4,
+                "date address to"
+            ],
+            [
+                5,
+                "order id"
+            ],
+            [
+                5,
+                "customer id"
+            ],
+            [
+                5,
+                "order status code"
+            ],
+            [
+                5,
+                "shipping method code"
+            ],
+            [
+                5,
+                "order placed datetime"
+            ],
+            [
+                5,
+                "order delivered datetime"
+            ],
+            [
+                5,
+                "order shipping charges"
+            ],
+            [
+                6,
+                "mailshot id"
+            ],
+            [
+                6,
+                "customer id"
+            ],
+            [
+                6,
+                "outcome code"
+            ],
+            [
+                6,
+                "mailshot customer date"
+            ],
+            [
+                7,
+                "item id"
+            ],
+            [
+                7,
+                "order item status code"
+            ],
+            [
+                7,
+                "order id"
+            ],
+            [
+                7,
+                "product id"
+            ],
+            [
+                7,
+                "item status code"
+            ],
+            [
+                7,
+                "item delivered datetime"
+            ],
+            [
+                7,
+                "item order quantity"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "premise_id"
+            ],
+            [
+                0,
+                "premises_type"
+            ],
+            [
+                0,
+                "premise_details"
+            ],
+            [
+                1,
+                "product_id"
+            ],
+            [
+                1,
+                "product_category"
+            ],
+            [
+                1,
+                "product_name"
+            ],
+            [
+                2,
+                "customer_id"
+            ],
+            [
+                2,
+                "payment_method"
+            ],
+            [
+                2,
+                "customer_name"
+            ],
+            [
+                2,
+                "customer_phone"
+            ],
+            [
+                2,
+                "customer_email"
+            ],
+            [
+                2,
+                "customer_address"
+            ],
+            [
+                2,
+                "customer_login"
+            ],
+            [
+                2,
+                "customer_password"
+            ],
+            [
+                3,
+                "mailshot_id"
+            ],
+            [
+                3,
+                "product_category"
+            ],
+            [
+                3,
+                "mailshot_name"
+            ],
+            [
+                3,
+                "mailshot_start_date"
+            ],
+            [
+                3,
+                "mailshot_end_date"
+            ],
+            [
+                4,
+                "customer_id"
+            ],
+            [
+                4,
+                "premise_id"
+            ],
+            [
+                4,
+                "date_address_from"
+            ],
+            [
+                4,
+                "address_type_code"
+            ],
+            [
+                4,
+                "date_address_to"
+            ],
+            [
+                5,
+                "order_id"
+            ],
+            [
+                5,
+                "customer_id"
+            ],
+            [
+                5,
+                "order_status_code"
+            ],
+            [
+                5,
+                "shipping_method_code"
+            ],
+            [
+                5,
+                "order_placed_datetime"
+            ],
+            [
+                5,
+                "order_delivered_datetime"
+            ],
+            [
+                5,
+                "order_shipping_charges"
+            ],
+            [
+                6,
+                "mailshot_id"
+            ],
+            [
+                6,
+                "customer_id"
+            ],
+            [
+                6,
+                "outcome_code"
+            ],
+            [
+                6,
+                "mailshot_customer_date"
+            ],
+            [
+                7,
+                "item_id"
+            ],
+            [
+                7,
+                "order_item_status_code"
+            ],
+            [
+                7,
+                "order_id"
+            ],
+            [
+                7,
+                "product_id"
+            ],
+            [
+                7,
+                "item_status_code"
+            ],
+            [
+                7,
+                "item_delivered_datetime"
+            ],
+            [
+                7,
+                "item_order_quantity"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "time",
+            "time",
+            "number",
+            "number",
+            "time",
+            "text",
+            "time",
+            "number",
+            "number",
+            "text",
+            "text",
+            "time",
+            "time",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "text"
+        ],
+        "db_id": "customers_campaigns_ecommerce",
+        "foreign_keys": [
+            [
+                20,
+                7
+            ],
+            [
+                21,
+                1
+            ],
+            [
+                26,
+                7
+            ],
+            [
+                32,
+                15
+            ],
+            [
+                33,
+                7
+            ],
+            [
+                38,
+                25
+            ],
+            [
+                39,
+                4
+            ]
+        ],
+        "primary_keys": [
+            1,
+            4,
+            7,
+            15,
+            25
+        ],
+        "table_names": [
+            "premises",
+            "products",
+            "customers",
+            "mailshot campaigns",
+            "customer addresses",
+            "customer orders",
+            "mailshot customers",
+            "order items"
+        ],
+        "table_names_original": [
+            "Premises",
+            "Products",
+            "Customers",
+            "Mailshot_Campaigns",
+            "Customer_Addresses",
+            "Customer_Orders",
+            "Mailshot_Customers",
+            "Order_Items"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "investor id"
+            ],
+            [
+                0,
+                "investor details"
+            ],
+            [
+                1,
+                "lot id"
+            ],
+            [
+                1,
+                "investor id"
+            ],
+            [
+                1,
+                "lot details"
+            ],
+            [
+                2,
+                "transaction type code"
+            ],
+            [
+                2,
+                "transaction type description"
+            ],
+            [
+                3,
+                "transaction id"
+            ],
+            [
+                3,
+                "investor id"
+            ],
+            [
+                3,
+                "transaction type code"
+            ],
+            [
+                3,
+                "date of transaction"
+            ],
+            [
+                3,
+                "amount of transaction"
+            ],
+            [
+                3,
+                "share count"
+            ],
+            [
+                3,
+                "other details"
+            ],
+            [
+                4,
+                "sales transaction id"
+            ],
+            [
+                4,
+                "sales details"
+            ],
+            [
+                5,
+                "purchase transaction id"
+            ],
+            [
+                5,
+                "purchase details"
+            ],
+            [
+                6,
+                "transaction id"
+            ],
+            [
+                6,
+                "lot id"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "investor_id"
+            ],
+            [
+                0,
+                "Investor_details"
+            ],
+            [
+                1,
+                "lot_id"
+            ],
+            [
+                1,
+                "investor_id"
+            ],
+            [
+                1,
+                "lot_details"
+            ],
+            [
+                2,
+                "transaction_type_code"
+            ],
+            [
+                2,
+                "transaction_type_description"
+            ],
+            [
+                3,
+                "transaction_id"
+            ],
+            [
+                3,
+                "investor_id"
+            ],
+            [
+                3,
+                "transaction_type_code"
+            ],
+            [
+                3,
+                "date_of_transaction"
+            ],
+            [
+                3,
+                "amount_of_transaction"
+            ],
+            [
+                3,
+                "share_count"
+            ],
+            [
+                3,
+                "other_details"
+            ],
+            [
+                4,
+                "sales_transaction_id"
+            ],
+            [
+                4,
+                "sales_details"
+            ],
+            [
+                5,
+                "purchase_transaction_id"
+            ],
+            [
+                5,
+                "purchase_details"
+            ],
+            [
+                6,
+                "transaction_id"
+            ],
+            [
+                6,
+                "lot_id"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number"
+        ],
+        "db_id": "tracking_share_transactions",
+        "foreign_keys": [
+            [
+                4,
+                1
+            ],
+            [
+                10,
+                6
+            ],
+            [
+                9,
+                1
+            ],
+            [
+                15,
+                8
+            ],
+            [
+                17,
+                8
+            ],
+            [
+                19,
+                8
+            ],
+            [
+                20,
+                3
+            ]
+        ],
+        "primary_keys": [
+            1,
+            3,
+            6,
+            8,
+            15
+        ],
+        "table_names": [
+            "investors",
+            "lots",
+            "reference transaction types",
+            "transactions",
+            "sales",
+            "purchases",
+            "transactions lots"
+        ],
+        "table_names_original": [
+            "Investors",
+            "Lots",
+            "Ref_Transaction_Types",
+            "Transactions",
+            "Sales",
+            "Purchases",
+            "Transactions_Lots"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "building id"
+            ],
+            [
+                0,
+                "building short name"
+            ],
+            [
+                0,
+                "building full name"
+            ],
+            [
+                0,
+                "building description"
+            ],
+            [
+                0,
+                "building address"
+            ],
+            [
+                0,
+                "building manager"
+            ],
+            [
+                0,
+                "building phone"
+            ],
+            [
+                1,
+                "apartment id"
+            ],
+            [
+                1,
+                "building id"
+            ],
+            [
+                1,
+                "apartment type code"
+            ],
+            [
+                1,
+                "apartment number"
+            ],
+            [
+                1,
+                "bathroom count"
+            ],
+            [
+                1,
+                "bedroom count"
+            ],
+            [
+                1,
+                "room count"
+            ],
+            [
+                2,
+                "apartment id"
+            ],
+            [
+                2,
+                "facility code"
+            ],
+            [
+                3,
+                "guest id"
+            ],
+            [
+                3,
+                "gender code"
+            ],
+            [
+                3,
+                "guest first name"
+            ],
+            [
+                3,
+                "guest last name"
+            ],
+            [
+                3,
+                "date of birth"
+            ],
+            [
+                4,
+                "apartment booking id"
+            ],
+            [
+                4,
+                "apartment id"
+            ],
+            [
+                4,
+                "guest id"
+            ],
+            [
+                4,
+                "booking status code"
+            ],
+            [
+                4,
+                "booking start date"
+            ],
+            [
+                4,
+                "booking end date"
+            ],
+            [
+                5,
+                "apartment id"
+            ],
+            [
+                5,
+                "apartment booking id"
+            ],
+            [
+                5,
+                "status date"
+            ],
+            [
+                5,
+                "available yes or no"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "building_id"
+            ],
+            [
+                0,
+                "building_short_name"
+            ],
+            [
+                0,
+                "building_full_name"
+            ],
+            [
+                0,
+                "building_description"
+            ],
+            [
+                0,
+                "building_address"
+            ],
+            [
+                0,
+                "building_manager"
+            ],
+            [
+                0,
+                "building_phone"
+            ],
+            [
+                1,
+                "apt_id"
+            ],
+            [
+                1,
+                "building_id"
+            ],
+            [
+                1,
+                "apt_type_code"
+            ],
+            [
+                1,
+                "apt_number"
+            ],
+            [
+                1,
+                "bathroom_count"
+            ],
+            [
+                1,
+                "bedroom_count"
+            ],
+            [
+                1,
+                "room_count"
+            ],
+            [
+                2,
+                "apt_id"
+            ],
+            [
+                2,
+                "facility_code"
+            ],
+            [
+                3,
+                "guest_id"
+            ],
+            [
+                3,
+                "gender_code"
+            ],
+            [
+                3,
+                "guest_first_name"
+            ],
+            [
+                3,
+                "guest_last_name"
+            ],
+            [
+                3,
+                "date_of_birth"
+            ],
+            [
+                4,
+                "apt_booking_id"
+            ],
+            [
+                4,
+                "apt_id"
+            ],
+            [
+                4,
+                "guest_id"
+            ],
+            [
+                4,
+                "booking_status_code"
+            ],
+            [
+                4,
+                "booking_start_date"
+            ],
+            [
+                4,
+                "booking_end_date"
+            ],
+            [
+                5,
+                "apt_id"
+            ],
+            [
+                5,
+                "apt_booking_id"
+            ],
+            [
+                5,
+                "status_date"
+            ],
+            [
+                5,
+                "available_yn"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "time",
+            "number",
+            "number",
+            "number",
+            "text",
+            "time",
+            "time",
+            "number",
+            "number",
+            "time",
+            "others"
+        ],
+        "db_id": "apartment_rentals",
+        "foreign_keys": [
+            [
+                9,
+                1
+            ],
+            [
+                15,
+                8
+            ],
+            [
+                24,
+                17
+            ],
+            [
+                23,
+                8
+            ],
+            [
+                29,
+                22
+            ],
+            [
+                28,
+                8
+            ]
+        ],
+        "primary_keys": [
+            1,
+            8,
+            15,
+            17,
+            22,
+            30
+        ],
+        "table_names": [
+            "apartment buildings",
+            "apartments",
+            "apartment facilities",
+            "guests",
+            "apartment bookings",
+            "view unit status"
+        ],
+        "table_names_original": [
+            "Apartment_Buildings",
+            "Apartments",
+            "Apartment_Facilities",
+            "Guests",
+            "Apartment_Bookings",
+            "View_Unit_Status"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "account id"
+            ],
+            [
+                0,
+                "customer id"
+            ],
+            [
+                0,
+                "account name"
+            ],
+            [
+                0,
+                "other account details"
+            ],
+            [
+                1,
+                "customer id"
+            ],
+            [
+                1,
+                "customer first name"
+            ],
+            [
+                1,
+                "customer last name"
+            ],
+            [
+                1,
+                "customer address"
+            ],
+            [
+                1,
+                "customer phone"
+            ],
+            [
+                1,
+                "customer email"
+            ],
+            [
+                1,
+                "other customer details"
+            ],
+            [
+                2,
+                "card id"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "card type code"
+            ],
+            [
+                2,
+                "card number"
+            ],
+            [
+                2,
+                "date valid from"
+            ],
+            [
+                2,
+                "date valid to"
+            ],
+            [
+                2,
+                "other card details"
+            ],
+            [
+                3,
+                "transaction id"
+            ],
+            [
+                3,
+                "previous transaction id"
+            ],
+            [
+                3,
+                "account id"
+            ],
+            [
+                3,
+                "card id"
+            ],
+            [
+                3,
+                "transaction type"
+            ],
+            [
+                3,
+                "transaction date"
+            ],
+            [
+                3,
+                "transaction amount"
+            ],
+            [
+                3,
+                "transaction comment"
+            ],
+            [
+                3,
+                "other transaction details"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "account_id"
+            ],
+            [
+                0,
+                "customer_id"
+            ],
+            [
+                0,
+                "account_name"
+            ],
+            [
+                0,
+                "other_account_details"
+            ],
+            [
+                1,
+                "customer_id"
+            ],
+            [
+                1,
+                "customer_first_name"
+            ],
+            [
+                1,
+                "customer_last_name"
+            ],
+            [
+                1,
+                "customer_address"
+            ],
+            [
+                1,
+                "customer_phone"
+            ],
+            [
+                1,
+                "customer_email"
+            ],
+            [
+                1,
+                "other_customer_details"
+            ],
+            [
+                2,
+                "card_id"
+            ],
+            [
+                2,
+                "customer_id"
+            ],
+            [
+                2,
+                "card_type_code"
+            ],
+            [
+                2,
+                "card_number"
+            ],
+            [
+                2,
+                "date_valid_from"
+            ],
+            [
+                2,
+                "date_valid_to"
+            ],
+            [
+                2,
+                "other_card_details"
+            ],
+            [
+                3,
+                "transaction_id"
+            ],
+            [
+                3,
+                "previous_transaction_id"
+            ],
+            [
+                3,
+                "account_id"
+            ],
+            [
+                3,
+                "card_id"
+            ],
+            [
+                3,
+                "transaction_type"
+            ],
+            [
+                3,
+                "transaction_date"
+            ],
+            [
+                3,
+                "transaction_amount"
+            ],
+            [
+                3,
+                "transaction_comment"
+            ],
+            [
+                3,
+                "other_transaction_details"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "time",
+            "time",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "time",
+            "number",
+            "text",
+            "text"
+        ],
+        "db_id": "customers_card_transactions",
+        "foreign_keys": [
+            [
+                21,
+                1
+            ],
+            [
+                22,
+                12
+            ]
+        ],
+        "primary_keys": [
+            1,
+            5,
+            12
+        ],
+        "table_names": [
+            "accounts",
+            "customers",
+            "customers cards",
+            "financial transactions"
+        ],
+        "table_names_original": [
+            "Accounts",
+            "Customers",
+            "Customers_Cards",
+            "Financial_Transactions"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "student id"
+            ],
+            [
+                0,
+                "last name"
+            ],
+            [
+                0,
+                "first name"
+            ],
+            [
+                0,
+                "age"
+            ],
+            [
+                0,
+                "sex"
+            ],
+            [
+                0,
+                "major"
+            ],
+            [
+                0,
+                "advisor"
+            ],
+            [
+                0,
+                "city code"
+            ],
+            [
+                1,
+                "restaurant id"
+            ],
+            [
+                1,
+                "restaurant name"
+            ],
+            [
+                1,
+                "address"
+            ],
+            [
+                1,
+                "rating"
+            ],
+            [
+                2,
+                "restaurant id"
+            ],
+            [
+                2,
+                "restaurant type id"
+            ],
+            [
+                3,
+                "restaurant type id"
+            ],
+            [
+                3,
+                "restaurant type name"
+            ],
+            [
+                3,
+                "restaurant type description"
+            ],
+            [
+                4,
+                "student id"
+            ],
+            [
+                4,
+                "restaurant id"
+            ],
+            [
+                4,
+                "time"
+            ],
+            [
+                4,
+                "spent"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "StuID"
+            ],
+            [
+                0,
+                "LName"
+            ],
+            [
+                0,
+                "Fname"
+            ],
+            [
+                0,
+                "Age"
+            ],
+            [
+                0,
+                "Sex"
+            ],
+            [
+                0,
+                "Major"
+            ],
+            [
+                0,
+                "Advisor"
+            ],
+            [
+                0,
+                "city_code"
+            ],
+            [
+                1,
+                "ResID"
+            ],
+            [
+                1,
+                "ResName"
+            ],
+            [
+                1,
+                "Address"
+            ],
+            [
+                1,
+                "Rating"
+            ],
+            [
+                2,
+                "ResID"
+            ],
+            [
+                2,
+                "ResTypeID"
+            ],
+            [
+                3,
+                "ResTypeID"
+            ],
+            [
+                3,
+                "ResTypeName"
+            ],
+            [
+                3,
+                "ResTypeDescription"
+            ],
+            [
+                4,
+                "StuID"
+            ],
+            [
+                4,
+                "ResID"
+            ],
+            [
+                4,
+                "Time"
+            ],
+            [
+                4,
+                "Spent"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "time",
+            "number"
+        ],
+        "db_id": "restaurant_1",
+        "foreign_keys": [
+            [
+                14,
+                15
+            ],
+            [
+                13,
+                9
+            ],
+            [
+                19,
+                9
+            ],
+            [
+                18,
+                1
+            ]
+        ],
+        "primary_keys": [
+            1,
+            9,
+            15
+        ],
+        "table_names": [
+            "student",
+            "restaurant",
+            "type of restaurant",
+            "restaurant type",
+            "visits restaurant"
+        ],
+        "table_names_original": [
+            "Student",
+            "Restaurant",
+            "Type_Of_Restaurant",
+            "Restaurant_Type",
+            "Visits_Restaurant"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "customer id"
+            ],
+            [
+                0,
+                "customer first name"
+            ],
+            [
+                0,
+                "customer middle initial"
+            ],
+            [
+                0,
+                "customer last name"
+            ],
+            [
+                0,
+                "gender"
+            ],
+            [
+                0,
+                "email address"
+            ],
+            [
+                0,
+                "login name"
+            ],
+            [
+                0,
+                "login password"
+            ],
+            [
+                0,
+                "phone number"
+            ],
+            [
+                0,
+                "town city"
+            ],
+            [
+                0,
+                "state county province"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                1,
+                "order id"
+            ],
+            [
+                1,
+                "customer id"
+            ],
+            [
+                1,
+                "date order placed"
+            ],
+            [
+                1,
+                "order details"
+            ],
+            [
+                2,
+                "invoice number"
+            ],
+            [
+                2,
+                "order id"
+            ],
+            [
+                2,
+                "invoice date"
+            ],
+            [
+                3,
+                "account id"
+            ],
+            [
+                3,
+                "customer id"
+            ],
+            [
+                3,
+                "date account opened"
+            ],
+            [
+                3,
+                "account name"
+            ],
+            [
+                3,
+                "other account details"
+            ],
+            [
+                4,
+                "production type code"
+            ],
+            [
+                4,
+                "product type description"
+            ],
+            [
+                4,
+                "vat rating"
+            ],
+            [
+                5,
+                "product id"
+            ],
+            [
+                5,
+                "parent product id"
+            ],
+            [
+                5,
+                "production type code"
+            ],
+            [
+                5,
+                "unit price"
+            ],
+            [
+                5,
+                "product name"
+            ],
+            [
+                5,
+                "product color"
+            ],
+            [
+                5,
+                "product size"
+            ],
+            [
+                6,
+                "transaction id"
+            ],
+            [
+                6,
+                "account id"
+            ],
+            [
+                6,
+                "invoice number"
+            ],
+            [
+                6,
+                "transaction type"
+            ],
+            [
+                6,
+                "transaction date"
+            ],
+            [
+                6,
+                "transaction amount"
+            ],
+            [
+                6,
+                "transaction comment"
+            ],
+            [
+                6,
+                "other transaction details"
+            ],
+            [
+                7,
+                "order item id"
+            ],
+            [
+                7,
+                "order id"
+            ],
+            [
+                7,
+                "product id"
+            ],
+            [
+                7,
+                "product quantity"
+            ],
+            [
+                7,
+                "other order item details"
+            ],
+            [
+                8,
+                "order item id"
+            ],
+            [
+                8,
+                "invoice number"
+            ],
+            [
+                8,
+                "product id"
+            ],
+            [
+                8,
+                "product title"
+            ],
+            [
+                8,
+                "product quantity"
+            ],
+            [
+                8,
+                "product price"
+            ],
+            [
+                8,
+                "derived product cost"
+            ],
+            [
+                8,
+                "derived vat payable"
+            ],
+            [
+                8,
+                "derived total cost"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "customer_id"
+            ],
+            [
+                0,
+                "customer_first_name"
+            ],
+            [
+                0,
+                "customer_middle_initial"
+            ],
+            [
+                0,
+                "customer_last_name"
+            ],
+            [
+                0,
+                "gender"
+            ],
+            [
+                0,
+                "email_address"
+            ],
+            [
+                0,
+                "login_name"
+            ],
+            [
+                0,
+                "login_password"
+            ],
+            [
+                0,
+                "phone_number"
+            ],
+            [
+                0,
+                "town_city"
+            ],
+            [
+                0,
+                "state_county_province"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                1,
+                "order_id"
+            ],
+            [
+                1,
+                "customer_id"
+            ],
+            [
+                1,
+                "date_order_placed"
+            ],
+            [
+                1,
+                "order_details"
+            ],
+            [
+                2,
+                "invoice_number"
+            ],
+            [
+                2,
+                "order_id"
+            ],
+            [
+                2,
+                "invoice_date"
+            ],
+            [
+                3,
+                "account_id"
+            ],
+            [
+                3,
+                "customer_id"
+            ],
+            [
+                3,
+                "date_account_opened"
+            ],
+            [
+                3,
+                "account_name"
+            ],
+            [
+                3,
+                "other_account_details"
+            ],
+            [
+                4,
+                "production_type_code"
+            ],
+            [
+                4,
+                "product_type_description"
+            ],
+            [
+                4,
+                "vat_rating"
+            ],
+            [
+                5,
+                "product_id"
+            ],
+            [
+                5,
+                "parent_product_id"
+            ],
+            [
+                5,
+                "production_type_code"
+            ],
+            [
+                5,
+                "unit_price"
+            ],
+            [
+                5,
+                "product_name"
+            ],
+            [
+                5,
+                "product_color"
+            ],
+            [
+                5,
+                "product_size"
+            ],
+            [
+                6,
+                "transaction_id"
+            ],
+            [
+                6,
+                "account_id"
+            ],
+            [
+                6,
+                "invoice_number"
+            ],
+            [
+                6,
+                "transaction_type"
+            ],
+            [
+                6,
+                "transaction_date"
+            ],
+            [
+                6,
+                "transaction_amount"
+            ],
+            [
+                6,
+                "transaction_comment"
+            ],
+            [
+                6,
+                "other_transaction_details"
+            ],
+            [
+                7,
+                "order_item_id"
+            ],
+            [
+                7,
+                "order_id"
+            ],
+            [
+                7,
+                "product_id"
+            ],
+            [
+                7,
+                "product_quantity"
+            ],
+            [
+                7,
+                "other_order_item_details"
+            ],
+            [
+                8,
+                "order_item_id"
+            ],
+            [
+                8,
+                "invoice_number"
+            ],
+            [
+                8,
+                "product_id"
+            ],
+            [
+                8,
+                "product_title"
+            ],
+            [
+                8,
+                "product_quantity"
+            ],
+            [
+                8,
+                "product_price"
+            ],
+            [
+                8,
+                "derived_product_cost"
+            ],
+            [
+                8,
+                "derived_vat_payable"
+            ],
+            [
+                8,
+                "derived_total_cost"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "time",
+            "text",
+            "number",
+            "number",
+            "time",
+            "number",
+            "number",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "time",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number"
+        ],
+        "db_id": "customers_and_invoices",
+        "foreign_keys": [
+            [
+                14,
+                1
+            ],
+            [
+                18,
+                13
+            ],
+            [
+                21,
+                1
+            ],
+            [
+                30,
+                25
+            ],
+            [
+                36,
+                20
+            ],
+            [
+                37,
+                17
+            ],
+            [
+                44,
+                13
+            ],
+            [
+                45,
+                28
+            ],
+            [
+                50,
+                28
+            ],
+            [
+                49,
+                17
+            ],
+            [
+                48,
+                43
+            ]
+        ],
+        "primary_keys": [
+            1,
+            13,
+            17,
+            20,
+            25,
+            28,
+            43
+        ],
+        "table_names": [
+            "customers",
+            "orders",
+            "invoices",
+            "accounts",
+            "product categories",
+            "products",
+            "financial transactions",
+            "order items",
+            "invoice line items"
+        ],
+        "table_names_original": [
+            "Customers",
+            "Orders",
+            "Invoices",
+            "Accounts",
+            "Product_Categories",
+            "Products",
+            "Financial_Transactions",
+            "Order_Items",
+            "Invoice_Line_Items"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "product id"
+            ],
+            [
+                0,
+                "product name"
+            ],
+            [
+                0,
+                "product price"
+            ],
+            [
+                0,
+                "product description"
+            ],
+            [
+                1,
+                "address id"
+            ],
+            [
+                1,
+                "address details"
+            ],
+            [
+                1,
+                "city"
+            ],
+            [
+                1,
+                "zip postcode"
+            ],
+            [
+                1,
+                "state province county"
+            ],
+            [
+                1,
+                "country"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "payment method"
+            ],
+            [
+                2,
+                "customer name"
+            ],
+            [
+                2,
+                "customer phone"
+            ],
+            [
+                2,
+                "customer email"
+            ],
+            [
+                2,
+                "date became customer"
+            ],
+            [
+                3,
+                "regular order id"
+            ],
+            [
+                3,
+                "distributer id"
+            ],
+            [
+                4,
+                "regular order id"
+            ],
+            [
+                4,
+                "product id"
+            ],
+            [
+                5,
+                "actual order id"
+            ],
+            [
+                5,
+                "order status code"
+            ],
+            [
+                5,
+                "regular order id"
+            ],
+            [
+                5,
+                "actual order date"
+            ],
+            [
+                6,
+                "actual order id"
+            ],
+            [
+                6,
+                "product id"
+            ],
+            [
+                7,
+                "customer id"
+            ],
+            [
+                7,
+                "address id"
+            ],
+            [
+                7,
+                "date from"
+            ],
+            [
+                7,
+                "address type"
+            ],
+            [
+                7,
+                "date to"
+            ],
+            [
+                8,
+                "route id"
+            ],
+            [
+                8,
+                "route name"
+            ],
+            [
+                8,
+                "other route details"
+            ],
+            [
+                9,
+                "location code"
+            ],
+            [
+                9,
+                "route id"
+            ],
+            [
+                9,
+                "location address id"
+            ],
+            [
+                9,
+                "location name"
+            ],
+            [
+                10,
+                "truck id"
+            ],
+            [
+                10,
+                "truck licence number"
+            ],
+            [
+                10,
+                "truck details"
+            ],
+            [
+                11,
+                "employee id"
+            ],
+            [
+                11,
+                "employee address id"
+            ],
+            [
+                11,
+                "employee name"
+            ],
+            [
+                11,
+                "employee phone"
+            ],
+            [
+                12,
+                "location code"
+            ],
+            [
+                12,
+                "actual order id"
+            ],
+            [
+                12,
+                "delivery status code"
+            ],
+            [
+                12,
+                "driver employee id"
+            ],
+            [
+                12,
+                "truck id"
+            ],
+            [
+                12,
+                "delivery date"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "product_id"
+            ],
+            [
+                0,
+                "product_name"
+            ],
+            [
+                0,
+                "product_price"
+            ],
+            [
+                0,
+                "product_description"
+            ],
+            [
+                1,
+                "address_id"
+            ],
+            [
+                1,
+                "address_details"
+            ],
+            [
+                1,
+                "city"
+            ],
+            [
+                1,
+                "zip_postcode"
+            ],
+            [
+                1,
+                "state_province_county"
+            ],
+            [
+                1,
+                "country"
+            ],
+            [
+                2,
+                "customer_id"
+            ],
+            [
+                2,
+                "payment_method"
+            ],
+            [
+                2,
+                "customer_name"
+            ],
+            [
+                2,
+                "customer_phone"
+            ],
+            [
+                2,
+                "customer_email"
+            ],
+            [
+                2,
+                "date_became_customer"
+            ],
+            [
+                3,
+                "regular_order_id"
+            ],
+            [
+                3,
+                "distributer_id"
+            ],
+            [
+                4,
+                "regular_order_id"
+            ],
+            [
+                4,
+                "product_id"
+            ],
+            [
+                5,
+                "actual_order_id"
+            ],
+            [
+                5,
+                "order_status_code"
+            ],
+            [
+                5,
+                "regular_order_id"
+            ],
+            [
+                5,
+                "actual_order_date"
+            ],
+            [
+                6,
+                "actual_order_id"
+            ],
+            [
+                6,
+                "product_id"
+            ],
+            [
+                7,
+                "customer_id"
+            ],
+            [
+                7,
+                "address_id"
+            ],
+            [
+                7,
+                "date_from"
+            ],
+            [
+                7,
+                "address_type"
+            ],
+            [
+                7,
+                "date_to"
+            ],
+            [
+                8,
+                "route_id"
+            ],
+            [
+                8,
+                "route_name"
+            ],
+            [
+                8,
+                "other_route_details"
+            ],
+            [
+                9,
+                "location_code"
+            ],
+            [
+                9,
+                "route_id"
+            ],
+            [
+                9,
+                "location_address_id"
+            ],
+            [
+                9,
+                "location_name"
+            ],
+            [
+                10,
+                "truck_id"
+            ],
+            [
+                10,
+                "truck_licence_number"
+            ],
+            [
+                10,
+                "truck_details"
+            ],
+            [
+                11,
+                "employee_id"
+            ],
+            [
+                11,
+                "employee_address_id"
+            ],
+            [
+                11,
+                "employee_name"
+            ],
+            [
+                11,
+                "employee_phone"
+            ],
+            [
+                12,
+                "location_code"
+            ],
+            [
+                12,
+                "actual_order_id"
+            ],
+            [
+                12,
+                "delivery_status_code"
+            ],
+            [
+                12,
+                "driver_employee_id"
+            ],
+            [
+                12,
+                "truck_id"
+            ],
+            [
+                12,
+                "delivery_date"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "time",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "time",
+            "number",
+            "number",
+            "number",
+            "number",
+            "time",
+            "text",
+            "time",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "time"
+        ],
+        "db_id": "customer_deliveries",
+        "foreign_keys": [
+            [
+                18,
+                11
+            ],
+            [
+                19,
+                17
+            ],
+            [
+                20,
+                1
+            ],
+            [
+                23,
+                17
+            ],
+            [
+                25,
+                21
+            ],
+            [
+                26,
+                1
+            ],
+            [
+                28,
+                5
+            ],
+            [
+                27,
+                11
+            ],
+            [
+                36,
+                32
+            ],
+            [
+                37,
+                5
+            ],
+            [
+                43,
+                5
+            ],
+            [
+                49,
+                42
+            ],
+            [
+                46,
+                35
+            ],
+            [
+                47,
+                21
+            ],
+            [
+                50,
+                39
+            ]
+        ],
+        "primary_keys": [
+            1,
+            5,
+            11,
+            17,
+            21,
+            32,
+            35,
+            39,
+            42
+        ],
+        "table_names": [
+            "products",
+            "addresses",
+            "customers",
+            "regular orders",
+            "regular order products",
+            "actual orders",
+            "actual order products",
+            "customer addresses",
+            "delivery routes",
+            "delivery route locations",
+            "trucks",
+            "employees",
+            "order deliveries"
+        ],
+        "table_names_original": [
+            "Products",
+            "Addresses",
+            "Customers",
+            "Regular_Orders",
+            "Regular_Order_Products",
+            "Actual_Orders",
+            "Actual_Order_Products",
+            "Customer_Addresses",
+            "Delivery_Routes",
+            "Delivery_Route_Locations",
+            "Trucks",
+            "Employees",
+            "Order_Deliveries"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "name"
+            ],
+            [
+                0,
+                "seq"
+            ],
+            [
+                1,
+                "id"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                2,
+                "id"
+            ],
+            [
+                2,
+                "title"
+            ],
+            [
+                2,
+                "artist id"
+            ],
+            [
+                3,
+                "id"
+            ],
+            [
+                3,
+                "last name"
+            ],
+            [
+                3,
+                "first name"
+            ],
+            [
+                3,
+                "title"
+            ],
+            [
+                3,
+                "reports to"
+            ],
+            [
+                3,
+                "birth date"
+            ],
+            [
+                3,
+                "hire date"
+            ],
+            [
+                3,
+                "address"
+            ],
+            [
+                3,
+                "city"
+            ],
+            [
+                3,
+                "state"
+            ],
+            [
+                3,
+                "country"
+            ],
+            [
+                3,
+                "postal code"
+            ],
+            [
+                3,
+                "phone"
+            ],
+            [
+                3,
+                "fax"
+            ],
+            [
+                3,
+                "email"
+            ],
+            [
+                4,
+                "id"
+            ],
+            [
+                4,
+                "first name"
+            ],
+            [
+                4,
+                "last name"
+            ],
+            [
+                4,
+                "company"
+            ],
+            [
+                4,
+                "address"
+            ],
+            [
+                4,
+                "city"
+            ],
+            [
+                4,
+                "state"
+            ],
+            [
+                4,
+                "country"
+            ],
+            [
+                4,
+                "postal code"
+            ],
+            [
+                4,
+                "phone"
+            ],
+            [
+                4,
+                "fax"
+            ],
+            [
+                4,
+                "email"
+            ],
+            [
+                4,
+                "support rep id"
+            ],
+            [
+                5,
+                "id"
+            ],
+            [
+                5,
+                "name"
+            ],
+            [
+                6,
+                "id"
+            ],
+            [
+                6,
+                "customer id"
+            ],
+            [
+                6,
+                "invoice date"
+            ],
+            [
+                6,
+                "billing address"
+            ],
+            [
+                6,
+                "billing city"
+            ],
+            [
+                6,
+                "billing state"
+            ],
+            [
+                6,
+                "billing country"
+            ],
+            [
+                6,
+                "billing postal code"
+            ],
+            [
+                6,
+                "total"
+            ],
+            [
+                7,
+                "id"
+            ],
+            [
+                7,
+                "name"
+            ],
+            [
+                8,
+                "id"
+            ],
+            [
+                8,
+                "name"
+            ],
+            [
+                8,
+                "album id"
+            ],
+            [
+                8,
+                "media type id"
+            ],
+            [
+                8,
+                "genre id"
+            ],
+            [
+                8,
+                "composer"
+            ],
+            [
+                8,
+                "milliseconds"
+            ],
+            [
+                8,
+                "bytes"
+            ],
+            [
+                8,
+                "unit price"
+            ],
+            [
+                9,
+                "id"
+            ],
+            [
+                9,
+                "invoice id"
+            ],
+            [
+                9,
+                "track id"
+            ],
+            [
+                9,
+                "unit price"
+            ],
+            [
+                9,
+                "quantity"
+            ],
+            [
+                10,
+                "id"
+            ],
+            [
+                10,
+                "name"
+            ],
+            [
+                11,
+                "playlist id"
+            ],
+            [
+                11,
+                "track id"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "id"
+            ],
+            [
+                0,
+                "name"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                1,
+                "seq"
+            ],
+            [
+                2,
+                "id"
+            ],
+            [
+                2,
+                "title"
+            ],
+            [
+                2,
+                "artist_id"
+            ],
+            [
+                3,
+                "id"
+            ],
+            [
+                3,
+                "last_name"
+            ],
+            [
+                3,
+                "first_name"
+            ],
+            [
+                3,
+                "title"
+            ],
+            [
+                3,
+                "reports_to"
+            ],
+            [
+                3,
+                "birth_date"
+            ],
+            [
+                3,
+                "hire_date"
+            ],
+            [
+                3,
+                "address"
+            ],
+            [
+                3,
+                "city"
+            ],
+            [
+                3,
+                "state"
+            ],
+            [
+                3,
+                "country"
+            ],
+            [
+                3,
+                "postal_code"
+            ],
+            [
+                3,
+                "phone"
+            ],
+            [
+                3,
+                "fax"
+            ],
+            [
+                3,
+                "email"
+            ],
+            [
+                4,
+                "id"
+            ],
+            [
+                4,
+                "first_name"
+            ],
+            [
+                4,
+                "last_name"
+            ],
+            [
+                4,
+                "company"
+            ],
+            [
+                4,
+                "address"
+            ],
+            [
+                4,
+                "city"
+            ],
+            [
+                4,
+                "state"
+            ],
+            [
+                4,
+                "country"
+            ],
+            [
+                4,
+                "postal_code"
+            ],
+            [
+                4,
+                "phone"
+            ],
+            [
+                4,
+                "fax"
+            ],
+            [
+                4,
+                "email"
+            ],
+            [
+                4,
+                "support_rep_id"
+            ],
+            [
+                5,
+                "id"
+            ],
+            [
+                5,
+                "name"
+            ],
+            [
+                6,
+                "id"
+            ],
+            [
+                6,
+                "customer_id"
+            ],
+            [
+                6,
+                "invoice_date"
+            ],
+            [
+                6,
+                "billing_address"
+            ],
+            [
+                6,
+                "billing_city"
+            ],
+            [
+                6,
+                "billing_state"
+            ],
+            [
+                6,
+                "billing_country"
+            ],
+            [
+                6,
+                "billing_postal_code"
+            ],
+            [
+                6,
+                "total"
+            ],
+            [
+                7,
+                "id"
+            ],
+            [
+                7,
+                "name"
+            ],
+            [
+                8,
+                "id"
+            ],
+            [
+                8,
+                "name"
+            ],
+            [
+                8,
+                "album_id"
+            ],
+            [
+                8,
+                "media_type_id"
+            ],
+            [
+                8,
+                "genre_id"
+            ],
+            [
+                8,
+                "composer"
+            ],
+            [
+                8,
+                "milliseconds"
+            ],
+            [
+                8,
+                "bytes"
+            ],
+            [
+                8,
+                "unit_price"
+            ],
+            [
+                9,
+                "id"
+            ],
+            [
+                9,
+                "invoice_id"
+            ],
+            [
+                9,
+                "track_id"
+            ],
+            [
+                9,
+                "unit_price"
+            ],
+            [
+                9,
+                "quantity"
+            ],
+            [
+                10,
+                "id"
+            ],
+            [
+                10,
+                "name"
+            ],
+            [
+                11,
+                "playlist_id"
+            ],
+            [
+                11,
+                "track_id"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "number",
+            "time",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "time",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "number",
+            "number"
+        ],
+        "db_id": "store_1",
+        "foreign_keys": [
+            [
+                7,
+                1
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                35,
+                8
+            ],
+            [
+                39,
+                23
+            ],
+            [
+                52,
+                47
+            ],
+            [
+                53,
+                36
+            ],
+            [
+                51,
+                5
+            ],
+            [
+                60,
+                49
+            ],
+            [
+                59,
+                38
+            ],
+            [
+                66,
+                49
+            ],
+            [
+                65,
+                63
+            ]
+        ],
+        "primary_keys": [
+            1,
+            5,
+            8,
+            23,
+            36,
+            38,
+            47,
+            49,
+            58,
+            63,
+            65
+        ],
+        "table_names": [
+            "sqlite sequence",
+            "artists",
+            "albums",
+            "employees",
+            "customers",
+            "genres",
+            "invoices",
+            "media types",
+            "tracks",
+            "invoice lines",
+            "playlists",
+            "playlist tracks"
+        ],
+        "table_names_original": [
+            "artists",
+            "sqlite_sequence",
+            "albums",
+            "employees",
+            "customers",
+            "genres",
+            "invoices",
+            "media_types",
+            "tracks",
+            "invoice_lines",
+            "playlists",
+            "playlist_tracks"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address id"
+            ],
+            [
+                0,
+                "address content"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "zip postcode"
+            ],
+            [
+                0,
+                "state province county"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                0,
+                "other address details"
+            ],
+            [
+                1,
+                "product id"
+            ],
+            [
+                1,
+                "product details"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "payment method"
+            ],
+            [
+                2,
+                "customer name"
+            ],
+            [
+                2,
+                "date became customer"
+            ],
+            [
+                2,
+                "other customer details"
+            ],
+            [
+                3,
+                "customer id"
+            ],
+            [
+                3,
+                "address id"
+            ],
+            [
+                3,
+                "date address from"
+            ],
+            [
+                3,
+                "address type"
+            ],
+            [
+                3,
+                "date address to"
+            ],
+            [
+                4,
+                "customer id"
+            ],
+            [
+                4,
+                "channel code"
+            ],
+            [
+                4,
+                "active from date"
+            ],
+            [
+                4,
+                "active to date"
+            ],
+            [
+                4,
+                "contact number"
+            ],
+            [
+                5,
+                "order id"
+            ],
+            [
+                5,
+                "customer id"
+            ],
+            [
+                5,
+                "order status"
+            ],
+            [
+                5,
+                "order date"
+            ],
+            [
+                5,
+                "order details"
+            ],
+            [
+                6,
+                "order id"
+            ],
+            [
+                6,
+                "product id"
+            ],
+            [
+                6,
+                "order quantity"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address_id"
+            ],
+            [
+                0,
+                "address_content"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "zip_postcode"
+            ],
+            [
+                0,
+                "state_province_county"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                0,
+                "other_address_details"
+            ],
+            [
+                1,
+                "product_id"
+            ],
+            [
+                1,
+                "product_details"
+            ],
+            [
+                2,
+                "customer_id"
+            ],
+            [
+                2,
+                "payment_method"
+            ],
+            [
+                2,
+                "customer_name"
+            ],
+            [
+                2,
+                "date_became_customer"
+            ],
+            [
+                2,
+                "other_customer_details"
+            ],
+            [
+                3,
+                "customer_id"
+            ],
+            [
+                3,
+                "address_id"
+            ],
+            [
+                3,
+                "date_address_from"
+            ],
+            [
+                3,
+                "address_type"
+            ],
+            [
+                3,
+                "date_address_to"
+            ],
+            [
+                4,
+                "customer_id"
+            ],
+            [
+                4,
+                "channel_code"
+            ],
+            [
+                4,
+                "active_from_date"
+            ],
+            [
+                4,
+                "active_to_date"
+            ],
+            [
+                4,
+                "contact_number"
+            ],
+            [
+                5,
+                "order_id"
+            ],
+            [
+                5,
+                "customer_id"
+            ],
+            [
+                5,
+                "order_status"
+            ],
+            [
+                5,
+                "order_date"
+            ],
+            [
+                5,
+                "order_details"
+            ],
+            [
+                6,
+                "order_id"
+            ],
+            [
+                6,
+                "product_id"
+            ],
+            [
+                6,
+                "order_quantity"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "number",
+            "text",
+            "text",
+            "time",
+            "text",
+            "number",
+            "number",
+            "time",
+            "text",
+            "time",
+            "number",
+            "text",
+            "time",
+            "time",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "text",
+            "number",
+            "number",
+            "text"
+        ],
+        "db_id": "customers_and_addresses",
+        "foreign_keys": [
+            [
+                15,
+                10
+            ],
+            [
+                16,
+                1
+            ],
+            [
+                20,
+                10
+            ],
+            [
+                26,
+                10
+            ],
+            [
+                30,
+                25
+            ],
+            [
+                31,
+                8
+            ]
+        ],
+        "primary_keys": [
+            1,
+            8,
+            10,
+            25
+        ],
+        "table_names": [
+            "addresses",
+            "products",
+            "customers",
+            "customer addresses",
+            "customer contact channels",
+            "customer orders",
+            "order items"
+        ],
+        "table_names_original": [
+            "Addresses",
+            "Products",
+            "Customers",
+            "Customer_Addresses",
+            "Customer_Contact_Channels",
+            "Customer_Orders",
+            "Order_Items"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "staff id"
+            ],
+            [
+                0,
+                "gender"
+            ],
+            [
+                0,
+                "first name"
+            ],
+            [
+                0,
+                "last name"
+            ],
+            [
+                0,
+                "email address"
+            ],
+            [
+                0,
+                "phone number"
+            ],
+            [
+                1,
+                "customer id"
+            ],
+            [
+                1,
+                "customer type code"
+            ],
+            [
+                1,
+                "address line 1"
+            ],
+            [
+                1,
+                "address line 2"
+            ],
+            [
+                1,
+                "town city"
+            ],
+            [
+                1,
+                "state"
+            ],
+            [
+                1,
+                "email address"
+            ],
+            [
+                1,
+                "phone number"
+            ],
+            [
+                2,
+                "product id"
+            ],
+            [
+                2,
+                "parent product id"
+            ],
+            [
+                2,
+                "product category code"
+            ],
+            [
+                2,
+                "date product first available"
+            ],
+            [
+                2,
+                "date product discontinued"
+            ],
+            [
+                2,
+                "product name"
+            ],
+            [
+                2,
+                "product description"
+            ],
+            [
+                2,
+                "product price"
+            ],
+            [
+                3,
+                "complaint id"
+            ],
+            [
+                3,
+                "product id"
+            ],
+            [
+                3,
+                "customer id"
+            ],
+            [
+                3,
+                "complaint outcome code"
+            ],
+            [
+                3,
+                "complaint status code"
+            ],
+            [
+                3,
+                "complaint type code"
+            ],
+            [
+                3,
+                "date complaint raised"
+            ],
+            [
+                3,
+                "date complaint closed"
+            ],
+            [
+                3,
+                "staff id"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "staff_id"
+            ],
+            [
+                0,
+                "gender"
+            ],
+            [
+                0,
+                "first_name"
+            ],
+            [
+                0,
+                "last_name"
+            ],
+            [
+                0,
+                "email_address"
+            ],
+            [
+                0,
+                "phone_number"
+            ],
+            [
+                1,
+                "customer_id"
+            ],
+            [
+                1,
+                "customer_type_code"
+            ],
+            [
+                1,
+                "address_line_1"
+            ],
+            [
+                1,
+                "address_line_2"
+            ],
+            [
+                1,
+                "town_city"
+            ],
+            [
+                1,
+                "state"
+            ],
+            [
+                1,
+                "email_address"
+            ],
+            [
+                1,
+                "phone_number"
+            ],
+            [
+                2,
+                "product_id"
+            ],
+            [
+                2,
+                "parent_product_id"
+            ],
+            [
+                2,
+                "product_category_code"
+            ],
+            [
+                2,
+                "date_product_first_available"
+            ],
+            [
+                2,
+                "date_product_discontinued"
+            ],
+            [
+                2,
+                "product_name"
+            ],
+            [
+                2,
+                "product_description"
+            ],
+            [
+                2,
+                "product_price"
+            ],
+            [
+                3,
+                "complaint_id"
+            ],
+            [
+                3,
+                "product_id"
+            ],
+            [
+                3,
+                "customer_id"
+            ],
+            [
+                3,
+                "complaint_outcome_code"
+            ],
+            [
+                3,
+                "complaint_status_code"
+            ],
+            [
+                3,
+                "complaint_type_code"
+            ],
+            [
+                3,
+                "date_complaint_raised"
+            ],
+            [
+                3,
+                "date_complaint_closed"
+            ],
+            [
+                3,
+                "staff_id"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "time",
+            "time",
+            "text",
+            "text",
+            "number",
+            "number",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "time",
+            "time",
+            "number"
+        ],
+        "db_id": "customer_complaints",
+        "foreign_keys": [
+            [
+                25,
+                7
+            ],
+            [
+                24,
+                15
+            ],
+            [
+                31,
+                1
+            ]
+        ],
+        "primary_keys": [
+            1,
+            7,
+            15
+        ],
+        "table_names": [
+            "staff",
+            "customers",
+            "products",
+            "complaints"
+        ],
+        "table_names_original": [
+            "Staff",
+            "Customers",
+            "Products",
+            "Complaints"
+        ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address id"
+            ],
+            [
+                0,
+                "line 1 number building"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "zip postcode"
+            ],
+            [
+                0,
+                "state province county"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                1,
+                "product id"
+            ],
+            [
+                1,
+                "product type code"
+            ],
+            [
+                1,
+                "product name"
+            ],
+            [
+                1,
+                "product price"
+            ],
+            [
+                2,
+                "customer id"
+            ],
+            [
+                2,
+                "payment method code"
+            ],
+            [
+                2,
+                "customer number"
+            ],
+            [
+                2,
+                "customer name"
+            ],
+            [
+                2,
+                "customer address"
+            ],
+            [
+                2,
+                "customer phone"
+            ],
+            [
+                2,
+                "customer email"
+            ],
+            [
+                3,
+                "contact id"
+            ],
+            [
+                3,
+                "customer id"
+            ],
+            [
+                3,
+                "gender"
+            ],
+            [
+                3,
+                "first name"
+            ],
+            [
+                3,
+                "last name"
+            ],
+            [
+                3,
+                "contact phone"
+            ],
+            [
+                4,
+                "customer id"
+            ],
+            [
+                4,
+                "address id"
+            ],
+            [
+                4,
+                "date from"
+            ],
+            [
+                4,
+                "date to"
+            ],
+            [
+                5,
+                "order id"
+            ],
+            [
+                5,
+                "customer id"
+            ],
+            [
+                5,
+                "order date"
+            ],
+            [
+                5,
+                "order status code"
+            ],
+            [
+                6,
+                "order item id"
+            ],
+            [
+                6,
+                "order id"
+            ],
+            [
+                6,
+                "product id"
+            ],
+            [
+                6,
+                "order quantity"
+            ]
+        ],
+        "column_names_original": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "address_id"
+            ],
+            [
+                0,
+                "line_1_number_building"
+            ],
+            [
+                0,
+                "city"
+            ],
+            [
+                0,
+                "zip_postcode"
+            ],
+            [
+                0,
+                "state_province_county"
+            ],
+            [
+                0,
+                "country"
+            ],
+            [
+                1,
+                "product_id"
+            ],
+            [
+                1,
+                "product_type_code"
+            ],
+            [
+                1,
+                "product_name"
+            ],
+            [
+                1,
+                "product_price"
+            ],
+            [
+                2,
+                "customer_id"
+            ],
+            [
+                2,
+                "payment_method_code"
+            ],
+            [
+                2,
+                "customer_number"
+            ],
+            [
+                2,
+                "customer_name"
+            ],
+            [
+                2,
+                "customer_address"
+            ],
+            [
+                2,
+                "customer_phone"
+            ],
+            [
+                2,
+                "customer_email"
+            ],
+            [
+                3,
+                "contact_id"
+            ],
+            [
+                3,
+                "customer_id"
+            ],
+            [
+                3,
+                "gender"
+            ],
+            [
+                3,
+                "first_name"
+            ],
+            [
+                3,
+                "last_name"
+            ],
+            [
+                3,
+                "contact_phone"
+            ],
+            [
+                4,
+                "customer_id"
+            ],
+            [
+                4,
+                "address_id"
+            ],
+            [
+                4,
+                "date_from"
+            ],
+            [
+                4,
+                "date_to"
+            ],
+            [
+                5,
+                "order_id"
+            ],
+            [
+                5,
+                "customer_id"
+            ],
+            [
+                5,
+                "order_date"
+            ],
+            [
+                5,
+                "order_status_code"
+            ],
+            [
+                6,
+                "order_item_id"
+            ],
+            [
+                6,
+                "order_id"
+            ],
+            [
+                6,
+                "product_id"
+            ],
+            [
+                6,
+                "order_quantity"
+            ]
+        ],
+        "column_types": [
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "time",
+            "time",
+            "number",
+            "number",
+            "time",
+            "text",
+            "number",
+            "number",
+            "number",
+            "text"
+        ],
+        "db_id": "customers_and_products_contacts",
+        "foreign_keys": [
+            [
+                25,
+                1
+            ],
+            [
+                24,
+                11
+            ],
+            [
+                29,
+                11
+            ],
+            [
+                33,
+                28
+            ],
+            [
+                34,
+                7
+            ]
+        ],
+        "primary_keys": [
+            1,
+            7,
+            11,
+            18,
+            28
+        ],
+        "table_names": [
+            "addresses",
+            "products",
+            "customers",
+            "contacts",
+            "customer address history",
+            "customer orders",
+            "order items"
+        ],
+        "table_names_original": [
+            "Addresses",
+            "Products",
+            "Customers",
+            "Contacts",
+            "Customer_Address_History",
+            "Customer_Orders",
+            "Order_Items"
+        ]
+    }
+]

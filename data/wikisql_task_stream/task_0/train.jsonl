@@ -1,0 +1,788 @@
+{"phase": 2, "table_id": "2-11554565-3", "question": "Who was the home team when the vistor team was the Montreal Canadiens on February 12?", "sql": {"sel": 3, "conds": [[1, 0, "montreal canadiens"], [0, 0, "february 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18027278-5", "question": "What is Road Team, when Date is \"April 10\"?", "sql": {"sel": 4, "conds": [[1, 0, "april 10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-9", "question": "Which Opposing Teams is on 06/02/1988?", "sql": {"sel": 0, "conds": [[2, 0, "06/02/1988"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11128774-8", "question": "What is the record of the game when Los Angeles was the home team?", "sql": {"sel": 6, "conds": [[3, 0, "los angeles"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-18", "question": "Name the broadcast for  davis-wade stadium \u2022 starkville ms", "sql": {"sel": 5, "conds": [[4, 0, "Davis-Wade Stadium \u2022 Starkville MS"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961051-3", "question": "What is the home team when the visiting team is the Mavericks?", "sql": {"sel": 3, "conds": [[1, 0, "mavericks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11965481-11", "question": "What is the High rebounds with a Series with 4\u20132?", "sql": {"sel": 5, "conds": [[8, 0, "4\u20132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11786815-5", "question": "What is the decision when they're at phoenix?", "sql": {"sel": 4, "conds": [[1, 0, "phoenix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10767118-1", "question": "What is the largest crowd at arden street oval?", "sql": {"sel": 5, "conds": [[4, 0, "arden street oval"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17058116-8", "question": "Which Location Attendance has a Date of february 27?", "sql": {"sel": 6, "conds": [[1, 0, "february 27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-5", "question": "What is the visitor team of the game with Rudy Gay (18) as the leading scorer?", "sql": {"sel": 1, "conds": [[4, 0, "rudy gay (18)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17323042-5", "question": "What is High Rebounds, when Location Attendance is \"Time Warner Cable Arena 10,848\"?", "sql": {"sel": 5, "conds": [[6, 0, "time warner cable arena 10,848"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13328239-4", "question": "What competition ended with a score of 38-14?", "sql": {"sel": 0, "conds": [[4, 0, "38-14"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-8", "question": "How many times was the site wallace wade stadium \u2022 durham, nc?", "sql": {"sel": 7, "conds": [[4, 0, "Wallace Wade Stadium \u2022 Durham, NC"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17342287-11", "question": "What is the date of game 3 with Boston as the road team?", "sql": {"sel": 1, "conds": [[4, 0, "boston"], [0, 0, "game 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-3", "question": "What is the name of the home time with a 10 tie no?", "sql": {"sel": 1, "conds": [[0, 0, "10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17344582-10", "question": "What team played at the Boston Garden when the series was 1-0?", "sql": {"sel": 2, "conds": [[7, 0, "boston garden"], [8, 0, "1-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17520911-2", "question": "What was the score for the away team, southport?", "sql": {"sel": 2, "conds": [[3, 0, "southport"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-10", "question": "Name the home team when the away team was essendon", "sql": {"sel": 1, "conds": [[2, 0, "essendon"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11964154-11", "question": "Who had the high assists when the high rebounds were from Nick Collison (15)?", "sql": {"sel": 6, "conds": [[5, 0, "Nick Collison (15)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12058084-1", "question": "Was the game against the Rattlers at the United Sports Training Center a home game or an away game?", "sql": {"sel": 2, "conds": [[1, 0, "rattlers"], [3, 0, "united sports training center"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17540875-3", "question": "What was the score when the home team was goole town?", "sql": {"sel": 2, "conds": [[1, 0, "goole town"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17342287-11", "question": "What was the result of the game on April 28?", "sql": {"sel": 3, "conds": [[1, 0, "april 28"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963601-10", "question": "On April 29, with a game larger than 2, what is the high points?", "sql": {"sel": 4, "conds": [[0, 1, 2], [1, 0, "april 29"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-7", "question": "Who is the leading scorer of the game on 13 February 2008?", "sql": {"sel": 4, "conds": [[0, 0, "13 february 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-33", "question": "Where was the venue with 3,096 in the crowd and against the Melbourne Tigers?", "sql": {"sel": 4, "conds": [[5, 1, "3,096"], [3, 0, "melbourne tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-8", "question": "Name the date for princes park", "sql": {"sel": 5, "conds": [[4, 0, "princes park"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17164298-4", "question": "What is the Road Team of Game 3?", "sql": {"sel": 4, "conds": [[0, 0, "game 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-5", "question": "Which Attendance has a Tie number of 5?", "sql": {"sel": 4, "conds": [[0, 0, "5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-16", "question": "what is the date when the score is 115-93?", "sql": {"sel": 0, "conds": [[2, 0, "115-93"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-7", "question": "What was the record when the visitor was Cleveland in Dallas?", "sql": {"sel": 6, "conds": [[1, 0, "cleveland"], [3, 0, "dallas"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18346710-2", "question": "What was the score of the game on February 8?", "sql": {"sel": 2, "conds": [[0, 0, "february 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17622423-10", "question": "Who made the most assists in Game 2 of this season?", "sql": {"sel": 6, "conds": [[0, 0, 2]], "agg": 0}}
+{"phase": 2, "table_id": "2-11771022-3", "question": "What was the score on October 13?", "sql": {"sel": 2, "conds": [[0, 0, "october 13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17054550-2", "question": "What is the date of tie no. 34?", "sql": {"sel": 4, "conds": [[0, 0, "34"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18657589-2", "question": "What is the tie no for the away team altrincham?", "sql": {"sel": 0, "conds": [[3, 0, "altrincham"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18027278-5", "question": "What is Home Team, when Date is \"April 10\"?", "sql": {"sel": 2, "conds": [[1, 0, "april 10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18188607-5", "question": "In which venue was there an against of 11?", "sql": {"sel": 3, "conds": [[1, 0, 11]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178551-9", "question": "What is the date of the 42 Against?", "sql": {"sel": 2, "conds": [[1, 0, 42]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-5", "question": "What was date was the attendance larger than 875 against Platense?", "sql": {"sel": 0, "conds": [[4, 1, 875], [1, 0, "platense"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10776868-5", "question": "What is the home team's score at mcg?", "sql": {"sel": 1, "conds": [[4, 0, "mcg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-3", "question": "What is the Home team when the Attendance was 1920?", "sql": {"sel": 1, "conds": [[4, 0, 1920]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388478-4", "question": "What date was Adelaide the home team?", "sql": {"sel": 6, "conds": [[0, 0, "Adelaide"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11962021-8", "question": "How many people attended the game on February 3, 2008?", "sql": {"sel": 5, "conds": [[0, 0, "february 3, 2008"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17918213-15", "question": "What team has a season of 2009-10?", "sql": {"sel": 2, "conds": [[0, 0, "2009-10"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28768469-5", "question": "What is the most amount of games played this season?", "sql": {"sel": 0, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-10790397-3", "question": "Which home team had a crowd size of 14,000 at Junction Oval?", "sql": {"sel": 0, "conds": [[5, 1, "14,000"], [4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-6", "question": "What is the venue for the match on 30/03/1985?", "sql": {"sel": 3, "conds": [[2, 0, "30/03/1985"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-52", "question": "Name the venue for eng by 6 wkts", "sql": {"sel": 3, "conds": [[4, 0, "eng by 6 wkts"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-10", "question": "Who had the high rebounds when the high assists were from J. Johnson (7)?", "sql": {"sel": 5, "conds": [[6, 0, "J. Johnson (7)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-7", "question": "Which season had a home 2-3?", "sql": {"sel": 0, "conds": [[3, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10773616-11", "question": "Where was the game held when the away team scored 10.12 (72)?", "sql": {"sel": 4, "conds": [[3, 0, "10.12 (72)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10808681-2", "question": "Who was the away team at mcg?", "sql": {"sel": 2, "conds": [[4, 0, "mcg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10807253-4", "question": "What team was the away team when Footscray was the home team?", "sql": {"sel": 2, "conds": [[0, 0, "footscray"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21350934-2", "question": "What is the result of the qf round?", "sql": {"sel": 3, "conds": [[1, 0, "QF"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178924-10", "question": "On 24/11/1979, what is the opposing teams?", "sql": {"sel": 0, "conds": [[2, 0, "24/11/1979"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17308750-2", "question": "What is the Score on January 23?", "sql": {"sel": 2, "conds": [[0, 0, "january 23"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-4", "question": "What is the Ground with a Score that is 49-80?", "sql": {"sel": 5, "conds": [[4, 0, "49-80"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12058560-1", "question": "Name the opponent when the resultwas w 12-11", "sql": {"sel": 1, "conds": [[4, 0, "w 12-11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-9", "question": "On what date was the venue at Brisbane Cricket Ground?", "sql": {"sel": 0, "conds": [[3, 0, "brisbane cricket ground"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-17", "question": "When was the game at Gillette Stadium that ended in a final score of 30-17?", "sql": {"sel": 0, "conds": [[2, 0, "30-17"], [4, 0, "gillette stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-18", "question": "What was the average attendance when marathon was the away team?", "sql": {"sel": 4, "conds": [[3, 0, "marathon"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17026847-13", "question": "What is the score of the match with an attendance of 2248?", "sql": {"sel": 2, "conds": [[4, 0, 2248]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004128-6", "question": "WHAT IS THE AWAY TEAM WITH A TIE NUMBER 1?", "sql": {"sel": 3, "conds": [[0, 0, "1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17494040-6", "question": "Who was the away team when the Tie no was 34?", "sql": {"sel": 3, "conds": [[0, 0, "34"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18904831-5", "question": "What was the record of the game in which Dydek (10) did the most high rebounds?", "sql": {"sel": 8, "conds": [[5, 0, "Dydek (10)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17311797-7", "question": "What is Record, when Game is \"36\"?", "sql": {"sel": 8, "conds": [[0, 0, 36]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-13", "question": "What is the result for 23,24,25,26 july 1992?", "sql": {"sel": 4, "conds": [[0, 0, "23,24,25,26 july 1992"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17322817-6", "question": "Who was the high scorer in the Toronto game?", "sql": {"sel": 4, "conds": [[2, 0, "toronto"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10640687-6", "question": "Who was the home team when the away team had a score of 11.18 (84)?", "sql": {"sel": 0, "conds": [[3, 0, "11.18 (84)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21311525-1", "question": "What is the round number for the date 19/06/2009?", "sql": {"sel": 1, "conds": [[8, 0, "19/06/2009"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-6", "question": "Who was the host team on November 17?", "sql": {"sel": 3, "conds": [[0, 0, "november 17"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22883210-11", "question": "When 0-1 is the series who has the highest amount of assists?", "sql": {"sel": 6, "conds": [[8, 0, "0-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10809444-11", "question": "Who was the away team when the home team scored 12.13 (85)?", "sql": {"sel": 2, "conds": [[1, 0, "12.13 (85)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-7", "question": "what is the date when the venue is junction oval?", "sql": {"sel": 5, "conds": [[4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16387795-1", "question": "What was the smallest crowd when the away team scored 12.16 (88)?", "sql": {"sel": 5, "conds": [[3, 0, "12.16 (88)"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15786635-3", "question": "What is the Away team when the home team was wycombe wanderers?", "sql": {"sel": 3, "conds": [[1, 0, "wycombe wanderers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14677944-3", "question": "What is the name of the leading scorer when the record was 9\u20136?", "sql": {"sel": 4, "conds": [[6, 0, "9\u20136"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27700530-15", "question": "Who had the most points and how many did they have on April 22? ", "sql": {"sel": 4, "conds": [[1, 0, "April 22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17620547-3", "question": "what is the date when the away team is crystal palace?", "sql": {"sel": 4, "conds": [[3, 0, "crystal palace"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-12", "question": "What venue had a Score of 120-108?", "sql": {"sel": 4, "conds": [[2, 0, "120-108"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-29", "question": "Which report corresponds to the State Sports Centre?", "sql": {"sel": 6, "conds": [[4, 0, "state sports centre"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11960407-5", "question": "What is the date of Game 50?", "sql": {"sel": 1, "conds": [[0, 0, 50]], "agg": 0}}
+{"phase": 1, "table_id": "1-27713030-16", "question": "Which series had a score of  l 103\u2013112 (ot)?", "sql": {"sel": 8, "conds": [[3, 0, "L 103\u2013112 (OT)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10766119-18", "question": "How many games is collingwood the home side?", "sql": {"sel": 5, "conds": [[0, 0, "collingwood"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17308750-2", "question": "What is the Score of the game with a Record of 5\u20134\u20133?", "sql": {"sel": 2, "conds": [[4, 0, "5\u20134\u20133"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17344582-11", "question": "List all location attendance for series 1-1.", "sql": {"sel": 7, "conds": [[8, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16222274-3", "question": "What was the attendance when Bournemouth was the away team?", "sql": {"sel": 4, "conds": [[3, 0, "bournemouth"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11907963-6", "question": "What was the score for the game in which Emeka Okafor (10) had high rebounds?", "sql": {"sel": 3, "conds": [[5, 0, "Emeka Okafor (10)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17323092-7", "question": "On what date did the Team Minnesota play?", "sql": {"sel": 1, "conds": [[2, 0, "Minnesota"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-2", "question": "For the 1948-49 season, what was the At Home record?", "sql": {"sel": 3, "conds": [[0, 0, "1948-49"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-13", "question": "Who was the Away Captain at The Oval?", "sql": {"sel": 2, "conds": [[3, 0, "the oval"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27756572-10", "question": "What was the record when the Clippers played Philadelphia? ", "sql": {"sel": 8, "conds": [[2, 0, "Philadelphia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-17", "question": "What was the final score of the game on November 17?", "sql": {"sel": 2, "conds": [[0, 0, "november 17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10806194-8", "question": "What is the largest amount of spectators when the home team scored 13.11 (89)?", "sql": {"sel": 5, "conds": [[1, 0, "13.11 (89)"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14022127-4", "question": "Date of march 30 involves what home?", "sql": {"sel": 3, "conds": [[0, 0, "march 30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-2", "question": "What was the result of the game that was played on 29,30\u201331 May 1902?", "sql": {"sel": 4, "conds": [[0, 0, "29,30\u201331 may 1902"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-9", "question": "What day was Wales the opposing team?", "sql": {"sel": 2, "conds": [[0, 0, "wales"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11647944-2", "question": "What is the away team of the game with tie number 31?", "sql": {"sel": 3, "conds": [[0, 0, "31"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18179114-10", "question": "What is the highest number against on 12/04/1969?", "sql": {"sel": 1, "conds": [[2, 0, "12/04/1969"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18178924-7", "question": "What's the statue for an against above 22?", "sql": {"sel": 4, "conds": [[1, 1, 22]], "agg": 0}}
+{"phase": 1, "table_id": "1-21378160-2", "question": "What was the score of round 3?", "sql": {"sel": 4, "conds": [[1, 0, "3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17344582-11", "question": "List all location attendance for series 1-1.", "sql": {"sel": 7, "conds": [[8, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17622423-11", "question": "What team did they play when the series was 1-1?", "sql": {"sel": 2, "conds": [[8, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13535187-3", "question": "What score has detroit as the home, and December 9 as the date?", "sql": {"sel": 2, "conds": [[3, 0, "detroit"], [0, 0, "december 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11960091-5", "question": "How many people were in attendance when the home shows as Bulls?", "sql": {"sel": 5, "conds": [[3, 0, "bulls"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17121262-7", "question": "Which Record has a Date of january 31?", "sql": {"sel": 7, "conds": [[1, 0, "january 31"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964379-5", "question": "How many attended the game on 12/17 with stephen jackson as the leading scorer?", "sql": {"sel": 5, "conds": [[4, 0, "stephen jackson"], [0, 0, "12/17"]], "agg": 4}}
+{"phase": 1, "table_id": "1-27734577-8", "question": "What team has a score of  w 110\u201387 (ot)?", "sql": {"sel": 2, "conds": [[3, 0, "W 110\u201387 (OT)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-7", "question": "What is the total number of Against, when Date is \"16/03/1996\"?", "sql": {"sel": 1, "conds": [[2, 0, "16/03/1996"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17511295-8", "question": "What is the score when Biron got the decision and Philadelphia was the visitor on March 1?", "sql": {"sel": 2, "conds": [[4, 0, "biron"], [1, 0, "philadelphia"], [0, 0, "march 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17470908-1", "question": "Who is the home captain that won AUS by 245 runs?", "sql": {"sel": 1, "conds": [[4, 0, "aus by 245 runs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11772511-6", "question": "What is the score of the game when they had a record of 22\u201319\u20134?", "sql": {"sel": 2, "conds": [[6, 0, "22\u201319\u20134"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-14", "question": "Which venue led to a draw?", "sql": {"sel": 3, "conds": [[4, 0, "draw"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-3", "question": "What date has an against of 7?", "sql": {"sel": 2, "conds": [[1, 0, 7]], "agg": 0}}
+{"phase": 2, "table_id": "2-15302438-2", "question": "Which Home has a Record of 16\u201317\u20136?", "sql": {"sel": 3, "conds": [[4, 0, "16\u201317\u20136"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11965481-11", "question": "What is the High rebounds with a Series with 4\u20132?", "sql": {"sel": 5, "conds": [[8, 0, "4\u20132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-2", "question": "On what day was the game that ended in a score of 97-38?", "sql": {"sel": 0, "conds": [[4, 0, "97-38"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-17", "question": "What was the box core for the Melbourne Tigers?", "sql": {"sel": 5, "conds": [[1, 0, "melbourne tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-1", "question": "Which Venue resulted in AUS by 229 runs?", "sql": {"sel": 3, "conds": [[4, 0, "aus by 229 runs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13619135-4", "question": "What location has an attendance and a score of l 90\u201391 (ot)?", "sql": {"sel": 6, "conds": [[3, 0, "l 90\u201391 (ot)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-12", "question": "What is Date, when Venue is Melbourne Cricket Ground, and when Result is Eng By Inns&225 Runs?", "sql": {"sel": 0, "conds": [[3, 0, "melbourne cricket ground"], [4, 0, "eng by inns&225 runs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17101496-4", "question": "WHAT IS THE HOME TEAM ON APRIL 25?", "sql": {"sel": 2, "conds": [[1, 0, "april 25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-6", "question": "What is the Record with a Leading scorer with andrew bogut (29)?", "sql": {"sel": 5, "conds": [[4, 0, "andrew bogut (29)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17344582-10", "question": "What team played at the Boston Garden when the series was 1-0?", "sql": {"sel": 2, "conds": [[7, 0, "boston garden"], [8, 0, "1-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17438349-1", "question": "Which Score has a Tie no of 33?", "sql": {"sel": 2, "conds": [[0, 0, "33"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388398-2", "question": "What kind of Home team has a Home team score of 13.14 (92)?", "sql": {"sel": 0, "conds": [[1, 0, "13.14 (92)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12962079-3", "question": "What was the score of the game when the attendance was 1,644?", "sql": {"sel": 2, "conds": [[4, 0, "1,644"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22871316-11", "question": "Who has the high points when 3-2 is the series?", "sql": {"sel": 4, "conds": [[8, 0, "3-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11194153-4", "question": "How many rebounds occurred in a rank 4 game?", "sql": {"sel": 4, "conds": [[0, 0, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-6", "question": "Where was the game on September 12 played when the Dallas Cowboys was the visiting team?", "sql": {"sel": 4, "conds": [[1, 0, "dallas cowboys"], [0, 0, "september 12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21256068-3", "question": "state the round that had a game attended attended by 9359 people", "sql": {"sel": 1, "conds": [[7, 0, 9359]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-18", "question": "Who is the away team that played home team Perth Wildcats?", "sql": {"sel": 3, "conds": [[1, 0, "perth wildcats"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27700530-15", "question": "What was the series record at after game 3?", "sql": {"sel": 8, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963601-10", "question": "On April 29, with a game larger than 2, what is the high points?", "sql": {"sel": 4, "conds": [[0, 1, 2], [1, 0, "april 29"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17080868-6", "question": "What is the average game that has December 6 as the date?", "sql": {"sel": 0, "conds": [[1, 0, "december 6"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18027278-5", "question": "What is Game, when Road Team is \"Syracuse\", and when Result is \"96-89\"?", "sql": {"sel": 0, "conds": [[4, 0, "syracuse"], [3, 0, "96-89"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961701-4", "question": "Who was the visiting team on December 17?", "sql": {"sel": 1, "conds": [[0, 0, "december 17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751811-3", "question": "On what Date is Tie no 19?", "sql": {"sel": 4, "conds": [[0, 0, "19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17060277-6", "question": "What is Record, when Game is 27?", "sql": {"sel": 8, "conds": [[0, 0, 27]], "agg": 0}}
+{"phase": 2, "table_id": "2-11902440-3", "question": "What was the record when the home team is Washington?", "sql": {"sel": 6, "conds": [[3, 0, "washington"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-98", "question": "Which Away captain has a Date of 2,3,4,5 january 1999?", "sql": {"sel": 2, "conds": [[0, 0, "2,3,4,5 january 1999"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13599969-3", "question": "What record has march 30 as the date?", "sql": {"sel": 4, "conds": [[0, 0, "march 30"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16387700-1", "question": "Name the most crowd for saturday 16 february", "sql": {"sel": 5, "conds": [[6, 0, "Saturday 16 February"]], "agg": 1}}
+{"phase": 1, "table_id": "1-21269143-1", "question": "Name the attendace for 23 round", "sql": {"sel": 7, "conds": [[1, 0, "23"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-5", "question": "What is the average against for a test match?", "sql": {"sel": 1, "conds": [[4, 0, "test match"]], "agg": 5}}
+{"phase": 2, "table_id": "2-16388478-3", "question": "How many people attended as the score ended 13.10 (88)?", "sql": {"sel": 5, "conds": [[1, 0, "13.10 (88)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-9", "question": "What home score has an Away team of fitzroy?", "sql": {"sel": 1, "conds": [[2, 0, "fitzroy"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286112-12", "question": "Where was game number 5 played?", "sql": {"sel": 7, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-5", "question": "I want to know the final score for december 27", "sql": {"sel": 2, "conds": [[0, 0, "december 27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-5", "question": "What is Score, when Date is January 12?", "sql": {"sel": 2, "conds": [[0, 0, "january 12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13328239-4", "question": "Who was the opponent in round 2?", "sql": {"sel": 2, "conds": [[1, 0, "2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-10", "question": "Name the home team when the away team was essendon", "sql": {"sel": 1, "conds": [[2, 0, "essendon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-6", "question": "What is the Date with a Home that is hamilton wildcats?", "sql": {"sel": 0, "conds": [[2, 0, "hamilton wildcats"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18720697-4", "question": "What is the away team at the game with an Attendance of 1,730?", "sql": {"sel": 3, "conds": [[4, 0, "1,730"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13619027-12", "question": "On what date was the game more than 5?", "sql": {"sel": 1, "conds": [[0, 1, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-16194551-5", "question": "What was the attendance for the game where the away team was Stockport County?", "sql": {"sel": 4, "conds": [[3, 0, "stockport county"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18726561-2", "question": "When was Southend United the home team?", "sql": {"sel": 4, "conds": [[1, 0, "southend united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-15", "question": "When did Final Score of 31-7 happen?", "sql": {"sel": 0, "conds": [[2, 0, "31-7"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22654073-13", "question": "How many games were there on May 1?", "sql": {"sel": 0, "conds": [[1, 0, "May 1"]], "agg": 3}}
+{"phase": 2, "table_id": "2-10944289-2", "question": "When the new orleans saints were visiting texas stadium, what was the final score?", "sql": {"sel": 2, "conds": [[4, 0, "texas stadium"], [1, 0, "new orleans saints"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-6", "question": "At what stadium was the game with the final score of 26-24 played?", "sql": {"sel": 4, "conds": [[2, 0, "26-24"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-13", "question": "What was the score of the game with the Broadview Hawks as the home team?", "sql": {"sel": 4, "conds": [[2, 0, "broadview hawks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-5", "question": "What is the score on the 1 December 2007 game?", "sql": {"sel": 2, "conds": [[0, 0, "1 december 2007"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-10", "question": "What Venue has a Status of five nations, and Against of 0?", "sql": {"sel": 3, "conds": [[4, 0, "five nations"], [1, 0, 0]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-9", "question": "Who was the visiting team against the Minnesota Vikings?", "sql": {"sel": 1, "conds": [[3, 0, "minnesota vikings"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18206835-14", "question": "Which Result that is on june 5?", "sql": {"sel": 3, "conds": [[1, 0, "june 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-26", "question": "Who is the home captain that played at Edgbaston?", "sql": {"sel": 1, "conds": [[3, 0, "edgbaston"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-8", "question": "what is the report when the home team is new zealand breakers?", "sql": {"sel": 6, "conds": [[1, 0, "new zealand breakers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-6", "question": "What Away team is from Fitzroy?", "sql": {"sel": 2, "conds": [[0, 0, "fitzroy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-6", "question": "What Home team has an away score of 6.6 (42)?", "sql": {"sel": 1, "conds": [[3, 0, "6.6 (42)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-8", "question": "What was the status for the opposing team South Africa?", "sql": {"sel": 4, "conds": [[0, 0, "south africa"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-5", "question": "What is the home team score when the away team was fitzroy?", "sql": {"sel": 1, "conds": [[2, 0, "fitzroy"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19789597-6", "question": "Who was the game on July 7 played against?", "sql": {"sel": 2, "conds": [[1, 0, "July 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15932367-9", "question": "Who was the home team of the game on 2 February 2006?", "sql": {"sel": 3, "conds": [[0, 0, "2 february 2006"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16140345-5", "question": "When has a Visitor of bulls?", "sql": {"sel": 0, "conds": [[1, 0, "bulls"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15932367-9", "question": "What is the home team of the game with Warriors as the visitor team?", "sql": {"sel": 3, "conds": [[1, 0, "warriors"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-16", "question": "how many times is the home team wollongong hawks?", "sql": {"sel": 5, "conds": [[1, 0, "wollongong hawks"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16993234-5", "question": "Which Away has a Home of 1\u20130?", "sql": {"sel": 4, "conds": [[3, 0, "1\u20130"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10826385-8", "question": "Where was the game played with a home team score of 8.13 (61)?", "sql": {"sel": 4, "conds": [[1, 0, "8.13 (61)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-10", "question": "Who had the high rebounds when the high assists were from J. Johnson (7)?", "sql": {"sel": 5, "conds": [[6, 0, "J. Johnson (7)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-8", "question": "What day was the opposing team Australia and the against 25?", "sql": {"sel": 2, "conds": [[1, 0, 25], [0, 0, "australia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-10", "question": "What was the attendance of the match with motagua as the home team?", "sql": {"sel": 4, "conds": [[1, 0, "motagua"]], "agg": 5}}
+{"phase": 2, "table_id": "2-10784349-14", "question": "What was the home teams score when the VFL played at Kardinia Park?", "sql": {"sel": 1, "conds": [[4, 0, "kardinia park"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-10", "question": "How had the high points when the high assists were from J. Johnson (7)?", "sql": {"sel": 4, "conds": [[6, 0, "J. Johnson (7)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-29", "question": "Which home team had a score of 100-86?", "sql": {"sel": 1, "conds": [[2, 0, "100-86"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12789075-2", "question": "What is the Score of the Toronto Maple Leafs home game on February 1?", "sql": {"sel": 2, "conds": [[3, 0, "toronto maple leafs"], [0, 0, "february 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1403349-5", "question": "Result of 86-87 (2-4) involves what home team?", "sql": {"sel": 2, "conds": [[3, 0, "86-87 (2-4)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751797-5", "question": "What was the date of the game that tied at 3?", "sql": {"sel": 4, "conds": [[0, 0, "3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15786635-5", "question": "Tell me the score when there was a Tie number of 6?", "sql": {"sel": 2, "conds": [[0, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-8", "question": "Name the date for princes park", "sql": {"sel": 5, "conds": [[4, 0, "princes park"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15993717-7", "question": "Who is the visitor with a 14-10 record?", "sql": {"sel": 1, "conds": [[5, 0, "14-10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11902580-7", "question": "What was the date of the game with a decision of Niittymaki and when the Flyers had a record of 30\u201321\u20135?", "sql": {"sel": 0, "conds": [[4, 0, "niittymaki"], [6, 0, "30\u201321\u20135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16140345-4", "question": "What Leading scorer had a Score of 80\u2013112?", "sql": {"sel": 4, "conds": [[2, 0, "80\u2013112"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17060277-7", "question": "What was the record of the game for game 31?", "sql": {"sel": 8, "conds": [[0, 0, 31]], "agg": 0}}
+{"phase": 2, "table_id": "2-10767641-4", "question": "When richmond played away, what was the largest number of people who watched?", "sql": {"sel": 5, "conds": [[2, 0, "richmond"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13193466-16", "question": "Which host team won on a final scoreline of 13-10?", "sql": {"sel": 3, "conds": [[2, 0, "13-10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17063996-4", "question": "Which Result has a Road Team of san francisco, and a Game of game 2?", "sql": {"sel": 3, "conds": [[4, 0, "san francisco"], [0, 0, "game 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178551-1", "question": "What is the sum of Against, when Opposing Teams is \"South Africa\", and when Status is \"First Test\"?", "sql": {"sel": 1, "conds": [[0, 0, "south africa"], [4, 0, "first test"]], "agg": 4}}
+{"phase": 1, "table_id": "1-30087032-5", "question": "In what series did Charles Barkley (34) did most high points?", "sql": {"sel": 8, "conds": [[4, 0, "Charles Barkley (34)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17120059-4", "question": "What Game had a Result of 136-112?", "sql": {"sel": 0, "conds": [[3, 0, "136-112"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-1", "question": "Which home team plays in the Corio Oval venue?", "sql": {"sel": 0, "conds": [[4, 0, "corio oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-2", "question": "At which stadium did the Los Angeles Raiders play as the visiting team?", "sql": {"sel": 4, "conds": [[1, 0, "los angeles raiders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11870934-3", "question": "What was the record on the game that was played on october 27?", "sql": {"sel": 6, "conds": [[0, 0, "october 27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-7", "question": "Who was the home team during the match where there were 2709 in attendance?", "sql": {"sel": 1, "conds": [[4, 0, 2709]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286158-11", "question": "What was the series where the game was 5?", "sql": {"sel": 8, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-10746808-11", "question": "Who is the home side when the away side score is 8.8 (56)?", "sql": {"sel": 0, "conds": [[3, 0, "8.8 (56)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15873014-5", "question": "What is the Score with a Team that is @ portland?", "sql": {"sel": 3, "conds": [[2, 0, "@ portland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961051-5", "question": "Name the record for 21 january 2008", "sql": {"sel": 6, "conds": [[0, 0, "21 january 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18339377-4", "question": "Name the Visitor that has a Home of chicago black hawks on april 20?", "sql": {"sel": 1, "conds": [[3, 0, "chicago black hawks"], [0, 0, "april 20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-6", "question": "What's the total against for opposing team scotland at twickenham, london venue with a status of five nations?", "sql": {"sel": 1, "conds": [[4, 0, "five nations"], [3, 0, "twickenham, london"], [0, 0, "scotland"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16866549-2", "question": "which Home has a Visitor of ottawa senators and a Score of 2\u20133?", "sql": {"sel": 3, "conds": [[1, 0, "ottawa senators"], [2, 0, "2\u20133"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-10", "question": "What is the location when the high rebounds was from A. Horford (13)?", "sql": {"sel": 7, "conds": [[5, 0, "A. Horford (13)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17311797-14", "question": "What is the highest Game, when High Assists is \"Hedo T\u00fcrko\u011flu (7)\"?", "sql": {"sel": 0, "conds": [[6, 0, "hedo t\u00fcrko\u011flu (7)"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17026847-11", "question": "Which Date has an Attendance larger than 1,858?", "sql": {"sel": 0, "conds": [[4, 1, "1,858"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388545-1", "question": "What was the away team's score of at the game of telstra stadium?", "sql": {"sel": 3, "conds": [[4, 0, "Telstra Stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961849-6", "question": "Who was the leading scorer that was a visitor of the Trail Blazers?", "sql": {"sel": 4, "conds": [[1, 0, "trail blazers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-7", "question": "What is the Date with a Time that is 18:45?", "sql": {"sel": 0, "conds": [[1, 0, "18:45"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11318956-4", "question": "What is the score of the game with tie number 65?", "sql": {"sel": 2, "conds": [[0, 0, "65"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-8", "question": "What is the Date with a Score that is 46-77?", "sql": {"sel": 0, "conds": [[4, 0, "46-77"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16140345-5", "question": "Which  Home has a Leading scorer of dajuan wagner (25) and a Score of 89\u201382? Question 3", "sql": {"sel": 3, "conds": [[4, 0, "dajuan wagner (25)"], [2, 0, "89\u201382"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17058178-8", "question": "What was the final score in game 38?", "sql": {"sel": 3, "conds": [[0, 0, 38]], "agg": 0}}
+{"phase": 2, "table_id": "2-18904831-5", "question": "Which High rebounds has a Score of w 81-69?", "sql": {"sel": 5, "conds": [[3, 0, "w 81-69"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17190012-13", "question": "Which Game is the highest one that has High rebounds of pau gasol (11)?", "sql": {"sel": 0, "conds": [[5, 0, "pau gasol (11)"]], "agg": 1}}
+{"phase": 2, "table_id": "2-17058151-9", "question": "What is the Record for the Team of Indiana?", "sql": {"sel": 7, "conds": [[2, 0, "indiana"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388506-1", "question": "What are the home team scores when fremantle is the away team?", "sql": {"sel": 1, "conds": [[2, 0, "Fremantle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18054397-10", "question": "What is Score, when Attendance is \"349\"?", "sql": {"sel": 2, "conds": [[4, 0, "349"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-2", "question": "Name the away team score for lake oval", "sql": {"sel": 3, "conds": [[4, 0, "lake oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178924-7", "question": "What's the against on 17/01/1976?", "sql": {"sel": 1, "conds": [[2, 0, "17/01/1976"]], "agg": 2}}
+{"phase": 1, "table_id": "1-30087032-5", "question": "How many different high points results are there for the game on May 15?", "sql": {"sel": 4, "conds": [[1, 0, "May 15"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17026847-20", "question": "What was the attendance for the game with an away team of Hispano?", "sql": {"sel": 4, "conds": [[3, 0, "hispano"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-4", "question": "In what stadium were the New England Patriots the visiting team?", "sql": {"sel": 4, "conds": [[1, 0, "new england patriots"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961849-9", "question": "Name the total number in attendance for when the bulls visited", "sql": {"sel": 5, "conds": [[1, 0, "bulls"]], "agg": 3}}
+{"phase": 1, "table_id": "1-21350934-2", "question": "How many results have 14,381 as the attendance?", "sql": {"sel": 3, "conds": [[7, 0, "14,381"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13193466-6", "question": "Who was the host team for the game with the final score of 26-24?", "sql": {"sel": 3, "conds": [[2, 0, "26-24"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22654073-13", "question": "List all high rebound entries from May 11.", "sql": {"sel": 5, "conds": [[1, 0, "May 11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11965631-4", "question": "What was the record in the competition in which the home team was the Mavericks?", "sql": {"sel": 6, "conds": [[3, 0, "mavericks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004128-5", "question": "WHAT IS THE HOME TEAM WITH A TIE NUMBER OF 7?", "sql": {"sel": 1, "conds": [[0, 0, "7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18054397-8", "question": "Who was the Home team in Tie #23?", "sql": {"sel": 1, "conds": [[0, 0, 23]], "agg": 0}}
+{"phase": 1, "table_id": "1-27712180-13", "question": "What was the name of the opposing team on the May 6 game?", "sql": {"sel": 2, "conds": [[1, 0, "May 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18116723-1", "question": "what is the result from texas stadium?", "sql": {"sel": 4, "conds": [[3, 0, "texas stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-4", "question": "What is the home of the team with a 16-8 record?", "sql": {"sel": 3, "conds": [[6, 0, "16-8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-28", "question": "Name the lowest Crowd of hisense arena on 8 february?", "sql": {"sel": 5, "conds": [[4, 0, "hisense arena"], [0, 0, "8 february"]], "agg": 2}}
+{"phase": 2, "table_id": "2-11786815-6", "question": "What's the score on january 5 with a hasek decision?", "sql": {"sel": 2, "conds": [[4, 0, "hasek"], [0, 0, "january 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-16", "question": "Who was the home team in the game with more than 1675, and Olimpia was the away side?", "sql": {"sel": 1, "conds": [[4, 1, 1675], [3, 0, "olimpia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16140345-9", "question": "Which date had the Hornets as the home team?", "sql": {"sel": 0, "conds": [[3, 0, "hornets"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17190012-13", "question": "Which Game is the highest one that has High rebounds of pau gasol (11)?", "sql": {"sel": 0, "conds": [[5, 0, "pau gasol (11)"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22871316-11", "question": "Who has the high assists when 0-1 is the series?", "sql": {"sel": 6, "conds": [[8, 0, "0-1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388478-4", "question": "What was the away team score for the game with a crowd of 5391?", "sql": {"sel": 3, "conds": [[5, 0, 5391]], "agg": 0}}
+{"phase": 2, "table_id": "2-12075633-1", "question": "What is the date of the game against the Lizards with a result of w 18-17?", "sql": {"sel": 0, "conds": [[1, 0, "lizards"], [4, 0, "w 18-17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16050349-5", "question": "How many Games for the Player from Lietuvos Rytas Vilnius with less the 43 Rebounds?", "sql": {"sel": 3, "conds": [[2, 0, "lietuvos rytas vilnius"], [4, 2, 43]], "agg": 4}}
+{"phase": 2, "table_id": "2-10944289-7", "question": "What is the date the new york giants were the visiting team and the Final Score was 37-34?", "sql": {"sel": 0, "conds": [[1, 0, "new york giants"], [2, 0, "37-34"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-5", "question": "What is the Date with an Away that is central blues?", "sql": {"sel": 0, "conds": [[3, 0, "central blues"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17342230-5", "question": "For the game ending in a final result of 99-90, who was the Road Team?", "sql": {"sel": 4, "conds": [[3, 0, "99-90"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18675114-6", "question": "What was the score when Arsenal was the away team?", "sql": {"sel": 2, "conds": [[3, 0, "arsenal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-13", "question": "What is the highest attendance of the match with a 2:0 score and vida as the away team?", "sql": {"sel": 4, "conds": [[2, 0, "2:0"], [3, 0, "vida"]], "agg": 1}}
+{"phase": 2, "table_id": "2-16050349-2", "question": "What is the lowest Games, when Name is Travis Watson, and when Rebounds is less than 136?", "sql": {"sel": 3, "conds": [[1, 0, "travis watson"], [4, 2, 136]], "agg": 2}}
+{"phase": 2, "table_id": "2-13813282-3", "question": "what game was on may 29", "sql": {"sel": 3, "conds": [[1, 0, "may 29"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30049462-5", "question": "in december 7 who made the high points", "sql": {"sel": 4, "conds": [[1, 0, "December 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17355408-7", "question": "What was the final score for the game played against @ Milwaukee?", "sql": {"sel": 3, "conds": [[2, 0, "@ milwaukee"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-14", "question": "who is the home team when the home team score is 6.17 (53)?", "sql": {"sel": 0, "conds": [[1, 0, "6.17 (53)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388478-3", "question": "Where the home team scored 13.10 (88), what was the size of the crowd?", "sql": {"sel": 5, "conds": [[1, 0, "13.10 (88)"]], "agg": 1}}
+{"phase": 1, "table_id": "1-22871316-11", "question": "Who has the high points when 3-2 is the series?", "sql": {"sel": 4, "conds": [[8, 0, "3-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18336411-4", "question": "What is Visitor, when Date is \"April 24\"?", "sql": {"sel": 1, "conds": [[0, 0, "april 24"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17166431-2", "question": "What was the score of the game on February 8?", "sql": {"sel": 2, "conds": [[0, 0, "february 8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11965481-13", "question": "Name the series on june 5", "sql": {"sel": 8, "conds": [[1, 0, "June 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10809823-22", "question": "What was the crowd when the away team is footscray?", "sql": {"sel": 5, "conds": [[2, 0, "footscray"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-9", "question": "When did the team play an away game against the Toronto Eagles?", "sql": {"sel": 0, "conds": [[3, 0, "toronto eagles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18569929-2", "question": "What was the attendance for the game with alfreton town as the home team?", "sql": {"sel": 4, "conds": [[1, 0, "alfreton town"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30087032-5", "question": "In what series did Charles Barkley (34) did most high points?", "sql": {"sel": 8, "conds": [[4, 0, "Charles Barkley (34)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751846-1", "question": "What is the Home team of the Lincoln City Away game?", "sql": {"sel": 1, "conds": [[3, 0, "lincoln city"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-29", "question": "Who was the away team at the Win Entertainment Centre?", "sql": {"sel": 3, "conds": [[4, 0, "win entertainment centre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-15", "question": "What is the away team's score of the game where the away team is Geelong?", "sql": {"sel": 3, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27722408-2", "question": "Who had the most assists and how many did they have on October 7? ", "sql": {"sel": 6, "conds": [[1, 0, "October 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963209-8", "question": "Who was the home team that played the Lakers?", "sql": {"sel": 3, "conds": [[1, 0, "lakers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14038745-12", "question": "What is the record when the visiting team was the Quebec Nordiques on April 22?", "sql": {"sel": 4, "conds": [[1, 0, "quebec nordiques"], [0, 0, "april 22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11870934-6", "question": "How many attended the game with a Record of 21\u201322\u20132?", "sql": {"sel": 5, "conds": [[6, 0, "21\u201322\u20132"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16653153-13", "question": "What team has theoir home games in the venue of gold coast convention centre?", "sql": {"sel": 1, "conds": [[4, 0, "gold coast convention centre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13160634-2", "question": "Whose Visitor has a Record of 10\u201311\u20135?", "sql": {"sel": 1, "conds": [[4, 0, "10\u201311\u20135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-26", "question": "For the matches with home captain Graham Gooch played on the dates 3,4,5,6,7 June 1993, what was the result?", "sql": {"sel": 4, "conds": [[1, 0, "graham gooch"], [0, 0, "3,4,5,6,7 june 1993"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388398-3", "question": "When was the home team score 17.5 (107)?", "sql": {"sel": 6, "conds": [[1, 0, "17.5 (107)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27734577-13", "question": "What is the game number where josh smith (4) had the high assists?", "sql": {"sel": 0, "conds": [[6, 0, "Josh Smith (4)"]], "agg": 2}}
+{"phase": 2, "table_id": "2-13193466-5", "question": "What was the name of the Visiting team at Jack Murphy Stadium?", "sql": {"sel": 1, "conds": [[4, 0, "jack murphy stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1451705-5", "question": "What date has aus by 382 runs as the result?", "sql": {"sel": 0, "conds": [[4, 0, "aus by 382 runs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17520911-5", "question": "Who is the home team on 31 January 1951 when away team was Sheffield United?", "sql": {"sel": 1, "conds": [[4, 0, "31 january 1951"], [3, 0, "sheffield united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961849-11", "question": "Name the score for howard (8) high rebounds", "sql": {"sel": 3, "conds": [[5, 0, "howard (8)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751846-4", "question": "Who is the away team that tottenham hotspur played?", "sql": {"sel": 3, "conds": [[1, 0, "tottenham hotspur"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-2", "question": "What was the final score for the game at giants stadium when the indianapolis colts were the visiting team?", "sql": {"sel": 2, "conds": [[1, 0, "indianapolis colts"], [4, 0, "giants stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-6", "question": "Which team has an away score of 9.10 (64)?", "sql": {"sel": 0, "conds": [[3, 0, "9.10 (64)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12101799-1", "question": "Who is the opponent on June 6?", "sql": {"sel": 1, "conds": [[0, 0, "june 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15798619-2", "question": "What was the score of the game when the record was 39\u201321\u20134?", "sql": {"sel": 2, "conds": [[4, 0, "39\u201321\u20134"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11772462-8", "question": "Who was the visitor team in tampa bay?", "sql": {"sel": 1, "conds": [[3, 0, "tampa bay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-1", "question": "What is Away, when Home is Guelph Gargoyles?", "sql": {"sel": 3, "conds": [[2, 0, "guelph gargoyles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-14", "question": "What was the report for an away team of Sydney Spirit and score of 96-87?", "sql": {"sel": 6, "conds": [[3, 0, "sydney spirit"], [2, 0, "96-87"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751811-5", "question": "What was the tie number when Bournemouth was the home team?", "sql": {"sel": 0, "conds": [[1, 0, "bournemouth"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10767641-2", "question": "What was the crowd size when the home team scored 17.14 (116)?", "sql": {"sel": 5, "conds": [[1, 0, "17.14 (116)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-8", "question": "what is the box score when the home team is melbourne tigers?", "sql": {"sel": 5, "conds": [[1, 0, "melbourne tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-15", "question": "What is the home team of the game where Geelong was the away team?", "sql": {"sel": 0, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-5", "question": "What is the record of the game with Rudy Gay (20) as the leading scorer?", "sql": {"sel": 5, "conds": [[4, 0, "rudy gay (20)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17342230-5", "question": "On what day was Game 7 of this season played?", "sql": {"sel": 1, "conds": [[0, 0, "game 7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-2", "question": "Who was the home team of the game at the time of 14:00?", "sql": {"sel": 2, "conds": [[1, 0, "14:00"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-94", "question": "Name the date for result of draw, and venue of edgbaston", "sql": {"sel": 0, "conds": [[4, 0, "draw"], [3, 0, "edgbaston"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18206835-14", "question": "Which Date has a Road Team of chicago, and a Result of 88-85 (ot)?", "sql": {"sel": 1, "conds": [[4, 0, "chicago"], [3, 0, "88-85 (ot)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388398-2", "question": "How many Crowd that has a Date on saturday, 29 january and an Away team of collingwood?", "sql": {"sel": 5, "conds": [[6, 0, "saturday, 29 january"], [2, 0, "collingwood"]], "agg": 5}}
+{"phase": 2, "table_id": "2-13034488-5", "question": "When has an Attendance larger than 20,066 in tampa bay?", "sql": {"sel": 0, "conds": [[5, 1, "20,066"], [3, 0, "tampa bay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-6", "question": "What is the status of the match with 24 against?", "sql": {"sel": 4, "conds": [[1, 0, 24]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388545-1", "question": "When the away team's score was 2.10.7 (85), what was the home team's score?", "sql": {"sel": 1, "conds": [[3, 0, "2.10.7 (85)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-9", "question": "Which team has an Away team of carlton?", "sql": {"sel": 0, "conds": [[2, 0, "carlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388398-2", "question": "What kind of Crowd has a Ground of subiaco oval?", "sql": {"sel": 5, "conds": [[4, 0, "subiaco oval"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11870934-6", "question": "What is the team's record when the NY rangers are at home with atlanta visting and lehtonen getting the decision?", "sql": {"sel": 6, "conds": [[4, 0, "lehtonen"], [1, 0, "atlanta"], [3, 0, "ny rangers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388398-1", "question": "What is Home Team, when Away Team Score is 10.8 (64)?", "sql": {"sel": 0, "conds": [[3, 0, "10.8 (64)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961849-7", "question": "Name the record when the visitor is mavericks", "sql": {"sel": 6, "conds": [[1, 0, "mavericks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-3", "question": "What was the date of the game that was played against the away team of York City?", "sql": {"sel": 4, "conds": [[3, 0, "york city"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-14", "question": "who is the home team when the home team score is 6.17 (53)?", "sql": {"sel": 0, "conds": [[1, 0, "6.17 (53)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-13", "question": "What was the away team score, when the away team was Fitzroy?", "sql": {"sel": 3, "conds": [[2, 0, "fitzroy"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-8", "question": "If the site was wallace wade stadium \u2022 durham, nc, what was the result?", "sql": {"sel": 6, "conds": [[4, 0, "Wallace Wade Stadium \u2022 Durham, NC"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17063996-4", "question": "Which Game has a Home Team of san francisco, and a Date of april 22?", "sql": {"sel": 0, "conds": [[2, 0, "san francisco"], [1, 0, "april 22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-98", "question": "Which venue has a Date of 20,21,22,23,24 november 1998?", "sql": {"sel": 3, "conds": [[0, 0, "20,21,22,23,24 november 1998"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27734577-13", "question": "What is the game number where josh smith (4) had the high assists?", "sql": {"sel": 0, "conds": [[6, 0, "Josh Smith (4)"]], "agg": 2}}
+{"phase": 1, "table_id": "1-27715173-6", "question": "What was the score for game 3?", "sql": {"sel": 3, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-11647944-6", "question": "How many attended tie number 3?", "sql": {"sel": 4, "conds": [[0, 0, "3"]], "agg": 1}}
+{"phase": 1, "table_id": "1-11960407-4", "question": "When did Chris Bosh (14) have the high rebounds?", "sql": {"sel": 1, "conds": [[5, 0, "Chris Bosh (14)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-52", "question": "Name the away captain with result of wi by 9 wkts", "sql": {"sel": 2, "conds": [[4, 0, "wi by 9 wkts"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388478-2", "question": "What were the home team scores when carlton was the home team?", "sql": {"sel": 1, "conds": [[0, 0, "Carlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-8", "question": "what is the score when the home team is cairns taipans?", "sql": {"sel": 2, "conds": [[1, 0, "cairns taipans"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-6", "question": "What is the home team that played Derby County as the away team?", "sql": {"sel": 1, "conds": [[3, 0, "derby county"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18675114-5", "question": "What date has wrexham as the home team?", "sql": {"sel": 4, "conds": [[1, 0, "wrexham"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17437287-1", "question": "What is the away team for the home team wigan athletic?", "sql": {"sel": 3, "conds": [[1, 0, "wigan athletic"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What was the away team when the home team was south melbourne?", "sql": {"sel": 2, "conds": [[0, 0, "south melbourne"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17342287-11", "question": "Who was the home team on April 20 against Boston?", "sql": {"sel": 2, "conds": [[4, 0, "boston"], [1, 0, "april 20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963735-8", "question": "What was the record on 6 April 2008?", "sql": {"sel": 6, "conds": [[0, 0, "6 april 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13242342-4", "question": "What is the record for November 4, with a decision made by Denis?", "sql": {"sel": 6, "conds": [[4, 0, "denis"], [0, 0, "november 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13242342-7", "question": "For all games with calgary as home, what is the average number of attendees?", "sql": {"sel": 5, "conds": [[3, 0, "calgary"]], "agg": 5}}
+{"phase": 2, "table_id": "2-13193466-4", "question": "What was the visiting team on November 12?", "sql": {"sel": 1, "conds": [[0, 0, "november 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18054397-9", "question": "What's the sum of attendance when banbury united is the away team and tie no is over 102?", "sql": {"sel": 4, "conds": [[3, 0, "banbury united"], [0, 1, 102]], "agg": 4}}
+{"phase": 2, "table_id": "2-10808089-15", "question": "Which crowd has an Away team score of 16.9 (105)?", "sql": {"sel": 5, "conds": [[3, 0, "16.9 (105)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-5", "question": "What was the name of the host team dated December 16?", "sql": {"sel": 3, "conds": [[0, 0, "december 16"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17382360-9", "question": "Who had the high rebounds in the game with a final score of w 140-108?", "sql": {"sel": 5, "conds": [[3, 0, "W 140-108"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-16", "question": " On what network was the Kentucky game broadcast? ", "sql": {"sel": 5, "conds": [[3, 0, "Kentucky"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-5", "question": "What was the final score of the game at the astrodome?", "sql": {"sel": 2, "conds": [[4, 0, "astrodome"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-5", "question": "What game had the date was it with the final score of 7-23", "sql": {"sel": 0, "conds": [[2, 0, "7-23"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-11", "question": "Which Home Team has an Away Score of 7.2 (44)?", "sql": {"sel": 0, "conds": [[3, 0, "7.2 (44)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16362719-3", "question": "How few games are there for a rank more than 1 and more than 212 rebounds?", "sql": {"sel": 3, "conds": [[0, 1, 1], [4, 1, 212]], "agg": 2}}
+{"phase": 2, "table_id": "2-17622423-10", "question": "Who made the most assists in Game 2 of this season?", "sql": {"sel": 6, "conds": [[0, 0, 2]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-8", "question": "What was the away team when the score was 3:1?", "sql": {"sel": 3, "conds": [[2, 0, "3:1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-28", "question": "Name the Box Score which has an Away team of new zealand breakers on 7 february?", "sql": {"sel": 6, "conds": [[3, 0, "new zealand breakers"], [0, 0, "7 february"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-19", "question": "What is Away, when Home is \"marathon\"?", "sql": {"sel": 3, "conds": [[1, 0, "marathon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What was the away team when the home team was south melbourne?", "sql": {"sel": 2, "conds": [[0, 0, "south melbourne"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-4", "question": "Which venue has a status of Five Nations and an against of 22?", "sql": {"sel": 3, "conds": [[4, 0, "five nations"], [1, 0, 22]], "agg": 0}}
+{"phase": 2, "table_id": "2-17326036-7", "question": "What average game has January 30 as the date?", "sql": {"sel": 0, "conds": [[1, 0, "january 30"]], "agg": 5}}
+{"phase": 2, "table_id": "2-14055411-4", "question": "What team did the Chicago Black Hawks visit on April 20?", "sql": {"sel": 3, "conds": [[1, 0, "chicago black hawks"], [0, 0, "april 20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17383484-3", "question": "Who was the home team when Boston is the road team in game 4?", "sql": {"sel": 2, "conds": [[4, 0, "boston"], [0, 0, "game 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10809823-1", "question": "Tell me the home team score for essendon", "sql": {"sel": 1, "conds": [[0, 0, "essendon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17383484-3", "question": "What was the game when Houston was the home team and the result is 106-104?", "sql": {"sel": 0, "conds": [[2, 0, "houston"], [3, 0, "106-104"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22654073-13", "question": "How many games were there on May 1?", "sql": {"sel": 0, "conds": [[1, 0, "May 1"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22871316-11", "question": "Who has the high assists when 0-1 is the series?", "sql": {"sel": 6, "conds": [[8, 0, "0-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-11", "question": "What field did the Home Team score 5.10 (40)?", "sql": {"sel": 4, "conds": [[1, 0, "5.10 (40)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10746808-8", "question": "Where was the game played when the home team scored 17.7 (109)?", "sql": {"sel": 4, "conds": [[1, 0, "17.7 (109)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-3", "question": "What is the name of the Home team when the Away team scored 4.8 (32)?", "sql": {"sel": 0, "conds": [[3, 0, "4.8 (32)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18206835-14", "question": "Which Home Team is on june 12?", "sql": {"sel": 2, "conds": [[1, 0, "june 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964263-9", "question": "What is the record of the game on March 5?", "sql": {"sel": 5, "conds": [[0, 0, "march 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-3", "question": "What is the Away team score when they played Geelong as the Home team?", "sql": {"sel": 3, "conds": [[0, 0, "geelong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17311783-9", "question": "What was the record for game 59?", "sql": {"sel": 8, "conds": [[0, 0, 59]], "agg": 0}}
+{"phase": 2, "table_id": "2-12058560-1", "question": "Name the date for when the home/away is away and the opponent is bayhawks", "sql": {"sel": 0, "conds": [[2, 0, "away"], [1, 0, "bayhawks"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22654073-13", "question": "List all high rebound entries from May 11.", "sql": {"sel": 5, "conds": [[1, 0, "May 11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-3", "question": "What is the Time with a Score that is 65-19?", "sql": {"sel": 1, "conds": [[4, 0, "65-19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178551-4", "question": "What is the sum of Against, when Status is \"Six Nations\", and when Date is \"30/03/2003\"?", "sql": {"sel": 1, "conds": [[4, 0, "six nations"], [2, 0, "30/03/2003"]], "agg": 4}}
+{"phase": 2, "table_id": "2-12736926-2", "question": "Who is the home team of the game on December 21?", "sql": {"sel": 3, "conds": [[0, 0, "december 21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964263-8", "question": "Who was the leading scorer on February 9?", "sql": {"sel": 4, "conds": [[0, 0, "february 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16362719-3", "question": "How many games did team iurbentia bilbao have with rebounds higher than 212?", "sql": {"sel": 3, "conds": [[2, 0, "iurbentia bilbao"], [4, 1, 212]], "agg": 4}}
+{"phase": 2, "table_id": "2-15872814-8", "question": "Can you tell me the Score that has the High assists of rafer alston (8)?", "sql": {"sel": 3, "conds": [[6, 0, "rafer alston (8)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-7", "question": "What is Venue, when Date is \"14/12/1996\"?", "sql": {"sel": 3, "conds": [[2, 0, "14/12/1996"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10790397-10", "question": "Who was away team at the home game of south melbourne?", "sql": {"sel": 2, "conds": [[0, 0, "south melbourne"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18032720-9", "question": "What was the attendance at the Billericay Town home game?", "sql": {"sel": 4, "conds": [[1, 0, "billericay town"]], "agg": 0}}
+{"phase": 1, "table_id": "1-15780049-5", "question": "What game happened on December 19?", "sql": {"sel": 0, "conds": [[1, 0, "December 19"]], "agg": 1}}
+{"phase": 1, "table_id": "1-29181479-5", "question": "Lis the series for game 5.", "sql": {"sel": 8, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963601-10", "question": "What was the score for Game 3?", "sql": {"sel": 3, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-78", "question": "What is the Result of the Test match at the Edgbaston Venue on 5,6,7,8 June 1997?", "sql": {"sel": 4, "conds": [[0, 0, "5,6,7,8 june 1997"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17120059-4", "question": "What is the Game number on March 30?", "sql": {"sel": 0, "conds": [[1, 0, "march 30"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-6", "question": "Who was the leading scorer on the game played on February 25?", "sql": {"sel": 4, "conds": [[0, 0, "february 25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-9", "question": "What was the venue that featured the Melbourne Tigers as the away team?", "sql": {"sel": 4, "conds": [[3, 0, "melbourne tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963601-6", "question": "Who was the leading scorer in the game where the visiting team was the Pistons?", "sql": {"sel": 4, "conds": [[1, 0, "pistons"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15625088-2", "question": "What date has 6 as the tie no.?", "sql": {"sel": 4, "conds": [[0, 0, "6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-10", "question": "What is the score of the game where real espana was the home team?", "sql": {"sel": 2, "conds": [[1, 0, "real espana"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-3", "question": "Which season has the regionalliga s\u00fcd (iii) league?", "sql": {"sel": 0, "conds": [[1, 0, "regionalliga s\u00fcd (iii)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-19", "question": "What is the total number of Attendance(s), when Away is Real Juventud?", "sql": {"sel": 4, "conds": [[3, 0, "real juventud"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17026847-14", "question": "What was the total attendance for the 3:1 game?", "sql": {"sel": 4, "conds": [[2, 0, "3:1"]], "agg": 4}}
+{"phase": 2, "table_id": "2-17918213-3", "question": "What is the home with a 1-1 away in the 2004-05 season?", "sql": {"sel": 3, "conds": [[4, 0, "1-1"], [0, 0, "2004-05"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10809444-14", "question": "What is the home score with Away team score of 11.11 (77)?", "sql": {"sel": 1, "conds": [[3, 0, "11.11 (77)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-8", "question": "What is the Leading scorer with a Visitor of grizzlies, and with a Score with 114\u2013111?", "sql": {"sel": 4, "conds": [[1, 0, "grizzlies"], [2, 0, "114\u2013111"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15993717-7", "question": "What is the score of the team with the 14-9 record?", "sql": {"sel": 2, "conds": [[5, 0, "14-9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17190012-12", "question": "What was the Location and Attendance of Game 6?", "sql": {"sel": 7, "conds": [[0, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-18904831-6", "question": "Which Score has High points of douglas (15)?", "sql": {"sel": 3, "conds": [[4, 0, "douglas (15)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11739153-8", "question": "What is the decision when new jersey was away?", "sql": {"sel": 4, "conds": [[1, 0, "new jersey"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11772511-3", "question": "On October 24, who played at home when there was a decision of Ward?", "sql": {"sel": 3, "conds": [[4, 0, "ward"], [0, 0, "october 24"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-5", "question": "What was the name of the host team at Texas stadium?", "sql": {"sel": 3, "conds": [[4, 0, "texas stadium"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286112-12", "question": "Who had the highest rebounds in game 2?", "sql": {"sel": 5, "conds": [[0, 0, 2]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-11", "question": "What field did the Home Team score 5.10 (40)?", "sql": {"sel": 4, "conds": [[1, 0, "5.10 (40)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13557843-3", "question": "What was the score of the game when the team was 1-2?", "sql": {"sel": 3, "conds": [[8, 0, "1-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18336411-4", "question": "What is Date, when Record is \"1-1\"?", "sql": {"sel": 0, "conds": [[4, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-5", "question": "What is the home team score when the away team was fitzroy?", "sql": {"sel": 1, "conds": [[2, 0, "fitzroy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15625088-3", "question": "Which Score has a Away team of walthamstow avenue?", "sql": {"sel": 2, "conds": [[3, 0, "walthamstow avenue"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18657589-6", "question": "Which tie number had an away team of Arsenal?", "sql": {"sel": 0, "conds": [[3, 0, "arsenal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-20", "question": "Name the date with visiting team of philadelphia eagles", "sql": {"sel": 0, "conds": [[1, 0, "philadelphia eagles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-9", "question": "What is the Away captain with a Venue that is old trafford?", "sql": {"sel": 2, "conds": [[3, 0, "old trafford"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17288869-7", "question": "Which Record has a Score of l 97\u201399 (ot)?", "sql": {"sel": 8, "conds": [[3, 0, "l 97\u201399 (ot)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13619027-12", "question": "On what date was the game more than 5?", "sql": {"sel": 1, "conds": [[0, 1, 5]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388478-4", "question": "Who was the home team when the away team is Carlton?", "sql": {"sel": 0, "conds": [[2, 0, "Carlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-7", "question": "What is the record of the game with Andrew Bogut (21) as the leading scorer?", "sql": {"sel": 5, "conds": [[4, 0, "andrew bogut (21)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-30087032-5", "question": "How many different high points results are there for the game on May 15?", "sql": {"sel": 4, "conds": [[1, 0, "May 15"]], "agg": 3}}
+{"phase": 2, "table_id": "2-16653153-10", "question": "What is the report for Challenge Stadium?", "sql": {"sel": 7, "conds": [[4, 0, "challenge stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-4", "question": "What is the league for season 1955-56?", "sql": {"sel": 1, "conds": [[0, 0, "1955-56"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964379-7", "question": "What's the score in the home game against the Charlotte Bobcats?", "sql": {"sel": 2, "conds": [[1, 0, "charlotte bobcats"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-13", "question": "Where was a game played on 23,24,25,26 july 1992?", "sql": {"sel": 3, "conds": [[0, 0, "23,24,25,26 july 1992"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-13", "question": "What home has 1-5 as the away?", "sql": {"sel": 3, "conds": [[4, 0, "1-5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-10", "question": "Who has the Home Score of 52-54?", "sql": {"sel": 2, "conds": [[4, 0, "52-54"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18206835-14", "question": "Which Date has Result of 86-87?", "sql": {"sel": 1, "conds": [[3, 0, "86-87"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10869646-14", "question": "Who played the home team at Windy Hill?", "sql": {"sel": 0, "conds": [[4, 0, "windy hill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-10", "question": "What is the largest Against with an Opposing Teams of wales?", "sql": {"sel": 1, "conds": [[0, 0, "wales"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13619135-4", "question": "What team has a Score of l 88\u201394 (ot)?", "sql": {"sel": 2, "conds": [[3, 0, "l 88\u201394 (ot)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-7", "question": "What is Status, when Opposing Teams is \"Scotland\"?", "sql": {"sel": 4, "conds": [[0, 0, "scotland"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-6", "question": "Which venues resulted in a draw?", "sql": {"sel": 3, "conds": [[4, 0, "draw"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388545-1", "question": "Which location had an attendance of 22537?", "sql": {"sel": 4, "conds": [[5, 0, 22537]], "agg": 0}}
+{"phase": 2, "table_id": "2-16050349-8", "question": "How many games does novica veli\u010dkovi\u0107 have when there's more than 24 rebounds?", "sql": {"sel": 3, "conds": [[1, 0, "novica veli\u010dkovi\u0107"], [4, 1, 24]], "agg": 3}}
+{"phase": 2, "table_id": "2-1403349-5", "question": "Road Team of utah jazz, and a Result of 81-83 (3-2) involved what game?", "sql": {"sel": 0, "conds": [[4, 0, "utah jazz"], [3, 0, "81-83 (3-2)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17622423-11", "question": "What team did they play when the series was 1-1?", "sql": {"sel": 2, "conds": [[8, 0, "1-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-6", "question": "What dates had matches at the venue Sabina Park?", "sql": {"sel": 0, "conds": [[3, 0, "sabina park"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14083524-6", "question": "Where was the home team in the game played against Chicago?", "sql": {"sel": 3, "conds": [[1, 0, "chicago"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17164298-4", "question": "What is the Home Team on April 13 with a Road Team of St. Louis?", "sql": {"sel": 2, "conds": [[4, 0, "st. louis"], [1, 0, "april 13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-9", "question": "Name the leading scorer for 1 april 2008", "sql": {"sel": 4, "conds": [[0, 0, "1 april 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-2", "question": "On what day was the game that ended in a score of 97-38?", "sql": {"sel": 0, "conds": [[4, 0, "97-38"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13218650-7", "question": "What is the date of the match when Detroit is the home team and Colorado is the visiting team?", "sql": {"sel": 0, "conds": [[3, 0, "detroit"], [1, 0, "colorado"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19789597-5", "question": "Name the total number of date for  l 63-77", "sql": {"sel": 1, "conds": [[3, 0, "L 63-77"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17323042-5", "question": "What is Record, when High Points is \"Thaddeus Young (19)\", and when Team is \"@ Orlando\"?", "sql": {"sel": 7, "conds": [[4, 0, "thaddeus young (19)"], [2, 0, "@ orlando"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-2", "question": "On what grounds did the away team of the Toronto Rebels play?", "sql": {"sel": 5, "conds": [[3, 0, "toronto rebels"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10790804-15", "question": "Which team plays at Lake Oval?", "sql": {"sel": 0, "conds": [[4, 0, "lake oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17371135-8", "question": "Which Home has a Visitor of nashville?", "sql": {"sel": 3, "conds": [[1, 0, "nashville"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17620547-6", "question": "What was the date when the away team was carlisle united?", "sql": {"sel": 4, "conds": [[3, 0, "carlisle united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751846-6", "question": "What is the Date of Tie no 3?", "sql": {"sel": 4, "conds": [[0, 0, "3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-13", "question": "Who was the away team for the Etobicoke Kangaroos home game?", "sql": {"sel": 3, "conds": [[2, 0, "etobicoke kangaroos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-12", "question": "Where was the game held where the away team had a score of 2.2 (14)?", "sql": {"sel": 4, "conds": [[3, 0, "2.2 (14)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-15", "question": "What season has a league 3rd liga, and away of 1-0?", "sql": {"sel": 0, "conds": [[1, 0, "3rd liga"], [4, 0, "1-0"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21350934-2", "question": "Who is the opponent when the attendance is n/a?", "sql": {"sel": 2, "conds": [[7, 0, "N/A"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17102115-3", "question": "Which Road Team has a Home Team of rochester, and a Result of 89-92?", "sql": {"sel": 4, "conds": [[2, 0, "rochester"], [3, 0, "89-92"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-10", "question": "What is the location when the high rebounds was from A. Horford (13)?", "sql": {"sel": 7, "conds": [[5, 0, "A. Horford (13)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17308750-3", "question": "What is the Date of the game with a Record of 2-3?", "sql": {"sel": 0, "conds": [[4, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13761074-11", "question": "Who was the visitor on March 27?", "sql": {"sel": 1, "conds": [[0, 0, "march 27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17063996-4", "question": "Which Home Team has a Game of game 1?", "sql": {"sel": 2, "conds": [[0, 0, "game 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-7", "question": "What season has an away 2-0?", "sql": {"sel": 0, "conds": [[4, 0, "2-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-44", "question": "Which result has adelaide oval as the venue?", "sql": {"sel": 4, "conds": [[3, 0, "adelaide oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18711843-5", "question": "What's the score when the Wolverhampton Wanderers played at home?", "sql": {"sel": 2, "conds": [[1, 0, "wolverhampton wanderers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-15", "question": "What is the date of the game where Geelong was the away team?", "sql": {"sel": 5, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17288845-8", "question": "Name the record for verizon center 20,173", "sql": {"sel": 8, "conds": [[7, 0, "Verizon Center 20,173"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-14", "question": "Who was the host team at the game at the Cleveland Browns Stadium?", "sql": {"sel": 3, "conds": [[4, 0, "cleveland browns stadium"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-18", "question": "Name the number of time for uab", "sql": {"sel": 1, "conds": [[2, 0, "UAB"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1204658-17", "question": "At what venue did the Essendon team play as an away team?", "sql": {"sel": 4, "conds": [[2, 0, "essendon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-7", "question": "who is the away team when played at junction oval?", "sql": {"sel": 2, "conds": [[4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-10", "question": "What team was the away team for the game with 916 in attendance?", "sql": {"sel": 3, "conds": [[4, 0, 916]], "agg": 0}}
+{"phase": 1, "table_id": "1-16387653-1", "question": "What was the home team score against Collingwood?", "sql": {"sel": 1, "conds": [[2, 0, "Collingwood"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-5", "question": "Who was the visiting team that played against the Kings?", "sql": {"sel": 1, "conds": [[3, 0, "kings"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-14", "question": "What was the final score when the Buffalo Bills were the visiting team?", "sql": {"sel": 2, "conds": [[1, 0, "buffalo bills"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18116723-1", "question": "What field had results of w 18-12?", "sql": {"sel": 3, "conds": [[4, 0, "w 18-12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17470908-1", "question": "Who is the away captain for the matches dated 7,8,10,11 feb 1908?", "sql": {"sel": 2, "conds": [[0, 0, "7,8,10,11 feb 1908"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-1", "question": "When the game was played at the EMCG venue, who was the away team?", "sql": {"sel": 2, "conds": [[4, 0, "emcg"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16387653-1", "question": "What did the home team score against Richmond?", "sql": {"sel": 1, "conds": [[2, 0, "Richmond"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964263-8", "question": "On February 26, who was the leading scorer?", "sql": {"sel": 4, "conds": [[0, 0, "february 26"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-75", "question": "On what dates did the draw at the Antigua Recreation Ground happen?", "sql": {"sel": 0, "conds": [[4, 0, "draw"], [3, 0, "antigua recreation ground"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10747009-16", "question": "On what day is geelong the home team?", "sql": {"sel": 6, "conds": [[0, 0, "geelong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-15", "question": "What was the box score during a home game of the Adelaide 36ers?", "sql": {"sel": 5, "conds": [[1, 0, "adelaide 36ers"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-10", "question": "Name the time for #1 alabama", "sql": {"sel": 1, "conds": [[2, 0, "#1 Alabama"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-3", "question": "What is the Away team score when they played Geelong as the Home team?", "sql": {"sel": 3, "conds": [[0, 0, "geelong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-8", "question": "What is the Date with a Score with 86\u2013108?", "sql": {"sel": 0, "conds": [[2, 0, "86\u2013108"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-21", "question": "What was the away team for the New Zealand breakers?", "sql": {"sel": 6, "conds": [[3, 0, "new zealand breakers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11965402-6", "question": "How many were in attendance at the game where the visiting team was the Jazz?", "sql": {"sel": 5, "conds": [[1, 0, "jazz"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11961849-11", "question": "Name the score for howard (8) high rebounds", "sql": {"sel": 3, "conds": [[5, 0, "howard (8)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13619135-4", "question": "What team has a high score with tracy mcgrady (24)?", "sql": {"sel": 2, "conds": [[4, 0, "tracy mcgrady (24)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-15", "question": "Which Host Team has Final Score of 42-23?", "sql": {"sel": 3, "conds": [[2, 0, "42-23"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-78", "question": "What is the Date of the Test match of Australia in England at The Oval Venue?", "sql": {"sel": 0, "conds": [[3, 0, "the oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-17", "question": "What was the final score of the game on November 24 with the visiting team the Indianapolis Colts?", "sql": {"sel": 2, "conds": [[1, 0, "indianapolis colts"], [0, 0, "november 24"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23284271-11", "question": "Name the date for  l 89\u201392 (ot)", "sql": {"sel": 1, "conds": [[3, 0, "L 89\u201392 (OT)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178551-10", "question": "What is the opposing team with 11 against?", "sql": {"sel": 0, "conds": [[1, 0, 11]], "agg": 0}}
+{"phase": 1, "table_id": "1-29181479-5", "question": "Lis the series for game 5.", "sql": {"sel": 8, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-18336411-3", "question": "What is the home team of the game with a 2-0 record?", "sql": {"sel": 3, "conds": [[4, 0, "2-0"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-8", "question": "Who was the home team where Trail Blazers were the visitor?", "sql": {"sel": 3, "conds": [[1, 0, "trail blazers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16140345-5", "question": "WHich Home is on 14 december 2002?", "sql": {"sel": 3, "conds": [[0, 0, "14 december 2002"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18569929-2", "question": "Who was the home team that has a tie no of 1?", "sql": {"sel": 1, "conds": [[0, 0, "1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-1", "question": "When the game was played at the EMCG venue, who was the away team?", "sql": {"sel": 2, "conds": [[4, 0, "emcg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-7", "question": "Which team had a league of regionalliga s\u00fcd?", "sql": {"sel": 2, "conds": [[1, 0, "regionalliga s\u00fcd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13908182-2", "question": "On what date was the record 4\u20130\u20130?", "sql": {"sel": 0, "conds": [[6, 0, "4\u20130\u20130"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11960944-7", "question": "How many high points were there in the game 67?", "sql": {"sel": 4, "conds": [[0, 0, 67]], "agg": 3}}
+{"phase": 2, "table_id": "2-16993234-5", "question": "Which Season has an Away of 1\u20132?", "sql": {"sel": 0, "conds": [[4, 0, "1\u20132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-6", "question": "Who was the visiting team on November 10?", "sql": {"sel": 1, "conds": [[0, 0, "november 10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-2", "question": "Who was the visiting team who played at the hubert h. humphrey metrodome stadium?", "sql": {"sel": 1, "conds": [[4, 0, "hubert h. humphrey metrodome"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14209289-7", "question": "Who was the visitor in the game that led to a 39-20-6 record?", "sql": {"sel": 1, "conds": [[4, 0, "39-20-6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-52", "question": "Tell me the venue with result of eng by 6 wkts", "sql": {"sel": 3, "conds": [[4, 0, "eng by 6 wkts"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-12", "question": "What home team scored 102-87?", "sql": {"sel": 1, "conds": [[2, 0, "102-87"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-5", "question": "Which Attendance has a Tie # of 15?", "sql": {"sel": 4, "conds": [[0, 0, "15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17164298-4", "question": "What is the Date of Game 5 with Road Team St. Louis?", "sql": {"sel": 1, "conds": [[4, 0, "st. louis"], [0, 0, "game 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963601-9", "question": "Who was the home team at the game played on April 14, 2008?", "sql": {"sel": 3, "conds": [[0, 0, "april 14, 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17438349-3", "question": "Which away team has a tie number of 14?", "sql": {"sel": 3, "conds": [[0, 0, "14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18204560-2", "question": "What is the lowest against score for Twickenham, London with the status of Five Nations against Ireland?", "sql": {"sel": 1, "conds": [[3, 0, "twickenham, london"], [4, 0, "five nations"], [0, 0, "ireland"]], "agg": 2}}
+{"phase": 2, "table_id": "2-16050349-2", "question": "What is the highest Games, when Rebounds is greater than 100, when Name is Nikola Pekovi\u0107, and when Rank is less than 4?", "sql": {"sel": 3, "conds": [[4, 1, 100], [1, 0, "nikola pekovi\u0107"], [0, 2, 4]], "agg": 1}}
+{"phase": 2, "table_id": "2-1204658-7", "question": "who is the away team when played at junction oval?", "sql": {"sel": 2, "conds": [[4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16351829-3", "question": "What was the attendance for Arsenal?", "sql": {"sel": 4, "conds": [[1, 0, "arsenal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751859-5", "question": "What is the away team with a 4 tie no.?", "sql": {"sel": 3, "conds": [[0, 0, "4"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18904831-6", "question": "When w 73-70 is the score what is the location?", "sql": {"sel": 7, "conds": [[3, 0, "W 73-70"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-6", "question": "What Home team has an away score of 6.6 (42)?", "sql": {"sel": 1, "conds": [[3, 0, "6.6 (42)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14677944-3", "question": "What is the name of the Leading scorer when the Score was 89\u2013102?", "sql": {"sel": 4, "conds": [[2, 0, "89\u2013102"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17311797-14", "question": "What is the highest Game, when High Assists is \"Hedo T\u00fcrko\u011flu (7)\"?", "sql": {"sel": 0, "conds": [[6, 0, "hedo t\u00fcrko\u011flu (7)"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1204658-18", "question": "What was the venue when the home team was Fitzroy?", "sql": {"sel": 4, "conds": [[0, 0, "fitzroy"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11960196-3", "question": "How many high points were at the wachovia center 18,347?", "sql": {"sel": 4, "conds": [[7, 0, "Wachovia Center 18,347"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1204658-15", "question": "What is the home team of the game where Geelong was the away team?", "sql": {"sel": 0, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18904831-5", "question": "Who did the most high rebounds in the game where Sales (17) did the high points?", "sql": {"sel": 5, "conds": [[4, 0, "Sales (17)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13218650-4", "question": "Score of 2 \u2013 3 has what attendance?", "sql": {"sel": 5, "conds": [[2, 0, "2 \u2013 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12962079-5", "question": "What Home team had an Attendance of 2,776?", "sql": {"sel": 1, "conds": [[4, 0, "2,776"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388478-4", "question": "When was the away team geelong?", "sql": {"sel": 6, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27756474-2", "question": "Which game did rudy gay (12) have the highest points?", "sql": {"sel": 0, "conds": [[4, 0, "Rudy Gay (12)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-5", "question": "What is Home, when Score is 103-93?", "sql": {"sel": 3, "conds": [[2, 0, "103-93"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19778010-5", "question": "Who did the high rebounds in the game in which five players (3) did the high assists?", "sql": {"sel": 5, "conds": [[6, 0, "Five Players (3)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17288845-5", "question": "What is the record when George Hill (11) had the high rebounds?", "sql": {"sel": 7, "conds": [[5, 0, "george hill (11)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18657589-3", "question": "Who was the away team on 10 January 1979 who had a tie no of 17?", "sql": {"sel": 3, "conds": [[4, 0, "10 january 1979"], [0, 0, "17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-7", "question": "What is the home team of the game where the Grizzlies were the visitor team and Rudy Gay (21) was the leading scorer?", "sql": {"sel": 3, "conds": [[1, 0, "grizzlies"], [4, 0, "rudy gay (21)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23248940-8", "question": "Who tied for the highest rebounds during the game against Orlando?", "sql": {"sel": 5, "conds": [[2, 0, "Orlando"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751837-1", "question": "Scunthorpe United as the home team has what tie number?", "sql": {"sel": 0, "conds": [[1, 0, "scunthorpe united"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11960196-3", "question": "How many high points were at the wachovia center 18,347?", "sql": {"sel": 4, "conds": [[7, 0, "Wachovia Center 18,347"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11963209-4", "question": "Who is the leading scorer of the game on 20 November 2007?", "sql": {"sel": 4, "conds": [[0, 0, "20 november 2007"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28298589-4", "question": "In what facility was Pittsburgh's home game played?", "sql": {"sel": 4, "conds": [[3, 0, "Pittsburgh"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18904831-6", "question": "When dydek (8) has the highest rebounds who has the highest amount of points?", "sql": {"sel": 4, "conds": [[5, 0, "Dydek (8)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17063036-4", "question": "Which home team is on April 21?", "sql": {"sel": 2, "conds": [[1, 0, "april 21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-5", "question": "Tell me the host team for giants stadium and visiting of cincinnati bengals", "sql": {"sel": 3, "conds": [[4, 0, "giants stadium"], [1, 0, "cincinnati bengals"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18904831-7", "question": "Who had the most rebounds in the game at the Mohegan Sun Arena that led to a 24-7 record?", "sql": {"sel": 5, "conds": [[7, 0, "mohegan sun arena"], [8, 0, "24-7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17288845-11", "question": "What was the game on April 25?", "sql": {"sel": 0, "conds": [[1, 0, "april 25"]], "agg": 2}}
+{"phase": 2, "table_id": "2-12410929-87", "question": "Who was the home captain at Sabina Park?", "sql": {"sel": 1, "conds": [[3, 0, "sabina park"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286158-11", "question": "What was the series where the game was 5?", "sql": {"sel": 8, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-17311812-8", "question": "What is the lowest game on February 10?", "sql": {"sel": 0, "conds": [[1, 0, "february 10"]], "agg": 2}}
+{"phase": 2, "table_id": "2-15764352-13", "question": "What was the score of the Broadview Hawks home game?", "sql": {"sel": 4, "conds": [[2, 0, "broadview hawks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10887379-20", "question": "What is the home team's score when st kilda is away?", "sql": {"sel": 1, "conds": [[2, 0, "st kilda"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17323640-3", "question": "Who was the home team in the game that led to a 2-3 series record?", "sql": {"sel": 3, "conds": [[4, 0, "2-3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27734577-13", "question": "What team was the opponent when josh smith (8) had the high assists?", "sql": {"sel": 2, "conds": [[6, 0, "Josh Smith (8)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22654073-13", "question": "List all high assists in series 2-3.", "sql": {"sel": 6, "conds": [[8, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11945691-7", "question": "Who was the home team on March 24?", "sql": {"sel": 3, "conds": [[0, 0, "march 24"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-16", "question": "What is the date for the game where Platense was the home side?", "sql": {"sel": 0, "conds": [[1, 0, "platense"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-4", "question": "What were the results of the  tennessee tech as a visiting team?", "sql": {"sel": 6, "conds": [[2, 0, "Tennessee Tech"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-8", "question": "who is the away team on 21 september?", "sql": {"sel": 3, "conds": [[0, 0, "21 september"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17137055-2", "question": "What is the Record of the Chicago Black Hawks Home game with the New York Rangers and a Score of 3\u20132?", "sql": {"sel": 4, "conds": [[3, 0, "chicago black hawks"], [1, 0, "new york rangers"], [2, 0, "3\u20132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10809823-15", "question": "In the game against home team Fitzroy, what did the away team score?", "sql": {"sel": 3, "conds": [[0, 0, "fitzroy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751797-2", "question": "What date was the game when away team northampton town played?", "sql": {"sel": 4, "conds": [[3, 0, "northampton town"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17470908-1", "question": "Who is the home captain at the Adelaide Oval?", "sql": {"sel": 1, "conds": [[3, 0, "adelaide oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18904831-6", "question": "Which Record has a Location of madison square garden?", "sql": {"sel": 8, "conds": [[7, 0, "madison square garden"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14036681-2", "question": "What was the oilers record on October 20?", "sql": {"sel": 4, "conds": [[0, 0, "october 20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What is the home team score when the away team score was 6.13 (49)?", "sql": {"sel": 1, "conds": [[3, 0, "6.13 (49)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-10", "question": "What is the total against on 15/10/1999?", "sql": {"sel": 1, "conds": [[2, 0, "15/10/1999"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10826385-20", "question": "Which Away team has an Away team score of 13.22 (100)?", "sql": {"sel": 2, "conds": [[3, 0, "13.22 (100)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-9", "question": "What home score has an Away team of fitzroy?", "sql": {"sel": 1, "conds": [[2, 0, "fitzroy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11766617-7", "question": "What was the date of the 24\u201327\u20136 Lightning home game against Tampa Bay that had a decision of Ramo?", "sql": {"sel": 0, "conds": [[3, 0, "tampa bay"], [4, 0, "ramo"], [6, 0, "24\u201327\u20136"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-16", "question": "On what date was the game with fewer than 6650 in attendance, that finished 0:1?", "sql": {"sel": 0, "conds": [[4, 2, 6650], [2, 0, "0:1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12166669-1", "question": "What days were games played at Hofstra Stadium?", "sql": {"sel": 0, "conds": [[3, 0, "hofstra stadium"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14828476-4", "question": "Which game had a result of 126-95?", "sql": {"sel": 0, "conds": [[3, 0, "126-95"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286112-12", "question": "Who had the highest rebounds in game 2?", "sql": {"sel": 5, "conds": [[0, 0, 2]], "agg": 0}}
+{"phase": 2, "table_id": "2-18054397-4", "question": "What is Score, when Away Team is \"Thame United\"?", "sql": {"sel": 2, "conds": [[3, 0, "thame united"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-100", "question": "Who is the away captain for Kingsmead?", "sql": {"sel": 2, "conds": [[3, 0, "kingsmead"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-17", "question": "What venue had a draw?", "sql": {"sel": 3, "conds": [[4, 0, "draw"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18726561-5", "question": "What was the score of the tie with an away team of Stoke City?", "sql": {"sel": 2, "conds": [[3, 0, "stoke city"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17494040-9", "question": "What was the Tie no when the Home team was wealdstone?", "sql": {"sel": 0, "conds": [[1, 0, "wealdstone"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17511295-9", "question": "What was the flyers' record when the visitors were florida?", "sql": {"sel": 6, "conds": [[1, 0, "florida"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18179114-8", "question": "What status has 15/04/1967 as the date?", "sql": {"sel": 4, "conds": [[2, 0, "15/04/1967"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10887379-15", "question": "When the Away team is footscray, what is the Home team playing?", "sql": {"sel": 0, "conds": [[2, 0, "footscray"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-4", "question": "What was the home team with the away team of rushden & diamonds?", "sql": {"sel": 1, "conds": [[3, 0, "rushden & diamonds"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27756014-6", "question": "What date was game number 22 on?", "sql": {"sel": 1, "conds": [[0, 0, 22]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-7", "question": "What is the visitor team of the game with Rudy Gay (23) as the leading scorer?", "sql": {"sel": 1, "conds": [[4, 0, "rudy gay (23)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15993717-7", "question": "What date was Leo Mainoldi (24) the leading scorer?", "sql": {"sel": 0, "conds": [[4, 0, "leo mainoldi (24)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11290838-3", "question": "Tell me the score on april 27 with visitor of buffalo", "sql": {"sel": 2, "conds": [[1, 0, "buffalo"], [0, 0, "april 27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17120059-4", "question": "On what Date is Game 3 with Boston Road Team?", "sql": {"sel": 1, "conds": [[4, 0, "boston"], [0, 0, "game 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388478-2", "question": "What is the average Crowd for Away team with a score of 17.14 (116)?", "sql": {"sel": 5, "conds": [[3, 0, "17.14 (116)"]], "agg": 5}}
+{"phase": 2, "table_id": "2-16653153-20", "question": "What's the report about townsville crocodiles as an away team?", "sql": {"sel": 7, "conds": [[3, 0, "townsville crocodiles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10767118-6", "question": "What is the venue for the game on 1 June 1929 where Richmond was the away team?", "sql": {"sel": 4, "conds": [[6, 0, "1 june 1929"], [2, 0, "richmond"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-2", "question": "Name the away team score for lake oval", "sql": {"sel": 3, "conds": [[4, 0, "lake oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-17", "question": "At what venue did the Essendon team play as an away team?", "sql": {"sel": 4, "conds": [[2, 0, "essendon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751846-4", "question": "What date was the game when home team crystal palace played?", "sql": {"sel": 4, "conds": [[1, 0, "crystal palace"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-2", "question": "Playing in the Bundesliga league, what was the Away record for the team with an At Home record of 1-2?", "sql": {"sel": 4, "conds": [[3, 0, "1-2"], [1, 0, "bundesliga"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-7", "question": "What is the average attendance for matches where the home team was vida?", "sql": {"sel": 4, "conds": [[1, 0, "vida"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18027278-5", "question": "What is Road Team, when Result is \"74-71\"?", "sql": {"sel": 4, "conds": [[3, 0, "74-71"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14159731-3", "question": "What was the score in the game where Carolina was the home team and Niittymaki received the decision?", "sql": {"sel": 2, "conds": [[4, 0, "niittymaki"], [3, 0, "carolina"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27700530-15", "question": "What was the series record at after game 3?", "sql": {"sel": 8, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178924-4", "question": "Which Venue has Against of 25?", "sql": {"sel": 3, "conds": [[1, 0, 25]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-4", "question": "What were the results in the bryant-denny stadium \u2022 tuscaloosa, al?", "sql": {"sel": 6, "conds": [[4, 0, "Bryant-Denny Stadium \u2022 Tuscaloosa, AL"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10746808-4", "question": "What was the home team when the away team scored 7.16 (58)?", "sql": {"sel": 0, "conds": [[3, 0, "7.16 (58)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-35", "question": "When did a Venue of Antigua Recreation Ground happen?", "sql": {"sel": 0, "conds": [[3, 0, "antigua recreation ground"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13619135-7", "question": "What was the score on March 5 at Vancouver?", "sql": {"sel": 3, "conds": [[1, 0, "march 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14828485-4", "question": "What is the result of game 5 with Los Angeles as the home team?", "sql": {"sel": 3, "conds": [[2, 0, "los angeles"], [0, 0, "game 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-17", "question": "Who was the visiting team that played on September 15?", "sql": {"sel": 1, "conds": [[0, 0, "september 15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-4", "question": "What was the score of the game played on December 8?", "sql": {"sel": 3, "conds": [[1, 0, "December 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16222274-5", "question": "What was the tie number of the game when the queens park rangers were the home team?", "sql": {"sel": 0, "conds": [[1, 0, "queens park rangers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11960610-9", "question": "What was the score on February 9?", "sql": {"sel": 3, "conds": [[1, 0, "february 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18726561-4", "question": "what is the date when the tie no is 9?", "sql": {"sel": 4, "conds": [[0, 0, "9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-7", "question": "What is the average Against, when Status is \"Five Nations\", and when Date is \"16/03/1996\"?", "sql": {"sel": 1, "conds": [[4, 0, "five nations"], [2, 0, "16/03/1996"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17918213-5", "question": "WHAT IS THE AWAY WITH HOME AT 2-2?", "sql": {"sel": 4, "conds": [[3, 0, "2-2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16387700-1", "question": "Which Home team has a score of 12.10 (82)?", "sql": {"sel": 0, "conds": [[1, 0, "12.10 (82)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-19", "question": "What is the report corresponding to the game that had the Townsville Crocodiles as home team?", "sql": {"sel": 6, "conds": [[1, 0, "townsville crocodiles"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13813368-3", "question": "On what date was Game 3?", "sql": {"sel": 1, "conds": [[0, 0, "game 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17438338-1", "question": "Who was the away team when bournemouth was the home team?", "sql": {"sel": 3, "conds": [[1, 0, "bournemouth"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-12", "question": "What time has humber college north as the ground, and toronto downtown dingos as the home?", "sql": {"sel": 1, "conds": [[5, 0, "humber college north"], [2, 0, "toronto downtown dingos"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963536-8", "question": "How many people attended the game on 8 March 2008?", "sql": {"sel": 5, "conds": [[0, 0, "8 march 2008"]], "agg": 4}}
+{"phase": 2, "table_id": "2-10766119-10", "question": "What was the attendance when Collingwood was the away team?", "sql": {"sel": 5, "conds": [[2, 0, "collingwood"]], "agg": 2}}
+{"phase": 2, "table_id": "2-10788451-18", "question": "How many spectators were at the away game where the score was 9.6 (60)?", "sql": {"sel": 5, "conds": [[3, 0, "9.6 (60)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19778010-5", "question": "On how many different dates was a game against Houston played?", "sql": {"sel": 1, "conds": [[2, 0, "Houston"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13759275-5", "question": "What score has devin brown (24) as the leading scorer?", "sql": {"sel": 2, "conds": [[4, 0, "devin brown (24)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13242342-4", "question": "What is the record for game where Columbus is visitor, Phoenix is home, and decision is made by Denis?", "sql": {"sel": 6, "conds": [[1, 0, "columbus"], [4, 0, "denis"], [3, 0, "phoenix"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-13", "question": "What is the venue where the melbourne tigers play their home games?", "sql": {"sel": 4, "conds": [[1, 0, "melbourne tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12019734-7", "question": "What is the home team of the game on February 3?", "sql": {"sel": 3, "conds": [[0, 0, "february 3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-13", "question": "What away has 1-4 as the home?", "sql": {"sel": 4, "conds": [[3, 0, "1-4"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23248940-7", "question": "Name the record for december 8", "sql": {"sel": 8, "conds": [[1, 0, "December 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-17", "question": "Who was the home team for the game played at Junction Oval?", "sql": {"sel": 0, "conds": [[4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10808346-1", "question": "Where was the game played where the home team scored 14.12 (96)?", "sql": {"sel": 4, "conds": [[1, 0, "14.12 (96)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17494040-8", "question": "What is the average attendance of the match with arlesey town as the home team?", "sql": {"sel": 4, "conds": [[1, 0, "arlesey town"]], "agg": 5}}
+{"phase": 2, "table_id": "2-16312746-1", "question": "Who was the home team in the match with an away team of Millwall?", "sql": {"sel": 1, "conds": [[3, 0, "millwall"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-1", "question": "Which home team plays in the Corio Oval venue?", "sql": {"sel": 0, "conds": [[4, 0, "corio oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-23", "question": "What is the home team which plays at a venue called Win Entertainment Centre?", "sql": {"sel": 1, "conds": [[4, 0, "win entertainment centre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208948-7", "question": "What was the score of the game with a record of 37\u201326\u20139?", "sql": {"sel": 2, "conds": [[4, 0, "37\u201326\u20139"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27712180-13", "question": "What was the name of the opposing team on the May 6 game?", "sql": {"sel": 2, "conds": [[1, 0, "May 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-5", "question": "What Date had a Result of draw, and a Venue of lord's?", "sql": {"sel": 0, "conds": [[4, 0, "draw"], [3, 0, "lord's"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What away team had a score of 7.9 (51)?", "sql": {"sel": 2, "conds": [[3, 0, "7.9 (51)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-7", "question": "what is the date when the venue is junction oval?", "sql": {"sel": 5, "conds": [[4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13813368-3", "question": "On what date was Portland on the road for Game 2?", "sql": {"sel": 1, "conds": [[4, 0, "portland"], [0, 0, "game 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208941-6", "question": "Name the score for detroit home and record of 33-18-9", "sql": {"sel": 2, "conds": [[3, 0, "detroit"], [4, 0, "33-18-9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13907579-3", "question": "Which Record has a Home of Montreal Canadiens and a Date of April 22?", "sql": {"sel": 4, "conds": [[3, 0, "montreal canadiens"], [0, 0, "april 22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963447-4", "question": "What is the date of the game when the Mavericks were the home team?", "sql": {"sel": 0, "conds": [[3, 0, "mavericks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178608-5", "question": "Which venue has more than 9 against and a status of second test?", "sql": {"sel": 3, "conds": [[1, 1, 9], [4, 0, "second test"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12101799-1", "question": "What is the result of the game at Bishop Kearney Field on August 2?", "sql": {"sel": 4, "conds": [[3, 0, "bishop kearney field"], [0, 0, "august 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11801912-6", "question": "Which attendance has the 25\u201317\u20135 record?", "sql": {"sel": 5, "conds": [[6, 0, "25\u201317\u20135"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-18", "question": "What was the venue when the home team was Fitzroy?", "sql": {"sel": 4, "conds": [[0, 0, "fitzroy"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23284271-11", "question": "Name the date for  l 89\u201392 (ot)", "sql": {"sel": 1, "conds": [[3, 0, "L 89\u201392 (OT)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13761074-11", "question": "What was the record on March 14?", "sql": {"sel": 6, "conds": [[0, 0, "march 14"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23274514-5", "question": "Name the high rebounds for record 10-19", "sql": {"sel": 5, "conds": [[8, 0, "10-19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What is the home team score when the away team score was 6.13 (49)?", "sql": {"sel": 1, "conds": [[3, 0, "6.13 (49)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-15", "question": "What is the date of the game where Geelong was the away team?", "sql": {"sel": 5, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963601-10", "question": "What was the score for Game 3?", "sql": {"sel": 3, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-13535631-7", "question": "Which team has 48 rebounds?", "sql": {"sel": 2, "conds": [[4, 0, 48]], "agg": 0}}
+{"phase": 2, "table_id": "2-13761074-10", "question": "How many people attended the game when Larry Hughes(33) was the leading scorer and cleveland was visiting?", "sql": {"sel": 5, "conds": [[1, 0, "cleveland"], [4, 0, "larry hughes(33)"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18178534-10", "question": "What status is on 21/08/1999?", "sql": {"sel": 4, "conds": [[2, 0, "21/08/1999"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11647944-3", "question": "What was the attendance for the game that has a tie number of 13?", "sql": {"sel": 4, "conds": [[0, 0, "13"]], "agg": 4}}
+{"phase": 1, "table_id": "1-22883210-11", "question": "When 0-1 is the series who has the highest amount of assists?", "sql": {"sel": 6, "conds": [[8, 0, "0-1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18336411-2", "question": "On what date was the score 6\u20134?", "sql": {"sel": 0, "conds": [[2, 0, "6\u20134"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-12", "question": "Who was the home team in the game broadcast on the Big East Network? ", "sql": {"sel": 3, "conds": [[5, 0, "Big East Network"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11902440-6", "question": "Name the score when the home is ny islanders and the visitor is montreal", "sql": {"sel": 2, "conds": [[3, 0, "ny islanders"], [1, 0, "montreal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13581632-2", "question": "what team was the visitor in the chicago game", "sql": {"sel": 1, "conds": [[3, 0, "chicago"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-12", "question": "What team plays their home games in Victoria Park?", "sql": {"sel": 0, "conds": [[4, 0, "victoria park"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388478-2", "question": "What were all the away teams when the crowd was 13304?", "sql": {"sel": 2, "conds": [[5, 0, 13304]], "agg": 0}}
+{"phase": 2, "table_id": "2-17190012-12", "question": "What was the Location and Attendance of Game 6?", "sql": {"sel": 7, "conds": [[0, 0, 6]], "agg": 0}}
+{"phase": 2, "table_id": "2-15869204-4", "question": "What is the Team with a Score that is w 101\u201397 (2ot)?", "sql": {"sel": 2, "conds": [[3, 0, "w 101\u201397 (2ot)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-1", "question": "Who was the Away Captain when the Home Captain was Joe Darling at Melbourne Cricket Ground?", "sql": {"sel": 2, "conds": [[3, 0, "melbourne cricket ground"], [1, 0, "joe darling"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17288845-11", "question": "What was the game on April 25?", "sql": {"sel": 0, "conds": [[1, 0, "april 25"]], "agg": 2}}
+{"phase": 1, "table_id": "1-27700530-15", "question": "Who had the most points and how many did they have on April 22? ", "sql": {"sel": 4, "conds": [[1, 0, "April 22"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-9", "question": "What time was the away game played against the High Park Demons?", "sql": {"sel": 1, "conds": [[3, 0, "high park demons"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-10", "question": "How big was the crowd when the South Dragons were the away team at the Gold Coast Convention Centre?", "sql": {"sel": 5, "conds": [[3, 0, "south dragons"], [4, 0, "gold coast convention centre"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-24", "question": "How many people attended the game when sydney spirit was at home?", "sql": {"sel": 5, "conds": [[1, 0, "sydney spirit"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-6", "question": "What stadium hosted the game that had a final score of 9-14?", "sql": {"sel": 4, "conds": [[2, 0, "9-14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-98", "question": "Which Home captain has a Venue of melbourne cricket ground?", "sql": {"sel": 1, "conds": [[3, 0, "melbourne cricket ground"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18720697-4", "question": "What is the away team at the game with a Tie no of 2?", "sql": {"sel": 3, "conds": [[0, 0, "2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14677944-4", "question": "What is the date of the game with an attendance of 19,183?", "sql": {"sel": 0, "conds": [[5, 0, "19,183"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-6", "question": "What was the visiting team that had a record of 26-18?", "sql": {"sel": 1, "conds": [[6, 0, "26-18"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-6", "question": "What is the Away with a Ground that is humber college lakeshore?", "sql": {"sel": 3, "conds": [[5, 0, "humber college lakeshore"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388398-4", "question": "Who was the away team that scored 12.10 (82)?", "sql": {"sel": 2, "conds": [[3, 0, "12.10 (82)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17371135-8", "question": "Which Visitor has a Decision of osgood, and a Date of february 15?", "sql": {"sel": 1, "conds": [[4, 0, "osgood"], [0, 0, "february 15"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-13", "question": "What is the home team of the match on 21 September 2008 with an attendance less than 2248 and a 2:0 score?", "sql": {"sel": 1, "conds": [[4, 2, 2248], [2, 0, "2:0"], [0, 0, "21 september 2008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11965481-13", "question": "Name the series on june 5", "sql": {"sel": 8, "conds": [[1, 0, "June 5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-12", "question": "What was the result in the game broadcast on the SEC Network? ", "sql": {"sel": 6, "conds": [[5, 0, "SEC Network"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15932367-6", "question": "What's the record of the game where Lebron James (16) was the leading scorer?", "sql": {"sel": 5, "conds": [[4, 0, "lebron james (16)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16388545-1", "question": "When the away team was Carlton, who was the home team?", "sql": {"sel": 0, "conds": [[2, 0, "Carlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16387795-1", "question": "What was the average crowd size for a home team score of 11.11 (77)?", "sql": {"sel": 5, "conds": [[1, 0, "11.11 (77)"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1204658-6", "question": "What Away team is from Fitzroy?", "sql": {"sel": 2, "conds": [[0, 0, "fitzroy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16387653-1", "question": "Which ground has a crowd over 41,185?", "sql": {"sel": 4, "conds": [[5, 1, "41,185"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13242342-4", "question": "What is the record for November 26, with the decision made by Prusek?", "sql": {"sel": 6, "conds": [[4, 0, "prusek"], [0, 0, "november 26"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-32", "question": "Can you tell me the lowest Crowd that has the Away team of melbourne tigers?", "sql": {"sel": 5, "conds": [[3, 0, "melbourne tigers"]], "agg": 2}}
+{"phase": 2, "table_id": "2-1204658-6", "question": "Which team has an away score of 9.10 (64)?", "sql": {"sel": 0, "conds": [[3, 0, "9.10 (64)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14159731-7", "question": "What date has ny islanders as the visitor?", "sql": {"sel": 0, "conds": [[1, 0, "ny islanders"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-12", "question": "Where was the game held where the away team had a score of 2.2 (14)?", "sql": {"sel": 4, "conds": [[3, 0, "2.2 (14)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-7", "question": "What stadium was the game held in when the final score was 17-31?", "sql": {"sel": 4, "conds": [[2, 0, "17-31"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-12", "question": "What team plays their home games in Victoria Park?", "sql": {"sel": 0, "conds": [[4, 0, "victoria park"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23285805-6", "question": "What was the score with the team record was 15-25?", "sql": {"sel": 3, "conds": [[8, 0, "15-25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17004128-6", "question": "WHAT'S THE TIE NUMBER WITH AN AWAY TEAM OF WREXHAM?", "sql": {"sel": 0, "conds": [[3, 0, "wrexham"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17943933-2", "question": "What is the home team when the tie is 11?", "sql": {"sel": 1, "conds": [[0, 0, "11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11801649-5", "question": "What was the record when chicago was the visiting team?", "sql": {"sel": 6, "conds": [[1, 0, "chicago"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17102115-3", "question": "Which Home Team has a Road Team of rochester, and a Result of 71-78?", "sql": {"sel": 2, "conds": [[4, 0, "rochester"], [3, 0, "71-78"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-5", "question": "What is the Away with a Score that is 46-82?", "sql": {"sel": 3, "conds": [[4, 0, "46-82"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27734577-13", "question": "What team was the opponent when josh smith (8) had the high assists?", "sql": {"sel": 2, "conds": [[6, 0, "Josh Smith (8)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286112-12", "question": "Where was game number 5 played?", "sql": {"sel": 7, "conds": [[0, 0, 5]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-15", "question": "What is the away team's score of the game where the away team is Geelong?", "sql": {"sel": 3, "conds": [[2, 0, "geelong"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-13", "question": "What was the box score for the game where the away team was the sydney spirit?", "sql": {"sel": 5, "conds": [[3, 0, "sydney spirit"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13619135-4", "question": "Where is the location of attendance for the Date of december 14?", "sql": {"sel": 6, "conds": [[1, 0, "december 14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17751851-3", "question": "On what Date was the Score 4\u20131?", "sql": {"sel": 4, "conds": [[2, 0, "4\u20131"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15932367-6", "question": "Who was the home team that the Clippers played?", "sql": {"sel": 3, "conds": [[1, 0, "clippers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18711843-4", "question": "Which away team has a tie number of 3?", "sql": {"sel": 3, "conds": [[0, 0, "3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963209-6", "question": "Who was the leading scorer on 9 January 2008?", "sql": {"sel": 4, "conds": [[0, 0, "9 january 2008"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-6", "question": "How many times was #7 Oregon a visiting team?", "sql": {"sel": 1, "conds": [[2, 0, "#7 Oregon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-10", "question": "What did the Melbourne Tigers score when they were the away team?", "sql": {"sel": 2, "conds": [[3, 0, "melbourne tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17060277-10", "question": "Which Team has a Record of 32\u201350?", "sql": {"sel": 2, "conds": [[8, 0, "32\u201350"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178924-2", "question": "What venue has an against over 14, an opposing team of scotland, and a status of five nations?", "sql": {"sel": 3, "conds": [[1, 1, 14], [0, 0, "scotland"], [4, 0, "five nations"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11318956-17", "question": "What is the highest attendance for games with stevenage borough at home?", "sql": {"sel": 4, "conds": [[1, 0, "stevenage borough"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14828476-4", "question": "What was the result of the April 16 game?", "sql": {"sel": 3, "conds": [[1, 0, "april 16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18675114-6", "question": "When was Arsenal was the away team?", "sql": {"sel": 4, "conds": [[3, 0, "arsenal"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17323640-4", "question": "Which Date has a Record of 3-4?", "sql": {"sel": 0, "conds": [[4, 0, "3-4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11963735-3", "question": "What was the Record of the game in which the Trail Blazers was the visiting team?", "sql": {"sel": 6, "conds": [[1, 0, "trail blazers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18726561-1", "question": "What date was the tie number of 32?", "sql": {"sel": 4, "conds": [[0, 0, "32"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What was the away team when the home team score was 5.9 (39)?", "sql": {"sel": 2, "conds": [[1, 0, "5.9 (39)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-11", "question": "Which Home Team has an Away Score of 7.2 (44)?", "sql": {"sel": 0, "conds": [[3, 0, "7.2 (44)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-4", "question": "What is the Date for the Away team University?", "sql": {"sel": 5, "conds": [[2, 0, "university"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18179114-8", "question": "What status has France as the opposing teams?", "sql": {"sel": 4, "conds": [[0, 0, "france"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11962021-9", "question": "Who is the visitor team of the game on March 2, 2008?", "sql": {"sel": 1, "conds": [[0, 0, "march 2, 2008"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12962079-3", "question": "Who was the away team when the attendance was 7,891?", "sql": {"sel": 3, "conds": [[4, 0, "7,891"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16653153-14", "question": "What was the score for the Perth Wildcats as away team?", "sql": {"sel": 2, "conds": [[3, 0, "perth wildcats"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28298589-2", "question": "What is the result when the visiting team is syracuse?", "sql": {"sel": 6, "conds": [[2, 0, "Syracuse"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-6", "question": "What dates contained matches at the venue Bourda?", "sql": {"sel": 0, "conds": [[3, 0, "bourda"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-6", "question": "What's the status with an against over 20 on 18/11/1995?", "sql": {"sel": 4, "conds": [[1, 1, 20], [2, 0, "18/11/1995"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11194153-4", "question": "In game 34 Curtis Borchardt played on which team with less than 275 rebounds?", "sql": {"sel": 2, "conds": [[4, 2, 275], [3, 2, 34], [1, 0, "curtis borchardt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-8", "question": "Which visiting team had a final score of 14-34?", "sql": {"sel": 1, "conds": [[2, 0, "14-34"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11962021-6", "question": "Name the total number of attendance when the cavaliers visited", "sql": {"sel": 5, "conds": [[1, 0, "cavaliers"]], "agg": 3}}
+{"phase": 1, "table_id": "1-27713030-16", "question": "Which series had a score of  l 103\u2013112 (ot)?", "sql": {"sel": 8, "conds": [[3, 0, "L 103\u2013112 (OT)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12166669-1", "question": "What Field was played at in an away game against the bayhawks?", "sql": {"sel": 3, "conds": [[2, 0, "away"], [1, 0, "bayhawks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18184278-5", "question": "What is Visitor, when Date is \"May 9\"?", "sql": {"sel": 1, "conds": [[0, 0, "may 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-8", "question": "On what date was the result Eng by 1 wkt?", "sql": {"sel": 0, "conds": [[4, 0, "eng by 1 wkt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12075099-1", "question": "Is it home or away when opponent is Pride with a W 11-10 result?", "sql": {"sel": 2, "conds": [[1, 0, "pride"], [4, 0, "w 11-10"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27744844-7", "question": "Who had the most assists and how many did they have in game 35?", "sql": {"sel": 6, "conds": [[0, 0, 35]], "agg": 0}}
+{"phase": 2, "table_id": "2-17026847-6", "question": "What was the highest attendance against Real Juventud?", "sql": {"sel": 4, "conds": [[3, 0, "real juventud"]], "agg": 1}}
+{"phase": 2, "table_id": "2-16188254-7", "question": "What was the attendance when the score was 88-98?", "sql": {"sel": 5, "conds": [[2, 0, "88-98"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11962021-5", "question": "Who was the visiting team on November 26, 2007?", "sql": {"sel": 1, "conds": [[0, 0, "november 26, 2007"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What away team had a score of 7.9 (51)?", "sql": {"sel": 2, "conds": [[3, 0, "7.9 (51)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17121262-7", "question": "Which Game has a Score of l 102\u2013114 (ot)?", "sql": {"sel": 0, "conds": [[3, 0, "l 102\u2013114 (ot)"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17026847-3", "question": "What is the Score when Deportes Savio is the Home team?", "sql": {"sel": 2, "conds": [[1, 0, "deportes savio"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16050349-5", "question": "How many Games for the player with Rebounds from Efes Pilsen?", "sql": {"sel": 3, "conds": [[2, 0, "efes pilsen"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22654073-13", "question": "List all high assists in series 2-3.", "sql": {"sel": 6, "conds": [[8, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18178534-2", "question": "What is Venue, when Status is \"Test Match\", and when Against is \"12\"?", "sql": {"sel": 3, "conds": [[4, 0, "test match"], [1, 0, 12]], "agg": 0}}
+{"phase": 2, "table_id": "2-16050349-11", "question": "What is the number of games for Shaun Stonerook?", "sql": {"sel": 3, "conds": [[1, 0, "shaun stonerook"]], "agg": 2}}
+{"phase": 1, "table_id": "1-27755784-6", "question": "What was the record after the game on November 10?", "sql": {"sel": 8, "conds": [[1, 0, "November 10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10790651-15", "question": "What was the away team score at the game held on 17 August 1935?", "sql": {"sel": 3, "conds": [[6, 0, "17 august 1935"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16140345-8", "question": "What date was the game played with the Cavaliers at home and the Warriors visiting?", "sql": {"sel": 0, "conds": [[3, 0, "cavaliers"], [1, 0, "warriors"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16864998-4", "question": "What's the record for home team ottawa senators on march 6?", "sql": {"sel": 4, "conds": [[3, 0, "ottawa senators"], [0, 0, "march 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-9", "question": "Which team has an Away team of carlton?", "sql": {"sel": 0, "conds": [[2, 0, "carlton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17311797-7", "question": "What is Score, when High Points is \"Dwight Howard (25)\"?", "sql": {"sel": 3, "conds": [[4, 0, "dwight howard (25)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18179114-10", "question": "Who were the opposing teams on 08/02/1969?", "sql": {"sel": 0, "conds": [[2, 0, "08/02/1969"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26842217-4", "question": "What is the home team where the San Jose state is the visiting team?", "sql": {"sel": 3, "conds": [[2, 0, "San Jose State"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17918213-13", "question": "What league has 2-3 as the away?", "sql": {"sel": 1, "conds": [[4, 0, "2-3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11902176-6", "question": "Which team won the game on January 12?", "sql": {"sel": 4, "conds": [[0, 0, "january 12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16188254-8", "question": "For the game that was 76-85, what was the record?", "sql": {"sel": 6, "conds": [[2, 0, "76-85"]], "agg": 0}}
+{"phase": 1, "table_id": "1-21256068-3", "question": "state the round that had a game score 50-10", "sql": {"sel": 1, "conds": [[4, 0, "50-10"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16388478-2", "question": "The Home team of Sydney had which ground?", "sql": {"sel": 4, "conds": [[0, 0, "sydney"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-16", "question": "What was the away team when the home team score was 5.9 (39)?", "sql": {"sel": 2, "conds": [[1, 0, "5.9 (39)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11194153-4", "question": "Which game did Bruesa GBC play in with fewer than 275 rebounds that is ranked less than 4?", "sql": {"sel": 3, "conds": [[0, 2, 4], [4, 2, 275], [2, 0, "bruesa gbc"]], "agg": 4}}
+{"phase": 2, "table_id": "2-11960944-10", "question": "What was the number of high assists for game 1?", "sql": {"sel": 6, "conds": [[0, 0, 1]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-10", "question": "When did the High Park Demons play Away?", "sql": {"sel": 0, "conds": [[3, 0, "high park demons"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10826385-12", "question": "What team did the away team play against when they scored 11.9 (75)?", "sql": {"sel": 0, "conds": [[3, 0, "11.9 (75)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-3", "question": "What is the name of the Home team when the Away team scored 4.8 (32)?", "sql": {"sel": 0, "conds": [[3, 0, "4.8 (32)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11960944-10", "question": "What was the number of high assists for game 1?", "sql": {"sel": 6, "conds": [[0, 0, 1]], "agg": 0}}
+{"phase": 2, "table_id": "2-13034488-8", "question": "Who was the visitor on march 21?", "sql": {"sel": 1, "conds": [[0, 0, "march 21"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18188607-3", "question": "What is the venue for the Status of Five Nations and 0 againts?", "sql": {"sel": 3, "conds": [[4, 0, "five nations"], [1, 0, 0]], "agg": 0}}
+{"phase": 2, "table_id": "2-10944289-6", "question": "Who was the host team at Louisiana Superdome when the final score was 10-20?", "sql": {"sel": 3, "conds": [[4, 0, "louisiana superdome"], [2, 0, "10-20"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17814838-3", "question": "Who was the away team that played Northampton Town at home with a tie number of replay?", "sql": {"sel": 3, "conds": [[0, 0, "replay"], [1, 0, "northampton town"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-17", "question": "Who was the home team for the game played at Junction Oval?", "sql": {"sel": 0, "conds": [[4, 0, "junction oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11801035-5", "question": "What is the score when Philadelphia is at home?", "sql": {"sel": 2, "conds": [[3, 0, "philadelphia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23286223-5", "question": "When was the game in which Deron Williams (13) did the high assists played?", "sql": {"sel": 1, "conds": [[6, 0, "Deron Williams (13)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-9", "question": "Which date had a final score of 20-27?", "sql": {"sel": 0, "conds": [[2, 0, "20-27"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15154539-6", "question": "Which home team is ranked no. 7 by tie no.?", "sql": {"sel": 1, "conds": [[0, 0, "7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10790510-8", "question": "On what date was a match played at Lake Oval?", "sql": {"sel": 6, "conds": [[4, 0, "lake oval"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13193466-4", "question": "When were the Cleveland Browns the visiting team?", "sql": {"sel": 0, "conds": [[1, 0, "cleveland browns"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1598207-2", "question": "Who was the Away captain that played on 12,13,14 Jun 1902 which resulted in a draw?", "sql": {"sel": 2, "conds": [[4, 0, "draw"], [0, 0, "12,13,14 jun 1902"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15786635-5", "question": "When there was a tie of 16 what was the attendance?", "sql": {"sel": 4, "conds": [[0, 0, "16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12410929-17", "question": "On what date was there a draw at Sydney Cricket Ground?", "sql": {"sel": 0, "conds": [[4, 0, "draw"], [3, 0, "sydney cricket ground"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12058084-1", "question": "What was the opponent for the game at Multi-sport Field?", "sql": {"sel": 1, "conds": [[3, 0, "multi-sport field"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18675114-5", "question": "What away team has 7 as the tie no.?", "sql": {"sel": 3, "conds": [[0, 0, "7"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-4", "question": "What is the Date for the Away team University?", "sql": {"sel": 5, "conds": [[2, 0, "university"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11961176-6", "question": "What is the Score with a Visitor of bucks, and a Leading scorer with maurice williams (25)?", "sql": {"sel": 2, "conds": [[1, 0, "bucks"], [4, 0, "maurice williams (25)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13759275-6", "question": "What was the score when the Spurs' record was 43-13?", "sql": {"sel": 2, "conds": [[5, 0, "43-13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964263-8", "question": "What date did the Jazz play the Bulls at home?", "sql": {"sel": 0, "conds": [[3, 0, "jazz"], [1, 0, "bulls"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14159731-4", "question": "What was the decision on November 26?", "sql": {"sel": 4, "conds": [[0, 0, "november 26"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11945691-2", "question": "On October 25, when the visitor was Colorado, what is the score?", "sql": {"sel": 2, "conds": [[1, 0, "colorado"], [0, 0, "october 25"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10766119-1", "question": "What was the score of the away team when they played at Windy Hill?", "sql": {"sel": 3, "conds": [[4, 0, "windy hill"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17080868-6", "question": "What is the average game that has December 17 as the date?", "sql": {"sel": 0, "conds": [[1, 0, "december 17"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18178534-2", "question": "What is Opposing Teams, when Date is \"11/10/1991\"?", "sql": {"sel": 0, "conds": [[2, 0, "11/10/1991"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11964379-6", "question": "Who was the leading scorer in the match when the Golden State Warriors were visiting the Dallas Mavericks?", "sql": {"sel": 4, "conds": [[1, 0, "golden state warriors"], [3, 0, "dallas mavericks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1204658-13", "question": "What was the away team score, when the away team was Fitzroy?", "sql": {"sel": 3, "conds": [[2, 0, "fitzroy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11739153-6", "question": "What was the record in the game where the decision was Backstrom and there were more than 18,568 in attendance?", "sql": {"sel": 6, "conds": [[4, 0, "backstrom"], [5, 1, "18,568"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15764352-12", "question": "What home has 122-28 as the score?", "sql": {"sel": 2, "conds": [[4, 0, "122-28"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13813368-3", "question": "On what date was Game 1?", "sql": {"sel": 1, "conds": [[0, 0, "game 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14032792-2", "question": "When the Vancouver Canucks were visiting, what was the record when the score was 4-2?", "sql": {"sel": 4, "conds": [[2, 0, "4-2"], [1, 0, "vancouver canucks"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13244501-5", "question": "Decision of parent, and a Home of philadelphia, and a Record of 20\u201316\u20137 is on what date?", "sql": {"sel": 0, "conds": [[4, 0, "parent"], [3, 0, "philadelphia"], [6, 0, "20\u201316\u20137"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10826385-9", "question": "What Venue that has the Away team score of 16.9 (105)?", "sql": {"sel": 4, "conds": [[3, 0, "16.9 (105)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17342230-5", "question": "Who was the Road Team for the game ending with a score of 118-112?", "sql": {"sel": 4, "conds": [[3, 0, "118-112"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11961582-10", "question": "How had the high points when the high assists were from J. Johnson (7)?", "sql": {"sel": 4, "conds": [[6, 0, "J. Johnson (7)"]], "agg": 0}}

@@ -1,0 +1,330 @@
+{"phase": 2, "table_id": "2-16078390-2", "question": "What is the Enrollment for the Coyotes Founded in 1891?", "sql": {"sel": 4, "conds": [[2, 0, 1891], [5, 0, "coyotes"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11097664-8", "question": "Which Object type has a NGC number of 2787?", "sql": {"sel": 1, "conds": [[0, 0, 2787]], "agg": 0}}
+{"phase": 2, "table_id": "2-14518594-1", "question": "Which Works number has a Number larger than 807, and a Type of 0-6-0, and a Date of 1920?", "sql": {"sel": 4, "conds": [[0, 1, 807], [2, 0, "0-6-0"], [3, 0, 1920]], "agg": 5}}
+{"phase": 2, "table_id": "2-14996829-1", "question": "What is the FCC information of 104.5 fm frequency?", "sql": {"sel": 5, "conds": [[1, 0, "104.5 fm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16432543-4", "question": "What is the nickname of Columbia University?", "sql": {"sel": 2, "conds": [[0, 0, "columbia university"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-4", "question": "what is the turbo when the cores is standard power?", "sql": {"sel": 4, "conds": [[2, 0, "standard power"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12936850-2", "question": "What's the Termination of Mission listed that has a Presentation of Credentials for August 29, 1859?", "sql": {"sel": 3, "conds": [[2, 0, "august 29, 1859"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14035388-2", "question": "Name the least frequency Mhz with call sign of k202ag", "sql": {"sel": 1, "conds": [[0, 0, "k202ag"]], "agg": 2}}
+{"phase": 1, "table_id": "1-262527-1", "question": "what is the institution located in north newton, kansas?", "sql": {"sel": 0, "conds": [[1, 0, "North Newton, Kansas"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1566852-4", "question": "Who was the Centerfold model when O.J. Simpson was the Interview Subject?", "sql": {"sel": 2, "conds": [[3, 0, "o.j. simpson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15494883-20", "question": "What is the highest Total Passengers when the annual change is 18.3%, and the rank is less than 11?", "sql": {"sel": 2, "conds": [[3, 0, "18.3%"], [0, 2, 11]], "agg": 1}}
+{"phase": 2, "table_id": "2-16168849-1", "question": "What is the total number of teams founded that were left in 1976?", "sql": {"sel": 2, "conds": [[7, 0, "1976"]], "agg": 4}}
+{"phase": 1, "table_id": "1-1974545-1", "question": "Name the nickname for enrollment being 9000", "sql": {"sel": 2, "conds": [[5, 0, 9000]], "agg": 0}}
+{"phase": 1, "table_id": "1-12094609-1", "question": "what is the total number of\u00a0average\u00a0where\u00a0evening gown\u00a0is 8.988", "sql": {"sel": 5, "conds": [[4, 0, "8.988"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14155567-1", "question": "what is the callsign whtat uses 7bu?", "sql": {"sel": 0, "conds": [[4, 0, "7bu"]], "agg": 0}}
+{"phase": 1, "table_id": "1-178389-1", "question": "What is the location of the church when the church name is Ortnevik Kyrkje?", "sql": {"sel": 4, "conds": [[2, 0, "Ortnevik kyrkje"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12265526-1", "question": "Which ERP W has a Class of A, and a Call sign of wffc?", "sql": {"sel": 3, "conds": [[4, 0, "a"], [0, 0, "wffc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15884702-1", "question": "Which 5'utr splice's coding is 1a 2, when the Variant id is abd'1a 2?", "sql": {"sel": 1, "conds": [[2, 0, "1a 2"], [0, 0, "abd'1a 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18621997-1", "question": "What is the saturated fat with a total fat of 100g and 11g of polyunsaturated fat?", "sql": {"sel": 1, "conds": [[0, 0, "100g"], [3, 0, "11g"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-5", "question": "yes or no for the melbourne that has no for adelaide, no for gold coast?", "sql": {"sel": 1, "conds": [[3, 0, "yes"], [4, 0, "no"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15418772-5", "question": "What is the lowest gain with an 18 long, and a loss less than 191?", "sql": {"sel": 2, "conds": [[4, 0, 18], [3, 2, 191]], "agg": 2}}
+{"phase": 2, "table_id": "2-12230393-9", "question": "what is the Sydney that has Adelaide, Gold Coast, Melbourne, and Auckland are all yes?", "sql": {"sel": 0, "conds": [[3, 0, "yes"], [4, 0, "yes"], [1, 0, "yes"], [5, 0, "yes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12338595-1", "question": "How much is the average score for New York state?", "sql": {"sel": 5, "conds": [[0, 0, "New York"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10765229-1", "question": "What was the tonnage of the Great Britain ship Batna?", "sql": {"sel": 3, "conds": [[2, 0, "great britain"], [1, 0, "batna"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11690135-1", "question": "How many ladies scored a 9.89 for the evening gown?", "sql": {"sel": 2, "conds": [[3, 0, "9.89"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11051842-4", "question": "Which object type had an NGC number greater than 6357 and a declination (J2000) of \u00b045\u203234\u2033?", "sql": {"sel": 1, "conds": [[0, 1, 6357], [4, 0, "\u00b045\u203234\u2033"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097691-4", "question": "what is the declination (j2000) that has a constellation of hydra and a right ascension (j2000) of 10h46m44.9s?", "sql": {"sel": 4, "conds": [[2, 0, "hydra"], [3, 0, "10h46m44.9s"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14203256-2", "question": "What is the frequency MHz of the ERP W's greater than 250?", "sql": {"sel": 1, "conds": [[3, 1, 250]], "agg": 5}}
+{"phase": 2, "table_id": "2-17101015-10", "question": "Average frequency with ERP W of 62?", "sql": {"sel": 1, "conds": [[3, 0, "62"]], "agg": 5}}
+{"phase": 1, "table_id": "1-1973729-2", "question": "Which conference has the nickname Lions?", "sql": {"sel": 8, "conds": [[5, 0, "Lions"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097664-2", "question": "Which NGC number has an Object type of open cluster, and a Right ascension (J2000) of 06h01m06s?", "sql": {"sel": 0, "conds": [[1, 0, "open cluster"], [3, 0, "06h01m06s"]], "agg": 1}}
+{"phase": 1, "table_id": "1-18333678-2", "question": "when does the train departuring at 11.35 arrive", "sql": {"sel": 3, "conds": [[0, 0, "11.35"]], "agg": 0}}
+{"phase": 2, "table_id": "2-177267-1", "question": "What shows for monounsaturated fat when the saturated fat is 39g?", "sql": {"sel": 2, "conds": [[1, 0, "39g"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14332822-1", "question": "Which 5\u2019UTR splice has a Variant ID at sftpa1 variant 2?", "sql": {"sel": 1, "conds": [[0, 0, "sftpa1 variant 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14987147-1", "question": "Name the builder for 4/1906 and works number more than 199", "sql": {"sel": 1, "conds": [[4, 1, 199], [3, 0, "4/1906"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-15", "question": "What was the frequency of the Core i7-3610QE?", "sql": {"sel": 3, "conds": [[0, 0, "core i7-3610qe"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16268026-3", "question": "What is the preliminary average when the semifinal average is 8.834 (3) ?", "sql": {"sel": 1, "conds": [[5, 0, "8.834 (3)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18943807-1", "question": "What is the call sign with a 222 erp w?", "sql": {"sel": 0, "conds": [[3, 0, 222]], "agg": 0}}
+{"phase": 1, "table_id": "1-28243691-2", "question": "How many students are enrolled in the team nicknamed Comets?", "sql": {"sel": 4, "conds": [[5, 0, "Comets"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18045035-18", "question": "What was the total yards lost by antwon bailey when he gained 227?", "sql": {"sel": 3, "conds": [[0, 0, "antwon bailey"], [2, 1, 227]], "agg": 2}}
+{"phase": 2, "table_id": "2-178381-1", "question": "In what year was the church located in flor\u00f8 built?", "sql": {"sel": 3, "conds": [[4, 0, "flor\u00f8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-262481-2", "question": "What is the institution whose current conference is gcac (naia)? ", "sql": {"sel": 0, "conds": [[8, 0, "GCAC (NAIA)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16323766-3", "question": "What was the evening gown score for the one who had a preliminary average of 8.121 (8)?", "sql": {"sel": 4, "conds": [[1, 0, "8.121 (8)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14987147-1", "question": "Name the builder for number 3", "sql": {"sel": 1, "conds": [[0, 0, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-12503727-1", "question": "What class is ERP W of 800?", "sql": {"sel": 4, "conds": [[3, 0, 800]], "agg": 0}}
+{"phase": 1, "table_id": "1-25595107-2", "question": "What is the ranking for NSW open 66 racing boat. ", "sql": {"sel": 0, "conds": [[3, 0, "NSW"], [4, 0, "Open 66"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14882588-3", "question": "WHICH Yacht type has a Corrected time 2:13:04:48?", "sql": {"sel": 4, "conds": [[7, 0, "2:13:04:48"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-7", "question": "What day did the celebrity who finished 4th enter?", "sql": {"sel": 2, "conds": [[4, 0, "4th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-8", "question": "Which Adelaide has an Auckland of no and a Melbourne of no?", "sql": {"sel": 3, "conds": [[5, 0, "no"], [1, 0, "no"]], "agg": 0}}
+{"phase": 1, "table_id": "1-255188-1", "question": "When was Piedmont College founded?", "sql": {"sel": 3, "conds": [[0, 0, "Piedmont College"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13847188-1", "question": "Which ERP W has a Frequency MHz of 88.5 FM?", "sql": {"sel": 3, "conds": [[1, 0, "88.5 fm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-4", "question": "What is the result for Melbourne when Adelaide is no, and Auckland is yes?", "sql": {"sel": 1, "conds": [[3, 0, "no"], [5, 0, "yes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15728409-1", "question": "What call sign has ERP W greater than 197?", "sql": {"sel": 0, "conds": [[3, 1, 197]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-10", "question": "When did kim woodburn enter?", "sql": {"sel": 2, "conds": [[0, 0, "kim woodburn"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14191400-1", "question": "Name the frequency for community purpose and callsign of 1vfm", "sql": {"sel": 2, "conds": [[5, 0, "community"], [0, 0, "1vfm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14203256-2", "question": "What is the smallest ERP W with a frequency MHz of 94.9?", "sql": {"sel": 3, "conds": [[1, 0, 94.9]], "agg": 2}}
+{"phase": 2, "table_id": "2-18823880-17", "question": "What's the cores with the part number cl8064701477202?", "sql": {"sel": 2, "conds": [[12, 0, "cl8064701477202"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18064020-18", "question": "What's the total long for more than 24 loss, a gain over 273, and an avg/g of 207.8?", "sql": {"sel": 4, "conds": [[3, 1, 24], [2, 1, 273], [5, 0, 207.8]], "agg": 4}}
+{"phase": 1, "table_id": "1-16268026-3", "question": "What is the swimsuit when evening gown is 8.774 (6) ?", "sql": {"sel": 3, "conds": [[4, 0, "8.774 (6)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16432543-1", "question": "What is the location of the school established in 1923", "sql": {"sel": 1, "conds": [[4, 0, 1923]], "agg": 0}}
+{"phase": 1, "table_id": "1-17200372-2", "question": "Name the departure for spalding", "sql": {"sel": 0, "conds": [[1, 0, "Spalding"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16268026-3", "question": "What state has an interview of 8.313 (8) ?", "sql": {"sel": 0, "conds": [[2, 0, "8.313 (8)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12980050-1", "question": "Which Termination of Mission has a Presentation of Credentials on October 29, 1981", "sql": {"sel": 3, "conds": [[2, 0, "october 29, 1981"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1973842-1", "question": "What is the type of the school whose students' nickname is tigers?", "sql": {"sel": 4, "conds": [[2, 0, "Tigers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12094300-1", "question": "What is the preliminaries of the contestant with a swimsuit less than 8.948 and an interview of 8.997?", "sql": {"sel": 1, "conds": [[3, 2, 8.948], [2, 0, 8.997]], "agg": 0}}
+{"phase": 1, "table_id": "1-28243691-2", "question": "In how many different years was the team nicknamed Comets founded?", "sql": {"sel": 2, "conds": [[5, 0, "Comets"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18823880-13", "question": "What is the L2 cache for the core i7-2635QM?", "sql": {"sel": 5, "conds": [[0, 0, "core i7-2635qm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14993514-1", "question": "Which Class has a Frequency MHz larger than 91.5, and a City of license of hyannis, nebraska?", "sql": {"sel": 4, "conds": [[1, 1, 91.5], [2, 0, "hyannis, nebraska"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12155786-3", "question": "Name the total number of frequency Mhz for when it has ERP W of 1 and call sign of w215bj", "sql": {"sel": 1, "conds": [[3, 0, 1], [0, 0, "w215bj"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12826598-1", "question": "What is the termination of mission date of the representative with a presentation of credentials date on July 4, 1898?", "sql": {"sel": 3, "conds": [[2, 0, "july 4, 1898"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1675640-2", "question": "What is Works Number, when Type is RS-11, and when Number is 61?", "sql": {"sel": 4, "conds": [[2, 0, "rs-11"], [0, 0, "61"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11658094-3", "question": "What year did a school leave that was founded in 1880?", "sql": {"sel": 7, "conds": [[2, 0, 1880]], "agg": 0}}
+{"phase": 2, "table_id": "2-1566850-3", "question": "What Interview subject was on a Date that is 11-92?", "sql": {"sel": 3, "conds": [[0, 0, "11-92"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11051842-10", "question": "What Object Type has a 21h01m37.7s Right Ascension (J2000) and 6995 or greater NGC?", "sql": {"sel": 1, "conds": [[0, 1, 6995], [3, 0, "21h01m37.7s"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16432543-1", "question": "What is the year Rowan University was established", "sql": {"sel": 4, "conds": [[0, 0, "Rowan University"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-7", "question": "Which celebrity who was famous for being the ex busted member and TV presenter exited on day 19?", "sql": {"sel": 0, "conds": [[3, 0, "day 19"], [1, 0, "ex busted member and tv presenter"]], "agg": 0}}
+{"phase": 1, "table_id": "1-28243691-1", "question": "List the highest number of students in attendance for the institution that started in 1923.", "sql": {"sel": 4, "conds": [[2, 0, 1923]], "agg": 1}}
+{"phase": 1, "table_id": "1-28211213-1", "question": "What is the affiliation of Davenport University?", "sql": {"sel": 3, "conds": [[0, 0, "Davenport University"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26351260-1", "question": "How many Kent State University's are there?", "sql": {"sel": 1, "conds": [[0, 0, "Kent State University"]], "agg": 3}}
+{"phase": 1, "table_id": "1-16268026-3", "question": "What state has a semifinal average of 8.538 (8) ?", "sql": {"sel": 0, "conds": [[5, 0, "8.538 (8)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18950570-2", "question": "What's the IMR for the period with a life expectancy of 69.3?", "sql": {"sel": 8, "conds": [[9, 0, "69.3"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12979551-1", "question": "Who was appointed with the title of envoy extraordinary and minister plenipotentiary, and a termination of mission of march 16, 1905?", "sql": {"sel": 4, "conds": [[1, 0, "envoy extraordinary and minister plenipotentiary"], [3, 0, "march 16, 1905"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15494883-17", "question": "What is the average rank of the airport with a 9.3% annual change?", "sql": {"sel": 0, "conds": [[3, 0, "9.3%"]], "agg": 5}}
+{"phase": 2, "table_id": "2-11689182-1", "question": "Which country has swimsuit more than 9.46 and interview more than 9.22 with average less than 9.6?", "sql": {"sel": 0, "conds": [[4, 2, 9.6], [1, 1, 9.22], [2, 1, 9.46]], "agg": 0}}
+{"phase": 2, "table_id": "2-1169654-1", "question": "Which Builder has a Works Number of 16272?", "sql": {"sel": 1, "conds": [[4, 0, "16272"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15884702-1", "question": "Which genbank id's variant is abd1a?", "sql": {"sel": 4, "conds": [[0, 0, "abd1a"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13975482-1", "question": "What ERP W has a 95.1 MHZ frequency?", "sql": {"sel": 3, "conds": [[1, 0, 95.1]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-8", "question": "Which Sydney has a Perth of no, an Adelaide of yes, and a Gold Coast of no?", "sql": {"sel": 0, "conds": [[2, 0, "no"], [3, 0, "yes"], [4, 0, "no"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12980050-1", "question": "Which Title has a Termination of Mission of current?", "sql": {"sel": 1, "conds": [[3, 0, "current"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-18", "question": "what is the gpu frequency when the part number is cw8064701470702?", "sql": {"sel": 8, "conds": [[12, 0, "cw8064701470702"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1191667-1", "question": "Name the FCC info for call sign of kpcc", "sql": {"sel": 4, "conds": [[0, 0, "kpcc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-4", "question": "What day did Alex Best exit?", "sql": {"sel": 3, "conds": [[0, 0, "alex best"]], "agg": 0}}
+{"phase": 1, "table_id": "1-178389-1", "question": "What is the total number of churches named H\u00f8yanger Kyrkje?", "sql": {"sel": 1, "conds": [[2, 0, "H\u00f8yanger kyrkje"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1971074-1", "question": "Where is the school whose students are nicknamed Panthers located?", "sql": {"sel": 1, "conds": [[2, 0, "Panthers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14993404-1", "question": "Which Class has an ERP W of 222?", "sql": {"sel": 4, "conds": [[3, 0, 222]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-5", "question": "yes or no for the auckland with a yes for sydney, no for perth, yes for melbourne and yes for the gold coast?", "sql": {"sel": 5, "conds": [[0, 0, "yes"], [2, 0, "no"], [1, 0, "yes"], [4, 0, "yes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1974782-1", "question": "What's Babson College's enrollment?", "sql": {"sel": 5, "conds": [[0, 0, "Babson College"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12230393-5", "question": "yes or no for the melbourne with yes for gold coast, yes for adelaide, no for auckland?", "sql": {"sel": 1, "conds": [[4, 0, "yes"], [3, 0, "no"], [5, 0, "no"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-4", "question": "What is the result for Gold Coast when Adelaide and Perth are yes, but Auckland is no?", "sql": {"sel": 4, "conds": [[3, 0, "yes"], [5, 0, "no"], [2, 0, "yes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11051842-4", "question": "For the constellation scorpius and object of planetary nebula, what was the declination (J2000)?", "sql": {"sel": 4, "conds": [[2, 0, "scorpius"], [1, 0, "planetary nebula"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12265526-1", "question": "Which class City of license of ferrum, virginia?", "sql": {"sel": 4, "conds": [[2, 0, "ferrum, virginia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11884814-3", "question": "What is the highest evening gown score of the contestant from Tennessee with an interview score larger than 9.36 and an average larger than 9.75 have?", "sql": {"sel": 3, "conds": [[1, 1, 9.36], [0, 0, "tennessee"], [4, 1, 9.75]], "agg": 1}}
+{"phase": 1, "table_id": "1-261941-1", "question": "What is the nickname of Linfield College?", "sql": {"sel": 2, "conds": [[0, 0, "Linfield College"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-7", "question": "What celebrity finished 6th?", "sql": {"sel": 0, "conds": [[4, 0, "6th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11051842-6", "question": "Name the total number of NGC number for sagittarius and diffuse nebula with declination of \u00b002\u2032", "sql": {"sel": 0, "conds": [[2, 0, "sagittarius"], [1, 0, "diffuse nebula"], [4, 0, "\u00b002\u2032"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1974632-1", "question": "what type of institution is alvernia university", "sql": {"sel": 4, "conds": [[0, 0, "Alvernia University"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-14", "question": "what is the i/o bus when the sspec numebr is sr0n5(l1)?", "sql": {"sel": 10, "conds": [[1, 0, "sr0n5(l1)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11690135-1", "question": "What is the total swimsuit number with gowns larger than 9.48 with interviews larger than 8.94 in florida?", "sql": {"sel": 2, "conds": [[3, 1, 9.48], [0, 0, "florida"], [1, 1, 8.94]], "agg": 3}}
+{"phase": 2, "table_id": "2-17362664-5", "question": "What is the sum of Avg/G for Dan Dierking when the Loss is 0 and the Gain is more than 34?", "sql": {"sel": 5, "conds": [[3, 0, 0], [0, 0, "dan dierking"], [2, 1, 34]], "agg": 4}}
+{"phase": 1, "table_id": "1-25594271-2", "question": "How many yachts show a corrected time d:hh:mm:ss is 4:00:05:35?", "sql": {"sel": 2, "conds": [[7, 0, "4:00:05:35"]], "agg": 3}}
+{"phase": 1, "table_id": "1-12094300-1", "question": "What is the average score when the swimsuit score is 8.503?", "sql": {"sel": 5, "conds": [[3, 0, "8.503"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12155786-3", "question": "Name the total number of ERP W when the call sign is w217bf", "sql": {"sel": 3, "conds": [[0, 0, "w217bf"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12230393-5", "question": "yes or no for the adelaide with no for auckland, yes for melbourne, yes for the gold coast?", "sql": {"sel": 3, "conds": [[5, 0, "no"], [1, 0, "yes"], [4, 0, "yes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12050358-1", "question": "What's utah's lowest swimsuit with an interview over 8.53?", "sql": {"sel": 2, "conds": [[0, 0, "utah"], [1, 1, 8.53]], "agg": 2}}
+{"phase": 1, "table_id": "1-27434-2", "question": "What is the life expectancy of men with an IMR of 64?", "sql": {"sel": 10, "conds": [[8, 0, 64]], "agg": 0}}
+{"phase": 2, "table_id": "2-1566850-6", "question": "Who was the 20 Questions section aimed at when Cover Model was Kimberley Conrad Hefner?", "sql": {"sel": 4, "conds": [[1, 0, "kimberley conrad hefner"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12936850-4", "question": "What is the Appointed by that has the Title of Ambassador Extraordinary and Plenipotentiary and has a Representative of Spruille Braden?", "sql": {"sel": 4, "conds": [[1, 0, "ambassador extraordinary and plenipotentiary"], [0, 0, "spruille braden"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15728409-1", "question": "What city does call sign K248am have its license in?", "sql": {"sel": 2, "conds": [[0, 0, "k248am"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-17", "question": "What's the L3 cache that has a low power part number?", "sql": {"sel": 6, "conds": [[12, 0, "low power"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12936850-2", "question": "What Representative has a Presentation of Credentails of April 10, 1855?", "sql": {"sel": 0, "conds": [[2, 0, "april 10, 1855"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1675640-2", "question": "What is Type, when Works Number is 75823?", "sql": {"sel": 2, "conds": [[4, 0, "75823"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11051840-4", "question": "What is the right ascension of Pegasus with a 7343 NGC?", "sql": {"sel": 3, "conds": [[2, 0, "pegasus"], [0, 0, "7343"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16168849-1", "question": "Name the maximum enrollment for st. andrews university", "sql": {"sel": 4, "conds": [[0, 0, "St. Andrews University"]], "agg": 1}}
+{"phase": 2, "table_id": "2-11097691-4", "question": "What is the ngc number when the object type is lenticular galaxy and the constellation is hydra?", "sql": {"sel": 0, "conds": [[1, 0, "lenticular galaxy"], [2, 0, "hydra"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18823880-14", "question": "What is the l3 cache when the sspec number is sr0r2(l1)sr0t6(l1)?", "sql": {"sel": 6, "conds": [[1, 0, "sr0r2(l1)sr0t6(l1)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16432543-2", "question": "What was the nick name for the school established in 1958?", "sql": {"sel": 2, "conds": [[4, 0, 1958]], "agg": 0}}
+{"phase": 2, "table_id": "2-12050358-1", "question": "What's the highest swimsuit for an average less than 8.073, evening gown less than 8.31, and an interview over 8.23 in georgia?", "sql": {"sel": 2, "conds": [[4, 2, 8.073], [3, 2, 8.31], [1, 1, 8.23], [0, 0, "georgia"]], "agg": 1}}
+{"phase": 1, "table_id": "1-25594271-2", "question": "What were the LOA metres for the yacht ichi ban?", "sql": {"sel": 5, "conds": [[2, 0, "Ichi Ban"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11689182-1", "question": "Which is the total number of evening gowns for swimsui less than 9.36 and average less than 9.23?", "sql": {"sel": 3, "conds": [[2, 2, 9.36], [4, 2, 9.23]], "agg": 3}}
+{"phase": 1, "table_id": "1-25594271-2", "question": "What is the position for sail number aus 03?", "sql": {"sel": 0, "conds": [[1, 0, "AUS 03"]], "agg": 2}}
+{"phase": 2, "table_id": "2-17794265-1", "question": "What was Yugoslavia's fate?", "sql": {"sel": 4, "conds": [[2, 0, "yugoslavia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14332822-1", "question": "What is the 3utr sequence when the genbank id is hq021437? ", "sql": {"sel": 3, "conds": [[4, 0, "HQ021437"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11884814-3", "question": "What is the country of the contestant with a swimsuit of 9.46?", "sql": {"sel": 0, "conds": [[2, 0, 9.46]], "agg": 0}}
+{"phase": 2, "table_id": "2-14993404-1", "question": "Which ERP W is the highest one that has a Frequency MHz larger than 88.3, and a City of license of lewis, kansas?", "sql": {"sel": 3, "conds": [[1, 1, 88.3], [2, 0, "lewis, kansas"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1971074-1", "question": "How many different enrollment numbers are there for the school whose students are nicknamed Barons?", "sql": {"sel": 5, "conds": [[2, 0, "Barons"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12826598-1", "question": "What is the presentation of credentials date of ra\u00fal h. castro, who has a title of ambassador extraordinary and plenipotentiary?", "sql": {"sel": 2, "conds": [[1, 0, "ambassador extraordinary and plenipotentiary"], [0, 0, "ra\u00fal h. castro"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15019672-21", "question": "How much Avg/G has a Loss larger than 117, and a Name of opponents, and a Gain smaller than 2444?", "sql": {"sel": 5, "conds": [[3, 1, 117], [0, 0, "opponents"], [2, 2, 2444]], "agg": 3}}
+{"phase": 2, "table_id": "2-12230393-16", "question": "Which Adelaide has a Melbourne of yes, an Auckland of yes, and a Perth of yes?", "sql": {"sel": 3, "conds": [[1, 0, "yes"], [5, 0, "yes"], [2, 0, "yes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15494883-26", "question": "what is the number of passengers when the capacity is 81.2%?", "sql": {"sel": 2, "conds": [[4, 0, "81.2%"]], "agg": 4}}
+{"phase": 1, "table_id": "1-262527-1", "question": "what is the total number of nicknames for southwestern college?", "sql": {"sel": 5, "conds": [[0, 0, "Southwestern College"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11992731-1", "question": "What is the FCC frequency for the station w262al which has a Frequency MHz larger than 92.7?", "sql": {"sel": 5, "conds": [[1, 1, 92.7], [0, 0, "w262al"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18950570-2", "question": "What's the CDR for the period where the life expectancy is 61.5?", "sql": {"sel": 5, "conds": [[9, 0, "61.5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18943807-1", "question": "What is the sum of the erp w of the k222al call sign?", "sql": {"sel": 3, "conds": [[0, 0, "k222al"]], "agg": 4}}
+{"phase": 1, "table_id": "1-1973729-2", "question": "What is the latest founded year?", "sql": {"sel": 2, "conds": [], "agg": 1}}
+{"phase": 1, "table_id": "1-261941-1", "question": "When was the private/baptist school founded?", "sql": {"sel": 3, "conds": [[4, 0, "Private/Baptist"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-12", "question": "What's the part number of the processor that has an 1.8 ghz frequency and 2 \u00d7 256 kb L@ Cache?", "sql": {"sel": 12, "conds": [[5, 0, "2 \u00d7 256 kb"], [3, 0, "1.8 ghz"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13119032-1", "question": "Name the sum of frequency will call sign of k259aw", "sql": {"sel": 1, "conds": [[0, 0, "k259aw"]], "agg": 4}}
+{"phase": 1, "table_id": "1-12338595-1", "question": "What is the preliminary score associated with the interview score of 8.488?", "sql": {"sel": 1, "conds": [[2, 0, "8.488"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13975109-1", "question": "What is the highest ERP W of an 89.1 frequency translator?", "sql": {"sel": 3, "conds": [[1, 0, 89.1]], "agg": 1}}
+{"phase": 2, "table_id": "2-17957171-1", "question": "What ship has a norway nationality?", "sql": {"sel": 1, "conds": [[2, 0, "norway"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1971074-1", "question": "When did the school from Logan Township, Pennsylvania join the Conference?", "sql": {"sel": 6, "conds": [[1, 0, "Logan Township, Pennsylvania"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12044284-1", "question": "What is the sum of the evening gown scores where the interview score is less than 8.77, the swimsuit score is equal to 7.8, and the average score is less than 8.2?", "sql": {"sel": 3, "conds": [[1, 2, 8.77], [2, 0, 7.8], [4, 2, 8.2]], "agg": 4}}
+{"phase": 1, "table_id": "1-14345690-5", "question": "Who is the famous for that finished 2nd?", "sql": {"sel": 1, "conds": [[4, 0, "2nd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12094300-1", "question": "How many times did district of Columbia receive a score for evening gown?", "sql": {"sel": 4, "conds": [[0, 0, "District of Columbia"]], "agg": 3}}
+{"phase": 1, "table_id": "1-262481-2", "question": "where is Fisk University located? ", "sql": {"sel": 1, "conds": [[0, 0, "Fisk University"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26351260-1", "question": "How many school teams are nicknamed \"Bulldogs\".", "sql": {"sel": 1, "conds": [[5, 0, "Bulldogs"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12472016-2", "question": "What is the smallest ERP for allentown, pennsylvania?", "sql": {"sel": 3, "conds": [[2, 0, "allentown, pennsylvania"]], "agg": 2}}
+{"phase": 2, "table_id": "2-14518594-1", "question": "Which Type has a Date smaller than 1943, and a Builder of alco schenectady, and a Number larger than 822, and Works number of 59867?", "sql": {"sel": 2, "conds": [[3, 2, 1943], [1, 0, "alco schenectady"], [0, 1, 822], [4, 0, 59867]], "agg": 0}}
+{"phase": 2, "table_id": "2-14332822-1", "question": "Which 3\u2019UTR sequence has the GenBank ID at hq021440?", "sql": {"sel": 3, "conds": [[4, 0, "hq021440"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15494883-20", "question": "What is the total number of Total Passengers when the annual change is 28.8% and the rank is less than 8?", "sql": {"sel": 2, "conds": [[3, 0, "28.8%"], [0, 2, 8]], "agg": 3}}
+{"phase": 1, "table_id": "1-12338595-1", "question": "What is the interview score for the state of Virginia?", "sql": {"sel": 2, "conds": [[0, 0, "Virginia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-18", "question": "what is the turbo when the frequency is 2.2 ghz?", "sql": {"sel": 4, "conds": [[3, 0, "2.2 ghz"]], "agg": 0}}
+{"phase": 2, "table_id": "2-178398-1", "question": "Which Sub-Parish (Sogn) is in the Parish (Prestegjeld) of hafslo parish and is located in the Church of Urnes?", "sql": {"sel": 1, "conds": [[0, 0, "hafslo parish"], [4, 0, "urnes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1973842-1", "question": "On how many different dates did schools from Chestnut Hill, Massachusetts join the conference?", "sql": {"sel": 6, "conds": [[1, 0, "Chestnut Hill, Massachusetts"]], "agg": 3}}
+{"phase": 1, "table_id": "1-18332845-2", "question": "What is the departure for Peterborough East whose arrival time is 12.40?", "sql": {"sel": 0, "conds": [[1, 0, "Peterborough East"], [3, 0, "12.40"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12760940-1", "question": "What call sign has a frequency of 91.3 MHz?", "sql": {"sel": 0, "conds": [[1, 0, 91.3]], "agg": 0}}
+{"phase": 2, "table_id": "2-16432543-2", "question": "Which institution is located in Reading, PA?", "sql": {"sel": 0, "conds": [[1, 0, "reading, pa"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12499438-1", "question": "Name the ERP W with a frequency mhz more than 93.3 and city license of washington, georgia", "sql": {"sel": 3, "conds": [[1, 1, 93.3], [2, 0, "washington, georgia"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14987147-1", "question": "Name the date with works number less than 1673 and number less than 3", "sql": {"sel": 3, "conds": [[4, 2, 1673], [0, 2, 3]], "agg": 0}}
+{"phase": 2, "table_id": "2-16078390-1", "question": "What is the location of the University of Montana, which was founded after 1890?", "sql": {"sel": 1, "conds": [[2, 1, 1890], [0, 0, "university of montana"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16381914-1", "question": "What's the total enrollment of public schools located in Buffalo, New York that were founded after 1846?", "sql": {"sel": 4, "conds": [[1, 0, "buffalo, new york"], [3, 0, "public"], [2, 1, 1846]], "agg": 4}}
+{"phase": 1, "table_id": "1-1183842-1", "question": "Barry University had the highest enrollment of what number?", "sql": {"sel": 4, "conds": [[0, 0, "Barry University"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14931889-21", "question": "What is the total number of Long with a Av/g of 124.9 but Loss greater than 0?", "sql": {"sel": 4, "conds": [[3, 1, 0], [5, 0, 124.9]], "agg": 3}}
+{"phase": 2, "table_id": "2-18823880-4", "question": "what is the part number when the release date is january 2011, the frequency is 3.4 ghz and the release price (usd) is $317?", "sql": {"sel": 12, "conds": [[11, 0, "january 2011"], [3, 0, "3.4 ghz"], [13, 0, "$317"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-18", "question": "what is the sspec number when the part number is cw8064701470802?", "sql": {"sel": 1, "conds": [[12, 0, "cw8064701470802"]], "agg": 0}}
+{"phase": 1, "table_id": "1-17088705-2", "question": "State average scores of participants from arizona", "sql": {"sel": 5, "conds": [[0, 0, "Arizona"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12044284-1", "question": "What is the sum of the interview scores from North Dakota that have averages less than 8.697, evening gown scores less than 8.73, and swimsuit scores greater than 8.41?", "sql": {"sel": 1, "conds": [[4, 2, 8.697], [3, 2, 8.73], [0, 0, "north dakota"], [2, 1, 8.41]], "agg": 4}}
+{"phase": 1, "table_id": "1-255188-1", "question": "When was the University founded that joined in 1978?", "sql": {"sel": 3, "conds": [[6, 0, 1978]], "agg": 1}}
+{"phase": 2, "table_id": "2-14123212-1", "question": "What is the Class for the ERP W of more than 2 and the call sign of w223au?", "sql": {"sel": 4, "conds": [[3, 1, 2], [0, 0, "w223au"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097664-8", "question": "Which Object type has a Constellation of cancer?", "sql": {"sel": 1, "conds": [[2, 0, "cancer"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16078390-2", "question": "The Loggers are part of what Primary Conference?", "sql": {"sel": 6, "conds": [[5, 0, "loggers"]], "agg": 0}}
+{"phase": 1, "table_id": "1-178398-1", "question": "In what parish is the sub-parish fortun? ", "sql": {"sel": 0, "conds": [[1, 0, "Fortun"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17101015-8", "question": "What is average frequency MHZ when is in portales, new mexico?", "sql": {"sel": 1, "conds": [[2, 0, "portales, new mexico"]], "agg": 5}}
+{"phase": 1, "table_id": "1-11690135-1", "question": "Who had a swimsuit score of 9.87?", "sql": {"sel": 0, "conds": [[2, 0, "9.87"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11690135-1", "question": "What is the total average for swimsuits smaller than 9.62 in Colorado?", "sql": {"sel": 4, "conds": [[2, 2, 9.62], [0, 0, "colorado"]], "agg": 4}}
+{"phase": 2, "table_id": "2-18670594-1", "question": "What was the nationality of the ship named Toward?", "sql": {"sel": 2, "conds": [[1, 0, "toward"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27361255-1", "question": "What is the nickname of the Adrian, Michigan team?", "sql": {"sel": 5, "conds": [[1, 0, "Adrian, Michigan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14993406-1", "question": "ERP W that has a Class of d, and a Call sign of k299ar is what total number?", "sql": {"sel": 3, "conds": [[4, 0, "d"], [0, 0, "k299ar"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18830588-38", "question": "What is the loss when the average/gain is less than 16.7, gain is 104 and long is larger than 4?", "sql": {"sel": 3, "conds": [[5, 2, 16.7], [4, 1, 4], [2, 0, 104]], "agg": 5}}
+{"phase": 2, "table_id": "2-15418772-5", "question": "What is the lowest long with a Gp-GS of 11-8, and a gain less than 228?", "sql": {"sel": 4, "conds": [[1, 0, "11-8"], [2, 2, 228]], "agg": 2}}
+{"phase": 2, "table_id": "2-16981858-5", "question": "WHAT IS THE LOSS WITH AN AVERAGE OF 89.9?", "sql": {"sel": 3, "conds": [[5, 0, 89.9]], "agg": 4}}
+{"phase": 2, "table_id": "2-17900687-1", "question": "What was the ERP W for 96.7 MHz?", "sql": {"sel": 3, "conds": [[1, 0, 96.7]], "agg": 0}}
+{"phase": 2, "table_id": "2-17521433-1", "question": "What is the interview number in Louisiana, and the swimsuit number is more than 9.1?", "sql": {"sel": 2, "conds": [[0, 0, "louisiana"], [3, 1, 9.1]], "agg": 3}}
+{"phase": 1, "table_id": "1-1973842-1", "question": "What type is the school located in Macon, Georgia?", "sql": {"sel": 4, "conds": [[1, 0, "Macon, Georgia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16078390-2", "question": "What conference does Gonzaga University play in?", "sql": {"sel": 6, "conds": [[0, 0, "Gonzaga University"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11690135-1", "question": "How many interviews were there for Miss Virginia?", "sql": {"sel": 1, "conds": [[0, 0, "Virginia"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18823880-13", "question": "What is the socked when the turbo is 8/8/10/11?", "sql": {"sel": 9, "conds": [[4, 0, "8/8/10/11"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25594271-2", "question": "What yacht had LOA Metres of 13.34?", "sql": {"sel": 2, "conds": [[5, 0, "13.34"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14208614-1", "question": "Name the ERP W for glens falls, new york", "sql": {"sel": 3, "conds": [[2, 0, "glens falls, new york"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-4", "question": "Who was the celebrity who finished in 7th place?", "sql": {"sel": 0, "conds": [[4, 0, "7th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1974632-1", "question": "where is the private/presbyterian institute", "sql": {"sel": 1, "conds": [[4, 0, "Private/Presbyterian"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14155087-1", "question": "What is the Frequency of Gosford when the Callsign of 2cfm?", "sql": {"sel": 2, "conds": [[1, 0, "gosford"], [0, 0, "2cfm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-8", "question": "Which Melbourne has a Perth of yes, and an Auckland of yes?", "sql": {"sel": 1, "conds": [[2, 0, "yes"], [5, 0, "yes"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097664-1", "question": "What is the right ascension (J2000) with a Declination (J2000) of \u00b012\u203243\u2033, is a constellation of dorado, and has an NGC number larger than 2068?", "sql": {"sel": 3, "conds": [[0, 1, 2068], [2, 0, "dorado"], [4, 0, "\u00b012\u203243\u2033"]], "agg": 0}}
+{"phase": 1, "table_id": "1-255205-1", "question": "How many joined this Private/Church of God institution?", "sql": {"sel": 6, "conds": [[4, 0, "Private/Church of God"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27361255-1", "question": "Where is Robert Morris University-Illinois held?", "sql": {"sel": 1, "conds": [[0, 0, "Robert Morris University-Illinois"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1974632-1", "question": "state the institution in glenside, pennsylvania", "sql": {"sel": 0, "conds": [[1, 0, "Glenside, Pennsylvania"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12063332-1", "question": "Name the sum of swimsuit when the evening gown is less than 6.983 and the average is less than 7.362", "sql": {"sel": 2, "conds": [[4, 2, 7.362], [3, 2, 6.983]], "agg": 4}}
+{"phase": 2, "table_id": "2-12044284-1", "question": "What is the sum of the swimsuit scores from Missouri that have evening gown scores less than 8.77 and average scores less than 8.823?", "sql": {"sel": 2, "conds": [[3, 2, 8.77], [0, 0, "missouri"], [4, 2, 8.823]], "agg": 4}}
+{"phase": 2, "table_id": "2-177267-1", "question": "What is the smoke point with a total fat of 100g, and monounsaturated fat of 46g?", "sql": {"sel": 4, "conds": [[0, 0, "100g"], [2, 0, "46g"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18333678-2", "question": "how many callings of trains arriving at 09.06", "sql": {"sel": 2, "conds": [[3, 0, "09.06"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11097691-6", "question": "what is the object type when the right ascension (j2000) is 11h10m42.8s?", "sql": {"sel": 1, "conds": [[3, 0, "11h10m42.8s"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18333678-2", "question": "what is the operator of trains arriving at 13.39 ", "sql": {"sel": 4, "conds": [[3, 0, "13.39"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12912176-1", "question": "Name the title with termination of mission of february 24, 1828", "sql": {"sel": 1, "conds": [[3, 0, "february 24, 1828"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18365784-3", "question": "What was the departure time of the train that arrived at 21.26?", "sql": {"sel": 0, "conds": [[3, 0, "21.26"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16168849-1", "question": "Name the maximum founded for blue hose", "sql": {"sel": 2, "conds": [[5, 0, "Blue Hose"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12230393-5", "question": "yes or no for the gold coast with yes for melbourne, yes for adelaide, yes for auckland?", "sql": {"sel": 4, "conds": [[1, 0, "yes"], [3, 0, "yes"], [5, 0, "yes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14345690-2", "question": "When did Darren Day enter?", "sql": {"sel": 2, "conds": [[0, 0, "Darren Day"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17521433-1", "question": "What is the swimsuit number when the preliminary is 8.721, and the average is more than 8.781?", "sql": {"sel": 3, "conds": [[1, 0, 8.721], [5, 1, 8.781]], "agg": 3}}
+{"phase": 2, "table_id": "2-18621997-1", "question": "What is the saturated fat with 28g of polyunsaturated fat?", "sql": {"sel": 1, "conds": [[3, 0, "28g"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1195910-1", "question": "Name the smoke point for monosaturated fat of 30g", "sql": {"sel": 4, "conds": [[2, 0, "30g"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1566850-6", "question": "Who was the 20 Questions section aimed at when the Interview Subject was Camille Paglia?", "sql": {"sel": 4, "conds": [[3, 0, "camille paglia"]], "agg": 0}}
+{"phase": 1, "table_id": "1-18365784-3", "question": "What was the arrival time of the train that departed at 18.16?", "sql": {"sel": 3, "conds": [[0, 0, "18.16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-178381-1", "question": "What is the Sub-Parish (Sokn) that was built in 1957 in the location of Stavang?", "sql": {"sel": 1, "conds": [[3, 0, "1957"], [4, 0, "stavang"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10317840-1", "question": "Tell me the sum of frequency for ERP W less than 1", "sql": {"sel": 1, "conds": [[3, 2, 1]], "agg": 4}}
+{"phase": 2, "table_id": "2-12826598-1", "question": "What is the title of the representative appointed by James K. Polk?", "sql": {"sel": 1, "conds": [[4, 0, "james k. polk"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097664-10", "question": "Tell me the highest NGC number for right ascension of 09h40m28.5s", "sql": {"sel": 0, "conds": [[3, 0, "09h40m28.5s"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1183842-1", "question": "The fighting knights has what type of nickname?", "sql": {"sel": 3, "conds": [[5, 0, "Fighting Knights"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12499438-1", "question": "Name the sum of ERP W for class of d and frequency mhz of 98.7", "sql": {"sel": 3, "conds": [[4, 0, "d"], [1, 0, 98.7]], "agg": 4}}
+{"phase": 2, "table_id": "2-12230393-4", "question": "What is the result for Melbourne when Gold Coast, Perth, Auckland, and Sydney are no?", "sql": {"sel": 1, "conds": [[4, 0, "no"], [2, 0, "no"], [5, 0, "no"], [0, 0, "no"]], "agg": 0}}
+{"phase": 1, "table_id": "1-262514-1", "question": "What is every institution with a nickname of Ravens?", "sql": {"sel": 0, "conds": [[5, 0, "Ravens"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13975482-1", "question": "What call sign is licensed in soledad, california?", "sql": {"sel": 0, "conds": [[2, 0, "soledad, california"]], "agg": 0}}
+{"phase": 1, "table_id": "1-178381-1", "question": "What's the name of the church in Stavang?", "sql": {"sel": 2, "conds": [[4, 0, "Stavang"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16432543-4", "question": "What is the location of the school established in 2013?", "sql": {"sel": 1, "conds": [[4, 0, 2013]], "agg": 0}}
+{"phase": 1, "table_id": "1-14345690-5", "question": "What is the finished place where exited is day 11?", "sql": {"sel": 4, "conds": [[3, 0, "Day 11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12853969-1", "question": "Which representative was the Ambassador Extraordinary and Plenipotentiary and had a Termination of Mission date September 20, 1996?", "sql": {"sel": 0, "conds": [[1, 0, "ambassador extraordinary and plenipotentiary"], [3, 0, "september 20, 1996"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16078390-2", "question": "What is the Enrollment at Whitman College Founded after 1859?", "sql": {"sel": 4, "conds": [[0, 0, "whitman college"], [2, 1, 1859]], "agg": 5}}
+{"phase": 2, "table_id": "2-178390-1", "question": "When was the church in Arnafjord built?", "sql": {"sel": 3, "conds": [[4, 0, "arnafjord"]], "agg": 0}}
+{"phase": 1, "table_id": "1-12094609-1", "question": " what's the\u00a0swimsuit\u00a0where\u00a0average\u00a0is 8.670", "sql": {"sel": 3, "conds": [[5, 0, "8.670"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16168849-1", "question": "Where was the game played with a 2013 left and Royals nickname?", "sql": {"sel": 1, "conds": [[7, 0, "2013"], [5, 0, "royals"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12853969-1", "question": "What was the Termination of Mission date for the ambassador who was appointed by Barack Obama?", "sql": {"sel": 3, "conds": [[4, 0, "barack obama"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097691-4", "question": "what is the right ascension (j2000) with the ngc number less than 3384, the constellation is hydra and the object type is spiral galaxy?", "sql": {"sel": 3, "conds": [[0, 2, 3384], [2, 0, "hydra"], [1, 0, "spiral galaxy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1195910-1", "question": "Name the polyunsaturated fat with total fat of 100g and saturated fat of 7g", "sql": {"sel": 3, "conds": [[0, 0, "100g"], [1, 0, "7g"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1973842-1", "question": "What school is located in Chestnut Hill, Massachusetts?", "sql": {"sel": 0, "conds": [[1, 0, "Chestnut Hill, Massachusetts"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12050358-1", "question": "What's the lowest average for a swimsuit over 6.89, evening gown over 7.76, and an interview over 8.57 in illinois?", "sql": {"sel": 4, "conds": [[2, 1, 6.89], [3, 1, 7.76], [0, 0, "illinois"], [1, 1, 8.57]], "agg": 2}}
+{"phase": 2, "table_id": "2-1653640-1", "question": "With a works number of 40864 for the builder of Baldwin Locomotive Works, the number listed is?", "sql": {"sel": 0, "conds": [[1, 0, "baldwin locomotive works"], [4, 0, 40864]], "agg": 0}}
+{"phase": 1, "table_id": "1-18365784-3", "question": "Who was the train operator when the train departed at 11.02 in 1922?", "sql": {"sel": 4, "conds": [[0, 0, "11.02"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1971074-1", "question": "What's the highest enrollment among the schools?", "sql": {"sel": 5, "conds": [], "agg": 1}}
+{"phase": 1, "table_id": "1-28253870-1", "question": "Name the founded for florida state university", "sql": {"sel": 2, "conds": [[0, 0, "Florida State University"]], "agg": 0}}
+{"phase": 1, "table_id": "1-23423-2", "question": "How many imr* have tfr* 5.35?", "sql": {"sel": 8, "conds": [[7, 0, "5.35"]], "agg": 3}}
+{"phase": 1, "table_id": "1-262527-1", "question": "what type was joined in 1902 5?", "sql": {"sel": 3, "conds": [[6, 0, "1902 5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-262481-2", "question": "What is the enrollment for the institution nicknamed the panthers that left in 2012? ", "sql": {"sel": 4, "conds": [[7, 0, "2012"], [5, 0, "Panthers"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097691-2", "question": "what is the highest ngc number when the declination (j2000) is \u00b025\u203226\u2033?", "sql": {"sel": 0, "conds": [[4, 0, "\u00b025\u203226\u2033"]], "agg": 1}}
+{"phase": 2, "table_id": "2-15339242-1", "question": "Which Type has a Builder of avonside engine company, and a Number of 9?", "sql": {"sel": 2, "conds": [[1, 0, "avonside engine company"], [0, 0, 9]], "agg": 0}}
+{"phase": 1, "table_id": "1-14345690-4", "question": "Name the entered for famous for page 3 model", "sql": {"sel": 2, "conds": [[1, 0, "Page 3 Model"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-19", "question": "What model number has part number cl8064701510101?", "sql": {"sel": 0, "conds": [[12, 0, "cl8064701510101"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12094300-1", "question": "What is the evening gown score of the contestant from the District of Columbia with preliminaries smaller than 8.647?", "sql": {"sel": 4, "conds": [[1, 2, 8.647], [0, 0, "district of columbia"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14332822-1", "question": "What was the 3\u2019UTR sequence when Coding was 6a 3 and the GenBank id is nm_001093770.2?", "sql": {"sel": 3, "conds": [[2, 0, "6a 3"], [4, 0, "nm_001093770.2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14797490-1", "question": "Which ERP W is the highest one that has a Call sign of w255bi?", "sql": {"sel": 3, "conds": [[0, 0, "w255bi"]], "agg": 1}}
+{"phase": 1, "table_id": "1-12094300-1", "question": "What is the score for swimsuit when the average is 8.791?", "sql": {"sel": 3, "conds": [[5, 0, "8.791"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18823880-15", "question": "How many cores does the processor with a release price of $426 have?", "sql": {"sel": 2, "conds": [[13, 0, "$426"]], "agg": 0}}
+{"phase": 1, "table_id": "1-262527-1", "question": "what type of institution is ottawa university?", "sql": {"sel": 3, "conds": [[0, 0, "Ottawa University"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14155087-1", "question": "What Band has a Frequency of 0 99.7 in the Area of Newcastle?", "sql": {"sel": 3, "conds": [[2, 0, "0 99.7"], [1, 0, "newcastle"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12840409-1", "question": "The frequency 89.3 belongs to what class?", "sql": {"sel": 4, "conds": [[1, 0, 89.3]], "agg": 0}}
+{"phase": 1, "table_id": "1-17521433-1", "question": "What was the swimsuit score for the country with the average score of 8.848?", "sql": {"sel": 3, "conds": [[5, 0, "8.848"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14931889-21", "question": "What is the average Long that has a GP-GS less than 14, a AVg/G less than 0.8 and a Gain less than 3 and a Loss greater than 8?", "sql": {"sel": 4, "conds": [[1, 2, 14], [5, 2, 0.8], [2, 2, 3], [3, 1, 8]], "agg": 5}}
+{"phase": 2, "table_id": "2-1566852-4", "question": "Who was the Cover model on 11-03?", "sql": {"sel": 1, "conds": [[0, 0, "11-03"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12912176-1", "question": "Name the presentation of credentials for appointed by of grover cleveland and representative of charles w. buck", "sql": {"sel": 2, "conds": [[4, 0, "grover cleveland"], [0, 0, "charles w. buck"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16323766-3", "question": "What was the swimsuit score for the one who had a semifinal average of 8.759 (5)?", "sql": {"sel": 3, "conds": [[5, 0, "8.759 (5)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-178398-1", "question": "Which Sub-Parish (Sogn) is in the Parish (Prestegjeld) of hafslo parish and has a church called Hafslo Kyrkje?", "sql": {"sel": 1, "conds": [[0, 0, "hafslo parish"], [2, 0, "hafslo kyrkje"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12230393-3", "question": "Which Perth's gold coast and Adelaide were yes when Auckland was no?", "sql": {"sel": 2, "conds": [[4, 0, "yes"], [3, 0, "yes"], [5, 0, "no"]], "agg": 0}}
+{"phase": 2, "table_id": "2-178390-1", "question": "What is the Sub-Parish called that has a church located in Fresvik?", "sql": {"sel": 1, "conds": [[4, 0, "fresvik"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12760940-1", "question": "What city of license has a value of k293bg for its call sign?", "sql": {"sel": 2, "conds": [[0, 0, "k293bg"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11097691-2", "question": "what is the constellation when the Right ascension ( J2000 ) is 10h18m58.4s?", "sql": {"sel": 2, "conds": [[3, 0, "10h18m58.4s"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11681226-1", "question": "Name the call sign for ERP W of 4", "sql": {"sel": 0, "conds": [[3, 0, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-12499852-1", "question": "What is the total number of the ERP W with a call sign of w242ak?", "sql": {"sel": 3, "conds": [[0, 0, "w242ak"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1566852-5", "question": "When Centerfold model is on 3-04?", "sql": {"sel": 2, "conds": [[0, 0, "3-04"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16268026-3", "question": "what is the swimsuit score when evening gown score is 9.165 (3)?", "sql": {"sel": 3, "conds": [[4, 0, "9.165 (3)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-11", "question": "What position did the celebrity finish that entered on day 1 and exited on day 15?", "sql": {"sel": 4, "conds": [[2, 0, "day 1"], [3, 0, "day 15"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1971074-1", "question": "When was the private/non-sectarian school founded?", "sql": {"sel": 3, "conds": [[4, 0, "Private/Non-sectarian"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1566848-9", "question": "Who was the Centerfild model that used Bruce Willis as her Interview subject?", "sql": {"sel": 2, "conds": [[3, 0, "bruce willis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14345690-7", "question": "What rank did Myleene Klass finish?", "sql": {"sel": 4, "conds": [[0, 0, "myleene klass"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12503727-1", "question": "Give me the MHz Frequency of Allapattah, Florida.", "sql": {"sel": 1, "conds": [[2, 0, "allapattah, florida"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16381914-1", "question": "What affiliation is Erie, Pennsylvania?", "sql": {"sel": 3, "conds": [[1, 0, "Erie, Pennsylvania"]], "agg": 0}}
+{"phase": 1, "table_id": "1-178381-1", "question": "What's the sub-parish (sokn) of Eikefjord?", "sql": {"sel": 1, "conds": [[4, 0, "Eikefjord"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11884814-3", "question": "What is the highest swimsuit score of the contestant with a higher than 9.55 interview score, and evening gown of 9.75, and an average higher than 9.67?", "sql": {"sel": 2, "conds": [[1, 1, 9.55], [3, 0, 9.75], [4, 1, 9.67]], "agg": 1}}
+{"phase": 2, "table_id": "2-18823880-14", "question": "what is the part number(s) when the turbo is 9/11 and the frequency is 1.5 ghz?", "sql": {"sel": 12, "conds": [[4, 0, "9/11"], [3, 0, "1.5 ghz"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17071097-1", "question": "What is the ERP W for the station whose call sign is K248BJ and whose frequency MHz is higher than 97.5?", "sql": {"sel": 3, "conds": [[0, 0, "k248bj"], [1, 1, 97.5]], "agg": 5}}
+{"phase": 2, "table_id": "2-15728409-1", "question": "Call sign k216fo has what average ERP W?", "sql": {"sel": 3, "conds": [[0, 0, "k216fo"]], "agg": 5}}
+{"phase": 2, "table_id": "2-17071097-1", "question": "What is the class for the ERP W of 500?", "sql": {"sel": 4, "conds": [[3, 0, 500]], "agg": 0}}
+{"phase": 1, "table_id": "1-25594271-2", "question": "How many LOA metres were there when the skipper is lou abrahams?", "sql": {"sel": 5, "conds": [[6, 0, "Lou Abrahams"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12853969-1", "question": "What is the Termination of Mission date for Marsha E. Barnes, the Ambassador Extraordinary and Plenipotentiary?", "sql": {"sel": 3, "conds": [[1, 0, "ambassador extraordinary and plenipotentiary"], [0, 0, "marsha e. barnes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14345690-3", "question": "How many people finished 9th?", "sql": {"sel": 3, "conds": [[4, 0, "9th"]], "agg": 3}}
+{"phase": 1, "table_id": "1-16432543-3", "question": "How many teams were established at University of Maryland?", "sql": {"sel": 4, "conds": [[0, 0, "University of Maryland"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17297775-1", "question": "What is the total number of Tonnage, when Date is \"25 June 1943\"?", "sql": {"sel": 3, "conds": [[0, 0, "25 june 1943"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14208614-1", "question": "Name the average ERP W and call sign of w237br", "sql": {"sel": 3, "conds": [[0, 0, "w237br"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1652509-1", "question": "What is the sum of number with type 0-4-4 forney locomotive, number smaller than 20 and works number of 1251?", "sql": {"sel": 3, "conds": [[2, 0, "0-4-4 forney locomotive"], [0, 2, 20], [4, 0, 1251]], "agg": 3}}
+{"phase": 1, "table_id": "1-178399-1", "question": "Name the parish for 1908", "sql": {"sel": 0, "conds": [[3, 0, 1908]], "agg": 0}}
+{"phase": 1, "table_id": "1-28211213-2", "question": "When private/ nonsectarian is the the affiliation what is the team nickname?", "sql": {"sel": 5, "conds": [[3, 0, "Private/ Nonsectarian"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15494883-14", "question": "Can you tell me the Annual change that has the Location of manaus?", "sql": {"sel": 3, "conds": [[1, 0, "manaus"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14155087-1", "question": "What is the Callsign with an Area of tamworth and frequency of 0 88.9?", "sql": {"sel": 0, "conds": [[1, 0, "tamworth"], [2, 0, "0 88.9"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27434-2", "question": "What is the natural change per year for the 34 IMR group?", "sql": {"sel": 3, "conds": [[8, 0, 34]], "agg": 0}}
+{"phase": 2, "table_id": "2-1566848-9", "question": "When was Shannon Long the Centerfold model?", "sql": {"sel": 0, "conds": [[2, 0, "shannon long"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17101015-10", "question": "Frequency for kamy?", "sql": {"sel": 1, "conds": [[0, 0, "kamy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11884814-2", "question": "What is the highest swimsuit a contestant from Kansas with an average larger than 8.48, an interview higher than 8.58, and an evening gown higher than 8.82 has?", "sql": {"sel": 2, "conds": [[4, 1, 8.48], [1, 1, 8.58], [3, 1, 8.82], [0, 0, "kansas"]], "agg": 1}}
+{"phase": 2, "table_id": "2-14369924-1", "question": "what is the class of w269ax", "sql": {"sel": 4, "conds": [[0, 0, "w269ax"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14155408-1", "question": "Callsign of 6nan has what purpose?", "sql": {"sel": 5, "conds": [[0, 0, "6nan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15019672-21", "question": "Which Loss is the lowest one that has an Avg/G of 3.5, and a Gain smaller than 42?", "sql": {"sel": 3, "conds": [[5, 0, 3.5], [2, 2, 42]], "agg": 2}}
+{"phase": 1, "table_id": "1-18950570-2", "question": "What's the TFR for the period with NC of 13.4?", "sql": {"sel": 7, "conds": [[6, 0, "13.4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-178381-1", "question": "What is the name of the church that is located in eikefjord?", "sql": {"sel": 2, "conds": [[4, 0, "eikefjord"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1973729-1", "question": "How many years are listed under joined for the Nor'easters?", "sql": {"sel": 6, "conds": [[5, 0, "Nor'easters"]], "agg": 3}}
+{"phase": 2, "table_id": "2-14996829-1", "question": "What is Charleston, SC ERP W?", "sql": {"sel": 3, "conds": [[2, 0, "charleston, sc"]], "agg": 0}}
+{"phase": 2, "table_id": "2-178398-1", "question": "Which Sub-Parish (Sogn) has a church named Jostedal Kyrkje?", "sql": {"sel": 1, "conds": [[2, 0, "jostedal kyrkje"]], "agg": 0}}
+{"phase": 1, "table_id": "1-14345690-2", "question": "What position did Tara Palmer-Tomkinson finish?", "sql": {"sel": 4, "conds": [[0, 0, "Tara Palmer-Tomkinson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12270475-1", "question": "What is the lowest Preliminary score of a contestant that has an Evening Gown score of 8.472?", "sql": {"sel": 1, "conds": [[4, 0, 8.472]], "agg": 2}}
+{"phase": 2, "table_id": "2-16933845-1", "question": "What is Call Sign, when City of License is Brownfield, Texas?", "sql": {"sel": 0, "conds": [[2, 0, "brownfield, texas"]], "agg": 0}}
+{"phase": 1, "table_id": "1-25561560-3", "question": "What was Swish's corrected time?", "sql": {"sel": 7, "conds": [[2, 0, "Swish"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27361255-1", "question": "What is the enrollment for the Redhawks?", "sql": {"sel": 4, "conds": [[5, 0, "RedHawks"]], "agg": 3}}
+{"phase": 2, "table_id": "2-17957171-1", "question": "What is the fate of the ship on 26 April 1942?", "sql": {"sel": 4, "conds": [[0, 0, "26 april 1942"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17521433-1", "question": "What is the number for the interview in Illinois when the preliminary is less than 8.558?", "sql": {"sel": 2, "conds": [[0, 0, "illinois"], [1, 2, 8.558]], "agg": 4}}
+{"phase": 2, "table_id": "2-1675640-2", "question": "What is Builder, when Date is 1953?", "sql": {"sel": 1, "conds": [[3, 0, "1953"]], "agg": 0}}
+{"phase": 2, "table_id": "2-15494883-26", "question": "In Which rank was there a location of porto alegre?", "sql": {"sel": 0, "conds": [[1, 0, "porto alegre"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16323766-3", "question": "What was the preliminary average for Miss Mississippi?", "sql": {"sel": 1, "conds": [[0, 0, "Mississippi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17088705-2", "question": "What is the lowest interview score for Missouri, where the swimsuit score was highter than 9.433?", "sql": {"sel": 2, "conds": [[0, 0, "missouri"], [3, 1, 9.433]], "agg": 2}}
+{"phase": 2, "table_id": "2-17521433-1", "question": "What is the evening gown number when the average is more than 8.984 in Louisiana and the preliminary is more than 8.597?", "sql": {"sel": 4, "conds": [[5, 1, 8.984], [0, 0, "louisiana"], [1, 1, 8.597]], "agg": 3}}
+{"phase": 1, "table_id": "1-12094609-1", "question": " what's the\u00a0evening gown\u00a0where\u00a0preliminaries\u00a0is 8.977", "sql": {"sel": 4, "conds": [[1, 0, "8.977"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1973842-1", "question": "What's the type of the school whose students' name is spirits?", "sql": {"sel": 4, "conds": [[2, 0, "Spirits"]], "agg": 0}}
+{"phase": 1, "table_id": "1-16432543-3", "question": "What is the smallest number of enrolled students?", "sql": {"sel": 3, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-17088705-2", "question": "Number of participants with a score 8.895 in preliminary", "sql": {"sel": 2, "conds": [[1, 0, "8.895"]], "agg": 3}}
+{"phase": 2, "table_id": "2-15019672-21", "question": "How much Loss has an Avg/G larger than 129.2?", "sql": {"sel": 3, "conds": [[5, 1, 129.2]], "agg": 3}}

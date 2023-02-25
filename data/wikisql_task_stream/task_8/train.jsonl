@@ -1,0 +1,432 @@
+{"phase": 2, "table_id": "2-17857470-4", "question": "Which inhabitants have lega lombarda as the party, with an election greater than 2010?", "sql": {"sel": 1, "conds": [[3, 0, "lega lombarda"], [4, 1, 2010]], "agg": 0}}
+{"phase": 1, "table_id": "1-22757733-4", "question": "which was k. annamalai\u00b4s party a?", "sql": {"sel": 5, "conds": [[4, 0, "K. Annamalai"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342233-11", "question": "Which party is associated with the candidate Albert Sidney Camp (D) unopposed?", "sql": {"sel": 2, "conds": [[5, 0, "Albert Sidney Camp (D) Unopposed"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24565004-14", "question": "How many names correspond to the value 101 for appearances?", "sql": {"sel": 0, "conds": [[3, 0, 101]], "agg": 3}}
+{"phase": 1, "table_id": "1-1341690-9", "question": "What candidates ran in the election with don fuqua?", "sql": {"sel": 5, "conds": [[1, 0, "Don Fuqua"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-37", "question": "When was the incumbent Sherrod Brown first elected? ", "sql": {"sel": 3, "conds": [[1, 0, "Sherrod Brown"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1818951-3", "question": "What's the party of 2nd member arthur divett hayter when the 1st party is conservative?", "sql": {"sel": 4, "conds": [[2, 0, "conservative"], [3, 0, "arthur divett hayter"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-38", "question": "Who is the incumbent for the Oregon 5 District that was elected in 1996?", "sql": {"sel": 1, "conds": [[3, 0, 1996], [0, 0, "oregon 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-24", "question": "What is the lowest First Elected, when Party is \"Republican\", and when District is \"Minnesota 1\"?", "sql": {"sel": 3, "conds": [[2, 0, "republican"], [0, 0, "minnesota 1"]], "agg": 2}}
+{"phase": 1, "table_id": "1-24565004-20", "question": "Name the number of appearances for yugoslavia", "sql": {"sel": 3, "conds": [[5, 0, "Yugoslavia"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2417345-4", "question": "Name the reason for change when George W. Greene (D) was the vacator.", "sql": {"sel": 2, "conds": [[1, 0, "George W. Greene (D)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-22", "question": "How many different total points does the couple ranked at number 5 have?", "sql": {"sel": 4, "conds": [[0, 0, 5]], "agg": 3}}
+{"phase": 2, "table_id": "2-1805191-41", "question": "What party has the South Carolina 2 district?", "sql": {"sel": 2, "conds": [[0, 0, "south carolina 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517886-1", "question": "What is the Reserved for (SC / ST /None) when the constituency number is 203?", "sql": {"sel": 2, "conds": [[0, 0, "203"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342270-3", "question": "what's the\u00a0first elected\u00a0with\u00a0incumbent\u00a0being joe starnes", "sql": {"sel": 3, "conds": [[1, 0, "Joe Starnes"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-60", "question": "Was the constitution amended when the percentage of yes votes was 69.82%?", "sql": {"sel": 5, "conds": [[4, 0, "69.82%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26375386-18", "question": "WHat was the max public with danniella and matthew?", "sql": {"sel": 3, "conds": [[1, 0, "Danniella and Matthew"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1341423-38", "question": "How many candidates were there in the district won by Joe Hoeffel?", "sql": {"sel": 5, "conds": [[1, 0, "Joe Hoeffel"]], "agg": 3}}
+{"phase": 2, "table_id": "2-167235-6", "question": "Which Born-Died has a Term start of 4 november 1943?", "sql": {"sel": 1, "conds": [[2, 0, "4 november 1943"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225102-4", "question": "Name the vacator for died august 13, 1826", "sql": {"sel": 1, "conds": [[2, 0, "Died August 13, 1826"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-6", "question": "What party did hilda solis represent?", "sql": {"sel": 2, "conds": [[1, 0, "Hilda Solis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12291693-1", "question": "Which 1st Party has an election in 1847?", "sql": {"sel": 2, "conds": [[0, 0, "1847"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17922056-1", "question": "Where is constituency number 16?", "sql": {"sel": 1, "conds": [[0, 0, "16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431459-5", "question": "Which republican was first elected in 1886 in the district of ohio 17?", "sql": {"sel": 4, "conds": [[2, 0, "republican"], [3, 0, "1886"], [0, 0, "ohio 17"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-47", "question": "What district is Jim Moran the incumbent for.", "sql": {"sel": 0, "conds": [[1, 0, "jim moran"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18984749-2", "question": "Which Player has a Total of 9, and an Opposition of offaly?", "sql": {"sel": 1, "conds": [[4, 0, 9], [5, 0, "offaly"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417330-4", "question": "Name the vacator for kentucky 2nd", "sql": {"sel": 1, "conds": [[0, 0, "Kentucky 2nd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22756549-1", "question": "Who was the runner up for the Nagapattinam constituency?", "sql": {"sel": 4, "conds": [[0, 0, "Nagapattinam"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-61", "question": "What is the type when yes votes are 546255? ", "sql": {"sel": 6, "conds": [[2, 0, 546255]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342013-31", "question": "What number of party had a candidate  resigned when appointed judge democratic hold?", "sql": {"sel": 2, "conds": [[4, 0, "Resigned when appointed judge Democratic hold"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24565004-7", "question": "What is the nationality of the player who scored 13 goals", "sql": {"sel": 5, "conds": [[4, 0, 13]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-8", "question": "How many years has 1 run?", "sql": {"sel": 4, "conds": [[0, 0, "1 run"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22753439-1", "question": "What is every party A with a constituency of Tiruchendur?", "sql": {"sel": 5, "conds": [[0, 0, "Tiruchendur"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-21", "question": "What is the party of the maryland 6 district?", "sql": {"sel": 2, "conds": [[0, 0, "maryland 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12283523-1", "question": "What is the 1st party with Charles Isaac Elton as the 2nd member?", "sql": {"sel": 2, "conds": [[3, 0, "charles isaac elton"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2668405-17", "question": "How many times were the candidates leven powell (f) 63.8% roger west (dr) 36.4%?", "sql": {"sel": 3, "conds": [[5, 0, "Leven Powell (F) 63.8% Roger West (DR) 36.4%"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22753439-1", "question": "How many margins have a winner of S. Singaravadivel?", "sql": {"sel": 3, "conds": [[1, 0, "S. Singaravadivel"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18125350-1", "question": "What Number of electorates (2009) has a District of mathura, and a Name of mant?", "sql": {"sel": 4, "conds": [[3, 0, "mathura"], [1, 0, "mant"]], "agg": 2}}
+{"phase": 1, "table_id": "1-20688030-1", "question": "What is McCains percent when Obamas is 39.13%", "sql": {"sel": 4, "conds": [[1, 0, "39.13%"]], "agg": 3}}
+{"phase": 2, "table_id": "2-11383551-1", "question": "What percentage of votes did the candidate win in the election of 1969?", "sql": {"sel": 3, "conds": [[0, 0, 1969]], "agg": 0}}
+{"phase": 1, "table_id": "1-13870048-3", "question": "what was the lowest numbers for the winner gregory w. meeks", "sql": {"sel": 3, "conds": [[1, 0, "Gregory W. Meeks"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18125794-1", "question": "What is the Constituency number for Meerut?", "sql": {"sel": 0, "conds": [[1, 0, "meerut"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-7", "question": "What score has 1998 as the year?", "sql": {"sel": 0, "conds": [[4, 0, 1998]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517754-1", "question": "What is the average number of electorates (2009) when the district is indore?", "sql": {"sel": 4, "conds": [[3, 0, "indore"]], "agg": 5}}
+{"phase": 1, "table_id": "1-1341453-45", "question": "What district is ruben hinojosa from?", "sql": {"sel": 0, "conds": [[1, 0, "Ruben Hinojosa"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22754310-1", "question": "Name the total number of runner up a for  perambalur", "sql": {"sel": 4, "conds": [[0, 0, "Perambalur"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1341423-40", "question": "what is the earliest first elected with the results re-elected in the district south carolina 3?", "sql": {"sel": 3, "conds": [[4, 0, "Re-elected"], [0, 0, "South Carolina 3"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1341568-6", "question": "What is the elected status of the Democratic party in 1989?", "sql": {"sel": 4, "conds": [[2, 0, "Democratic"], [3, 0, "1989"]], "agg": 0}}
+{"phase": 2, "table_id": "2-167235-2", "question": "What is the Name of the Prime Minister with a Born-Died of 1873\u20131933?", "sql": {"sel": 0, "conds": [[1, 0, "1873\u20131933"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18504892-1", "question": "What is Beohari's highest number of electorates?", "sql": {"sel": 4, "conds": [[1, 0, "beohari"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1341472-15", "question": "what's the\u00a0party\u00a0for the first elected\u00a0in 1980", "sql": {"sel": 2, "conds": [[3, 0, "1980"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1847180-3", "question": "How many reasons were given when A. Willis Robertson (D) resigned?", "sql": {"sel": 2, "conds": [[1, 0, "A. Willis Robertson (D)"]], "agg": 3}}
+{"phase": 1, "table_id": "1-224839-3", "question": "What is the number of vacators when the successor was William H. Wells ( F )?", "sql": {"sel": 1, "conds": [[3, 0, "William H. Wells ( F )"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18937160-2", "question": "What is the sum of totals for ranks under 3 with tallies of 2-5?", "sql": {"sel": 4, "conds": [[0, 2, 3], [3, 0, "2-5"]], "agg": 4}}
+{"phase": 1, "table_id": "1-22752982-5", "question": "Who was the runner-up (a) if K. P. Ramalingam won the election?", "sql": {"sel": 4, "conds": [[1, 0, "K. P. Ramalingam"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1811262-1", "question": "What is 1st Party, when 2nd Party is \"Liberal\", and when 1st Member is \"James Kershaw\"?", "sql": {"sel": 2, "conds": [[4, 0, "liberal"], [1, 0, "james kershaw"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-38", "question": "what's the\u00a0party\u00a0with\u00a0opponent\u00a0being deborah pryce (r) 70.7% bill buckel (d) 29.1%", "sql": {"sel": 2, "conds": [[5, 0, "Deborah Pryce (R) 70.7% Bill Buckel (D) 29.1%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-15", "question": "List the player that scored 4 times.", "sql": {"sel": 0, "conds": [[4, 0, 4]], "agg": 0}}
+{"phase": 2, "table_id": "2-17906488-1", "question": "What is the number of electorates (2009) for Hingna?", "sql": {"sel": 4, "conds": [[1, 0, "hingna"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1365829-4", "question": "Who was the incumbent that retired to run for the senate democratic hold?", "sql": {"sel": 1, "conds": [[4, 0, "retired to run for the senate democratic hold"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517754-1", "question": "What is the name when the reserved is (sc / st /none) of st, with a constituency number 196?", "sql": {"sel": 1, "conds": [[2, 0, "st"], [0, 0, "196"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417340-4", "question": "Who was the successor for vacant louisiana 5th", "sql": {"sel": 3, "conds": [[1, 0, "Vacant"], [0, 0, "Louisiana 5th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-13", "question": "What year was Luis Gutierrez election", "sql": {"sel": 3, "conds": [[1, 0, "Luis Gutierrez"]], "agg": 2}}
+{"phase": 1, "table_id": "1-225100-4", "question": "Who is the successor when florida territory at-large is the district?", "sql": {"sel": 3, "conds": [[0, 0, "Florida Territory At-large"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19753079-8", "question": "What incumbent was first elected in 2009?", "sql": {"sel": 1, "conds": [[3, 0, 2009]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-40", "question": "Incumbent Tim Holden belonged to what party? ", "sql": {"sel": 2, "conds": [[1, 0, "Tim Holden"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225098-4", "question": "Who vacated the Pennsylvania 6th district?", "sql": {"sel": 1, "conds": [[0, 0, "Pennsylvania 6th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-34", "question": "What party is John McHugh a member of?", "sql": {"sel": 2, "conds": [[1, 0, "John McHugh"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11190568-5", "question": "What is the opposition when the tally was 0-11?", "sql": {"sel": 5, "conds": [[3, 0, "0-11"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517591-1", "question": "Which Reserved for has a District of khargone, and a Number of electorates (2009) larger than 151,814, and a Name of kasrawad?", "sql": {"sel": 2, "conds": [[3, 0, "khargone"], [4, 1, "151,814"], [1, 0, "kasrawad"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-2", "question": "What is the most recent year for a first elected republican?", "sql": {"sel": 3, "conds": [[2, 0, "republican"]], "agg": 1}}
+{"phase": 1, "table_id": "1-2668264-17", "question": "What was the result of the election where stephen van rensselaer was the incumbent and the party represented was the adams-clay federalist party?", "sql": {"sel": 4, "conds": [[2, 0, "Adams-Clay Federalist"], [1, 0, "Stephen Van Rensselaer"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417345-3", "question": "Who was the vacator when the successor was formally installed on February 1, 1871?", "sql": {"sel": 1, "conds": [[4, 0, "February 1, 1871"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-34", "question": "What is the party affiliation of Virginia Foxx?", "sql": {"sel": 2, "conds": [[1, 0, "virginia foxx"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342198-6", "question": "How many districts have an incumbent first elected in 1944?", "sql": {"sel": 0, "conds": [[3, 0, 1944]], "agg": 3}}
+{"phase": 1, "table_id": "1-225205-4", "question": "Who is the successor when the reason for change is died November 11, 1845?", "sql": {"sel": 3, "conds": [[2, 0, "Died November 11, 1845"]], "agg": 0}}
+{"phase": 1, "table_id": "1-224840-3", "question": "when the vacator was Henry Latimer (f), what were the causes for modification?", "sql": {"sel": 2, "conds": [[1, 0, "Henry Latimer (F)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-41", "question": "Who was in the election that was for incumbent bud shuster's seat?", "sql": {"sel": 5, "conds": [[1, 0, "Bud Shuster"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-38", "question": " how many\u00a0status\u00a0with\u00a0first elected\u00a0being 1968", "sql": {"sel": 4, "conds": [[3, 0, 1968]], "agg": 3}}
+{"phase": 2, "table_id": "2-1237918-1", "question": "Which state has a Term in office of 1984\u20131996, a Party of labor, and a Member of robert tickner?", "sql": {"sel": 3, "conds": [[4, 0, "1984\u20131996"], [1, 0, "labor"], [0, 0, "robert tickner"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827690-10", "question": "What 1st member has a 2nd member of thomas snagge, and Elected of 1588/89?", "sql": {"sel": 3, "conds": [[4, 0, "thomas snagge"], [0, 0, "1588/89"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-14", "question": "What is the Party of District of Illinois 19 with an Incumbent First elected in 1996?", "sql": {"sel": 2, "conds": [[3, 0, 1996], [0, 0, "illinois 19"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12005455-1", "question": "What state has Richard Foster as a member?", "sql": {"sel": 3, "conds": [[0, 0, "richard foster"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341568-24", "question": "What are the locations where the year of election is 1980?", "sql": {"sel": 0, "conds": [[3, 0, 1980]], "agg": 0}}
+{"phase": 2, "table_id": "2-1251015-1", "question": "Which party had a member from the state of Vic and an Electorate called Wannon?", "sql": {"sel": 1, "conds": [[3, 0, "vic"], [2, 0, "wannon"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1298238-1", "question": "Who is the Member when the Party is Alp, and when the Electorate is Grey?", "sql": {"sel": 0, "conds": [[1, 0, "alp"], [2, 0, "grey"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26375386-20", "question": "what couple had a vote percentage of 5.8%?", "sql": {"sel": 1, "conds": [[5, 0, "5.8%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341690-18", "question": "What were the results when the incumbent was John Breaux?", "sql": {"sel": 4, "conds": [[1, 0, "John Breaux"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-2", "question": "Name the appearances for bernard allou", "sql": {"sel": 3, "conds": [[0, 0, "Bernard Allou"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-22", "question": "What country is Pierre Vermeulen from?", "sql": {"sel": 5, "conds": [[0, 0, "Pierre Vermeulen"]], "agg": 0}}
+{"phase": 2, "table_id": "2-10577744-3", "question": "What is the highest ranked player who opposed Westmeath?", "sql": {"sel": 0, "conds": [[5, 0, "westmeath"]], "agg": 1}}
+{"phase": 1, "table_id": "1-27021001-1", "question": "What is the result of districk georgia's 1st?", "sql": {"sel": 5, "conds": [[0, 0, "Georgia's 1st"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341395-22", "question": "Who were the candidates when ed markey was the incumbent?", "sql": {"sel": 5, "conds": [[1, 0, "Ed Markey"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26336739-1", "question": "How many elected catagories are there for the district with Saxby Chambliss as the incumbent? ", "sql": {"sel": 3, "conds": [[1, 0, "Saxby Chambliss"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24565004-19", "question": "Name the most goals for  1972 \u2013 1975, 1976 \u2013 1982", "sql": {"sel": 4, "conds": [[2, 0, "1972 \u2013 1975, 1976 \u2013 1982"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1434986-5", "question": "Which Incumbent has a District of massachusetts 8?", "sql": {"sel": 1, "conds": [[0, 0, "massachusetts 8"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12261613-1", "question": "what is the 1st pary when the second is whig?", "sql": {"sel": 2, "conds": [[4, 0, "whig"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-33", "question": "What is the party affiliation of New York 26? ", "sql": {"sel": 2, "conds": [[0, 0, "New York 26"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-39", "question": "What is the highest measure number?", "sql": {"sel": 0, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-18518150-1", "question": "What is reserved for the constituency of 228?", "sql": {"sel": 2, "conds": [[0, 0, "228"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1811218-1", "question": "Which 1st party has 2nd party conservative, election smaller than 1852, and Thomas Grimsditch as 2nd member?", "sql": {"sel": 2, "conds": [[4, 0, "conservative"], [0, 2, 1852], [3, 0, "thomas grimsditch"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-22", "question": "What couple had vote percentage of 21.843%?", "sql": {"sel": 1, "conds": [[5, 0, "21.843%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341884-45", "question": "how many voted in the texas 6 section", "sql": {"sel": 3, "conds": [[0, 0, "Texas 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-3", "question": "Which Venue has a Year larger than 1868, and an Opposition of derbyshire?", "sql": {"sel": 2, "conds": [[4, 1, 1868], [1, 0, "derbyshire"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1434810-3", "question": "Who is the incumbent that is a republican and first elected before 1864?", "sql": {"sel": 1, "conds": [[2, 0, "republican"], [3, 2, 1864]], "agg": 0}}
+{"phase": 2, "table_id": "2-1725088-2", "question": "What is the share of votes in the 2008 election?", "sql": {"sel": 3, "conds": [[0, 0, 2008]], "agg": 0}}
+{"phase": 1, "table_id": "1-22754310-1", "question": "Name the party a for  sriperumbudur", "sql": {"sel": 5, "conds": [[0, 0, "Sriperumbudur"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225200-4", "question": "Name the total number of reason for change for not filled this congress", "sql": {"sel": 2, "conds": [[4, 0, "Not filled this congress"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1805191-21", "question": "What are the results of the incumbent who was first elected in 1996?", "sql": {"sel": 4, "conds": [[3, 0, 1996]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-7", "question": "In Colorado 6 district what is the party?", "sql": {"sel": 2, "conds": [[0, 0, "colorado 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827767-1", "question": "Which 2nd Party has a Election of 1857?", "sql": {"sel": 4, "conds": [[0, 0, "1857"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-36", "question": "To what district does Bill Hefner belong?", "sql": {"sel": 0, "conds": [[1, 0, "Bill Hefner"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225198-3", "question": "Name the successor for james noble died in previous congress", "sql": {"sel": 3, "conds": [[2, 0, "James Noble died in previous Congress"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18890528-2", "question": "What is listed for the Elevator, that also has the Cardinalatial title of Deacon of S. Maria in Portico?", "sql": {"sel": 4, "conds": [[2, 0, "deacon of s. maria in portico"]], "agg": 0}}
+{"phase": 1, "table_id": "1-228439-4", "question": "What district is Samuel A. Bridges ( D ) assigned to as a successor?", "sql": {"sel": 0, "conds": [[3, 0, "Samuel A. Bridges ( D )"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365799-2", "question": "Which Incumbent has a District of California 8?", "sql": {"sel": 1, "conds": [[0, 0, "california 8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-224837-4", "question": "Name the date successor seated is south carolina 3rd", "sql": {"sel": 4, "conds": [[0, 0, "South Carolina 3rd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225099-3", "question": "What is the date of successors formal installation when the reason for change is resigned december 4, 1819?", "sql": {"sel": 4, "conds": [[2, 0, "Resigned December 4, 1819"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365841-5", "question": "When the incumbent was William Elliott, what was the result?", "sql": {"sel": 4, "conds": [[1, 0, "william elliott"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-60", "question": "Was the constitution amended on the measure described as authorizes bonds for water development fund? ", "sql": {"sel": 5, "conds": [[7, 0, "Authorizes bonds for water development fund"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341568-44", "question": "What is Larry Combest's district?", "sql": {"sel": 0, "conds": [[1, 0, "Larry Combest"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1364210-1", "question": "Which memeber has a first elected of 1972, alp as the party, vic as the state, and an electorate of gellibrand?", "sql": {"sel": 0, "conds": [[4, 0, "1972"], [1, 0, "alp"], [3, 0, "vic"], [2, 0, "gellibrand"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341472-20", "question": "What is the first election year listed?", "sql": {"sel": 3, "conds": [], "agg": 2}}
+{"phase": 2, "table_id": "2-1434788-5", "question": "wWhich district has a retired republican hold with an incumbent of rufus p. spalding?", "sql": {"sel": 0, "conds": [[4, 0, "retired republican hold"], [1, 0, "rufus p. spalding"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431467-4", "question": "Who was the Democratic incumbent in the South Carolina 5 District?", "sql": {"sel": 1, "conds": [[2, 0, "democratic"], [0, 0, "south carolina 5"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225200-4", "question": "Name the successor for not filled this congress", "sql": {"sel": 3, "conds": [[4, 0, "Not filled this congress"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1802760-3", "question": "Where was the successor formally installed on December 3, 1858?", "sql": {"sel": 0, "conds": [[4, 0, "December 3, 1858"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341568-6", "question": "Who are the opponents in district California 9?", "sql": {"sel": 5, "conds": [[0, 0, "California 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13618584-2", "question": "Party of republican, and a District of 7th is what elected?", "sql": {"sel": 3, "conds": [[2, 0, "republican"], [0, 0, "7th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18984959-3", "question": "What is the tally when the opposition is Derry, and total is 14?", "sql": {"sel": 3, "conds": [[5, 0, "derry"], [4, 0, 14]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-32", "question": "Name the number of party for new york 29", "sql": {"sel": 2, "conds": [[0, 0, "New York 29"]], "agg": 3}}
+{"phase": 1, "table_id": "1-22756549-1", "question": "How many times did M. Gounder win for Party A?", "sql": {"sel": 5, "conds": [[1, 0, "M. Gounder"]], "agg": 3}}
+{"phase": 1, "table_id": "1-13833770-3", "question": "what is the minimum\u00a0district with\u00a0incumbent\u00a0being tom reynolds", "sql": {"sel": 0, "conds": [[1, 0, "Tom Reynolds"]], "agg": 2}}
+{"phase": 1, "table_id": "1-1342233-6", "question": "who is the the\u00a0candidates\u00a0with\u00a0incumbent\u00a0being alfred j. elliott", "sql": {"sel": 5, "conds": [[1, 0, "Alfred J. Elliott"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341598-39", "question": "To which party does Robert W. Edgar belong?", "sql": {"sel": 2, "conds": [[1, 0, "Robert W. Edgar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1818951-3", "question": "Who's the conservative 1st member of the election of 1852?", "sql": {"sel": 1, "conds": [[2, 0, "conservative"], [0, 0, "1852"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-9", "question": "How did the election in the Florida 14 district end?", "sql": {"sel": 4, "conds": [[0, 0, "Florida 14"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1251015-1", "question": "What party is Mick Young a member of?", "sql": {"sel": 1, "conds": [[0, 0, "mick young"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18890652-1", "question": "Who is the elevator with the cardinalatial title of Deacon of SS. Sergio e Bacco?", "sql": {"sel": 4, "conds": [[2, 0, "deacon of ss. sergio e bacco"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18073616-2", "question": "What Elector was Elevated on December 18, 1182?", "sql": {"sel": 0, "conds": [[3, 0, "december 18, 1182"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365810-4", "question": "What district is Wyatt Aiken in?", "sql": {"sel": 0, "conds": [[1, 0, "wyatt aiken"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18951492-2", "question": "Which Tally has a County of limerick, and a Rank larger than 1?", "sql": {"sel": 3, "conds": [[2, 0, "limerick"], [0, 1, 1]], "agg": 0}}
+{"phase": 1, "table_id": "1-225102-4", "question": "Name the reason for change pennsylvania 13th", "sql": {"sel": 2, "conds": [[0, 0, "Pennsylvania 13th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-38", "question": "Which district has a Democratic incumbent that was first elected before 1996?", "sql": {"sel": 0, "conds": [[2, 0, "democratic"], [3, 2, 1996]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417340-3", "question": "List the number of vacators when successors were formally installed on June 22, 1868.", "sql": {"sel": 1, "conds": [[4, 0, "June 22, 1868"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1431467-2", "question": "Which party had a Retired Democratic hold?", "sql": {"sel": 2, "conds": [[4, 0, "retired democratic hold"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-54", "question": "When the no votes was 322682, what was the max meas. number?", "sql": {"sel": 0, "conds": [[3, 0, 322682]], "agg": 1}}
+{"phase": 1, "table_id": "1-1341568-44", "question": "What is the status of incumbent Charles Stenholm?", "sql": {"sel": 4, "conds": [[1, 0, "Charles Stenholm"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1821121-1", "question": "Which 1st Party has a 2nd Member of william rawson shaw, and a 1st Member of sir james stansfeld?", "sql": {"sel": 2, "conds": [[3, 0, "william rawson shaw"], [1, 0, "sir james stansfeld"]], "agg": 0}}
+{"phase": 1, "table_id": "1-224794-3", "question": "How many vacators were in the Pennsylvania 33rd district?", "sql": {"sel": 1, "conds": [[0, 0, "Pennsylvania 33rd"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1341843-15", "question": "Who's the incumbent of Indiana 4 district?", "sql": {"sel": 1, "conds": [[0, 0, "Indiana 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13052263-3", "question": "What County has Dublin as the Opposition?", "sql": {"sel": 2, "conds": [[5, 0, "dublin"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1694492-2", "question": "In district New York 10th, what was the reason for change?", "sql": {"sel": 2, "conds": [[0, 0, "New York 10th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2668329-25", "question": "How many people won the election in the district of Virginia 4?", "sql": {"sel": 4, "conds": [[0, 0, "Virginia 4"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1134091-4", "question": "When was the successor seated when the district was California 10th?", "sql": {"sel": 4, "conds": [[0, 0, "California 10th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-32", "question": "What is the party of the district incumbent Jim Saxton?", "sql": {"sel": 2, "conds": [[1, 0, "Jim Saxton"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431459-6", "question": "Which First elected has a District of south carolina 2?", "sql": {"sel": 3, "conds": [[0, 0, "south carolina 2"]], "agg": 2}}
+{"phase": 2, "table_id": "2-18516978-1", "question": "what is the name when the constituency number is 150?", "sql": {"sel": 1, "conds": [[0, 0, "150"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12269966-1", "question": "What was the 2nd Party when its 2nd Member was George Rushout-Bowes, and the 1st Party was Liberal?", "sql": {"sel": 4, "conds": [[3, 0, "george rushout-bowes"], [2, 0, "liberal"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2159547-3", "question": "How many people vacated to successor Dave E. Satterfield, Jr. (d)?", "sql": {"sel": 1, "conds": [[3, 0, "Dave E. Satterfield, Jr. (D)"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1365780-4", "question": "What was the District of California 2 result?", "sql": {"sel": 4, "conds": [[0, 0, "california 2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417330-4", "question": "Name the successor for vacant and december 3, 1862", "sql": {"sel": 3, "conds": [[2, 0, "Vacant"], [4, 0, "December 3, 1862"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-15", "question": "How many results do Ellery and Frankie have?", "sql": {"sel": 6, "conds": [[1, 0, "Ellery and Frankie"]], "agg": 3}}
+{"phase": 1, "table_id": "1-225099-3", "question": "Who was the successor for the state (class) of maine (2)?", "sql": {"sel": 3, "conds": [[0, 0, "Maine (2)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1298238-1", "question": "What is the year First Elected, when the Party is Alp, and when the State is qld?", "sql": {"sel": 4, "conds": [[1, 0, "alp"], [3, 0, "qld"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17922541-1", "question": "Which Number of electorates (2009) has a Constituency number of 46?", "sql": {"sel": 4, "conds": [[0, 0, "46"]], "agg": 5}}
+{"phase": 1, "table_id": "1-256286-41", "question": "What is the aggregate number of yes votes where no votes is littler than 299939.1619948521 and % yes is 66.49%", "sql": {"sel": 2, "conds": [[3, 2, 299939.1619948521], [4, 0, "66.49%"]], "agg": 3}}
+{"phase": 2, "table_id": "2-167225-1", "question": "When did Fejzi Bej Alizoti's term start?", "sql": {"sel": 2, "conds": [[0, 0, "fejzi bej alizoti"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18573392-1", "question": "What is the elevator when the elector is Pietro Colonna?", "sql": {"sel": 4, "conds": [[0, 0, "pietro colonna"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-7", "question": "What district is bill thomas from?", "sql": {"sel": 0, "conds": [[1, 0, "Bill Thomas"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18518062-1", "question": "What is the district with more than 1,246,756 electorates and a constituency number of 191?", "sql": {"sel": 3, "conds": [[4, 1, "1,246,756"], [0, 0, "191"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-9", "question": "Who is the incumbent of Florida 9?", "sql": {"sel": 1, "conds": [[0, 0, "Florida 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12269966-1", "question": "What was the 2nd Party, when the 1st Member was John Hodgetts-Foley, and the 2nd Member was Hon. Frederick Gough-Calthorpe?", "sql": {"sel": 4, "conds": [[1, 0, "john hodgetts-foley"], [3, 0, "hon. frederick gough-calthorpe"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-39", "question": "In district Pennsylvania 11, what was the total numbers of results?", "sql": {"sel": 4, "conds": [[0, 0, "Pennsylvania 11"]], "agg": 3}}
+{"phase": 1, "table_id": "1-224840-4", "question": "How many seats became avaliable in Massachusetts 3rd district?", "sql": {"sel": 1, "conds": [[0, 0, "Massachusetts 3rd"]], "agg": 3}}
+{"phase": 1, "table_id": "1-2159571-2", "question": "Who is every vacator with reason for change as resigned December 31, 1959?", "sql": {"sel": 1, "conds": [[2, 0, "Resigned December 31, 1959"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1070306-1", "question": "When was Jill Hall of the Labor Party first elected?", "sql": {"sel": 4, "conds": [[1, 0, "labor"], [0, 0, "jill hall"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225093-4", "question": "How many vacators have October 22, 1808 as date successor seated?", "sql": {"sel": 1, "conds": [[4, 0, "October 22, 1808"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18073616-2", "question": "What is the Elevator of the Elected Elevated on September 21, 1179?", "sql": {"sel": 4, "conds": [[3, 0, "september 21, 1179"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2668416-18", "question": "If the district is Virginia 8, who is the Incumbent?", "sql": {"sel": 1, "conds": [[0, 0, "Virginia 8"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342256-11", "question": "What year was Stephen Pace elected?", "sql": {"sel": 3, "conds": [[1, 0, "Stephen Pace"]], "agg": 2}}
+{"phase": 1, "table_id": "1-1652224-5", "question": "who was the successor for district ohio 15th?", "sql": {"sel": 3, "conds": [[0, 0, "Ohio 15th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-13833770-3", "question": "what's the\u00a0status\u00a0with\u00a0incumbent\u00a0being eliot engel", "sql": {"sel": 4, "conds": [[1, 0, "Eliot Engel"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341672-14", "question": "Name the number of first elected for phil crane", "sql": {"sel": 3, "conds": [[1, 0, "Phil Crane"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12261376-1", "question": "Which party's 1st member is John Ivatt Briscoe in an election in 1857?", "sql": {"sel": 2, "conds": [[1, 0, "john ivatt briscoe"], [0, 0, "1857"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431459-3", "question": "What is the district of the incumbent Thomas Larkin Thompson?", "sql": {"sel": 0, "conds": [[1, 0, "thomas larkin thompson"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-48", "question": "Who is the incumbent in the Washington 1 district? ", "sql": {"sel": 1, "conds": [[0, 0, "Washington 1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-24", "question": "Who opposed Marty Meehan in each election?", "sql": {"sel": 5, "conds": [[1, 0, "Marty Meehan"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27487712-1", "question": "What was the result of the election with incumbent bob barr?", "sql": {"sel": 5, "conds": [[1, 0, "Bob Barr"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341973-3", "question": "Who is the incumbent in the Alabama 6 voting district?", "sql": {"sel": 1, "conds": [[0, 0, "Alabama 6"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18125853-1", "question": "What is the name for district total:?", "sql": {"sel": 1, "conds": [[3, 0, "total:"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-50", "question": "What district first elected a Democratic incumbent in 1998?", "sql": {"sel": 0, "conds": [[2, 0, "Democratic"], [3, 0, 1998]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365829-4", "question": "When was the incumbent from the south carolina 1 district first elected?", "sql": {"sel": 3, "conds": [[0, 0, "south carolina 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-16", "question": "In what year did the Democratic incumbent that was re-elected first take office?", "sql": {"sel": 3, "conds": [[4, 0, "re-elected"], [2, 0, "democratic"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-8", "question": "What year was in Aigburth?", "sql": {"sel": 4, "conds": [[2, 0, "aigburth"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1341453-44", "question": "Which incumbent was first elected in 1984?", "sql": {"sel": 1, "conds": [[3, 0, 1984]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431467-4", "question": "What is the first date of election for the incumbent that was re-elected in the South Carolina 1 district?", "sql": {"sel": 3, "conds": [[4, 0, "re-elected"], [0, 0, "south carolina 1"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12890254-6", "question": "What is the Occupation, when the Candidate's Name is Trevor Ennis?", "sql": {"sel": 4, "conds": [[1, 0, "trevor ennis"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17922483-1", "question": "What is the reserved for (ST/ST/None) when it was Uklana?", "sql": {"sel": 2, "conds": [[1, 0, "uklana"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-1", "question": "Which venue had a score of 734-5d?", "sql": {"sel": 2, "conds": [[0, 0, "734-5d"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-43", "question": "What is the highest First Elected, when Results is \"Re-elected\", and when Incumbent is \"Lincoln Davis\"?", "sql": {"sel": 3, "conds": [[4, 0, "re-elected"], [1, 0, "lincoln davis"]], "agg": 1}}
+{"phase": 1, "table_id": "1-256286-39", "question": "What is the measure where the yes% is 44.06%?", "sql": {"sel": 7, "conds": [[4, 0, "44.06%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225205-3", "question": "Name the state class for  iowa admitted to the union december 28, 1846", "sql": {"sel": 0, "conds": [[2, 0, "Iowa admitted to the Union December 28, 1846"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20688030-1", "question": "What are McCain's Percent when Obama has 36.47%?", "sql": {"sel": 3, "conds": [[1, 0, "36.47%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12264624-1", "question": "What was the 1st party with a 1st member of John Willis Fleming?", "sql": {"sel": 2, "conds": [[1, 0, "john willis fleming"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18890528-2", "question": "What is listed for the Elector that also has the Cardinalatial title of Priest of S. Marco?", "sql": {"sel": 0, "conds": [[2, 0, "priest of s. marco"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1826125-1", "question": "What 2nd Party has an Election of 1834?", "sql": {"sel": 4, "conds": [[0, 0, "1834"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-23", "question": "What party is the person who was first elected in 2000 and was re-elected?", "sql": {"sel": 2, "conds": [[4, 0, "re-elected"], [3, 0, 2000]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-37", "question": "Incumbent John Sullivan has what as biggest first elected?", "sql": {"sel": 3, "conds": [[1, 0, "john sullivan"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1237918-1", "question": "Which Party has a Member of david jull?", "sql": {"sel": 1, "conds": [[0, 0, "david jull"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-24", "question": "What is First Elected, when District is \"Minnesota 2\"?", "sql": {"sel": 3, "conds": [[0, 0, "minnesota 2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225206-3", "question": "Who was the vacator when the reason for change was failure to elect?", "sql": {"sel": 1, "conds": [[2, 0, "Failure to elect"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-7", "question": "Who is the incumbent for the Colorado 4 district?", "sql": {"sel": 1, "conds": [[0, 0, "colorado 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365780-4", "question": "What was the district Incumbent Julius Kahn was in that was smaller than 1906?", "sql": {"sel": 0, "conds": [[3, 2, 1906], [1, 0, "julius kahn"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-40", "question": "In what district was Tim Holden the incumbent? ", "sql": {"sel": 0, "conds": [[1, 0, "Tim Holden"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26375386-23", "question": "What was the maximum rank for the vote percentage of 5.6%", "sql": {"sel": 0, "conds": [[5, 0, "5.6%"]], "agg": 2}}
+{"phase": 1, "table_id": "1-256286-55", "question": "What is the description of the measure that got 78.27% yes votes?", "sql": {"sel": 7, "conds": [[4, 0, "78.27%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11383551-1", "question": "Which candidate lost the election that 770,046 people voted in?", "sql": {"sel": 1, "conds": [[4, 0, "lost"], [2, 0, "770,046"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-14", "question": "What is Illinois 13 District's Party?", "sql": {"sel": 2, "conds": [[0, 0, "illinois 13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1232757-1", "question": "Name the term in office for liberal and state of sa for ian mclachlan", "sql": {"sel": 4, "conds": [[1, 0, "liberal"], [3, 0, "sa"], [0, 0, "ian mclachlan"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342013-9", "question": "what's the\u00a0result\u00a0with\u00a0candidates\u00a0being charles edward bennett (d) unopposed", "sql": {"sel": 4, "conds": [[5, 0, "Charles Edward Bennett (D) Unopposed"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12264624-1", "question": "Who is the 2nd member during 1885 election?", "sql": {"sel": 3, "conds": [[0, 0, "1885"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-7", "question": "What is the nationality of Louis floch", "sql": {"sel": 5, "conds": [[0, 0, "Louis Floch"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-38", "question": "who is the the\u00a0opponent\u00a0with\u00a0district being ohio12", "sql": {"sel": 5, "conds": [[0, 0, "Ohio12"]], "agg": 0}}
+{"phase": 2, "table_id": "2-167225-1", "question": "When did Fejzi Bej Alizoti's term end?", "sql": {"sel": 3, "conds": [[0, 0, "fejzi bej alizoti"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17305625-1", "question": "How many Inhabitants were there after 2009 in the Municipality with a Party of union for trentino?", "sql": {"sel": 1, "conds": [[3, 0, "union for trentino"], [4, 1, 2009]], "agg": 5}}
+{"phase": 1, "table_id": "1-1341423-20", "question": "Who were the candidates in the Maryland 5 district election? ", "sql": {"sel": 5, "conds": [[0, 0, "Maryland 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365799-2", "question": "What's the highest First Elected with a Result of Re-elected and DIstrict of California 5?", "sql": {"sel": 3, "conds": [[4, 0, "re-elected"], [0, 0, "california 5"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1827690-11", "question": "What is the assembled date of the parliament dissolved on 9 February 1611 and elected in 1606?", "sql": {"sel": 1, "conds": [[2, 0, "9 february 1611"], [0, 0, "1606"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17857470-4", "question": "Which inhabitants have 2009 as the election, with cremona as the municipality?", "sql": {"sel": 1, "conds": [[4, 0, 2009], [0, 0, "cremona"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-40", "question": "what is the party for the district south carolina 4?", "sql": {"sel": 2, "conds": [[0, 0, "South Carolina 4"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-6", "question": "What was the score for 1911?", "sql": {"sel": 0, "conds": [[4, 0, 1911]], "agg": 0}}
+{"phase": 2, "table_id": "2-167235-5", "question": "What is Born-Died, when Term Start is 4 December 1941?", "sql": {"sel": 1, "conds": [[2, 0, "4 december 1941"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-7", "question": "What is the lowest number of appearances a player had", "sql": {"sel": 3, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-1694505-4", "question": "In the district Wisconsin 2nd, what was the reason for change?", "sql": {"sel": 2, "conds": [[0, 0, "Wisconsin 2nd"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12890254-1", "question": "What is John Marvin Wierenga's occupation?", "sql": {"sel": 4, "conds": [[1, 0, "john marvin wierenga"]], "agg": 0}}
+{"phase": 2, "table_id": "2-167235-6", "question": "Which Name has a Term end of 18 july 1944?", "sql": {"sel": 0, "conds": [[3, 0, "18 july 1944"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-7", "question": "What year has 385 runs as the score?", "sql": {"sel": 4, "conds": [[0, 0, "385 runs"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2159506-4", "question": "What is every district for reason for change is died August 9, 1964?", "sql": {"sel": 0, "conds": [[2, 0, "Died August 9, 1964"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18508229-1", "question": "What's the reserved number for constituency number 108?", "sql": {"sel": 2, "conds": [[0, 0, "108"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-21", "question": "What are the results of the incumbent who was first elected in 1996?", "sql": {"sel": 4, "conds": [[3, 0, 1996]], "agg": 0}}
+{"phase": 2, "table_id": "2-18125794-1", "question": "What is the name for the constituency at number 48?", "sql": {"sel": 1, "conds": [[0, 0, "48"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1085958-1", "question": "In what state was the electorate fowler?", "sql": {"sel": 3, "conds": [[2, 0, "fowler"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12269966-1", "question": "What was the 1st Member when the 1st Party had its representation reduced to one member?", "sql": {"sel": 1, "conds": [[2, 0, "representation reduced to one member"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12264218-1", "question": "Which 2nd Party has a 1st Member of william wither bramston beach?", "sql": {"sel": 4, "conds": [[1, 0, "william wither bramston beach"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-6", "question": "What were the result(s) of the election featuring grace napolitano as the incumbent?", "sql": {"sel": 4, "conds": [[1, 0, "Grace Napolitano"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18508229-1", "question": "What's the constituency number of the Seoni district and has none reserved?", "sql": {"sel": 0, "conds": [[2, 0, "none"], [3, 0, "seoni"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1446600-4", "question": "How many successors are from the georgia 2nd district?", "sql": {"sel": 3, "conds": [[0, 0, "Georgia 2nd"]], "agg": 3}}
+{"phase": 1, "table_id": "1-26375386-23", "question": "How many judges were there for the eliminated couple? ", "sql": {"sel": 2, "conds": [[6, 0, "Eliminated"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2147588-4", "question": "When new york 8th is teh district who is the successor?", "sql": {"sel": 3, "conds": [[0, 0, "New York 8th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18568694-2", "question": "Which party is Ettore Romoli from?", "sql": {"sel": 3, "conds": [[2, 0, "ettore romoli"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-19", "question": "What is the highest First Elected, when Party is \"Republican\", and when District is \"Louisiana 7\"?", "sql": {"sel": 3, "conds": [[2, 0, "republican"], [0, 0, "louisiana 7"]], "agg": 1}}
+{"phase": 1, "table_id": "1-20799587-1", "question": "In how many counties did McCain get 65.72% of the votes?", "sql": {"sel": 0, "conds": [[3, 0, "65.72%"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1365780-7", "question": "Which party was first elected in 1898?", "sql": {"sel": 2, "conds": [[3, 0, "1898"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-22", "question": "What couple had less than 2.0 points from the public?", "sql": {"sel": 1, "conds": [[3, 2, 2.0]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-38", "question": "what's the\u00a0party\u00a0with\u00a0opponent\u00a0being marcy kaptur (d) 75.3% randy whitman (r) 24.7%", "sql": {"sel": 2, "conds": [[5, 0, "Marcy Kaptur (D) 75.3% Randy Whitman (R) 24.7%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-13", "question": "Name the period for michel llodra", "sql": {"sel": 2, "conds": [[0, 0, "Michel Llodra"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827690-10", "question": "What Assembled has a 1st member of william boteler?", "sql": {"sel": 1, "conds": [[3, 0, "william boteler"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12291693-1", "question": "Which 1st Party has a 2nd Member of constituency abolished?", "sql": {"sel": 2, "conds": [[3, 0, "constituency abolished"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417345-3", "question": "Who was the successor that was formally installed on March 30, 1870?", "sql": {"sel": 3, "conds": [[4, 0, "March 30, 1870"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827690-7", "question": "Who was the 1st member of the parliament that was dissolved 23 february 1510?", "sql": {"sel": 3, "conds": [[2, 0, "23 february 1510"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225095-4", "question": "How many reasons for change were listed when Edward Hempstead was the successor?", "sql": {"sel": 2, "conds": [[3, 0, "Edward Hempstead"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1341423-38", "question": "How many parties is the incumbent Bob Brady a member of?", "sql": {"sel": 2, "conds": [[1, 0, "Bob Brady"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24565004-21", "question": "What was the lowest score.", "sql": {"sel": 4, "conds": [], "agg": 2}}
+{"phase": 1, "table_id": "1-1341577-43", "question": "Who is the incumbent that is listed with the candidates listed as marilyn lloyd (d) 57.4% harold w. coker (r) 42.6%?", "sql": {"sel": 1, "conds": [[5, 0, "Marilyn Lloyd (D) 57.4% Harold W. Coker (R) 42.6%"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1434986-5", "question": "Which Incumbent has a District of massachusetts 2?", "sql": {"sel": 1, "conds": [[0, 0, "massachusetts 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1811262-1", "question": "What is 1st Member, when 2nd Party is \"Conservative\", and when 2nd Member is \"William Tipping\"?", "sql": {"sel": 1, "conds": [[4, 0, "conservative"], [3, 0, "william tipping"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417330-3", "question": "List all dates of succession in the state class Missouri (3).", "sql": {"sel": 4, "conds": [[0, 0, "Missouri (3)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-37", "question": "Tony P. Hall was the incumbent in the race between what two candidates? ", "sql": {"sel": 5, "conds": [[1, 0, "Tony P. Hall"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-38", "question": "What's the first elected year of the district whose incumbent is Jim Greenwood?", "sql": {"sel": 3, "conds": [[1, 0, "Jim Greenwood"]], "agg": 1}}
+{"phase": 2, "table_id": "2-13618584-1", "question": "Which incumbent was in the 24th district?", "sql": {"sel": 1, "conds": [[0, 0, "24th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20799587-1", "question": "How many people voted for Obama in the county where McCain got 72.75% of the votes?", "sql": {"sel": 2, "conds": [[3, 0, "72.75%"]], "agg": 2}}
+{"phase": 1, "table_id": "1-19744915-18", "question": "When ellery and frankie are the couple what is the highest total?", "sql": {"sel": 4, "conds": [[1, 0, "Ellery and Frankie"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18950804-2", "question": "Which Rank has a Tally of 4-0?", "sql": {"sel": 0, "conds": [[3, 0, "4-0"]], "agg": 5}}
+{"phase": 2, "table_id": "2-1805191-33", "question": "What are the results of a first elected prior to year 1982?", "sql": {"sel": 4, "conds": [[3, 2, 1982]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341598-11", "question": "What is the party for the incumbent Wyche Fowler?", "sql": {"sel": 2, "conds": [[1, 0, "Wyche Fowler"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431546-2", "question": "What is First elected that has republican Party and a Result of retired democratic gain?", "sql": {"sel": 3, "conds": [[2, 0, "republican"], [4, 0, "retired democratic gain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12283523-1", "question": "Which election had Sir Alexander Fuller-Acland-Hood, bt as the 2nd member?", "sql": {"sel": 0, "conds": [[3, 0, "sir alexander fuller-acland-hood, bt"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12291693-1", "question": "Which 1st Member has an election in 1859 and a conservative 2nd Party?", "sql": {"sel": 1, "conds": [[4, 0, "conservative"], [0, 0, "1859"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17857470-4", "question": "What is the average election that has monza as the municipality?", "sql": {"sel": 4, "conds": [[0, 0, "monza"]], "agg": 5}}
+{"phase": 2, "table_id": "2-18111054-1", "question": "Name the Number of electorates (2009 which has a Reserved for ( SC / ST /None) of none, and a Name of jahanabad?", "sql": {"sel": 4, "conds": [[2, 0, "none"], [1, 0, "jahanabad"]], "agg": 2}}
+{"phase": 2, "table_id": "2-167235-6", "question": "Which Political Party has a Name of mehdi bej frash\u00ebri (2nd time)?", "sql": {"sel": 4, "conds": [[0, 0, "mehdi bej frash\u00ebri (2nd time)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341865-20", "question": "How many candidates were elected in the Louisiana 4 district?", "sql": {"sel": 3, "conds": [[0, 0, "Louisiana 4"]], "agg": 3}}
+{"phase": 2, "table_id": "2-13052263-3", "question": "What Player in Opposition of Kilkenny has a Total of 10?", "sql": {"sel": 1, "conds": [[4, 0, 10], [5, 0, "kilkenny"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-17", "question": "For couple Todd and Susie, what was the vote percentage?", "sql": {"sel": 5, "conds": [[1, 0, "Todd and Susie"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-3", "question": "during which period did albert baning play?", "sql": {"sel": 2, "conds": [[0, 0, "Albert Baning"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-6", "question": "What is the earliest first elected date of incumbent howard mckeon?", "sql": {"sel": 3, "conds": [[1, 0, "howard mckeon"]], "agg": 2}}
+{"phase": 1, "table_id": "1-2668378-13", "question": "who was running in the section pennsylvania 5", "sql": {"sel": 5, "conds": [[0, 0, "Pennsylvania 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-16841178-2", "question": "What party has more than 241,310 inhabitants after 2012?", "sql": {"sel": 3, "conds": [[4, 1, 2012], [1, 1, "241,310"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1164463-1", "question": "What party is the member that has an electorate of Lindsay?", "sql": {"sel": 1, "conds": [[2, 0, "lindsay"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1725076-2", "question": "Who is the candidate in the 2008 (2) election?", "sql": {"sel": 1, "conds": [[0, 0, "2008 (2)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-16", "question": "Who is the incumbent that has been in office since before 1996 and was again re-elected?", "sql": {"sel": 1, "conds": [[4, 0, "re-elected"], [3, 2, 1996]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517323-1", "question": "What is the Reserved for when there are more than 161,219 electorates in 2009 and a constituency of 160?", "sql": {"sel": 2, "conds": [[4, 1, "161,219"], [0, 0, "160"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-39", "question": "Who is the republican Incumbent for Pennsylvania 9?", "sql": {"sel": 1, "conds": [[2, 0, "republican"], [0, 0, "pennsylvania 9"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225095-4", "question": "How many Vacators were listed when the district was North Carolina 3rd?", "sql": {"sel": 1, "conds": [[0, 0, "North Carolina 3rd"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1826125-1", "question": "What 2nd Member has an Election of 1833 by-election?", "sql": {"sel": 3, "conds": [[0, 0, "1833 by-election"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2668374-13", "question": "What district had an election with incumbent john smilie?", "sql": {"sel": 0, "conds": [[1, 0, "John Smilie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827767-1", "question": "which 1st Member has a Election of 1832", "sql": {"sel": 1, "conds": [[0, 0, "1832"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-43", "question": "What is every entry for description when the value of %yes is 51.82%?", "sql": {"sel": 7, "conds": [[4, 0, "51.82%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2147588-4", "question": "When nathaniel g. taylor (u) is the successor what is the vacator?", "sql": {"sel": 1, "conds": [[3, 0, "Nathaniel G. Taylor (U)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517163-1", "question": "What was the highest number of 2009 electorates for Raisen when the consituency number was 142?", "sql": {"sel": 4, "conds": [[3, 0, "raisen"], [0, 0, "142"]], "agg": 1}}
+{"phase": 1, "table_id": "1-1341423-21", "question": "Which district is Joe Moakley?", "sql": {"sel": 0, "conds": [[1, 0, "Joe Moakley"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-4", "question": "What was the score when the opposition was sussex after 1890?", "sql": {"sel": 0, "conds": [[1, 0, "sussex"], [4, 1, 1890]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-16", "question": "What is Zoe and Matt's result?", "sql": {"sel": 6, "conds": [[1, 0, "Zoe and Matt"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341604-39", "question": "What are the candidates in the district whose incumbent is Gus Yatron?", "sql": {"sel": 5, "conds": [[1, 0, "Gus Yatron"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1434986-5", "question": "Which District has a First elected larger than 1858?", "sql": {"sel": 0, "conds": [[3, 1, 1858]], "agg": 0}}
+{"phase": 1, "table_id": "1-1651764-3", "question": "who is the vacator whre the district is new jersey 2nd?", "sql": {"sel": 1, "conds": [[0, 0, "New Jersey 2nd"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27021001-1", "question": "How many incumbents were the result of sanford bishop (d) 57% joseph mccormick (r) 43%?", "sql": {"sel": 1, "conds": [[5, 0, "Sanford Bishop (D) 57% Joseph McCormick (R) 43%"]], "agg": 3}}
+{"phase": 1, "table_id": "1-26375386-20", "question": "What is the vote percentage for the couple gary and maria?", "sql": {"sel": 5, "conds": [[1, 0, "Gary and Maria"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-22", "question": "Which party does the incumbent first elected in 1994 belong to?", "sql": {"sel": 2, "conds": [[3, 0, 1994]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341522-13", "question": "What party is Sanford Bishop a member of?", "sql": {"sel": 2, "conds": [[1, 0, "Sanford Bishop"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18937304-2", "question": "Name the Tally of an Opposition of westmeath?", "sql": {"sel": 3, "conds": [[5, 0, "westmeath"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-8", "question": "What city was in 1889?", "sql": {"sel": 3, "conds": [[4, 0, 1889]], "agg": 0}}
+{"phase": 1, "table_id": "1-225098-4", "question": "The successor for the Massachusetts 20th district was seated on what date?", "sql": {"sel": 4, "conds": [[0, 0, "Massachusetts 20th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2147588-3", "question": "Who was the successor for the new seat?", "sql": {"sel": 3, "conds": [[1, 0, "New seat"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-11", "question": "Who's the incumbent in Florida 6?", "sql": {"sel": 1, "conds": [[0, 0, "Florida 6"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342218-43", "question": "What party is associated with Texas 2?", "sql": {"sel": 2, "conds": [[0, 0, "Texas 2"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12890300-4", "question": "What job is at red bank?", "sql": {"sel": 4, "conds": [[3, 0, "red bank"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1805191-36", "question": "What are the results of the elections in which Ted Strickland is seeking re-election?", "sql": {"sel": 4, "conds": [[1, 0, "Ted Strickland"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-11", "question": "How did the election end for Robert Wexler?", "sql": {"sel": 4, "conds": [[1, 0, "Robert Wexler"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-44", "question": "Who are the candidates in the Tennessee 3 district election? ", "sql": {"sel": 5, "conds": [[0, 0, "Tennessee 3"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2147588-3", "question": "What was the reason for change in staff in formal installations on March 15, 1865?", "sql": {"sel": 2, "conds": [[4, 0, "March 15, 1865"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-40", "question": "what is the party with the incumbent jim demint?", "sql": {"sel": 2, "conds": [[1, 0, "Jim DeMint"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-20", "question": "What were the results in the election where Albert Wynn was the incumbent? ", "sql": {"sel": 4, "conds": [[1, 0, "Albert Wynn"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225204-4", "question": "Name the date successor seated for pennsylvania 17th", "sql": {"sel": 4, "conds": [[0, 0, "Pennsylvania 17th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342198-36", "question": "What was the result when incumbent Tom Steed was elected?", "sql": {"sel": 4, "conds": [[1, 0, "Tom Steed"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13618584-2", "question": "Status of reelected, and a Incumbent of danny marshall iii is what highest elected?", "sql": {"sel": 3, "conds": [[4, 0, "reelected"], [1, 0, "danny marshall iii"]], "agg": 1}}
+{"phase": 2, "table_id": "2-12890254-6", "question": "What is the lowest number of Votes, when the Candidate's Name is Trevor Ennis?", "sql": {"sel": 5, "conds": [[1, 0, "trevor ennis"]], "agg": 2}}
+{"phase": 2, "table_id": "2-13847695-3", "question": "What was the year elected in District 15?", "sql": {"sel": 3, "conds": [[0, 0, 15]], "agg": 0}}
+{"phase": 2, "table_id": "2-13618584-1", "question": "Which party was elected in 2003 with incumbent Mark Obenshain?", "sql": {"sel": 2, "conds": [[3, 0, 2003], [1, 0, "mark obenshain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-14176339-8", "question": "What score has Leicestershire as the opponent after 1906?", "sql": {"sel": 0, "conds": [[1, 0, "leicestershire"], [4, 1, 1906]], "agg": 0}}
+{"phase": 1, "table_id": "1-26375386-16", "question": "What was the lowest judge rank for danny and frankie?", "sql": {"sel": 2, "conds": [[1, 0, "Danny and Frankie"]], "agg": 2}}
+{"phase": 1, "table_id": "1-1342370-41", "question": "Who were the candidates in the election in the Tennessee 9 district? ", "sql": {"sel": 5, "conds": [[0, 0, "Tennessee 9"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18508229-1", "question": "What is the district of Paraswada with none reserved?", "sql": {"sel": 3, "conds": [[2, 0, "none"], [1, 0, "paraswada"]], "agg": 0}}
+{"phase": 1, "table_id": "1-224837-4", "question": "Name the date successor seated for contested election; served until february 14, 1794", "sql": {"sel": 4, "conds": [[2, 0, "Contested election; served until February 14, 1794"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341568-14", "question": "Who was Henry Hyde's opponent in the race?", "sql": {"sel": 5, "conds": [[1, 0, "Henry Hyde"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-17", "question": "Name the period for michel prost", "sql": {"sel": 2, "conds": [[0, 0, "Michel Prost"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-14", "question": "What is re-elected Incumbent Jerry Costello's First elected date?", "sql": {"sel": 3, "conds": [[4, 0, "re-elected"], [1, 0, "jerry costello"]], "agg": 2}}
+{"phase": 1, "table_id": "1-1341453-15", "question": "What was the result in Illinois 7?", "sql": {"sel": 4, "conds": [[0, 0, "Illinois 7"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225100-4", "question": "What is the reason for change when maryland 6th is the district? ", "sql": {"sel": 2, "conds": [[0, 0, "Maryland 6th"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341690-9", "question": "Who was the incumbent in 1940?", "sql": {"sel": 1, "conds": [[3, 0, 1940]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342233-43", "question": "What district is eugene worley from?", "sql": {"sel": 0, "conds": [[1, 0, "Eugene Worley"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365841-5", "question": "What party has an incumbent of Stanyarne Wilson?", "sql": {"sel": 2, "conds": [[1, 0, "stanyarne wilson"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1391450-4", "question": "What is the party of the representative first elected in 1894 from the Ohio 16 district?", "sql": {"sel": 2, "conds": [[3, 0, 1894], [0, 0, "ohio 16"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827690-7", "question": "When was the parliament that was elected in 1509/10, and had an unknown second member, dissolved?", "sql": {"sel": 2, "conds": [[4, 0, "unknown"], [0, 0, "1509/10"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-40", "question": "What vote passed for the measure with the description, authorizing state acceptance of certain gifts? ", "sql": {"sel": 1, "conds": [[7, 0, "Authorizing State Acceptance of Certain Gifts"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1298238-1", "question": "What is the State, when the year First elected is 1966, and when the Member is Alan Jarman?", "sql": {"sel": 3, "conds": [[4, 0, "1966"], [0, 0, "alan jarman"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12264218-1", "question": "Which election has a 1st Member of constituency abolished?", "sql": {"sel": 0, "conds": [[1, 0, "constituency abolished"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1847180-4", "question": "Which district did Ralph Harvey (r) vacated when he resigned?", "sql": {"sel": 0, "conds": [[1, 0, "Ralph Harvey (R)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20684390-1", "question": "What is the maximum McCain population turnout number?", "sql": {"sel": 4, "conds": [], "agg": 1}}
+{"phase": 2, "table_id": "2-11190568-5", "question": "What is the tally in Kilkenny county with 10 as the total and opposition of Waterford?", "sql": {"sel": 3, "conds": [[2, 0, "kilkenny"], [4, 0, 10], [5, 0, "waterford"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17906488-1", "question": "What is the Reserved for (SC / ST /None) when the number of electorates (2009) is more than 237,560, and the constituency number is 48?", "sql": {"sel": 2, "conds": [[4, 1, "237,560"], [0, 0, "48"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26336739-1", "question": "how many party classifications are there for the incumbent Mac Collins? ", "sql": {"sel": 2, "conds": [[1, 0, "Mac Collins"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1827690-10", "question": "What Elected has a 1st member of thomas fanshawe?", "sql": {"sel": 0, "conds": [[3, 0, "thomas fanshawe"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2417330-4", "question": "Name the date successor seated for successor being vacant", "sql": {"sel": 4, "conds": [[3, 0, "Vacant"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342370-12", "question": "Who were the candidates in the 1922 entry?", "sql": {"sel": 5, "conds": [[3, 0, 1922]], "agg": 0}}
+{"phase": 2, "table_id": "2-167235-4", "question": "Who is the prime minister that had a term that ended on 5 March 1930?", "sql": {"sel": 0, "conds": [[3, 0, "5 march 1930"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18568417-4", "question": "Which Election has a Party of democratic party, and a Mayor of leonardo betti?", "sql": {"sel": 4, "conds": [[3, 0, "democratic party"], [2, 0, "leonardo betti"]], "agg": 1}}
+{"phase": 2, "table_id": "2-18516512-1", "question": "What is the reserved for value for constituency number 132?", "sql": {"sel": 2, "conds": [[0, 0, "132"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18951675-3", "question": "What is the total rank of the match with tipperary as the opposition?", "sql": {"sel": 0, "conds": [[5, 0, "tipperary"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1341453-11", "question": "What party does Bill McCollum belong to?", "sql": {"sel": 2, "conds": [[1, 0, "Bill McCollum"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-15", "question": "What is Michael and Melanie's rank?", "sql": {"sel": 0, "conds": [[1, 0, "Michael and Melanie"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18937093-2", "question": "What County has an Opposition of Antrim and the Player Bernie Forde?", "sql": {"sel": 2, "conds": [[5, 0, "antrim"], [1, 0, "bernie forde"]], "agg": 0}}
+{"phase": 2, "table_id": "2-13847695-3", "question": "What year was Incumbent Ed Towns elected with a district smaller than 10?", "sql": {"sel": 3, "conds": [[1, 0, "ed towns"], [0, 2, 10]], "agg": 5}}
+{"phase": 2, "table_id": "2-12283523-1", "question": "Who is the 1st member in the 1884 by-election?", "sql": {"sel": 1, "conds": [[0, 0, "1884 by-election"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18573392-1", "question": "What is the place of birth when the elevator is Nicholas IV, and elector is Napoleone Orsini Frangipani?", "sql": {"sel": 1, "conds": [[4, 0, "nicholas iv"], [0, 0, "napoleone orsini frangipani"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1811218-1", "question": "Which 1st member has Thomas Grimsditch as a 2nd member?", "sql": {"sel": 1, "conds": [[3, 0, "thomas grimsditch"]], "agg": 0}}
+{"phase": 1, "table_id": "1-225198-3", "question": "Name the state class for isaac d. barnard (j)", "sql": {"sel": 0, "conds": [[1, 0, "Isaac D. Barnard (J)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365780-7", "question": "Which party was re-elected in south carolina 5 district?", "sql": {"sel": 2, "conds": [[4, 0, "re-elected"], [0, 0, "south carolina 5"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1391132-4", "question": "Which party had an incumbent of W. Jasper Talbert?", "sql": {"sel": 2, "conds": [[1, 0, "w. jasper talbert"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-20", "question": "What party did incumbent Albert Wynn belong to? ", "sql": {"sel": 2, "conds": [[1, 0, "Albert Wynn"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1802522-3", "question": "How many total reason for change are listed corresponding to the successor Leonard B. Jordan (r)?", "sql": {"sel": 2, "conds": [[3, 0, "Leonard B. Jordan (R)"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1827690-11", "question": "Who is the 1st member elected in 1620/21?", "sql": {"sel": 3, "conds": [[0, 0, "1620/21"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341423-32", "question": "Name the results for district new york 24", "sql": {"sel": 4, "conds": [[0, 0, "New York 24"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1434986-16", "question": "result is lost re-election republican gain, what is the district?", "sql": {"sel": 0, "conds": [[4, 0, "lost re-election republican gain"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431450-2", "question": "Who was the first person elected from Democratic GAIN?", "sql": {"sel": 3, "conds": [[4, 0, "democratic gain"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20524090-1", "question": "What was Obama's percentage in those places where McCain's percentage was 55.46%?", "sql": {"sel": 1, "conds": [[3, 0, "55.46%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342198-25", "question": "What is the district with Republican party in place?", "sql": {"sel": 0, "conds": [[2, 0, "Republican"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26375386-20", "question": "How many times is the voting percentage 10.7%", "sql": {"sel": 0, "conds": [[5, 0, "10.7%"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1364210-1", "question": "Which memeber has nsw as the state, a first elected of 1952, and alp as the party?", "sql": {"sel": 0, "conds": [[3, 0, "nsw"], [4, 0, "1952"], [1, 0, "alp"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12890214-1", "question": "What gender is Luc Desnoyers?", "sql": {"sel": 2, "conds": [[1, 0, "luc desnoyers"]], "agg": 0}}
+{"phase": 1, "table_id": "1-26375386-18", "question": "Who was the couple on the bottom two?", "sql": {"sel": 1, "conds": [[6, 0, "Bottom two"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2160008-4", "question": "Name the district for reason for change being died july 4, 1939", "sql": {"sel": 0, "conds": [[2, 0, "Died July 4, 1939"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18124696-1", "question": "Amritpur has what constituency number?", "sql": {"sel": 0, "conds": [[1, 0, "amritpur"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18890652-1", "question": "What is the place of birth for the elector Laborante de Panormo?", "sql": {"sel": 1, "conds": [[0, 0, "laborante de panormo"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1802522-4", "question": "Name the vacator for tennessee 1st", "sql": {"sel": 1, "conds": [[0, 0, "Tennessee 1st"]], "agg": 0}}
+{"phase": 1, "table_id": "1-27487712-1", "question": "Who was the incumbent for the election in 1978?", "sql": {"sel": 1, "conds": [[3, 0, 1978]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342013-12", "question": "What was the result when Leo E. Allen was elected?", "sql": {"sel": 4, "conds": [[1, 0, "Leo E. Allen"]], "agg": 0}}
+{"phase": 1, "table_id": "1-2192067-4", "question": "what is the total number of reasons for change where the date the successor was seated is june 8, 1876?", "sql": {"sel": 2, "conds": [[4, 0, "June 8, 1876"]], "agg": 3}}
+{"phase": 2, "table_id": "2-1434788-5", "question": "Which district has a retired republican hold and an incumbent of rufus p. spalding?", "sql": {"sel": 0, "conds": [[4, 0, "retired republican hold"], [1, 0, "rufus p. spalding"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-17", "question": "Name the number of goals for mauricio pochettino", "sql": {"sel": 4, "conds": [[0, 0, "Mauricio Pochettino"]], "agg": 3}}
+{"phase": 1, "table_id": "1-24565004-8", "question": "What is the nationality if the appearance is 29?", "sql": {"sel": 5, "conds": [[3, 0, 29]], "agg": 0}}
+{"phase": 2, "table_id": "2-1434986-8", "question": "What district is James Humphrey from who was first elected in 1858 and was eventually defeated democratic gain?", "sql": {"sel": 0, "conds": [[3, 0, 1858], [4, 0, "defeated democratic gain"], [1, 0, "james humphrey"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341738-6", "question": "What party does incumbent edwin reinecke represent?", "sql": {"sel": 2, "conds": [[1, 0, "Edwin Reinecke"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-15", "question": "What is the latest year for first elected with john hostettler as incumbent and a result of lost re-election democratic gain?", "sql": {"sel": 3, "conds": [[4, 0, "lost re-election democratic gain"], [1, 0, "john hostettler"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1237918-1", "question": "Which member has an Electorate of kennedy?", "sql": {"sel": 0, "conds": [[2, 0, "kennedy"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18495923-1", "question": "Which Name has a Constituency number of 1?", "sql": {"sel": 1, "conds": [[0, 0, "1"]], "agg": 0}}
+{"phase": 1, "table_id": "1-24565004-8", "question": "What is the period total number if the name is Gerald\u00e3o?", "sql": {"sel": 2, "conds": [[0, 0, "Gerald\u00e3o"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12890214-1", "question": "What is the highest number of votes for the French Professor?", "sql": {"sel": 5, "conds": [[4, 0, "french professor"]], "agg": 1}}
+{"phase": 2, "table_id": "2-1391450-4", "question": "Who was the incumbent from the Ohio 13 district?", "sql": {"sel": 1, "conds": [[0, 0, "ohio 13"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1365799-2", "question": "Which District has a First Elected of 1904 and an Incumbent of Duncan E. Mckinlay?", "sql": {"sel": 0, "conds": [[3, 0, 1904], [1, 0, "duncan e. mckinlay"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341453-7", "question": "What party was first elected in 1974?", "sql": {"sel": 2, "conds": [[3, 0, 1974]], "agg": 0}}
+{"phase": 2, "table_id": "2-10747104-2", "question": "In the election earlier than 2012 how many Inhabitants had a Party of five star movement?", "sql": {"sel": 1, "conds": [[3, 0, "five star movement"], [4, 2, 2012]], "agg": 4}}
+{"phase": 2, "table_id": "2-18936845-2", "question": "Which Total has a Player of matt ruth?", "sql": {"sel": 4, "conds": [[1, 0, "matt ruth"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11383551-1", "question": "How many people voted in the election of 1941?", "sql": {"sel": 2, "conds": [[0, 0, 1941]], "agg": 0}}
+{"phase": 1, "table_id": "1-20799587-1", "question": "What percentage of the votes in Tippah did Obama get?", "sql": {"sel": 1, "conds": [[0, 0, "Tippah"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18890652-2", "question": "What's listed for Elevatated that has Cardinalatial title of Priest of SS. XII Apostoli?", "sql": {"sel": 3, "conds": [[2, 0, "priest of ss. xii apostoli"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-4", "question": "What Republican District had Incumbent First Elected in 2000 then Re-elected?", "sql": {"sel": 0, "conds": [[2, 0, "republican"], [4, 0, "re-elected"], [3, 0, 2000]], "agg": 0}}
+{"phase": 2, "table_id": "2-1805191-39", "question": "What are the results for Bill Shuster?", "sql": {"sel": 4, "conds": [[1, 0, "bill shuster"]], "agg": 0}}
+{"phase": 2, "table_id": "2-17906488-1", "question": "What is the total number of electorates (2009) for Katol?", "sql": {"sel": 4, "conds": [[1, 0, "katol"]], "agg": 3}}
+{"phase": 2, "table_id": "2-18573392-1", "question": "What is the cardinalatial title when the elevated is September 18, 1294, and elector is B\u00e9rard De Got?", "sql": {"sel": 2, "conds": [[3, 0, "september 18, 1294"], [0, 0, "b\u00e9rard de got"]], "agg": 0}}
+{"phase": 1, "table_id": "1-19744915-15", "question": "What couple had a vote percentage of 7.691%", "sql": {"sel": 1, "conds": [[5, 0, "7.691%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22757733-4", "question": "who ended runner-up to sankar adhi?", "sql": {"sel": 4, "conds": [[1, 0, "Sankar Adhi"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1725076-2", "question": "Who is the candidate in the 2012 election?", "sql": {"sel": 1, "conds": [[0, 0, "2012"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12269966-1", "question": "What was the 2nd Party that had the 2nd Member John Barneby, when the 1st Party was Conservative?", "sql": {"sel": 4, "conds": [[3, 0, "john barneby"], [2, 0, "conservative"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1341568-48", "question": "How many parties is Tom Foley a member of?", "sql": {"sel": 2, "conds": [[1, 0, "Tom Foley"]], "agg": 3}}
+{"phase": 1, "table_id": "1-26375386-17", "question": "What couple had a vote percentage of 5.2%?", "sql": {"sel": 1, "conds": [[5, 0, "5.2%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-22756549-1", "question": "What party is the winner K. Anbazhagan from?", "sql": {"sel": 5, "conds": [[1, 0, "K. Anbazhagan"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18504892-1", "question": "What is the district with 79 constituency number?", "sql": {"sel": 3, "conds": [[0, 0, "79"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1827690-7", "question": "Who was the 1st member elected in 1511/12?", "sql": {"sel": 3, "conds": [[0, 0, "1511/12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1342315-12", "question": "Which district has a Republican elected?", "sql": {"sel": 0, "conds": [[2, 0, "Republican"]], "agg": 0}}
+{"phase": 1, "table_id": "1-20524090-1", "question": "What percentage of the vote did McCain win in Waynesboro (city)?", "sql": {"sel": 3, "conds": [[0, 0, "Waynesboro (city)"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1431467-2", "question": "What year was Barclay Henley first elected?", "sql": {"sel": 3, "conds": [[1, 0, "barclay henley"]], "agg": 3}}
+{"phase": 2, "table_id": "2-12890254-2", "question": "what is the candidates name who is ranked 8th?", "sql": {"sel": 1, "conds": [[6, 0, "8th"]], "agg": 0}}
+{"phase": 2, "table_id": "2-18496100-2", "question": "What is the Reserved For of Lahar?", "sql": {"sel": 2, "conds": [[1, 0, "lahar"]], "agg": 0}}
+{"phase": 2, "table_id": "2-12890254-6", "question": "What is the Candidate's Name, when the Votes are 513?", "sql": {"sel": 1, "conds": [[5, 0, 513]], "agg": 0}}
+{"phase": 2, "table_id": "2-18517491-1", "question": "What is the Constituency number for Bikhangaon with a Reserved for ( SC / ST /None) of st?", "sql": {"sel": 0, "conds": [[2, 0, "st"], [1, 0, "bikhangaon"]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-43", "question": "What is every entry for passed when NO votes is 312187?", "sql": {"sel": 1, "conds": [[3, 0, 312187]], "agg": 0}}
+{"phase": 1, "table_id": "1-256286-45", "question": "How many figures are there for No votes for the Forest Rehabilitation Debt Limit Amendment?", "sql": {"sel": 3, "conds": [[7, 0, "Forest Rehabilitation Debt Limit Amendment"]], "agg": 3}}
+{"phase": 1, "table_id": "1-225205-3", "question": "Name the vacator for failure to elect", "sql": {"sel": 1, "conds": [[2, 0, "Failure to elect"]], "agg": 0}}
+{"phase": 2, "table_id": "2-1811262-1", "question": "What is 1st Member, when 1st Party is \"Constituency Abolished\"?", "sql": {"sel": 1, "conds": [[2, 0, "constituency abolished"]], "agg": 0}}
+{"phase": 2, "table_id": "2-11992552-1", "question": "Which first election for the labor party is James Sharpe a part of?", "sql": {"sel": 4, "conds": [[1, 0, "labor"], [0, 0, "james sharpe"]], "agg": 0}}
