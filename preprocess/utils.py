@@ -1,16 +1,12 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 # -*- coding: utf-8 -*-
+# !/usr/bin/python
 """
-# @Time    : 2019/5/24
-# @Author  : Jiaqi&Zecheng
-# @File    : utils.py
+# @Time    : 2022/8/1
+# @Author  : Xinnan Guo & Yongrui Chen
+# @File    : preprocess/utils.py
 # @Software: PyCharm
 """
-import os
 import json
-from pattern.en import lemma
 from nltk.stem import WordNetLemmatizer
 
 VALUE_FILTER = ['what', 'how', 'list', 'give', 'show', 'find', 'id', 'order', 'when']
@@ -18,10 +14,10 @@ AGG = ['average', 'sum', 'max', 'min', 'minimum', 'maximum', 'between']
 
 wordnet_lemmatizer = WordNetLemmatizer()
 
-def load_dataSets(args):
-    with open(args.table_path, 'r', encoding='utf8') as f:
+def load_datasets(data_path, table_path):
+    with open(table_path, 'r', encoding='utf8') as f:
         table_datas = json.load(f)
-    with open(args.data_path, 'r', encoding='utf8') as f:
+    with open(data_path, 'r', encoding='utf8') as f:
         datas = json.load(f)
 
     output_tab = {}
@@ -90,6 +86,15 @@ def partial_header(toks, idx, header_toks):
                     tmp_heads = heads
             if flag_count == 1:
                 return endIdx, tmp_heads
+        elif len(sub_toks) == 1:
+            flag_count = 0
+            tmp_heads = None
+            for heads in header_toks:
+                if check_in(sub_toks, heads) and len(heads) <= 2:
+                    flag_count += 1
+                    tmp_heads = heads
+            if flag_count == 1:
+                return endIdx, tmp_heads
     return idx, None
 
 def symbol_filter(questions):
@@ -111,7 +116,6 @@ def symbol_filter(questions):
             question_tmp_q += [q_val]
     return question_tmp_q
 
-
 def group_values(toks, idx, num_toks):
     def check_isupper(tok_lists):
         for tok_one in tok_lists:
@@ -130,7 +134,6 @@ def group_values(toks, idx, num_toks):
                 return endIdx, sub_toks
     return idx, None
 
-
 def group_digital(toks, idx):
     test = toks[idx].replace(':', '')
     test = test.replace('.', '')
@@ -145,7 +148,6 @@ def group_symbol(toks, idx, num_toks):
             if toks[i + idx] == "'":
                 return i + idx, toks[idx:i+idx]
     return idx, None
-
 
 def num2year(tok):
     if len(str(tok)) == 4 and str(tok).isdigit() and int(str(tok)[:2]) < 22 and int(str(tok)[:2]) > 15:
@@ -166,7 +168,7 @@ def set_header(toks, header_toks, tok_concol, idx, num_toks):
     return None
 
 def re_lemma(string):
-    lema = lemma(string.lower())
+    lema = string.lower()
     if len(lema) > 0:
         return lema
     else:

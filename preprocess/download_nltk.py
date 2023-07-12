@@ -1,11 +1,9 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 # -*- coding: utf-8 -*-
+# !/usr/bin/python
 """
-# @Time    : 2019/1/29
-# @Author  : Jiaqi&Zecheng
-# @File    : download_nltk.py
+# @Time    : 2022/8/1
+# @Author  : Xinnan Guo & Yongrui Chen
+# @File    : preprocess/download_nltk.py
 # @Software: PyCharm
 """
 import nltk

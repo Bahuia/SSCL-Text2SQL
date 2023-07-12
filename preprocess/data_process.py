@@ -1,21 +1,22 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 # -*- coding: utf-8 -*-
+# !/usr/bin/python
 """
-# @Time    : 2019/5/24
-# @Author  : Jiaqi&Zecheng
-# @File    : data_process.py
+# @Time    : 2022/8/1
+# @Author  : Xinnan Guo & Yongrui Chen
+# @File    : preprocess/data_process.py
 # @Software: PyCharm
 """
 import json
 import argparse
 import nltk
 import os
+import tqdm
 import pickle
-from utils import symbol_filter, re_lemma, fully_part_header, group_header, partial_header, num2year, group_symbol, group_values, group_digital
-from utils import AGG, wordnet_lemmatizer
-from utils import load_dataSets
+import sys
+sys.path.append("..")
+from preprocess.utils import symbol_filter, re_lemma, fully_part_header, group_header, partial_header, num2year, group_symbol, group_values, group_digital
+from preprocess.utils import AGG, wordnet_lemmatizer
+from preprocess.utils import load_datasets
 
 def process_datas(datas, args):
     """
@@ -35,10 +36,10 @@ def process_datas(datas, args):
         if 'origin_question_toks' not in d:
             d['origin_question_toks'] = d['question_toks']
 
-    for entry in datas:
+    for entry in tqdm.tqdm(datas):
         entry['question_toks'] = symbol_filter(entry['question_toks'])
-        origin_question_toks = symbol_filter([x for x in entry['origin_question_toks'] if x.lower() != 'the'])
-        question_toks = [wordnet_lemmatizer.lemmatize(x.lower()) for x in entry['question_toks'] if x.lower() != 'the']
+        origin_question_toks = symbol_filter([x for x in entry['origin_question_toks'] if x.lower() not in ['','the']])
+        question_toks = [wordnet_lemmatizer.lemmatize(x.lower()) for x in entry['question_toks'] if x.lower() not in ['','the']]
 
         entry['question_toks'] = question_toks
 
@@ -46,9 +47,9 @@ def process_datas(datas, args):
         table_names_pattern = []
 
         for y in entry['table_names']:
-            x = [wordnet_lemmatizer.lemmatize(x.lower()) for x in y.split(' ')]
+            x = [wordnet_lemmatizer.lemmatize(x.lower()) for x in y.split(' ') if x != ""]
             table_names.append(" ".join(x))
-            x = [re_lemma(x.lower()) for x in y.split(' ')]
+            x = [re_lemma(x.lower()) for x in y.split(' ') if x != ""]
             table_names_pattern.append(" ".join(x))
 
         header_toks = []
@@ -204,16 +205,39 @@ if __name__ == '__main__':
     arg_parser.add_argument('--data_path', type=str, help='dataset', required=True)
     arg_parser.add_argument('--table_path', type=str, help='table dataset', required=True)
     arg_parser.add_argument('--output', type=str, help='output data')
+    arg_parser.add_argument('--mode', type=str, choices=["stream", "common"])
     args = arg_parser.parse_args()
-    args.conceptNet = './conceptNet'
+    args.conceptNet = "../data/conceptNet"
 
-    # loading dataSets
-    datas, table = load_dataSets(args)
+    if args.mode == "stream":
+        dir_list = os.listdir(args.data_path)
+        task_num = len([x for x in dir_list if "task" in x])
 
-    # process datasets
-    process_result = process_datas(datas, args)
+        for i in range(task_num):
+            for mode in ["train", "test", "dev", "semi"]:
+                data_path = os.path.join(args.data_path, "task_" + str(i), mode + ".json")
+                table_path = os.path.join(args.data_path, "task_" + str(i), "tables.json")
+                # loading dataSets
+                datas, table = load_datasets(data_path, table_path)
 
-    with open(args.output, 'w') as f:
-        json.dump(datas, f)
+                # process datasets
+                process_result = process_datas(datas, args)
 
+                output = os.path.join(args.data_path, "task_" + str(i), mode + "_tmp.json")
 
+                with open(output, 'w') as f:
+                    json.dump(datas, f)
+    else:
+        for mode in ["train", "test", "dev", "semi"]:
+            data_path = os.path.join(args.data_path, mode + ".json")
+            table_path = os.path.join(args.data_path, "tables.json")
+            # loading dataSets
+            datas, table = load_datasets(data_path, table_path)
+
+            # process datasets
+            process_result = process_datas(datas, args)
+
+            output = os.path.join(args.data_path, mode + "_tmp.json")
+
+            with open(output, 'w') as f:
+                json.dump(datas, f)

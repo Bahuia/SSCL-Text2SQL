@@ -1,23 +1,21 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 # -*- coding: utf-8 -*-
+# !/usr/bin/python
 """
-# @Time    : 2019/5/24
-# @Author  : Jiaqi&Zecheng
-# @File    : sql2SemQL.py
+# @Time    : 2022/8/1
+# @Author  : Xinnan Guo & Yongrui Chen
+# @File    : preprocess/sql2SemQL.py
 # @Software: PyCharm
 """
-
+import os
 import argparse
 import json
 import sys
-
 import copy
-from utils import load_dataSets
-
+import tqdm
 sys.path.append("..")
-from src.rule.semQL import Root1, Root, N, A, C, T, Sel, Sup, Filter, Order
+from preprocess.utils import load_datasets
+from rule.define_rule import Root1, Root, N, A, C, T, Sel, Sup, Filter, Order
+
 
 class Parser:
     def __init__(self):
@@ -97,7 +95,7 @@ class Parser:
             else:
                 question = sql['question']
                 self.sel_result.append(question)
-                print('column * table error')
+                # print('column * table error')
                 return T(sql['sql']['from']['table_units'][0][1])
 
     def _parse_select(self, sql):
@@ -370,22 +368,58 @@ if __name__ == '__main__':
     arg_parser.add_argument('--data_path', type=str, help='dataset', required=True)
     arg_parser.add_argument('--table_path', type=str, help='table dataset', required=True)
     arg_parser.add_argument('--output', type=str, help='output data', required=True)
+    arg_parser.add_argument('--mode', type=str, choices=["stream", "common"])
     args = arg_parser.parse_args()
 
     parser = Parser()
 
-    # loading dataSets
-    datas, table = load_dataSets(args)
-    processed_data = []
+    if args.mode == "stream":
+        dir_list = os.listdir(args.data_path)
+        task_num = len([x for x in dir_list if "task" in x])
+        for t in range(task_num):
+            for mode in ["train", "test", "dev", "semi"]:
+                data_path = os.path.join(args.data_path, "task_" + str(t), mode + "_tmp.json")
+                table_path = os.path.join(args.data_path, "task_" + str(t), "tables.json")
+                # loading dataSets
+                datas, table = load_datasets(data_path, table_path)
 
-    for i, d in enumerate(datas):
-        if len(datas[i]['sql']['select'][1]) > 5:
-            continue
-        r = parser.full_parse(datas[i])
-        datas[i]['rule_label'] = " ".join([str(x) for x in r])
-        processed_data.append(datas[i])
+                processed_data = []
 
-    print('Finished %s datas and failed %s datas' % (len(processed_data), len(datas) - len(processed_data)))
-    with open(args.output, 'w', encoding='utf8') as f:
-        f.write(json.dumps(processed_data))
+                for i, d in enumerate(tqdm.tqdm(datas)):
+                    if len(datas[i]['sql']['select'][1]) > 5:
+                        continue
+                    try:
+                        r = parser.full_parse(datas[i])
+                    except:
+                        continue
+                    datas[i]['rule_label'] = " ".join([str(x) for x in r])
+                    processed_data.append(datas[i])
 
+                output = os.path.join(args.data_path, "task_" + str(t), mode + "_irnet.json")
+
+                # print('Finished %s datas and failed %s datas' % (len(processed_data), len(datas) - len(processed_data)))
+                with open(output, 'w', encoding='utf8') as f:
+                    f.write(json.dumps(processed_data))
+                os.remove(data_path)
+    else:
+        for mode in ["train", "test", "dev", "semi"]:
+            data_path = os.path.join(args.data_path, mode + "_tmp.json")
+            table_path = os.path.join(args.data_path, "tables.json")
+            # loading dataSets
+            datas, table = load_datasets(data_path, table_path)
+
+            processed_data = []
+
+            for i, d in enumerate(tqdm.tqdm(datas)):
+                if len(datas[i]['sql']['select'][1]) > 5:
+                    continue
+                r = parser.full_parse(datas[i])
+                datas[i]['rule_label'] = " ".join([str(x) for x in r])
+                processed_data.append(datas[i])
+
+            output = os.path.join(args.data_path, mode + "_irnet.json")
+
+            # print('Finished %s datas and failed %s datas' % (len(processed_data), len(datas) - len(processed_data)))
+            with open(output, 'w', encoding='utf8') as f:
+                f.write(json.dumps(processed_data))
+            os.remove(data_path)
