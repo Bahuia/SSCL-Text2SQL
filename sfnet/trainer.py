@@ -6,9 +6,10 @@
 # @File    : sfnet/trainer.py
 # @Software: PyCharm
 """
-
+import json
 import math
 import sys
+import copy
 import time
 import torch
 import os
@@ -50,6 +51,9 @@ class SFNet(BasicTrainer):
                 "teacher_epoch": 0
             }
 
+            sql_result_path = os.path.join(self.model_save_path, 'sql_result', f'task_{i}')
+            os.makedirs(sql_result_path, exist_ok=True)
+
             patience = 0
             if i > 0:
                 self.load(self.teacher)
@@ -72,12 +76,29 @@ class SFNet(BasicTrainer):
                                             self.optimizer_teacher)
                 writer.add_scalar(f'task_{i}/teacher_warm_boot/loss', loss, epoch)
 
+                if epoch < self.args.eval_epoch:
+                    continue
+
+                dev_acc, beam_acc, (right, wrong, _), write_data = self.epoch_acc(self.task_controller.task_list[i]["dev"],
+                                                                                  self.teacher)
+                writer.add_scalar(f'task_{i}/teacher_warm_boot/dev_acc', dev_acc, epoch)
+
+                if dev_acc >= best_result['teacher_acc']:
+                    best_result['teacher_acc'], best_result['teacher_epoch'] = dev_acc, epoch
+                    self.save(self.teacher, name="teacher.bin")
+                    patience = 0
+                else:
+                    patience += 1
+
+                if patience > self.args.max_patience:
+                    break
+
             for epoch in tqdm.tqdm(range(self.args.st_epoch_num), desc=f'Task {i} ### teacher self-training', leave=False):
                 cur_teacher_train_examples = list(self.task_controller.task_list[i]["train"])
                 with torch.no_grad():
                     cur_teacher_semi_examples = self.task_controller.get_semi_memory(self.task_controller.task_list[i]["semi"],
                                                                                      int(self.args.st_rate * len(teacher_train_examples)))
-                    cur_teacher_semi_examples = [x for x in self.predict_pseudo_labels(cur_teacher_semi_examples, self.teacher) if x.pseudo_conf]
+                    cur_teacher_semi_examples = [x for x in self.predict_pseudo_labels(cur_teacher_semi_examples, self.teacher) if x.pseudo_conf > 0]
                     cur_teacher_train_examples.extend(cur_teacher_semi_examples)
 
                 if self.args.teacher_cl:
@@ -87,7 +108,8 @@ class SFNet(BasicTrainer):
 
                 loss = self.train_one_epoch(cur_teacher_train_examples,
                                             self.teacher,
-                                            self.optimizer_teacher)
+                                            self.optimizer_teacher,
+                                            use_conf=True)
                 writer.add_scalar(f'task_{i}/teacher_self_training/loss', loss, epoch)
 
                 dev_acc, beam_acc, (right, wrong, _), write_data = self.epoch_acc(self.task_controller.task_list[i]["dev"],
@@ -105,8 +127,8 @@ class SFNet(BasicTrainer):
                     break
 
             with torch.no_grad():
-                self.task_controller.task_list[i]["semi"] = self.predict_pseudo_labels(self.task_controller.task_list[i]["semi"],
-                                                                                       self.teacher)
+                self.task_controller.task_list[i]["semi"] = [x for x in self.predict_pseudo_labels(self.task_controller.task_list[i]["semi"],
+                                                                                                   self.teacher) if x.pseudo_conf > 0]
                 self.task_controller.build_memory(i, self.teacher)
 
             patience = 0
@@ -130,13 +152,15 @@ class SFNet(BasicTrainer):
                 if epoch < self.args.eval_epoch:
                     continue
 
-                dev_acc, beam_acc, (right, wrong, _), write_data = self.epoch_acc(self.task_controller.task_list[i]["dev"],
-                                                                                  self.model)
+                dev_acc, beam_acc, (right_dev, wrong_dev, _), write_data = self.epoch_acc(self.task_controller.task_list[i]["dev"],
+                                                                                          self.model)
                 writer.add_scalar(f'task_{i}/student_emr/dev_acc', dev_acc, epoch)
 
                 if dev_acc >= best_result['acc']:
                     best_result['acc'], best_result['epoch'] = dev_acc, epoch
                     self.save(self.model, name="model.bin")
+                    json.dump(right_dev, open(os.path.join(sql_result_path, 'right_dev.json'), 'w'), indent=2)
+                    json.dump(wrong_dev, open(os.path.join(sql_result_path, 'wrong_dev.json'), 'w'), indent=2)
                     patience = 0
                 else:
                     patience += 1
@@ -145,9 +169,11 @@ class SFNet(BasicTrainer):
                     break
 
             self.load(self.model)
-            test_acc, beam_acc, (right, wrong, _), write_data = self.epoch_acc(self.task_controller.task_list[i]["test"],
-                                                                               self.model)
+            test_acc, beam_acc, (right_test, wrong_test, _), write_data = self.epoch_acc(self.task_controller.task_list[i]["test"],
+                                                                                         self.model)
             writer.add_scalar('student_cl/first_test_acc', test_acc, i)
+            json.dump(right_test, open(os.path.join(sql_result_path, 'right_test.json'), 'w'), indent=2)
+            json.dump(wrong_test, open(os.path.join(sql_result_path, 'wrong_test.json'), 'w'), indent=2)
 
             self.first_acc_list[i] = test_acc
             self.eval_task_stream(i, test_acc)
@@ -162,7 +188,7 @@ class SFNet(BasicTrainer):
 
         return self.avg_acc_list, self.whole_acc_list, self.bwt_list, self.fwt_list
 
-    def train_one_epoch(self, examples, model, optimizer, optimize_step=True):
+    def train_one_epoch(self, examples, model, optimizer, optimize_step=True, use_conf=False):
         model.train()
 
         random.shuffle(examples)
@@ -178,14 +204,8 @@ class SFNet(BasicTrainer):
             report_loss, example_num, loss = self.train_one_batch(examples[st:ed],
                                                                   model,
                                                                   report_loss,
-                                                                  example_num)
-
-            if self.args.ssl_name == "st":
-                conf_tensor = torch.tensor([example.pseudo_conf for example in examples], dtype=torch.long)
-                if self.args.cuda:
-                    conf_tensor = conf_tensor.to(self.device)
-
-                loss *= conf_tensor
+                                                                  example_num,
+                                                                  use_conf=use_conf)
 
             loss.backward()
 
@@ -227,13 +247,18 @@ class SFNet(BasicTrainer):
 
                 if not all_actions:
                     all_actions = [Root1(3)]
-                    conf = 0
+                    conf = 0.0
 
                 sketch_actions = list()
+                flag = False
                 for action in all_actions:
                     if isinstance(action, define_rule.C) or isinstance(action, define_rule.T) or isinstance(action, define_rule.A):
+                        flag = True
                         continue
                     sketch_actions.append(action)
+
+                if not flag:
+                    conf = 0.0
 
                 parent_actions = list()
                 parent_actions_idx = list()

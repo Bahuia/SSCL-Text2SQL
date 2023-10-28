@@ -111,7 +111,14 @@ def load_dataset_new_for_cl(sql_path, table_data):
     for tab in table_data:
         schemas[tab['db_id']] = tab
 
-    return to_examples(sql_data_new, table_data_new, schemas)
+    if "spider" in sql_path:
+        dataset_name = "spider"
+    elif "wikisql" in sql_path:
+        dataset_name = "wikisql"
+    else:
+        raise NotImplementedError(f"No such dataset: {sql_path}")
+
+    return to_examples(dataset_name, sql_data_new, table_data_new, schemas)
 
 def load_sscl_task_stream(task_path, task_num=10, calc_metric_vec=False):
     task_list = []
@@ -288,7 +295,7 @@ def process(sql_data, table_data):
         output_sql.append(sql_temp)
     return output_sql, output_tab
 
-def to_examples(sql_data, table_data, schemas):
+def to_examples(dataset_name, sql_data, table_data, schemas):
     """
     :param sql_data:
     :param table_data:
@@ -333,55 +340,57 @@ def to_examples(sql_data, table_data, schemas):
         question_arg_type = sql['question_arg_type']
         one_hot_type = np.zeros((len(question_arg_type), 6))
 
-        another_result = []
-        for count_q, t_q in enumerate(question_arg_type):
-            t = t_q[0]
-            if t == 'NONE':
-                continue
-            elif t == 'table':
-                one_hot_type[count_q][0] = 1
-                question_arg[count_q] = ['table'] + question_arg[count_q]
-            elif t == 'col':
-                one_hot_type[count_q][1] = 1
-                try:
-                    col_set_type[col_set_iter.index(question_arg[count_q])][1] = 5
-                    question_arg[count_q] = ['column'] + question_arg[count_q]
+        if dataset_name == "spider":
 
-                except:
-                    # print(col_set_iter, question_arg[count_q])
-                    # raise RuntimeError("not in col set")
-                    question_arg[count_q] = "NONE"
+            another_result = []
+            for count_q, t_q in enumerate(question_arg_type):
+                t = t_q[0]
+                if t == 'NONE':
+                    continue
+                elif t == 'table':
+                    one_hot_type[count_q][0] = 1
+                    question_arg[count_q] = ['table'] + question_arg[count_q]
+                elif t == 'col':
+                    one_hot_type[count_q][1] = 1
+                    try:
+                        col_set_type[col_set_iter.index(question_arg[count_q])][1] = 5
+                        question_arg[count_q] = ['column'] + question_arg[count_q]
 
-            elif t == 'agg':
-                one_hot_type[count_q][2] = 1
-            elif t == 'MORE':
-                one_hot_type[count_q][3] = 1
+                    except:
+                        # print(col_set_iter, question_arg[count_q])
+                        # raise RuntimeError("not in col set")
+                        question_arg[count_q] = "NONE"
 
-            elif t == 'MOST':
-                one_hot_type[count_q][4] = 1
+                elif t == 'agg':
+                    one_hot_type[count_q][2] = 1
+                elif t == 'MORE':
+                    one_hot_type[count_q][3] = 1
 
-            elif t == 'value':
-                one_hot_type[count_q][5] = 1
-                question_arg[count_q] = ['value'] + question_arg[count_q]
-            else:
-                if len(t_q) == 1:
-                    for col_probase in t_q:
-                        if col_probase == 'asd':
-                            continue
-                        try:
-                            col_set_type[sql['col_set'].index(col_probase)][2] = 5
-                            question_arg[count_q] = ['value'] + question_arg[count_q]
+                elif t == 'MOST':
+                    one_hot_type[count_q][4] = 1
 
-                        except:
-                            print(sql['col_set'], col_probase)
-                            raise RuntimeError('not in col')
-                        one_hot_type[count_q][5] = 1
-                        another_result.append(sql['col_set'].index(col_probase))
+                elif t == 'value':
+                    one_hot_type[count_q][5] = 1
+                    question_arg[count_q] = ['value'] + question_arg[count_q]
                 else:
-                    for col_probase in t_q:
-                        if col_probase == 'asd':
-                            continue
-                        col_set_type[sql['col_set'].index(col_probase)][3] += 1
+                    if len(t_q) == 1:
+                        for col_probase in t_q:
+                            if col_probase == 'asd':
+                                continue
+                            try:
+                                col_set_type[sql['col_set'].index(col_probase)][2] = 5
+                                question_arg[count_q] = ['value'] + question_arg[count_q]
+
+                            except:
+                                print(sql['col_set'], col_probase)
+                                raise RuntimeError('not in col')
+                            one_hot_type[count_q][5] = 1
+                            another_result.append(sql['col_set'].index(col_probase))
+                    else:
+                        for col_probase in t_q:
+                            if col_probase == 'asd':
+                                continue
+                            col_set_type[sql['col_set'].index(col_probase)][3] += 1
 
         col_iter = [[wordnet_lemmatizer.lemmatize(v).lower() for v in x.split(" ")] for x in tab_cols]
 

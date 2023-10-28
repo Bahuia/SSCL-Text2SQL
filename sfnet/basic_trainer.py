@@ -23,7 +23,9 @@ from sfnet.utils import save_args, calc_beam_acc
 class BasicTrainer(object):
     def __init__(self, args, model_save_path):
         self.args = args
-        self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+        # self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.device = torch.device("cuda")
+
         self.grammar = define_rule.Grammar(is_sketch=None)
 
         self.model = IRNet(args, self.grammar).to(self.device)
@@ -62,10 +64,17 @@ class BasicTrainer(object):
     def load(self, model, name="model.bin"):
         model.load_state_dict(torch.load(open(os.path.join(self.model_save_path, name), "rb"), map_location=self.device)["model"])
 
-    def train_one_batch(self, examples, model, report_loss, example_num):
+    def train_one_batch(self, examples, model, report_loss, example_num, use_conf=False):
         score = model.forward(examples)
         loss_sketch = -score[0]
         loss_lf = -score[1]
+
+        if use_conf:
+            conf_tensor = torch.tensor([example.pseudo_conf for example in examples], dtype=torch.long)
+            if self.args.cuda:
+                conf_tensor = conf_tensor.to(self.device)
+            loss_sketch *= conf_tensor
+            loss_lf *= conf_tensor
 
         _loss = torch.sum(loss_sketch).data.item() + torch.sum(loss_lf).data.item()
 

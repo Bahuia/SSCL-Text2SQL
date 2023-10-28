@@ -54,8 +54,6 @@ def init_arg_parser():
 
     arg_parser.add_argument('--max_seq_length', type=int, default=300)
     arg_parser.add_argument('--warm_boot_epoch', type=int, default=15)
-    arg_parser.add_argument('--student_ssl', action="store_true")
-    arg_parser.add_argument('--teacher_ssl', action="store_true")
     arg_parser.add_argument('--student_cl', action="store_true")
     arg_parser.add_argument('--teacher_cl', action="store_true")
     arg_parser.add_argument('--agent', type=str, default="naive")
@@ -63,9 +61,6 @@ def init_arg_parser():
     arg_parser.add_argument('--k_mediod_max_epoch', type=int, default=20)
     arg_parser.add_argument('--st_epoch_num', type=int, default=10)
     arg_parser.add_argument('--st_rate', type=float, default=0.3)
-    arg_parser.add_argument('--thread_num', type=int, default=6)
-    arg_parser.add_argument('--cl_name', type=str, default="none")
-    arg_parser.add_argument('--ssl_name', type=str, default="none")
     arg_parser.add_argument('--student_sampling_name', type=str, default="none")
     arg_parser.add_argument('--teacher_sampling_name', type=str, default="none")
     arg_parser.add_argument('--without_student_sql', action="store_true")

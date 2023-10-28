@@ -9,7 +9,7 @@
 import torch
 import regex
 import random
-import quadprog
+# import quadprog
 import numpy as np
 from torch.distributions import Categorical
 from sklearn.cluster import KMeans, SpectralClustering

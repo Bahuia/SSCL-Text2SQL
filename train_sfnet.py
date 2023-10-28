@@ -10,6 +10,9 @@ import os
 import datetime
 import csv
 import sys
+
+import torch.cuda
+
 sys.path.append("..")
 from sfnet.trainer import SFNet
 from sfnet.args import init_arg_parser
@@ -38,7 +41,13 @@ def run_training():
     model_save_path, dir_name = init_log_checkpoint_path()
     print("Current training data will be saved in: {}".format(model_save_path))
 
+    print("#########################################################")
+    for k in list(vars(args).keys()):
+        print('%s: %s' % (k, vars(args)[k]))
+    print("#########################################################\n")
+
     print("Init trainer ...")
+    print(f"GPU Available: {torch.cuda.is_available()}")
     trainer = SFNet(args, model_save_path)
 
     avg_acc_list, whole_acc_list, bwt_list, fwt_list = trainer.train_with_teacher()
