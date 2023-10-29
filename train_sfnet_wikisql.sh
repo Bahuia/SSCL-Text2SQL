@@ -4,7 +4,7 @@ python -u train_sfnet.py \
 --task_path ./data/wikisql_task_stream/task_{}/{} \
 --plm_model Salesforce/grappa_large_jnt \
 --task_num 10 \
---seed 17 \
+--seed 19 \
 --cuda \
 --device 0 \
 --batch_size 16 \
